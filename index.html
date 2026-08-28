@@ -1,0 +1,195 @@
+<!doctype html><html lang=de><head><meta charset=utf-8>
+<meta name=viewport content="width=device-width, initial-scale=1">
+<meta http-equiv=refresh content=900>
+<meta name="robots" content="noindex, nofollow">
+<meta name="description" content="Privates Karriere-Dashboard.">
+<title>Astro Career Scout</title>
+<style>
+ :root{color-scheme:dark}
+ *{box-sizing:border-box}
+ body{font-family:system-ui,-apple-system,Segoe UI,sans-serif;margin:0;background:#0f1115;color:#e6e6e6}
+ header{padding:14px 20px;background:#171a21;border-bottom:1px solid #262b36;position:sticky;top:0;z-index:6}
+ h1{font-size:18px;margin:0;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+ a{color:#5ec8f0;text-decoration:none} a:hover{text-decoration:underline}
+ .meta{color:#8b93a7;font-size:12px;margin-top:5px}
+ .goal{color:#7f8aa3;font-size:11.5px;margin-top:3px}
+ .panels{padding:12px 20px 0;display:grid;gap:10px;grid-template-columns:1fr 1fr}
+ @media(max-width:720px){.panels{grid-template-columns:1fr}}
+ .panel{background:#141b26;border:1px solid #26303f;border-left:3px solid #3b6ea5;border-radius:10px;padding:10px 13px;font-size:12.5px;line-height:1.5}
+ .panel.port{border-left-color:#8b5cf6}
+ .panel b{color:#eaf0fb}
+ .panel .chip{display:inline-block;background:#1e2733;border:1px solid #2b3646;border-radius:6px;padding:1px 7px;margin:2px 4px 0 0;color:#c7d2e0;font-size:11.5px}
+ .controls{display:flex;gap:9px;flex-wrap:wrap;align-items:center;padding:12px 20px;background:#12151b;border-bottom:1px solid #262b36;position:sticky;top:59px;z-index:5}
+ .controls input,.controls select{background:#1b2029;color:#e6e6e6;border:1px solid #2b3140;border-radius:8px;padding:7px 10px;font-size:13px}
+ .muted{color:#8b93a7;font-size:12px}
+ .list{padding:16px 20px;display:grid;grid-template-columns:repeat(auto-fill,minmax(345px,1fr));gap:14px}
+ .card{background:#171a21;border:1px solid #262b36;border-radius:12px;padding:14px;display:flex;flex-direction:column;gap:7px}
+ .card.new{border-color:#2b5e3a;box-shadow:0 0 0 1px #1c8f4522}
+ .card.must{border-left:4px solid #22c55e}
+ .top{display:flex;align-items:flex-start;justify-content:space-between;gap:10px}
+ .badge{font-weight:700;padding:3px 9px;border-radius:999px;font-size:13px;color:#fff;flex:0 0 auto}
+ .title{font-size:16px;font-weight:700;line-height:1.25}
+ .emp{color:#c3ccdd;font-size:13px}
+ .tier{font-size:11px;font-weight:700;border-radius:6px;padding:2px 7px;margin-bottom:2px;display:inline-block}
+ .tier.must{background:#14532d;color:#a7f3c2} .tier.int{background:#5a4a12;color:#fde68a} .tier.back{background:#333b48;color:#c3ccdd}
+ .status{font-size:11px;font-weight:700;border-radius:6px;padding:2px 8px;display:inline-block;margin-bottom:3px}
+ .status.st-ver{background:#0f3d24;color:#7ee0af;border:1px solid #1c8f45}
+ .status.st-prog{background:#0f2f47;color:#8fd0ff;border:1px solid #2b6ea5}
+ .status.st-init{background:#3a2a12;color:#ffcf8a;border:1px solid #7a5a1a}
+ .status.st-src{background:#2a2f3a;color:#aab6c8;border:1px solid #3a4556}
+ .tag{display:inline-block;background:#23314a;color:#9cc4ff;border-radius:6px;padding:1px 8px;font-size:11px;margin:2px 4px 0 0}
+ .tag.reg{background:#2a2440;color:#c3aaff}
+ .tag.new{background:#1c8f45;color:#fff}
+ .tag.pay{background:#14352a;color:#7ee0af}
+ .tag.dl{background:#3a1f24;color:#ffb3bd}
+ .tag.init{background:#3a2a12;color:#ffcf8a}
+ .why{font-size:13.5px;color:#d7dceb;line-height:1.4}
+ .skills{font-size:11.5px;color:#8b93a7}
+ .btns{display:flex;gap:8px;margin-top:4px}
+ .btn{flex:1;text-align:center;background:#2563eb;color:#fff;border-radius:8px;padding:8px;font-size:13px}
+ .empty{padding:44px;text-align:center;color:#8b93a7;grid-column:1/-1;line-height:1.6}
+</style></head><body>
+<header>
+ <h1>🔭 Astro Career Scout <span class=muted style="font-weight:400">Astronomie · Space · Informatik</span></h1>
+ <div class=meta id=meta>lädt …</div>
+ <div class=goal>Ziel: in ~1 Jahr Zulassung Uni Norwegen · danach (Master bevorzugt Norwegen) Arbeit in Norwegen</div>
+</header>
+<div class=panels id=panels></div>
+<div class=controls>
+ <input id=q placeholder="Suche: Arbeitgeber / Titel / Ort / Skill …" style="flex:1;min-width:170px">
+ <select id=cat>
+   <option value=all>Alle Kategorien</option>
+   <option value=Karriere>🔭 Astro/Space-Karriere</option>
+   <option value=Ferienjob>💶 Ferienjob (gut bezahlt)</option>
+ </select>
+ <select id=region>
+   <option value=all>Alle Regionen</option>
+   <option value="Norwegen / Remote">🇳🇴 Norwegen / Remote</option>
+   <option value="Deutschland">🇩🇪 Deutschland</option>
+   <option value="Weitere">Weitere</option>
+ </select>
+ <select id=type>
+   <option value=all>Alle Arten</option>
+   <option value=Werkstudent>Werkstudent</option>
+   <option value=HiWi>HiWi</option>
+   <option value=Praktikum>Praktikum</option>
+   <option value=Nebenjob>Nebenjob</option>
+   <option value=Vollzeit>Vollzeit</option>
+   <option value=Remote>Remote</option>
+   <option value=Ferienjob>Ferienjob</option>
+   <option value="Open Source">Open Source</option>
+ </select>
+ <select id=status>
+   <option value=all>Alle Status</option>
+   <option value=verified>🟢 Geprüfte Ausschreibung</option>
+   <option value=program>📋 Programm</option>
+   <option value=initiative>✍️ Initiativbewerbung</option>
+   <option value=source>🔎 Karriereseite</option>
+ </select>
+ <select id=tier>
+   <option value=all>Alle Prioritäten</option>
+   <option value=must_apply>🟢 Top-Priorität</option>
+   <option value=interesting>🟡 Interessant</option>
+   <option value=backup>⚪ Backup</option>
+ </select>
+ <label class=muted>min&nbsp;Score <input id=minscore type=number value=0 min=0 max=80 style="width:60px"></label>
+ <select id=sort>
+   <option value=score>Sortierung: Score</option>
+   <option value=last_seen>Neueste zuerst</option>
+   <option value=employer>Arbeitgeber A–Z</option>
+ </select>
+ <label class=muted><input type=checkbox id=onlynew> nur neue</label>
+</div>
+<div class=list id=list></div>
+<script>
+const L=(k,d)=>{try{const v=JSON.parse(localStorage.getItem('jh_'+k));return v==null?d:v}catch(e){return d}};
+const SV=(k,v)=>{try{localStorage.setItem('jh_'+k,JSON.stringify(v))}catch(e){}};
+const $=id=>document.getElementById(id);
+const q=$('q'),cat=$('cat'),region=$('region'),typ=$('type'),status=$('status'),tier=$('tier'),ms=$('minscore'),so=$('sort'),onlynew=$('onlynew');
+q.value=L('q','');cat.value=L('cat','all');region.value=L('region','all');typ.value=L('type','all');
+status.value=L('status','all');tier.value=L('tier','all');ms.value=L('minscore',0);so.value=L('sort','score');onlynew.checked=L('onlynew',false);
+let ALL=[];
+function esc(s){return (''+(s==null?'':s)).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+function tierOf(d){if(d.tier)return d.tier;const s=+d.score||0;return s>=55?'must_apply':s>=40?'interesting':'backup';}
+function tierMeta(t){return t==='must_apply'?['🟢 Top-Priorität','must']:t==='interesting'?['🟡 Interessant','int']:['⚪ Backup','back'];}
+function statusOf(d){if(d.status)return d.status;return d.init_application?'initiative':'source';}
+function statusMeta(s){return s==='verified'?['🟢 Geprüfte Ausschreibung','st-ver','Zur Ausschreibung →']
+  :s==='program'?['📋 Programm – Bewerbungsfenster prüfen','st-prog','Zum Programm →']
+  :s==='initiative'?['✍️ Initiativbewerbung (keine offene Stelle)','st-init','Kontakt / Karriereseite →']
+  :['🔎 Karriereseite – bitte selbst nach aktueller Ausschreibung schauen','st-src','Karriereseite öffnen →'];}
+function label(s){s=+s||0;if(s>=55)return['🔥','#166534'];if(s>=40)return['✅','#92700d'];if(s>=25)return['👀','#3a4a63'];return['⏭️','#374151'];}
+function render(){
+ let x=[...ALL];
+ if(cat.value!=='all')x=x.filter(d=>(d.category||'Karriere')===cat.value);
+ if(region.value!=='all')x=x.filter(d=>(d.region||'Weitere')===region.value);
+ if(typ.value!=='all')x=x.filter(d=>(''+(d.type||'')).toLowerCase().includes(typ.value.toLowerCase()));
+ if(status.value!=='all')x=x.filter(d=>statusOf(d)===status.value);
+ if(tier.value!=='all')x=x.filter(d=>tierOf(d)===tier.value);
+ const qq=q.value.toLowerCase().trim();
+ if(qq)x=x.filter(d=>(`${d.title||''} ${d.employer||''} ${d.location||''} ${d.why||''} ${(d.skills||[]).join(' ')}`).toLowerCase().includes(qq));
+ const mn=+ms.value||0;x=x.filter(d=>(+d.score||0)>=mn);
+ if(onlynew.checked)x=x.filter(d=>d.is_new);
+ const k=so.value;
+ x.sort((a,b)=> k==='last_seen' ? (''+(b.last_seen||'')).localeCompare(''+(a.last_seen||''))
+              : k==='employer' ? (''+(a.employer||'')).localeCompare(''+(b.employer||''))
+              : ((+b.score||0)-(+a.score||0)));
+ const el=$('list');
+ if(!x.length){el.innerHTML='<div class=empty>Keine passenden Treffer für diese Filter.<br>Der Scout sammelt Mo &amp; Do automatisch — neue Chancen erscheinen dann hier.</div>';return;}
+ el.innerHTML=x.map(d=>{
+  const lb=label(d.score);const t=tierOf(d);const tm=tierMeta(t);
+  const st=statusOf(d);const sm=statusMeta(st);
+  const tags=[];
+  if(d.region)tags.push(`<span class="tag reg">${esc(d.region)}</span>`);
+  if(d.type)tags.push(`<span class=tag>${esc(d.type)}</span>`);
+  if(d.location)tags.push(`<span class=tag>📍 ${esc(d.location)}</span>`);
+  if(d.pay)tags.push(`<span class="tag pay">💶 ${esc(d.pay)}</span>`);
+  if(d.deadline)tags.push(`<span class="tag dl">⏳ ${esc(d.deadline)}</span>`);
+  if(d.is_new)tags.push(`<span class="tag new">NEU</span>`);
+  const skills=(d.skills&&d.skills.length)?`<div class=skills>Skills: ${d.skills.map(esc).join(' · ')}</div>`:'';
+  const seen=d.last_seen?`zuletzt geprüft ${esc((''+d.last_seen).slice(0,10))}`:'';
+  return `<div class="card${d.is_new?' new':''}${t==='must_apply'?' must':''}">
+    <div class="status ${sm[1]}">${sm[0]}</div>
+    <div class=top>
+      <div>
+        <div class="tier ${tm[1]}">${tm[0]}</div>
+        <div class=title>${esc(d.title||'(ohne Titel)')}</div>
+        <div class=emp>${esc(d.employer||'')}</div>
+      </div>
+      <span class=badge style="background:${lb[1]}">${lb[0]} ${esc(d.score!=null?d.score:'?')}</span>
+    </div>
+    <div>${tags.join('')}</div>
+    <div class=why>${esc(d.why||'')}</div>
+    ${skills}
+    <div class=muted>${seen}</div>
+    <div class=btns>${d.url?`<a class=btn href="${esc(d.url)}" target=_blank rel=noopener>${sm[2]}</a>`:''}</div>
+  </div>`;}).join('');
+}
+function panels(j){
+ const p=$('panels');let h='';
+ const sg=j.skill_gap||[];
+ if(sg.length){
+   const chips=sg.map(s=>{const t=typeof s==='string'?s:(s.count!=null?`${s.skill} (${s.count}${s.of?'/'+s.of:''})`:s.skill);return `<span class=chip>${esc(t)}</span>`;}).join('');
+   h+=`<div class=panel><b>🧭 Skill-Gap — am häufigsten gefordert:</b><br>${chips}</div>`;
+ }
+ const pt=j.portfolio_tips||[];
+ if(pt.length){
+   h+=`<div class="panel port"><b>🚀 Portfolio-Idee der Woche:</b><br>${pt.map(esc).join('<br>')}</div>`;
+ }
+ p.innerHTML=h;
+}
+[q,cat,region,typ,status,tier,ms,so,onlynew].forEach(e=>['input','change'].forEach(ev=>e.addEventListener(ev,()=>{
+  SV('q',q.value);SV('cat',cat.value);SV('region',region.value);SV('type',typ.value);SV('status',status.value);SV('tier',tier.value);
+  SV('minscore',+ms.value||0);SV('sort',so.value);SV('onlynew',onlynew.checked);render();})));
+fetch('results.json?t='+Date.now()).then(r=>r.json()).then(j=>{
+  ALL=j.jobs||[];
+  panels(j);
+  const nw=ALL.filter(d=>d.is_new).length;
+  const must=ALL.filter(d=>tierOf(d)==='must_apply').length;
+  const upd=(j.updated||'').replace('T',' ').slice(0,16)||'—';
+  $('meta').innerHTML=`${ALL.length} Chancen${must?` · <b style="color:#22c55e">${must} 🟢 Must-Apply</b>`:''}${nw?` · <b style="color:#43d17a">${nw} neu</b>`:''} · Stand ${esc(upd)}`
+     + (j.phase?` · <span class=muted>${esc(j.phase)}</span>`:'')
+     + (j.summary?`<br><span style="color:#c7d2e0">💡 ${esc(j.summary)}</span>`:'');
+  render();
+}).catch(e=>{$('list').innerHTML='<div class=empty>Fehler beim Laden: '+e+'</div>';});
+</script><footer style="text-align:center;color:#8b93a7;font-size:12px;padding:26px 20px 34px;border-top:1px solid #262b36;margin-top:20px">Privates Karriere-Dashboard · arndt-software.de · <a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a></footer>
+</body></html>
