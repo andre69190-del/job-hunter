@@ -152,3 +152,33 @@ Benutzer/Passwort setzen. Dann muss der Student das Passwort einmal eingeben.
 | Coolify: `repository not found` | Repo ist Private | Auf GitHub unter *Settings → Danger Zone* auf Public stellen |
 | Seite zeigt alte Daten | Browser-Cache | Strg + F5 |
 | Seite lädt, aber keine Karten | `results.json` fehlt im Repo | Prüfen, ob die Datei auf GitHub liegt; sonst `publish.bat` |
+
+---
+
+## Stand 28./29.08.2026 – was jetzt eingerichtet ist
+
+- **Live:** https://jobs.arndt-software.de (Coolify, Build Pack Static, Repo `andre69190-del/job-hunter`)
+- **Geschützt mit Cloudflare Access.** Anmeldung per E-Mail-Einmalcode. Zugelassen sind:
+  `Oliver.arndt3@gmail.com`, `andre69190@googlemail.com`, `Andre.arndt69190@gmail.com`.
+  Sitzungsdauer 30 Tage. Änderung der Liste: Cloudflare → Zero Trust →
+  Zugriffssteuerungen → Anwendungen → `jobs` → Richtlinie „Andre und Oliver".
+- **DNS:** Eigener A-Eintrag `jobs` → 159.195.159.150, **proxied** (orange Wolke).
+  Die anderen Subdomains bleiben bewusst „Nur DNS".
+- **Anmeldemethoden:** „One-time PIN" wurde als Identitätsanbieter ergänzt – ohne ihn
+  gäbe es nur „Sign in with Cloudflare", was ein Cloudflare-Konto voraussetzt.
+- **Scout:** geplante Aufgabe Mo + Do 23:00, schreibt `..\results.json`.
+  Muss in der Claude-App an den Rechner gebunden werden, sonst läuft sie ins Leere.
+
+### Noch offen: Webhook für Auto-Deploy
+
+GitHub verlangte beim Anlegen eine Identitätsbestätigung per E-Mail (sudo mode),
+deshalb ist der Webhook noch nicht eingerichtet. Selbst nachholen:
+
+1. Coolify → Anwendung `job-hunter` → **Webhooks**: URL
+   `https://coolify.arndt-software.de/webhooks/source/github/events/manual`
+   und das **GitHub Webhook Secret** (Augensymbol zum Anzeigen) kopieren.
+2. GitHub → Repo → **Settings → Webhooks → Add webhook**:
+   Payload URL einfügen, Content type `application/json`, Secret einfügen,
+   *Just the push event*, **Add webhook**.
+
+Bis dahin gilt: nach `publish.bat` einmal in Coolify auf **Redeploy** klicken.
