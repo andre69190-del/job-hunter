@@ -22,6 +22,15 @@
  .panel .chip{display:inline-block;background:#1e2733;border:1px solid #2b3646;border-radius:6px;padding:1px 7px;margin:2px 4px 0 0;color:#c7d2e0;font-size:11.5px}
  .controls{display:flex;gap:9px;flex-wrap:wrap;align-items:center;padding:12px 20px;background:#12151b;border-bottom:1px solid #262b36;position:sticky;top:59px;z-index:5}
  .controls input,.controls select{background:#1b2029;color:#e6e6e6;border:1px solid #2b3140;border-radius:8px;padding:7px 10px;font-size:13px}
+ .multi{position:relative;display:inline-block}
+ .multibtn{background:#1b2029;color:#e6e6e6;border:1px solid #2b3140;border-radius:8px;padding:7px 10px;font-size:13px;cursor:pointer;font-family:inherit}
+ .multibtn:hover{border-color:#3a4255}
+ .multibtn.on{border-color:#4f8cff;color:#bcd6ff}
+ .multimenu{position:absolute;top:calc(100% + 5px);left:0;z-index:30;background:#161b24;border:1px solid #2b3140;border-radius:10px;padding:8px;min-width:200px;box-shadow:0 12px 28px rgba(0,0,0,.55)}
+ .multimenu label{display:flex;align-items:center;gap:8px;padding:5px 7px;border-radius:6px;font-size:13px;cursor:pointer;white-space:nowrap;color:#e6e6e6}
+ .multimenu label:hover{background:#1e2531}
+ .multiclear{width:100%;margin-top:7px;background:#232a36;color:#c3ccdd;border:1px solid #2b3140;border-radius:7px;padding:6px;font-size:12px;cursor:pointer;font-family:inherit}
+ .multiclear:hover{background:#2a3340}
  .muted{color:#8b93a7;font-size:12px}
  .list{padding:16px 20px;display:grid;grid-template-columns:repeat(auto-fill,minmax(345px,1fr));gap:14px}
  .card{background:#171a21;border:1px solid #262b36;border-radius:12px;padding:14px;display:flex;flex-direction:column;gap:7px}
@@ -69,17 +78,24 @@
    <option value="Deutschland">🇩🇪 Deutschland</option>
    <option value="Weitere">Weitere</option>
  </select>
- <select id=type>
-   <option value=all>Alle Arten</option>
-   <option value=Werkstudent>Werkstudent</option>
-   <option value=HiWi>HiWi</option>
-   <option value=Praktikum>Praktikum</option>
-   <option value=Nebenjob>Nebenjob</option>
-   <option value=Vollzeit>Vollzeit</option>
-   <option value=Remote>Remote</option>
-   <option value=Ferienjob>Ferienjob</option>
-   <option value="Open Source">Open Source</option>
- </select>
+ <div class=multi>
+   <button type=button id=typebtn class=multibtn>Alle Arten &#9662;</button>
+   <div id=typemenu class=multimenu hidden>
+     <label><input type=checkbox value="Werkstudent"> Werkstudent</label>
+     <label><input type=checkbox value="HiWi"> HiWi</label>
+     <label><input type=checkbox value="Praktikum"> Praktikum</label>
+     <label><input type=checkbox value="Nebenjob"> Nebenjob</label>
+     <label><input type=checkbox value="Vollzeit"> Vollzeit</label>
+     <label><input type=checkbox value="Remote"> Remote</label>
+     <label><input type=checkbox value="Ferienjob"> Ferienjob</label>
+     <label><input type=checkbox value="Open Source"> Open Source</label>
+     <label><input type=checkbox value="Sommerjob"> Sommerjob</label>
+     <label><input type=checkbox value="Studium"> Studium</label>
+     <label><input type=checkbox value="Thesis"> Thesis</label>
+     <label><input type=checkbox value="Traineeship"> Traineeship</label>
+     <button type=button id=typeclear class=multiclear>Auswahl zurücksetzen</button>
+   </div>
+  </div>
  <select id=status>
    <option value=all>Alle Status</option>
    <option value=verified>🟢 Geprüfte Ausschreibung</option>
@@ -106,8 +122,10 @@
 const L=(k,d)=>{try{const v=JSON.parse(localStorage.getItem('jh_'+k));return v==null?d:v}catch(e){return d}};
 const SV=(k,v)=>{try{localStorage.setItem('jh_'+k,JSON.stringify(v))}catch(e){}};
 const $=id=>document.getElementById(id);
-const q=$('q'),cat=$('cat'),region=$('region'),typ=$('type'),status=$('status'),tier=$('tier'),ms=$('minscore'),so=$('sort'),onlynew=$('onlynew');
-q.value=L('q','');cat.value=L('cat','all');region.value=L('region','all');typ.value=L('type','all');
+const q=$('q'),cat=$('cat'),region=$('region'),status=$('status'),tier=$('tier'),ms=$('minscore'),so=$('sort'),onlynew=$('onlynew');
+const typeBtn=$('typebtn'),typeMenu=$('typemenu');
+let typeSel=(function(){const v=L('types',null);if(Array.isArray(v))return v;const o=L('type','all');return(o&&o!=='all')?[o]:[];})();
+q.value=L('q','');cat.value=L('cat','all');region.value=L('region','all');
 status.value=L('status','all');tier.value=L('tier','all');ms.value=L('minscore',0);so.value=L('sort','score');onlynew.checked=L('onlynew',false);
 let ALL=[];
 function esc(s){return (''+(s==null?'':s)).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
@@ -123,7 +141,7 @@ function render(){
  let x=[...ALL];
  if(cat.value!=='all')x=x.filter(d=>(d.category||'Karriere')===cat.value);
  if(region.value!=='all')x=x.filter(d=>(d.region||'Weitere')===region.value);
- if(typ.value!=='all')x=x.filter(d=>(''+(d.type||'')).toLowerCase().includes(typ.value.toLowerCase()));
+ if(typeSel.length)x=x.filter(d=>{const t=(''+(d.type||'')).toLowerCase();return typeSel.some(v=>t.includes(v.toLowerCase()))});
  if(status.value!=='all')x=x.filter(d=>statusOf(d)===status.value);
  if(tier.value!=='all')x=x.filter(d=>tierOf(d)===tier.value);
  const qq=q.value.toLowerCase().trim();
@@ -178,9 +196,30 @@ function panels(j){
  }
  p.innerHTML=h;
 }
-[q,cat,region,typ,status,tier,ms,so,onlynew].forEach(e=>['input','change'].forEach(ev=>e.addEventListener(ev,()=>{
-  SV('q',q.value);SV('cat',cat.value);SV('region',region.value);SV('type',typ.value);SV('status',status.value);SV('tier',tier.value);
+[q,cat,region,status,tier,ms,so,onlynew].forEach(e=>['input','change'].forEach(ev=>e.addEventListener(ev,()=>{
+  SV('q',q.value);SV('cat',cat.value);SV('region',region.value);SV('status',status.value);SV('tier',tier.value);
   SV('minscore',+ms.value||0);SV('sort',so.value);SV('onlynew',onlynew.checked);render();})));
+
+function typeLabel(){
+  typeBtn.textContent=(typeSel.length===0?'Alle Arten':(typeSel.length===1?typeSel[0]:typeSel.length+' Arten'))+' \u25BE';
+  typeBtn.classList.toggle('on',typeSel.length>0);
+}
+typeMenu.querySelectorAll('input[type=checkbox]').forEach(cb=>{
+  cb.checked=typeSel.indexOf(cb.value)>=0;
+  cb.addEventListener('change',()=>{
+    typeSel=[...typeMenu.querySelectorAll('input[type=checkbox]')].filter(c=>c.checked).map(c=>c.value);
+    SV('types',typeSel);typeLabel();render();
+  });
+});
+typeBtn.addEventListener('click',e=>{e.stopPropagation();typeMenu.hidden=!typeMenu.hidden;});
+typeMenu.addEventListener('click',e=>e.stopPropagation());
+document.addEventListener('click',()=>{typeMenu.hidden=true;});
+document.addEventListener('keydown',e=>{if(e.key==='Escape')typeMenu.hidden=true;});
+$('typeclear').addEventListener('click',()=>{
+  typeSel=[];typeMenu.querySelectorAll('input[type=checkbox]').forEach(c=>c.checked=false);
+  SV('types',[]);typeLabel();render();
+});
+typeLabel();
 fetch('results.json?t='+Date.now()).then(r=>r.json()).then(j=>{
   ALL=j.jobs||[];
   panels(j);
