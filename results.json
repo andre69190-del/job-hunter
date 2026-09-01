@@ -1,53 +1,53 @@
 {
- "updated": "2026-08-28T17:26",
+ "updated": "2026-09-01T14:54",
  "phase": "Phase 1 – neben dem Studium (Werkstudent / HiWi / Remote bevorzugt)",
- "summary": "Scout-Lauf vom 28.08.2026, erster seit dem 29.07. — der geplante Task war verschwunden und wurde neu aufgesetzt. Ehrlicher Status pro Eintrag: 🟢 geprüfte Ausschreibung · 📋 Programm (Bewerbungsfenster prüfen) · ✍️ Initiativbewerbung · 🔎 Karriereseite (selbst prüfen). Nur fünf Einträge ließen sich als aktuell offen bestätigen; viele Astro-Stellen werden informell über Arbeitsgruppen vergeben oder laden per JavaScript nach. Das Zeitfenster ist jetzt entscheidend: ESA-Praktika öffnen im November, MPIA im Dezember (Frist Januar 2027), Kongsberg bis Ende Februar, und die Master-Bewerbung in Norwegen läuft vom 1. Februar bis 1. März 2027. Wichtigster nächster Schritt: Empfehlungsschreiben für MPIA anfragen und den ersten SunPy-Pull-Request angehen.",
+ "summary": "Lauf vom 01.09.2026 — Schwerpunkt Heimatregion. Neu hinzugekommen sind Mannheim, Karlsruhe und die Orte dazwischen. Ehrlicher Status pro Eintrag: 🟢 geprüfte Ausschreibung · 📋 Programm (Bewerbungsfenster prüfen) · ✍️ Initiativbewerbung · 🔎 Karriereseite (selbst prüfen). Sofort bewerbbar sind die FZI-HiWi-Stelle für ein LLM-ChatBot-System in Karlsruhe, die Werkstudentenstelle bei inovex, der Working Student bei IONOS sowie die Nachhilfe beim Studentenring Mannheim mit 15–21 €/Stunde. Die Norwegen- und Open-Source-Einträge stammen vom Lauf am 28.08. und wurden nicht erneut geprüft. Drängende Fristen: ESA-Praktika öffnen im November, MPIA im Dezember mit Frist Januar 2027, HiWi am ZLL der Uni Mannheim bis 30.09.2026, Andøya Space bis 31.12.2026, Master-Bewerbung Norwegen vom 1. Februar bis 1. März 2027.",
  "skill_gap": [
   {
    "skill": "Python",
-   "count": 23,
-   "of": 25
+   "count": 31,
+   "of": 33
   },
   {
    "skill": "Linux",
-   "count": 20,
-   "of": 25
+   "count": 24,
+   "of": 33
   },
   {
    "skill": "Git",
-   "count": 15,
-   "of": 25
+   "count": 20,
+   "of": 33
   },
   {
    "skill": "C++",
-   "count": 13,
-   "of": 25
-  },
-  {
-   "skill": "NumPy",
-   "count": 8,
-   "of": 25
+   "count": 16,
+   "of": 33
   },
   {
    "skill": "Machine Learning",
-   "count": 6,
-   "of": 25
+   "count": 9,
+   "of": 33
+  },
+  {
+   "skill": "NumPy",
+   "count": 9,
+   "of": 33
+  },
+  {
+   "skill": "Docker",
+   "count": 7,
+   "of": 33
   },
   {
    "skill": "Astropy",
    "count": 5,
-   "of": 25
-  },
-  {
-   "skill": "Docker",
-   "count": 4,
-   "of": 25
+   "of": 33
   }
  ],
  "portfolio_tips": [
-  "Landet bis Weihnachten zwei kleine, gemergte Pull Requests bei SunPy – dort sind gerade vier Einsteiger-Issues offen. Ohne solche Vorleistung nimmt OpenAstronomy niemanden für Google Summer of Code 2027.",
-  "Baut ein Analyse-Notebook mit echten Gaia- oder Euclid-Daten über astroquery und legt es dokumentiert auf GitHub. Das ist gleichzeitig das Arbeitsprobenstück für die MPIA-Bewerbung im Dezember und für ESA im November.",
-  "Packt den Bachelorarbeits-Code in ein Repo mit Dockerfile, README und ein paar Tests – deckt Git, Docker und Linux ab, die drei Skills nach Python mit der höchsten Nachfrage."
+  "Landet bis Weihnachten zwei kleine, gemergte Pull Requests bei SunPy — dort sind Einsteiger-Issues offen. Ohne solche Vorleistung nimmt OpenAstronomy niemanden für Google Summer of Code 2027.",
+  "Baut ein Analyse-Notebook mit echten Gaia- oder Euclid-Daten über astroquery und legt es dokumentiert auf GitHub. Das ist zugleich die Arbeitsprobe für MPIA im Dezember und für ESA im November.",
+  "Für die FZI-Bewerbung: ein kleines RAG-Beispiel mit Python und einem lokalen Modell reicht schon als Nachweis — die Stelle fragt genau danach."
  ],
  "jobs": [
   {
@@ -68,8 +68,8 @@
    ],
    "url": "https://www.ntnu.edu/studies/admissions/master",
    "first_seen": "2026-08-28",
-   "is_new": true,
-   "last_seen": "2026-08-28"
+   "is_new": false,
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Summer Internship Programme 2027 (Mai–September)",
@@ -92,7 +92,7 @@
    "url": "https://www.mpia.de/en/careers/internships/summer",
    "first_seen": "2026-07-28",
    "is_new": false,
-   "last_seen": "2026-08-28"
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Summer Internship Programme 2027 (6 Wochen, Juni–August)",
@@ -115,8 +115,8 @@
    ],
    "url": "https://www.simula.no/careers/summer-internships",
    "first_seen": "2026-08-28",
-   "is_new": true,
-   "last_seen": "2026-08-28"
+   "is_new": false,
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Sommerjobber i KSAT – Software für den Antennenpark-Betrieb",
@@ -138,8 +138,8 @@
    ],
    "url": "https://www.kongsberg.com/careers/vacancies/sommerjobber-i-ksat/",
    "first_seen": "2026-08-28",
-   "is_new": true,
-   "last_seen": "2026-08-28"
+   "is_new": false,
+   "last_seen": "2026-09-01"
   },
   {
    "title": "ESA Science Internships (ESAC Madrid / ESTEC Noordwijk)",
@@ -162,8 +162,8 @@
    ],
    "url": "https://www.cosmos.esa.int/web/science-internships/internship-opportunities",
    "first_seen": "2026-08-28",
-   "is_new": true,
-   "last_seen": "2026-08-28"
+   "is_new": false,
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Studentische Hilfskraft im Research Software Engineering",
@@ -187,7 +187,7 @@
    "url": "https://www.ssc.uni-heidelberg.de/en/what-the-scientific-software-center-is-all-about/open-positions",
    "first_seen": "2026-07-29",
    "is_new": false,
-   "last_seen": "2026-08-28"
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Summer Internship Programme (7 Wochen) – Sommer 2027",
@@ -209,8 +209,8 @@
    ],
    "url": "https://www.kongsberg.com/careers/summer-interns/",
    "first_seen": "2026-08-28",
-   "is_new": true,
-   "last_seen": "2026-08-28"
+   "is_new": false,
+   "last_seen": "2026-09-01"
   },
   {
    "title": "SunPy: vier offene Good-First-Issues (u.a. #8445, #8416, #3800, #2784)",
@@ -233,8 +233,8 @@
    ],
    "url": "https://docs.sunpy.org/en/latest/dev_guide/contents/newcomers.html",
    "first_seen": "2026-08-28",
-   "is_new": true,
-   "last_seen": "2026-08-28"
+   "is_new": false,
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Sommerjobb i SINTEF (~100 Stellen pro Jahr) + SINTEF-Stipendium",
@@ -258,7 +258,7 @@
    "url": "https://www.sintef.no/en/sintef-group/career/students/",
    "first_seen": "2026-07-28",
    "is_new": false,
-   "last_seen": "2026-08-28"
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Initiativbewerbung Astroinformatics-Gruppe (AIN)",
@@ -281,7 +281,30 @@
    "url": "https://www.h-its.org/hits-job/",
    "first_seen": "2026-07-28",
    "is_new": false,
-   "last_seen": "2026-08-28"
+   "last_seen": "2026-09-01"
+  },
+  {
+   "title": "Studentische Hilfskraft – LLM-basiertes ChatBot-System (Vacancy 1254)",
+   "employer": "FZI Forschungszentrum Informatik",
+   "location": "Karlsruhe (~40 min)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "HiWi",
+   "status": "verified",
+   "score": 62,
+   "tier": "must_apply",
+   "why": "Geprüft und offen, Start ab sofort, Standort Berlin oder Karlsruhe — Karlsruhe ist wählbar. Gefordert sind genau deine Stärken: Python, LLM-Systeme, wissenschaftliches Arbeiten mit RAG-Pipelines und Evaluationsmethoden, dazu Mitarbeit an Publikationen. Über das FZI-Karriereportal bewerben, Rückfragen an Marius Take. Keine Frist genannt, also zeitnah. Eine Publikationsbeteiligung ist ein echtes Plus für die Master-Bewerbung in Norwegen.",
+   "pay": "Hilfskraftsatz, ca. 13–15 €/Stunde",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "Git",
+    "Linux"
+   ],
+   "url": "https://karriere.fzi.de/Vacancies/1254/Description/1",
+   "first_seen": "2026-09-01",
+   "is_new": true,
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Initiativbewerbung Sommer- oder Masterprojekt Solarphysik (RoCS)",
@@ -305,8 +328,8 @@
    ],
    "url": "https://www.mn.uio.no/astro/english/",
    "first_seen": "2026-08-28",
-   "is_new": true,
-   "last_seen": "2026-08-28"
+   "is_new": false,
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Initiativbewerbung Gaia-Datenverarbeitung am ARI",
@@ -328,32 +351,32 @@
    ],
    "url": "https://zah.uni-heidelberg.de/gaia",
    "first_seen": "2026-08-28",
-   "is_new": true,
-   "last_seen": "2026-08-28"
+   "is_new": false,
+   "last_seen": "2026-09-01"
   },
   {
-   "title": "Werkstudent Softwareentwicklung / AI – 40+ offene Stellen",
+   "title": "Werkstudenten- und Praktikantenstellen am Hauptsitz Walldorf",
    "employer": "SAP SE",
-   "location": "Walldorf (Wohnort)",
+   "location": "Walldorf (Wohnort, 0 min)",
    "region": "Deutschland",
    "category": "Karriere",
    "type": "Werkstudent",
-   "status": "verified",
+   "status": "source",
    "score": 60,
    "tier": "must_apply",
-   "why": "Heute im Jobportal geprüft: über 40 offene Werkstudenten-Ausschreibungen am Standort Walldorf, darunter AI-based Quality Evaluation for AI-Generated Code Changes (SAP HANA Cloud), CSAI AI Developer und Site Reliability Engineering. Kein Astro, aber gut bezahlte Praxis in Python, ML und Docker direkt vor der Haustür, die sich neben dem Studium dauerhaft trägt. Zwei bis drei Stellen mit Python-Bezug direkt bewerben.",
-   "pay": "ca. 17–20 €/Stunde",
+   "why": "Die Trefferliste ist lesbar und zeigt aktuell u. a. Working Student Cloud Developer, DevOps Engineer bei BTP Security Engineering, Efficient Kubernetes Deployments und Diploma Student AI/ML in Software Development. Ehrlich dazu: zwei besonders passende Einzelanzeigen waren beim Prüfen bereits besetzt, der Durchsatz ist hoch. Deshalb wöchentlich prüfen und sofort bewerben — Python, Docker und Kubernetes passen direkt, und der Arbeitsweg ist praktisch null.",
+   "pay": "typischerweise ca. 16–20 €/Stunde",
    "skills": [
     "Python",
-    "Machine Learning",
     "Docker",
+    "Linux",
     "Git",
-    "Linux"
+    "Machine Learning"
    ],
-   "url": "https://jobs.sap.com/search/?q=Werkstudent&locationsearch=Walldorf",
-   "first_seen": "2026-08-28",
+   "url": "https://jobs.sap.com/key/sap-werkstudent-walldorf.html",
+   "first_seen": "2026-09-01",
    "is_new": true,
-   "last_seen": "2026-08-28"
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Google Summer of Code 2027 über OpenAstronomy",
@@ -376,8 +399,31 @@
    ],
    "url": "https://openastronomy.org/gsoc/",
    "first_seen": "2026-08-28",
+   "is_new": false,
+   "last_seen": "2026-09-01"
+  },
+  {
+   "title": "Initiativbewerbung HiWi oder Bachelorarbeit Astroteilchenphysik (KATRIN, Pierre Auger, IceCube)",
+   "employer": "KIT – Institut für Astroteilchenphysik (IAP)",
+   "location": "Eggenstein-Leopoldshafen bei Karlsruhe (~45 min)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "HiWi",
+   "status": "initiative",
+   "score": 58,
+   "tier": "must_apply",
+   "why": "Keine offene Ausschreibung, aber inhaltlich der stärkste Astro-Treffer der Region: Das IAP arbeitet an KATRIN, dem Pierre-Auger-Observatorium und IceCube, die Datenanalyse dort läuft auf Python/NumPy, Linux und C++. Kurze Initiativmail mit CV und GitHub an sekretariat@iap.kit.edu und parallel direkt an die Gruppenleiter Dr. Markus Roth (Auger) und Dr. Markus Steidl (KATRIN). Keine Frist — genau diese Erfahrung macht die Norwegen-Bewerbung stark.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "NumPy",
+    "Linux",
+    "C++"
+   ],
+   "url": "https://www.iap.kit.edu/english/contacts.php",
+   "first_seen": "2026-09-01",
    "is_new": true,
-   "last_seen": "2026-08-28"
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Åpen søknad (offene Initiativbewerbung), Frist 31.12.2026",
@@ -398,8 +444,31 @@
    ],
    "url": "https://andoyaspace.no/career/",
    "first_seen": "2026-08-28",
-   "is_new": true,
-   "last_seen": "2026-08-28"
+   "is_new": false,
+   "last_seen": "2026-09-01"
+  },
+  {
+   "title": "HiWi-Stellen Scientific Computing, Big Data und Netzinfrastruktur",
+   "employer": "KIT – Steinbuch Centre for Computing (SCC)",
+   "location": "Karlsruhe (~40 min)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "HiWi",
+   "status": "initiative",
+   "score": 53,
+   "tier": "interesting",
+   "why": "Die SCC-Jobseite und die Abteilungsseiten liefern nur die Navigation, die Stellentexte werden nachgeladen — eine konkrete offene Stelle ließ sich nicht bestätigen. Inhaltlich ist das SCC trotzdem der beste HPC- und Linux-Anlaufpunkt der Region und die natürliche Brücke von Astro-Datenanalyse zu Rechenzentrumsarbeit. Die Abteilungen Scientific Computing and Simulation sowie Methods for Big Data direkt anschreiben. Vorher klären: HiWi-Verträge am KIT setzen meist eine Immatrikulation am KIT voraus.",
+   "pay": "",
+   "skills": [
+    "Linux",
+    "Python",
+    "C++",
+    "Docker"
+   ],
+   "url": "https://www.scc.kit.edu/en/jobs/index.php",
+   "first_seen": "2026-08-28",
+   "is_new": false,
+   "last_seen": "2026-09-01"
   },
   {
    "title": "helita – Solarphysik-Bibliothek der Universität Oslo",
@@ -422,12 +491,12 @@
    ],
    "url": "https://github.com/ITA-Solar/helita",
    "first_seen": "2026-08-28",
-   "is_new": true,
-   "last_seen": "2026-08-28"
+   "is_new": false,
+   "last_seen": "2026-09-01"
   },
   {
-   "title": "HiWi-Stellen und Abschlussarbeiten im HPC-Umfeld",
-   "employer": "KIT Steinbuch Centre for Computing (SCC)",
+   "title": "HiWi-Jobbörse des KIT Career Service",
+   "employer": "Karlsruher Institut für Technologie (KIT)",
    "location": "Karlsruhe (~40 min)",
    "region": "Deutschland",
    "category": "Karriere",
@@ -435,18 +504,40 @@
    "status": "source",
    "score": 52,
    "tier": "interesting",
-   "why": "Das SCC betreibt den Supercomputer HoreKa und schreibt HiWi-Stellen dezentral pro Abteilung aus, unter anderem bei Data Analytics, Methods for Big Data und Scientific Computing and Simulation – ideal für echte HPC-Erfahrung als Vorbereitung auf ein Astro-Simulations-Masterprojekt. Die Einzellisten laden per JavaScript nach und waren nicht auslesbar. Die drei Abteilungsseiten alle zwei bis drei Wochen selbst durchklicken, meist zum Semesterstart im Oktober.",
-   "pay": "HiWi-Satz KIT, ca. 13–15 €/Std.",
+   "why": "Diese Seite zeigt tatsächlich eine Liste aktueller HiWi-Stellen mit Arbeitgeber, Ort und Startdatum, ohne Login lesbar. Achtung: Die oft verlinkte Adresse careerserviceportal.kit.edu läuft derzeit auf eine 404-Seite, nur dieser Pfad funktioniert. Wöchentlich prüfen und vorab klären, ob eine Immatrikulation am KIT Voraussetzung ist — falls ja, sind FZI und Firmen der bessere Weg.",
+   "pay": "ca. 13–15 €/Stunde",
    "skills": [
-    "C++",
     "Python",
     "Linux",
-    "HPC"
+    "C++"
    ],
-   "url": "https://www.scc.kit.edu/en/jobs/index.php",
-   "first_seen": "2026-08-28",
+   "url": "https://www.careerservice.kit.edu/en/studierende/jobboerse/stud_hilfskraft/",
+   "first_seen": "2026-09-01",
    "is_new": true,
-   "last_seen": "2026-08-28"
+   "last_seen": "2026-09-01"
+  },
+  {
+   "title": "Werkstudent:in Softwareentwicklung",
+   "employer": "inovex GmbH",
+   "location": "Karlsruhe (~40 min)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 51,
+   "tier": "interesting",
+   "why": "Aktuell offen, Karlsruhe ist einer der Standorte. Ehrliche Einschränkung: Schwerpunkt sind Angular/React/Vue, .NET und Spring Boot, also nicht dein Kernstack — Vorkenntnisse sind aber ausdrücklich nicht zwingend, und C++/Python plus Git und Docker sind gute Argumente. Deutsch auf C1 wird vorausgesetzt. Nur über das offizielle Bewerbungsformular bewerben, Bewerbungen über das Kontaktformular werden laut Anzeige nicht berücksichtigt.",
+   "pay": "",
+   "skills": [
+    "Git",
+    "Docker",
+    "C++",
+    "Python"
+   ],
+   "url": "https://www.inovex.de/de/karriere/stellenangebote/werkstudent-im-bereich-softwareentwicklung/",
+   "first_seen": "2026-09-01",
+   "is_new": true,
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Astropy: Einstieg über Package-novice und Effort-low",
@@ -469,8 +560,8 @@
    ],
    "url": "https://docs.astropy.org/en/latest/development/quickstart.html",
    "first_seen": "2026-08-28",
-   "is_new": true,
-   "last_seen": "2026-08-28"
+   "is_new": false,
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Summer Jobs, Placements und Master-Thesis-Themen",
@@ -492,8 +583,51 @@
    ],
    "url": "https://www.nordicsemi.com/Careers/Students-and-Graduates",
    "first_seen": "2026-08-28",
+   "is_new": false,
+   "last_seen": "2026-09-01"
+  },
+  {
+   "title": "Working Student Global IT Support & Collaboration Tooling",
+   "employer": "IONOS Group SE",
+   "location": "Karlsruhe (~40 min)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 50,
+   "tier": "interesting",
+   "why": "Anzeige geöffnet und offen: technisches Studium, Programmiererfahrung mit Python ausdrücklich als Beispiel genannt, Interesse an KI-Tools, Deutsch und Englisch. Jira und Confluence sind nur ein Plus. Zwei ältere IONOS-Anzeigen laufen inzwischen auf 404, diese hier ist die gültige. Über den Bewerben-Button bewerben und die Immatrikulationsbescheinigung bereithalten. Solide Linux- und Tooling-Praxis neben dem Studium.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Linux",
+    "Git"
+   ],
+   "url": "https://www.ionos-group.com/jobs-career/4924476101-working-student-fmd-global-it-support-collaboration-tooling.html",
+   "first_seen": "2026-09-01",
    "is_new": true,
-   "last_seen": "2026-08-28"
+   "last_seen": "2026-09-01"
+  },
+  {
+   "title": "Nachhilfe in Mathematik und Physik geben",
+   "employer": "Studentenring Mannheim",
+   "location": "Mannheim (~35 min), Einsätze auch wohnortnah",
+   "region": "Deutschland",
+   "category": "Ferienjob",
+   "type": "Nebenjob",
+   "status": "verified",
+   "score": 50,
+   "tier": "interesting",
+   "why": "Geprüft und aktiv rekrutierend: 15–21 €/Stunde, steigend nach 17 und 34 Einheiten mit demselben Schüler, dazu 0,50 €/km Fahrtkosten — der beste belegbare Stundenlohn der Region. Mathe und Physik stehen ausdrücklich auf der Suchliste, ein Lehramtsstudium ist nicht nötig. Onlineformular ausfüllen, Unterlagen kommen binnen 24 Stunden, danach ein kurzes Telefonat. Freie Zeiteinteilung, damit gut mit einer Werkstudentenstelle kombinierbar.",
+   "pay": "15–21 €/Stunde plus 0,50 €/km",
+   "skills": [
+    "Mathematik",
+    "Physik"
+   ],
+   "url": "https://mannheim.studentenring.de/jobs/nachhilfe-geben/",
+   "first_seen": "2026-09-01",
+   "is_new": true,
+   "last_seen": "2026-09-01"
   },
   {
    "title": "MPIA Job Board (Software- und IT-Stellen)",
@@ -515,8 +649,8 @@
    ],
    "url": "https://www.mpia.de/study-and-career/jobboard",
    "first_seen": "2026-08-28",
-   "is_new": true,
-   "last_seen": "2026-08-28"
+   "is_new": false,
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Master in Space Physics / Masterprojekt am Birkeland Centre",
@@ -538,8 +672,30 @@
    ],
    "url": "https://birkeland.uib.no/study/",
    "first_seen": "2026-08-28",
+   "is_new": false,
+   "last_seen": "2026-09-01"
+  },
+  {
+   "title": "Praktikums- und Jobbörse der Fakultät Wirtschaftsinformatik",
+   "employer": "Universität Mannheim (Fakultät WIM)",
+   "location": "Mannheim (~35 min)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "source",
+   "score": 48,
+   "tier": "interesting",
+   "why": "Die beste lesbare Stellenquelle für Mannheim: eine statische Tabelle mit Arbeitgeber, Titel, Ort und Datum, ohne Login. Aktuell darin u. a. Siemens Mannheim Werkstudent Datenanalyse, essentiq Werkstudent:in IT ab 01.10.2026 und Südzucker Praktikum IT Artificial Intelligence mit GenAI und Computer Vision. Ehrlicher Hinweis: Die Siemens-Detailseite lieferte bereits einen 404, die Börse selbst wird aber gepflegt. Alle zwei Wochen prüfen und die FIM-Mailingliste der Fakultät abonnieren.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "Git"
+   ],
+   "url": "https://www.wim.uni-mannheim.de/en/internships-and-jobs/internship-and-job-board/",
+   "first_seen": "2026-09-01",
    "is_new": true,
-   "last_seen": "2026-08-28"
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Young Graduate Trainee Programme",
@@ -561,8 +717,8 @@
    ],
    "url": "https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_the_ESA_Graduate_Trainee_Programme",
    "first_seen": "2026-08-28",
-   "is_new": true,
-   "last_seen": "2026-08-28"
+   "is_new": false,
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Ferienjobs im Werk Wiesloch-Walldorf",
@@ -582,8 +738,8 @@
    ],
    "url": "https://www.heidelberg.com/global/de/about_heidelberg/career/career_overview.jsp",
    "first_seen": "2026-08-28",
-   "is_new": true,
-   "last_seen": "2026-08-28"
+   "is_new": false,
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Bachelor-Zulassung über Samordna opptak – Frist 15. April",
@@ -602,8 +758,8 @@
    ],
    "url": "https://www.samordnaopptak.no/info/english/",
    "first_seen": "2026-08-28",
-   "is_new": true,
-   "last_seen": "2026-08-28"
+   "is_new": false,
+   "last_seen": "2026-09-01"
   },
   {
    "title": "ESA Datalabs – eigenes Notebook-Projekt mit Missionsdaten",
@@ -626,8 +782,30 @@
    ],
    "url": "https://datalabs.esa.int/",
    "first_seen": "2026-08-28",
+   "is_new": false,
+   "last_seen": "2026-09-01"
+  },
+  {
+   "title": "Werkstudierende und Praktika für Studierende (Softwareentwicklung, Data Science)",
+   "employer": "BASF SE",
+   "location": "Ludwigshafen (~40 min)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "source",
+   "score": 44,
+   "tier": "interesting",
+   "why": "Werkstudierendentätigkeiten laufen 6 Wochen bis 24 Monate, in der Vorlesungszeit 10–20 Stunden pro Woche und in der vorlesungsfreien Zeit Vollzeit — das passt gut zum Semesterrhythmus. Ehrlicher Hinweis: Zwei konkrete Anzeigen zu Softwareentwicklung und Industrie 4.0 ließen sich nicht bestätigen, eine war weg, die andere sperrt das Auslesen. Die Stellensuche mit dem Filter Student:in regelmäßig prüfen.",
+   "pay": "vergütet, Höhe nicht ausgewiesen",
+   "skills": [
+    "Python",
+    "Docker",
+    "Machine Learning"
+   ],
+   "url": "https://karriere.basf.com/de/de/einstieg/studierende",
+   "first_seen": "2026-09-01",
    "is_new": true,
-   "last_seen": "2026-08-28"
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Praktika, studentische Tätigkeiten und Abschlussarbeiten",
@@ -649,8 +827,8 @@
    ],
    "url": "https://www.dlr.de/de/karriere/dein-einstieg/deine-karrierestufe/studierende-promovierende",
    "first_seen": "2026-08-28",
-   "is_new": true,
-   "last_seen": "2026-08-28"
+   "is_new": false,
+   "last_seen": "2026-09-01"
   },
   {
    "title": "Online-Jobbörse des Studierendenwerks",
@@ -672,8 +850,49 @@
    ],
    "url": "https://www.stw.uni-heidelberg.de/de/online_jobboerse",
    "first_seen": "2026-08-28",
+   "is_new": false,
+   "last_seen": "2026-09-01"
+  },
+  {
+   "title": "Stellenangebote der Universität Mannheim (u. a. HiWi am ZLL, Frist 30.09.2026)",
+   "employer": "Universität Mannheim",
+   "location": "Mannheim (~35 min)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "HiWi",
+   "status": "verified",
+   "score": 42,
+   "tier": "interesting",
+   "why": "Die Übersicht listet aktuell 14 Stellen; verifiziert offen ist eine studentische Hilfskraft am Zentrum für Lehren und Lernen mit Bewerbungsfrist 30.09.2026. Ehrlich gesagt keine Informatikstelle, aber der schnellste Fuß in die Tür der Uni Mannheim. Fachlich näher liegt die dauerhaft offene IT-Initiativbewerbung mit Frist 31.12.2026. Beides parallel einreichen.",
+   "pay": "ca. 13–15 €/Stunde",
+   "skills": [
+    "Python",
+    "Git"
+   ],
+   "url": "https://www.uni-mannheim.de/en/about/working-at-the-university/job-vacancies/",
+   "first_seen": "2026-09-01",
    "is_new": true,
-   "last_seen": "2026-08-28"
+   "last_seen": "2026-09-01"
+  },
+  {
+   "title": "Telefoninterviewer in der Meinungsforschung",
+   "employer": "FGW Forschungsgruppe Wahlen Telefonfeld",
+   "location": "Mannheim (~35 min)",
+   "region": "Deutschland",
+   "category": "Ferienjob",
+   "type": "Nebenjob",
+   "status": "verified",
+   "score": 40,
+   "tier": "interesting",
+   "why": "Firmenseite und die vor wenigen Tagen veröffentlichte Anzeige der Bundesagentur geprüft: aktiv rekrutierend, 14,30 €/Stunde plus möglicher Bonus, Schichten Montag bis Donnerstag 17:15 bis 21:00 Uhr bei frei wählbarer Anzahl an Tagen. Standort N 7 zwischen Hauptbahnhof und Wasserturm, gut mit dem Zug erreichbar. Kein Fachbezug, reiner Geldjob — dafür planbar und abends, also gut neben Vorlesungen.",
+   "pay": "14,30 €/Stunde plus Bonus",
+   "skills": [
+    "Kommunikation"
+   ],
+   "url": "https://www.nebenjob-mannheim.de/",
+   "first_seen": "2026-09-01",
+   "is_new": true,
+   "last_seen": "2026-09-01"
   }
  ]
 }
