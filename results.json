@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T11:47",
+ "updated": "2026-09-02T18:55",
  "default_person": "oliver",
  "people": {
   "oliver": {
@@ -59,39 +59,52 @@
    "label": "💼 Leonard",
    "goal": "Ziel: Stelle mit echter Gestaltungsverantwortung im KI-Umfeld · Bachelor 03.12.2026 · sonst Master ab Wintersemester 2027 mit Werkstudentenjob zur Überbrückung",
    "phase": "Phase 1 – Einstieg nach dem Bachelor (Vollzeit bevorzugt, Werkstudent als Brücke)",
-   "summary": "Erster Lauf für Leonard am 02.09.2026, Radius Mannheim und alles in etwa 45 Bahnminuten. Wichtiger Befund: Die MVV-Stelle „Digitalisierungsarchitekt mit Schwerpunkt KI“ ist nicht mehr offen — MVV-URL 404, StepStone 410, und in den derzeit 85 offenen MVV-Stellen taucht der Titel nicht mehr auf. Dafür gibt es einen sehr guten Ersatz am Wohnort: Bilfinger sucht in Mannheim gleichzeitig einen AI & Automation Specialist (Copilot, Power Platform, RPA, End-to-End-Verantwortung — verlangt nur „erste Erfahrung“) und einen Business AI & Data Architect. HMS Analytical Software in Heidelberg ist der einzige Fund, der eine vollwertige GenAI-Engineering-Rolle ausdrücklich für Berufseinsteiger öffnet. Grundregel für alle Einträge: Formale Anforderungen wie Master oder „mehrjährige Erfahrung“ sind kein Ausschlusskriterium — die Lücke ist im Text benannt, beworben wird trotzdem. Zeitfenster: Für einen Start im Januar oder Februar 2027 müssen die Bewerbungen im September und Oktober raus.",
+   "summary": "Stand 02.09.2026, Radius Mannheim und alles in etwa 45 Bahnminuten — mit ICE zählt Frankfurt dazu. Beratung ist jetzt eigener Schwerpunkt, weil du gern mit Menschen arbeitest. Bester Fund im ganzen Satz: Deloitte „Consultant AI Engineering“ — Mannheim ist ausdrücklich als Standort genannt, die Anzeige ist erst drei Tage alt, und gefordert sind Python, GenAI und Azure AI Foundry. Sofort bewerben. Capgemini Invent nennt den Bachelor ausdrücklich als ausreichend und Wirtschaftsinformatik als Wunschfach; Horváth hat einen expliziten Junior-Consultant-Pfad für Bachelorabsolventen. Zu den Fachschaftskontakten ehrlich: d-fine verlangt Bachelor plus angestrebten Master (das lässt sich im Gespräch erklären, weil der Master ab Wintersemester 2027 ohnehin der Plan B ist), Oliver Wymans Board lädt per JavaScript und die zwei auffindbaren Berliner Analystenstellen sind besetzt, BCG X ist in München verankert — das wäre ein Umzug, kein Pendeln. Korrektur zum letzten Lauf: Camelot ITLab gibt es nicht mehr eigenständig, Accenture hat die Mannheimer Gruppe übernommen. Weiter gilt: Die MVV-Stelle „Digitalisierungsarchitekt KI“ ist zu; Ersatz am Wohnort sind Bilfinger Mannheim (AI & Automation Specialist, verlangt nur „erste Erfahrung“) und HMS Analytical Software Heidelberg. Grundregel: „Master vorausgesetzt“ ist kein Ausschlusskriterium — die Lücke benennen und trotzdem bewerben. Zeitfenster: Für einen Start im Januar oder Februar 2027 müssen die Bewerbungen im September und Oktober raus; die großen Beratungen brauchen sechs bis zehn Wochen für ihren Prozess.",
    "skill_gap": [
     {
      "skill": "Python",
-     "count": 12,
-     "of": 14
+     "count": 24,
+     "of": 26
     },
     {
      "skill": "Machine Learning",
-     "count": 12,
-     "of": 14
+     "count": 21,
+     "of": 26
     },
     {
      "skill": "SQL",
-     "count": 7,
-     "of": 14
+     "count": 18,
+     "of": 26
     },
     {
      "skill": "Cloud",
-     "count": 7,
-     "of": 14
+     "count": 11,
+     "of": 26
+    },
+    {
+     "skill": "Power BI",
+     "count": 4,
+     "of": 26
+    },
+    {
+     "skill": "Power Automate",
+     "count": 3,
+     "of": 26
     },
     {
      "skill": "Java",
      "count": 3,
-     "of": 14
+     "of": 26
     }
    ],
    "portfolio_tips": [
     "Der stärkste Hebel ist MVV selbst: Bachelorarbeit im Haus, Führungskraft kennt die Leistung. Vor jeder externen Bewerbung intern nach einer Übernahme fragen — die externe Suche ist Verhandlungsposition, nicht Plan A.",
     "Die Bachelorarbeit über Fehlermodi produktiver Multi-Agenten-Systeme gehört in die LinkedIn-Überschrift und in jedes Anschreiben. Genau daran scheitern gerade die Firmen, die Agenten in Betrieb nehmen.",
     "Im Lebenslauf fehlen Wirkungszahlen: Wie viele Analysen pro Monat, wie viel Zeitersparnis, wie viele M&A-Vorprüfungen? Zwei, drei Zahlen heben ihn über alle vergleichbaren Profile.",
-    "Die Fachschaftskontakte zu Oliver Wyman, d-fine und BCG X sind bares Geld: eine warme Vorstellung schlägt jede Blindbewerbung."
+    "Die Fachschaftskontakte zu Oliver Wyman, d-fine und BCG X sind bares Geld: eine warme Vorstellung schlägt jede Blindbewerbung.",
+    "Beratung braucht ein anderes Anschreiben als Engineering: Nicht der Stack ist der Aufhänger, sondern dass du Ergebnisse erklären kannst. Ein Absatz über die M&A-Vorprüfungen — wem du was erklärt hast und was danach entschieden wurde — schlägt jede Technologieliste.",
+    "Für die Beratungshäuser kommt fast immer ein Case-Interview. Zwei Wochen mit einem Übungspartner reichen für den Einstieg; die Fachschaft vermittelt meist Partner dafür.",
+    "Deloitte AI Engineering Mannheim zuerst, danach Capgemini Invent und Horváth. Alle drei parallel — Beratungsprozesse laufen unabhängig, und mehrere Angebote sind die einzige echte Verhandlungsposition."
    ]
   }
  },
@@ -212,6 +225,54 @@
    ],
    "url": "https://jobs.bilfinger.com/job/Mannheim-AI-&-Automation-Specialist-(mwd)-BW-68163/1411133833/",
    "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
+   "title": "Consultant AI Engineering (m/w/d)",
+   "employer": "Deloitte",
+   "location": "Mannheim (0 min) / Frankfurt (~35 min, ICE)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Beratung",
+   "status": "verified",
+   "score": 74,
+   "tier": "must_apply",
+   "person": "leonard",
+   "why": "Der beste Treffer im ganzen Set: Mannheim ist ausdrücklich als Standort gelistet, die Ausschreibung ist erst drei Tage alt und verlangt genau das, was du im Market Intelligence Center und bei Siemens gebaut hast — Python, GenAI-Lösungen produktiv stellen, Cloud-KI-Plattformen wie Azure AI Foundry, Bedrock und Vertex AI, Deutsch C1. Reisebereitschaft wird verlangt, dafür gibt es Mobile Working und Teilzeitoptionen; Start ab sofort. Diese Woche bewerben und das Copilot-Studio-Agentensystem mit Human-in-the-Loop nach vorn stellen — frisch veröffentlichte Stellen laufen schnell zu.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "SQL",
+    "Cloud"
+   ],
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15794-471556_50427-1-S",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
+   "title": "(Associate) Consultant Data Science & AI (m/w/d)",
+   "employer": "Capgemini Invent",
+   "location": "Frankfurt (~35 min, ICE) / Stuttgart (~40 min, ICE)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Beratung",
+   "status": "verified",
+   "score": 72,
+   "tier": "must_apply",
+   "person": "leonard",
+   "why": "Explizit für Berufseinsteiger, und der abgeschlossene Bachelor reicht — Wirtschaftsinformatik wird als Wunschfach genannt, ebenso erste Praxis in Data-, AI- oder Softwareprojekten, die du doppelt vorweisen kannst. Gefragt sind Machine Learning, Generative AI, Python und Cloud; Reisebereitschaft ist Bedingung, das Modell ist hybrid. Ganzjährig zu besetzen, keine Frist — im Formular als frühesten Eintritt den 1. Januar 2027 eintragen.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "Cloud",
+    "SQL"
+   ],
+   "url": "https://job-boards.eu.greenhouse.io/capgeminideutschlandgmbh/jobs/4635692101",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
    "is_new": true
@@ -341,6 +402,30 @@
    "person": "oliver"
   },
   {
+   "title": "Consultant (w/m/d) BI & Analytics (all levels)",
+   "employer": "Horváth",
+   "location": "Frankfurt (~35 min, ICE) / Stuttgart (~40 min, ICE)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Beratung",
+   "status": "verified",
+   "score": 66,
+   "tier": "must_apply",
+   "person": "leonard",
+   "why": "Nennt Absolventinnen und Absolventen ausdrücklich als Zielgruppe und verlangt nur ein exzellent abgeschlossenes Studium mit Technologie- und BI-Affinität. Horváth führt Bachelor-Absolventen als Junior Consultant, Master-Absolventen als Consultant — die Lücke kostet also nur eine Stufe und wird bei guter Leistung sogar finanziell gefördert. Power BI und MS Fabric treffen den Kern der Rolle. Arbeitsmodus gemischt aus Office, Homeoffice und Kundenpräsenz. Horváth bittet um Bewerbung etwa drei Monate vor Wunschstart — für Januar 2027 also jetzt.",
+   "pay": "",
+   "skills": [
+    "Power BI",
+    "MS Fabric",
+    "SQL",
+    "Python"
+   ],
+   "url": "https://www.horvath-partners.com/de/karriere/jobs/jobsuche/job-detailseite/detail/2703?cHash=f7eb7d17d056b3166725c9a00e3a8fbb",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
    "title": "Summer Internship Programme (7 Wochen) – Sommer 2027",
    "employer": "Kongsberg Gruppen",
    "location": "Kongsberg / Oslo",
@@ -384,6 +469,54 @@
    ],
    "url": "https://jobs.bilfinger.com/job/Mannheim-Business-AI-&-Data-Architect-%28mwd%29-BW-68163/1277655501/",
    "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
+   "title": "Consultant Intelligent Automation – Einstieg in AI & Data (m/w/d)",
+   "employer": "Deloitte",
+   "location": "Frankfurt (~35 min, ICE), Standorte nicht ausgewiesen",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Beratung",
+   "status": "verified",
+   "score": 64,
+   "tier": "must_apply",
+   "person": "leonard",
+   "why": "Der Titel sagt es wörtlich: Einstieg in AI & Data, von der Automatisierungsstrategie bis zur Umsetzung — exakt dein MVV-Projekt mit Copilot Studio, Power Automate und Human-in-the-Loop. Ehrlicher Hinweis: Die Deloitte-Seite ist eine Kampagnenseite und listet weder Standorte noch Anforderungen im Detail, die konkreten Angaben zu Ort, Reise und Mobile Working stehen erst im Bewerbungsportal hinter dem Apply-Link. Deloitte hat einen Standort Mannheim, der Blick ins Portal lohnt vor dem Absenden.",
+   "pay": "",
+   "skills": [
+    "Power Automate",
+    "Copilot Studio",
+    "Python",
+    "Machine Learning"
+   ],
+   "url": "https://job.deloitte.com/job-consultant-intelligent-automation-dein-einstieg-in-ai-data-mwd-_49502",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
+   "title": "(Senior) Consultant Data Science – AI and Data (w/m/d)",
+   "employer": "EY",
+   "location": "Eschborn bei Frankfurt (~45 min, ICE + S-Bahn)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Beratung",
+   "status": "verified",
+   "score": 63,
+   "tier": "must_apply",
+   "person": "leonard",
+   "why": "Läuft über das Absolventenportal und ist als NEU markiert; verlangt ein erfolgreich abgeschlossenes technisches oder mathematisches Studium, ein Master wird nicht ausdrücklich gefordert. Die Klammer (Senior) heißt aber, dass auch Erfahrenere konkurrieren — daher ein leichter Abzug. Inhaltlich sehr passend: Python mit pandas, scikit-learn und PyTorch, Large Language Models und Transformer-Architekturen, Deutsch und Englisch mindestens C1. Flexible Arbeitsmodelle mit Homeoffice zugesagt, Beratungsreisen projektabhängig. Job-ID 1608901.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "SQL",
+    "Cloud"
+   ],
+   "url": "https://jobsgermany.ey.com/absolventin/offer/senior-consultant-data-science-ai-a/36d14880-1b74-4459-92c5-1b4f5a14e834",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
    "is_new": true
@@ -487,6 +620,29 @@
    "person": "oliver"
   },
   {
+   "title": "Einstieg Consulting & Solutions (Fachschaftskontakt)",
+   "employer": "d-fine",
+   "location": "Frankfurt (~35 min, ICE), auch Düsseldorf und München",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Beratung",
+   "status": "program",
+   "score": 62,
+   "tier": "must_apply",
+   "person": "leonard",
+   "why": "Kontakt läuft über die Fachschaft Data Analytics — du hast die Partnerschaft selbst aufgebaut, die warme Vorstellung ist hier der eigentliche Hebel und sollte vor der Onlinebewerbung stehen. Zwei Haken: d-fine fordert für den Einstieg Bachelor plus ANGESTREBTEN Master, ein reiner Bachelor ohne Masterplan ist erklärungsbedürftig; und das Stellenportal lädt per JavaScript nach, die Einzelvakanzen musst du selbst prüfen. Gut: Das Reisemodell ist wählbar — Blue reist europaweit mit Prämie, Orange Flex maximal acht Reisenächte im Monat, Yellow überwiegend remote. Künstliche Intelligenz und Data Analytics ist ausgewiesenes Schwerpunktthema, Rückmeldung binnen ein bis zwei Wochen.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "SQL",
+    "Machine Learning"
+   ],
+   "url": "https://www.d-fine.com/karriere/deutschland/consulting-solutions/",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
    "title": "Initiativbewerbung Sommer- oder Masterprojekt Solarphysik (RoCS)",
    "employer": "UiO – Institutt for teoretisk astrofysikk / Rosseland Centre",
    "location": "Oslo",
@@ -586,6 +742,30 @@
    "is_new": true
   },
   {
+   "title": "Consultant (w/m/d) Data Science & AI (all levels)",
+   "employer": "Horváth",
+   "location": "Frankfurt (~35 min, ICE) / Stuttgart (~40 min, ICE)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Beratung",
+   "status": "verified",
+   "score": 60,
+   "tier": "must_apply",
+   "person": "leonard",
+   "why": "Fachlich die stärkste Horváth-Rolle für dich: verlangt Python plus Expertise in GenAI, LLM, Predictive Analytics oder Machine Learning sowie Cloud — deckt dein RAG- und Multi-Agenten-Profil direkt ab. Der Text nennt allerdings ein exzellent abgeschlossenes Masterstudium, daher Abzug gegenüber der BI-Ausschreibung; über den Junior-Consultant-Pfad für Bachelor-Absolventen lässt sich das adressieren. Beide Horváth-Ausschreibungen in einer Bewerbung ansprechen und die Bachelorarbeit über Fehlermodi produktiver Multi-Agenten-Systeme als Alleinstellungsmerkmal setzen.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "Cloud",
+    "SQL"
+   ],
+   "url": "https://www.horvath-partners.com/de/karriere/jobs/jobsuche/job-detailseite/detail/3469?cHash=6af6db7aa08b1c614f14c9297d685db7",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
    "title": "Google Summer of Code 2027 über OpenAstronomy",
    "employer": "OpenAstronomy (Astropy, SunPy u.a.)",
    "location": "Remote",
@@ -659,6 +839,29 @@
    "is_new": true
   },
   {
+   "title": "Entry Level Consultant (Fachschaftskontakt)",
+   "employer": "Oliver Wyman",
+   "location": "Frankfurt (~35 min, ICE), auch München und Düsseldorf",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Beratung",
+   "status": "program",
+   "score": 58,
+   "tier": "must_apply",
+   "person": "leonard",
+   "why": "Kontakt besteht über die Fachschaft, Corporate Relations — die warme Vorstellung sollte vor jeder Onlinebewerbung erfolgen, das ist hier der klar wertvollste Zugang. Das Einstiegsprogramm nimmt ausdrücklich alle Studienrichtungen und setzt Einsteiger von Beginn an direkt beim Kunden ein: hohe Reisebereitschaft, wenig planbarer Remote-Anteil. Ehrlich: Eine aktuell offene deutsche Einstiegsstelle ließ sich nicht bestätigen — das Early-Careers-Board lädt per JavaScript nach, die beiden auffindbaren Analyst-Stellen in Berlin sind bereits besetzt. Board selbst live prüfen.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "SQL",
+    "Machine Learning"
+   ],
+   "url": "https://www.oliverwyman.de/karriere/berufseinsteiger.html",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
    "title": "Åpen søknad (offene Initiativbewerbung), Frist 31.12.2026",
    "employer": "Andøya Space",
    "location": "Andenes / Andøya",
@@ -706,6 +909,29 @@
    "is_new": true
   },
   {
+   "title": "AI Governance Masterclass – Einstieg als Consultant Data Management (m/w/d)",
+   "employer": "Deloitte",
+   "location": "Frankfurt (~35 min, ICE), Standorte nicht ausgewiesen",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Beratung",
+   "status": "verified",
+   "score": 56,
+   "tier": "must_apply",
+   "person": "leonard",
+   "why": "Ein ausdrückliches Einstiegsprogramm: KI-Governance kombiniert mit Datenmanagement, aufgesetzt als Masterclass für Berufseinsteiger — gut anschlussfähig an deine Bachelorarbeit, weil genau dort die Governance-Fragen entstehen. Der Titel führt intern allerdings (Senior) Consultant, es konkurrieren also auch Erfahrenere. Die Seite nennt weder Standorte noch Reise- oder Remote-Anteil. Bewerbung ausschließlich über das Onlinesystem, E-Mail-Bewerbungen werden nicht berücksichtigt.",
+   "pay": "",
+   "skills": [
+    "SQL",
+    "Machine Learning",
+    "Python"
+   ],
+   "url": "https://job.deloitte.com/job-ai-governance-masterclass-dein-einstieg-als-consultant-data-management-mwd-_50212",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
    "title": "AI Engineer (m/w/d)",
    "employer": "bridgingIT GmbH",
    "location": "Mannheim (0 min, Wohnort)",
@@ -725,6 +951,29 @@
    ],
    "url": "https://www.stepstone.de/stellenangebote--AI-Engineer-wmd-Mannheim-Frankfurt-a-M-Muenchen-Stuttgart-BridgingIT-GmbH--14342910-inline.html",
    "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
+   "title": "Einstieg Data & AI Consulting (Initiativbewerbung)",
+   "employer": "bridgingIT",
+   "location": "Mannheim (0 min, Wohnort)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Beratung",
+   "status": "initiative",
+   "score": 54,
+   "tier": "interesting",
+   "person": "leonard",
+   "why": "Der einzige Arbeitgeber im Set mit Hauptsitz direkt in Mannheim — null Anreise, und bridgingIT führt AI Consultant und Data Governance Consultant als eigene Karrierepfade. Verifizierbar offen war nur eine Lead-Consultant-Stelle Data & AI Solutions, als Führungsrolle für den Einstieg zu hoch. Die Stellenübersicht lädt per JavaScript nach und war nicht auslesbar. Initiativbewerbung mit Verweis auf das MVV-Projekt und kurz vorher telefonisch nach einer Einstiegsvakanz fragen.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "SQL",
+    "Power BI"
+   ],
+   "url": "https://www.bridging-it.de/karriere/data-ai.html",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
    "is_new": true
@@ -800,6 +1049,29 @@
    "is_new": false,
    "last_seen": "2026-09-01",
    "person": "oliver"
+  },
+  {
+   "title": "Data Scientist / Forward Deployed AI Scientist (Fachschaftskontakt)",
+   "employer": "BCG X",
+   "location": "München (außerhalb des Radius)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Beratung",
+   "status": "source",
+   "score": 52,
+   "tier": "interesting",
+   "person": "leonard",
+   "why": "Kontakt läuft über die Fachschaft — hier ist die warme Vorstellung fast wichtiger als die Ausschreibung, weil BCG X in Deutschland unregelmäßig und dann sehr kurzfristig ausschreibt. Befund: Beide deutschen Ausschreibungen, die sich öffnen ließen, sind laut Portal bereits besetzt, und die Jobsuche rendert per JavaScript. Wichtige Einordnung: Der deutsche BCG-X-Anker ist München, also außerhalb deines Radius, und Forward-Deployed-Rollen bedeuten hohe Kundenpräsenz — das wäre ein Umzug, kein Pendeln. Über den Fachschaftskontakt nach der nächsten Recruiting-Runde fragen und die Talent Community abonnieren.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "SQL"
+   ],
+   "url": "https://careers.bcg.com/global/en/x",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
   },
   {
    "title": "Werkstudent:in Softwareentwicklung",
@@ -1104,6 +1376,29 @@
    ],
    "url": "https://jobs.sap.com/job/Walldorf-Master-SAP-AI-Engineering-Architect-(fmd)-69190/1376634333/",
    "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
+   "title": "Einstieg Technology & Data Consulting (ehemals Camelot ITLab)",
+   "employer": "Accenture",
+   "location": "Mannheim (0 min) / Frankfurt (~35 min, ICE)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Beratung",
+   "status": "source",
+   "score": 46,
+   "tier": "interesting",
+   "person": "leonard",
+   "why": "Wichtige Korrektur: Camelot ITLab existiert nicht mehr eigenständig — Accenture hat die Mannheimer Gruppe übernommen, camelot-itlab.com liefert inzwischen Accenture-Inhalte aus. Eine Bewerbung läuft also über Accenture, der Mannheimer Standort und die SAP- und Supply-Chain-Kompetenz bleiben aber erhalten, was die kurze Anreise rettet. Eine offene deutsche Einstiegsstelle mit KI-Bezug ließ sich nicht bestätigen; die einzige auffindbare Analyst-Ausschreibung ist in Wien und fordert einen Master. Karriereseite Deutschland selbst nach Analyst-Rollen in Data & AI filtern.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "SQL",
+    "Power BI"
+   ],
+   "url": "https://www.camelot-itlab.com/karriere/",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
    "is_new": true
