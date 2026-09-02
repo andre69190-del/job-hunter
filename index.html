@@ -22,6 +22,10 @@
  .panel .chip{display:inline-block;background:#1e2733;border:1px solid #2b3646;border-radius:6px;padding:1px 7px;margin:2px 4px 0 0;color:#c7d2e0;font-size:11.5px}
  .controls{display:flex;gap:9px;flex-wrap:wrap;align-items:center;padding:12px 20px;background:#12151b;border-bottom:1px solid #262b36;position:sticky;top:59px;z-index:5}
  .controls input,.controls select{background:#1b2029;color:#e6e6e6;border:1px solid #2b3140;border-radius:8px;padding:7px 10px;font-size:13px}
+ .persons{display:flex;gap:8px;justify-content:center;margin:14px 0 4px}
+ .pbtn{background:#1b2029;color:#9aa7b4;border:1px solid #2b3140;border-radius:999px;padding:7px 18px;font-size:14px;font-weight:600;cursor:pointer;font-family:inherit}
+ .pbtn:hover{border-color:#3a4255;color:#d7dceb}
+ .pbtn.on{background:#1d3a63;border-color:#4f8cff;color:#dce9ff}
  .multi{position:relative;display:inline-block}
  .multibtn{background:#1b2029;color:#e6e6e6;border:1px solid #2b3140;border-radius:8px;padding:7px 10px;font-size:13px;cursor:pointer;font-family:inherit}
  .multibtn:hover{border-color:#3a4255}
@@ -60,9 +64,10 @@
  .empty{padding:44px;text-align:center;color:#8b93a7;grid-column:1/-1;line-height:1.6}
 </style></head><body>
 <header>
- <h1>🔭 Astro Career Scout <span class=muted style="font-weight:400">Astronomie · Space · Informatik</span></h1>
+ <h1 id=title>Career Scout</h1>
+ <div class=persons id=persons></div>
  <div class=meta id=meta>lädt …</div>
- <div class=goal>Ziel: in ~1 Jahr Zulassung Uni Norwegen · danach (Master bevorzugt Norwegen) Arbeit in Norwegen</div>
+ <div class=goal id=goal></div>
 </header>
 <div class=panels id=panels></div>
 <div class=controls>
@@ -127,7 +132,10 @@ const typeBtn=$('typebtn'),typeMenu=$('typemenu');
 let typeSel=(function(){const v=L('types',null);if(Array.isArray(v))return v;const o=L('type','all');return(o&&o!=='all')?[o]:[];})();
 q.value=L('q','');cat.value=L('cat','all');region.value=L('region','all');
 status.value=L('status','all');tier.value=L('tier','all');ms.value=L('minscore',0);so.value=L('sort','score');onlynew.checked=L('onlynew',false);
-let ALL=[];
+let ALL=[];let DATA={};
+let person=L('person','oliver');
+const TITLES={oliver:'🔭 Astro Career Scout <span class=muted style="font-weight:400">Astronomie · Space · Informatik</span>',
+              leonard:'💼 Career Scout Leonard <span class=muted style="font-weight:400">KI · Data · Digitalisierung</span>'};
 function esc(s){return (''+(s==null?'':s)).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
 function tierOf(d){if(d.tier)return d.tier;const s=+d.score||0;return s>=55?'must_apply':s>=40?'interesting':'backup';}
 function tierMeta(t){return t==='must_apply'?['🟢 Top-Priorität','must']:t==='interesting'?['🟡 Interessant','int']:['⚪ Backup','back'];}
@@ -139,6 +147,7 @@ function statusMeta(s){return s==='verified'?['🟢 Geprüfte Ausschreibung','st
 function label(s){s=+s||0;if(s>=55)return['🔥','#166534'];if(s>=40)return['✅','#92700d'];if(s>=25)return['👀','#3a4a63'];return['⏭️','#374151'];}
 function render(){
  let x=[...ALL];
+ x=x.filter(d=>(d.person||'oliver')===person);
  if(cat.value!=='all')x=x.filter(d=>(d.category||'Karriere')===cat.value);
  if(region.value!=='all')x=x.filter(d=>(d.region||'Weitere')===region.value);
  if(typeSel.length)x=x.filter(d=>{const t=(''+(d.type||'')).toLowerCase();return typeSel.some(v=>t.includes(v.toLowerCase()))});
@@ -220,16 +229,34 @@ $('typeclear').addEventListener('click',()=>{
   SV('types',[]);typeLabel();render();
 });
 typeLabel();
+function meta(){
+  const ppl=DATA.people||{};const m=ppl[person]||{};
+  const mine=ALL.filter(d=>(d.person||'oliver')===person);
+  const nw=mine.filter(d=>d.is_new).length;
+  const must=mine.filter(d=>tierOf(d)==='must_apply').length;
+  const upd=(DATA.updated||'').replace('T',' ').slice(0,16)||'—';
+  $('title').innerHTML=TITLES[person]||'Career Scout';
+  $('goal').textContent=m.goal||'';
+  $('meta').innerHTML=`${mine.length} Chancen${must?` · <b style="color:#22c55e">${must} 🟢 Must-Apply</b>`:''}${nw?` · <b style="color:#43d17a">${nw} neu</b>`:''} · Stand ${esc(upd)}`
+     + (m.phase?` · <span class=muted>${esc(m.phase)}</span>`:'')
+     + (m.summary?`<br><span style="color:#c7d2e0">💡 ${esc(m.summary)}</span>`:'');
+  panels(m);
+}
+function buildPersons(){
+  const ppl=DATA.people||{};const keys=Object.keys(ppl);
+  if(keys.length<2){$('persons').innerHTML='';return;}
+  $('persons').innerHTML=keys.map(k=>`<button type=button class="pbtn${k===person?' on':''}" data-p="${esc(k)}">${esc(ppl[k].label||k)}</button>`).join('');
+  $('persons').querySelectorAll('.pbtn').forEach(b=>b.addEventListener('click',()=>{
+    person=b.dataset.p;SV('person',person);
+    $('persons').querySelectorAll('.pbtn').forEach(x=>x.classList.toggle('on',x.dataset.p===person));
+    meta();render();
+  }));
+}
 fetch('results.json?t='+Date.now()).then(r=>r.json()).then(j=>{
-  ALL=j.jobs||[];
-  panels(j);
-  const nw=ALL.filter(d=>d.is_new).length;
-  const must=ALL.filter(d=>tierOf(d)==='must_apply').length;
-  const upd=(j.updated||'').replace('T',' ').slice(0,16)||'—';
-  $('meta').innerHTML=`${ALL.length} Chancen${must?` · <b style="color:#22c55e">${must} 🟢 Must-Apply</b>`:''}${nw?` · <b style="color:#43d17a">${nw} neu</b>`:''} · Stand ${esc(upd)}`
-     + (j.phase?` · <span class=muted>${esc(j.phase)}</span>`:'')
-     + (j.summary?`<br><span style="color:#c7d2e0">💡 ${esc(j.summary)}</span>`:'');
-  render();
+  DATA=j;ALL=j.jobs||[];
+  const ppl=j.people||{};
+  if(!ppl[person])person=j.default_person||'oliver';
+  buildPersons();meta();render();
 }).catch(e=>{$('list').innerHTML='<div class=empty>Fehler beim Laden: '+e+'</div>';});
 </script><footer style="text-align:center;color:#8b93a7;font-size:12px;padding:26px 20px 34px;border-top:1px solid #262b36;margin-top:20px">Privates Karriere-Dashboard · arndt-software.de · <a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a></footer>
 </body></html>

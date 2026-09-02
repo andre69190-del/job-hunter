@@ -1,5 +1,100 @@
 {
- "updated": "2026-09-01T14:54",
+ "updated": "2026-09-02T11:47",
+ "default_person": "oliver",
+ "people": {
+  "oliver": {
+   "label": "🔭 Oliver",
+   "goal": "Ziel: in ~1 Jahr Zulassung Uni Norwegen · danach (Master bevorzugt Norwegen) Arbeit in Norwegen",
+   "phase": "Phase 1 – neben dem Studium (Werkstudent / HiWi / Remote bevorzugt)",
+   "summary": "Lauf vom 01.09.2026 — Schwerpunkt Heimatregion. Neu hinzugekommen sind Mannheim, Karlsruhe und die Orte dazwischen. Ehrlicher Status pro Eintrag: 🟢 geprüfte Ausschreibung · 📋 Programm (Bewerbungsfenster prüfen) · ✍️ Initiativbewerbung · 🔎 Karriereseite (selbst prüfen). Sofort bewerbbar sind die FZI-HiWi-Stelle für ein LLM-ChatBot-System in Karlsruhe, die Werkstudentenstelle bei inovex, der Working Student bei IONOS sowie die Nachhilfe beim Studentenring Mannheim mit 15–21 €/Stunde. Die Norwegen- und Open-Source-Einträge stammen vom Lauf am 28.08. und wurden nicht erneut geprüft. Drängende Fristen: ESA-Praktika öffnen im November, MPIA im Dezember mit Frist Januar 2027, HiWi am ZLL der Uni Mannheim bis 30.09.2026, Andøya Space bis 31.12.2026, Master-Bewerbung Norwegen vom 1. Februar bis 1. März 2027.",
+   "skill_gap": [
+    {
+     "skill": "Python",
+     "count": 31,
+     "of": 33
+    },
+    {
+     "skill": "Linux",
+     "count": 24,
+     "of": 33
+    },
+    {
+     "skill": "Git",
+     "count": 20,
+     "of": 33
+    },
+    {
+     "skill": "C++",
+     "count": 16,
+     "of": 33
+    },
+    {
+     "skill": "NumPy",
+     "count": 9,
+     "of": 33
+    },
+    {
+     "skill": "Machine Learning",
+     "count": 9,
+     "of": 33
+    },
+    {
+     "skill": "Docker",
+     "count": 7,
+     "of": 33
+    },
+    {
+     "skill": "Astropy",
+     "count": 5,
+     "of": 33
+    }
+   ],
+   "portfolio_tips": [
+    "Landet bis Weihnachten zwei kleine, gemergte Pull Requests bei SunPy — dort sind Einsteiger-Issues offen. Ohne solche Vorleistung nimmt OpenAstronomy niemanden für Google Summer of Code 2027.",
+    "Baut ein Analyse-Notebook mit echten Gaia- oder Euclid-Daten über astroquery und legt es dokumentiert auf GitHub. Das ist zugleich die Arbeitsprobe für MPIA im Dezember und für ESA im November.",
+    "Für die FZI-Bewerbung: ein kleines RAG-Beispiel mit Python und einem lokalen Modell reicht schon als Nachweis — die Stelle fragt genau danach."
+   ]
+  },
+  "leonard": {
+   "label": "💼 Leonard",
+   "goal": "Ziel: Stelle mit echter Gestaltungsverantwortung im KI-Umfeld · Bachelor 03.12.2026 · sonst Master ab Wintersemester 2027 mit Werkstudentenjob zur Überbrückung",
+   "phase": "Phase 1 – Einstieg nach dem Bachelor (Vollzeit bevorzugt, Werkstudent als Brücke)",
+   "summary": "Erster Lauf für Leonard am 02.09.2026, Radius Mannheim und alles in etwa 45 Bahnminuten. Wichtiger Befund: Die MVV-Stelle „Digitalisierungsarchitekt mit Schwerpunkt KI“ ist nicht mehr offen — MVV-URL 404, StepStone 410, und in den derzeit 85 offenen MVV-Stellen taucht der Titel nicht mehr auf. Dafür gibt es einen sehr guten Ersatz am Wohnort: Bilfinger sucht in Mannheim gleichzeitig einen AI & Automation Specialist (Copilot, Power Platform, RPA, End-to-End-Verantwortung — verlangt nur „erste Erfahrung“) und einen Business AI & Data Architect. HMS Analytical Software in Heidelberg ist der einzige Fund, der eine vollwertige GenAI-Engineering-Rolle ausdrücklich für Berufseinsteiger öffnet. Grundregel für alle Einträge: Formale Anforderungen wie Master oder „mehrjährige Erfahrung“ sind kein Ausschlusskriterium — die Lücke ist im Text benannt, beworben wird trotzdem. Zeitfenster: Für einen Start im Januar oder Februar 2027 müssen die Bewerbungen im September und Oktober raus.",
+   "skill_gap": [
+    {
+     "skill": "Python",
+     "count": 12,
+     "of": 14
+    },
+    {
+     "skill": "Machine Learning",
+     "count": 12,
+     "of": 14
+    },
+    {
+     "skill": "SQL",
+     "count": 7,
+     "of": 14
+    },
+    {
+     "skill": "Cloud",
+     "count": 7,
+     "of": 14
+    },
+    {
+     "skill": "Java",
+     "count": 3,
+     "of": 14
+    }
+   ],
+   "portfolio_tips": [
+    "Der stärkste Hebel ist MVV selbst: Bachelorarbeit im Haus, Führungskraft kennt die Leistung. Vor jeder externen Bewerbung intern nach einer Übernahme fragen — die externe Suche ist Verhandlungsposition, nicht Plan A.",
+    "Die Bachelorarbeit über Fehlermodi produktiver Multi-Agenten-Systeme gehört in die LinkedIn-Überschrift und in jedes Anschreiben. Genau daran scheitern gerade die Firmen, die Agenten in Betrieb nehmen.",
+    "Im Lebenslauf fehlen Wirkungszahlen: Wie viele Analysen pro Monat, wie viel Zeitersparnis, wie viele M&A-Vorprüfungen? Zwei, drei Zahlen heben ihn über alle vergleichbaren Profile.",
+    "Die Fachschaftskontakte zu Oliver Wyman, d-fine und BCG X sind bares Geld: eine warme Vorstellung schlägt jede Blindbewerbung."
+   ]
+  }
+ },
  "phase": "Phase 1 – neben dem Studium (Werkstudent / HiWi / Remote bevorzugt)",
  "summary": "Lauf vom 01.09.2026 — Schwerpunkt Heimatregion. Neu hinzugekommen sind Mannheim, Karlsruhe und die Orte dazwischen. Ehrlicher Status pro Eintrag: 🟢 geprüfte Ausschreibung · 📋 Programm (Bewerbungsfenster prüfen) · ✍️ Initiativbewerbung · 🔎 Karriereseite (selbst prüfen). Sofort bewerbbar sind die FZI-HiWi-Stelle für ein LLM-ChatBot-System in Karlsruhe, die Werkstudentenstelle bei inovex, der Working Student bei IONOS sowie die Nachhilfe beim Studentenring Mannheim mit 15–21 €/Stunde. Die Norwegen- und Open-Source-Einträge stammen vom Lauf am 28.08. und wurden nicht erneut geprüft. Drängende Fristen: ESA-Praktika öffnen im November, MPIA im Dezember mit Frist Januar 2027, HiWi am ZLL der Uni Mannheim bis 30.09.2026, Andøya Space bis 31.12.2026, Master-Bewerbung Norwegen vom 1. Februar bis 1. März 2027.",
  "skill_gap": [
@@ -24,12 +119,12 @@
    "of": 33
   },
   {
-   "skill": "Machine Learning",
+   "skill": "NumPy",
    "count": 9,
    "of": 33
   },
   {
-   "skill": "NumPy",
+   "skill": "Machine Learning",
    "count": 9,
    "of": 33
   },
@@ -69,7 +164,8 @@
    "url": "https://www.ntnu.edu/studies/admissions/master",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Summer Internship Programme 2027 (Mai–September)",
@@ -92,7 +188,33 @@
    "url": "https://www.mpia.de/en/careers/internships/summer",
    "first_seen": "2026-07-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
+  },
+  {
+   "title": "AI & Automation Specialist (m/w/d)",
+   "employer": "Bilfinger SE",
+   "location": "Mannheim (0 min, Wohnort)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 74,
+   "tier": "must_apply",
+   "why": "Die Ausschreibung (Req-ID 71114, unbefristet) beschreibt fast wörtlich deine MVV-Tätigkeit: KI-Use-Cases mit Fachbereichen identifizieren, Lösungen mit Copilot und Power Platform bauen, Prozessautomatisierung per RPA und Low-Code, dazu Architektur- und Governance-Konzepte mit End-to-End-Verantwortung. Verlangt wird ein abgeschlossenes Studium plus erste Erfahrung in einem der Bereiche — das erfüllst du mit Copilot Studio, Power Automate und dem Market Intelligence Center übererfüllt. Direkt über das Bilfinger-Portal bewerben und das M&A-Agentensystem mit Human-in-the-Loop-Freigabe als Referenzprojekt setzen.",
+   "pay": "",
+   "skills": [
+    "Copilot Studio",
+    "Power Automate",
+    "Python",
+    "SQL",
+    "Low-Code"
+   ],
+   "url": "https://jobs.bilfinger.com/job/Mannheim-AI-&-Automation-Specialist-(mwd)-BW-68163/1411133833/",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
   },
   {
    "title": "Summer Internship Programme 2027 (6 Wochen, Juni–August)",
@@ -116,7 +238,33 @@
    "url": "https://www.simula.no/careers/summer-internships",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
+  },
+  {
+   "title": "AI Engineer / Data Scientist (m/w/d) – Machine Learning & Generative AI",
+   "employer": "HMS Analytical Software GmbH",
+   "location": "Heidelberg (~15 min Bahn)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 70,
+   "tier": "must_apply",
+   "why": "Ausdrücklich für Berufseinsteiger UND Berufserfahrene ausgeschrieben — die seltene Kombination aus echter GenAI-Gestaltungsrolle und offener Tür für Absolventen. Inhalt: ML- und GenAI-Lösungen in Python, LLMOps und MLOps mit Versionierung und CI/CD, APIs, Microservices, Datenpipelines. Deckt sich mit deiner RAG- und Multi-Agenten-Erfahrung aus Siemens und MVV. Über Jetzt bewerben gehen und Kai Brodmann als fachlichen Kontakt ansprechen; Voll- und Teilzeit möglich.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "Docker",
+    "Git",
+    "Cloud"
+   ],
+   "url": "https://karriere.analytical-software.de/Data-Scientist-mwd-de-j28.html",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
   },
   {
    "title": "Sommerjobber i KSAT – Software für den Antennenpark-Betrieb",
@@ -139,7 +287,8 @@
    "url": "https://www.kongsberg.com/careers/vacancies/sommerjobber-i-ksat/",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "ESA Science Internships (ESAC Madrid / ESTEC Noordwijk)",
@@ -163,7 +312,8 @@
    "url": "https://www.cosmos.esa.int/web/science-internships/internship-opportunities",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Studentische Hilfskraft im Research Software Engineering",
@@ -187,7 +337,8 @@
    "url": "https://www.ssc.uni-heidelberg.de/en/what-the-scientific-software-center-is-all-about/open-positions",
    "first_seen": "2026-07-29",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Summer Internship Programme (7 Wochen) – Sommer 2027",
@@ -210,7 +361,32 @@
    "url": "https://www.kongsberg.com/careers/summer-interns/",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
+  },
+  {
+   "title": "Business AI & Data Architect (m/w/d)",
+   "employer": "Bilfinger SE",
+   "location": "Mannheim (0 min, Wohnort)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 64,
+   "tier": "must_apply",
+   "why": "Das inhaltlich nächste Äquivalent zum Zielbild Digitalisierungsarchitekt, und zwar in Mannheim: unternehmensweite Daten- und KI-Architektur, Fachanforderungen in skalierbare Lösungen übersetzen, Technologieauswahl, Data Governance, Responsible AI (Req-ID 68684, unbefristet). Ehrlich: gefordert ist mehrjährige Architekturerfahrung, für einen Bachelor ein Stretch — aber genau hier gilt: trotzdem bewerben. Parallel zur AI-&-Automation-Stelle einreichen und im Gespräch nach einer Junior-Ausprägung fragen; zwei passende Vakanzen im selben Haus am Wohnort sind die beste Ausgangslage im ganzen Set.",
+   "pay": "",
+   "skills": [
+    "Datenarchitektur",
+    "Machine Learning",
+    "SQL",
+    "Cloud"
+   ],
+   "url": "https://jobs.bilfinger.com/job/Mannheim-Business-AI-&-Data-Architect-%28mwd%29-BW-68163/1277655501/",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
   },
   {
    "title": "SunPy: vier offene Good-First-Issues (u.a. #8445, #8416, #3800, #2784)",
@@ -234,7 +410,8 @@
    "url": "https://docs.sunpy.org/en/latest/dev_guide/contents/newcomers.html",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Sommerjobb i SINTEF (~100 Stellen pro Jahr) + SINTEF-Stipendium",
@@ -258,7 +435,8 @@
    "url": "https://www.sintef.no/en/sintef-group/career/students/",
    "first_seen": "2026-07-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Initiativbewerbung Astroinformatics-Gruppe (AIN)",
@@ -281,7 +459,8 @@
    "url": "https://www.h-its.org/hits-job/",
    "first_seen": "2026-07-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Studentische Hilfskraft – LLM-basiertes ChatBot-System (Vacancy 1254)",
@@ -303,8 +482,9 @@
    ],
    "url": "https://karriere.fzi.de/Vacancies/1254/Description/1",
    "first_seen": "2026-09-01",
-   "is_new": true,
-   "last_seen": "2026-09-01"
+   "is_new": false,
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Initiativbewerbung Sommer- oder Masterprojekt Solarphysik (RoCS)",
@@ -329,7 +509,8 @@
    "url": "https://www.mn.uio.no/astro/english/",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Initiativbewerbung Gaia-Datenverarbeitung am ARI",
@@ -352,7 +533,8 @@
    "url": "https://zah.uni-heidelberg.de/gaia",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Werkstudenten- und Praktikantenstellen am Hauptsitz Walldorf",
@@ -375,8 +557,33 @@
    ],
    "url": "https://jobs.sap.com/key/sap-werkstudent-walldorf.html",
    "first_seen": "2026-09-01",
-   "is_new": true,
-   "last_seen": "2026-09-01"
+   "is_new": false,
+   "last_seen": "2026-09-01",
+   "person": "oliver"
+  },
+  {
+   "title": "Developer (m/w/d) Agribusiness & Commodities Risk Analytics, Industry AI",
+   "employer": "SAP SE",
+   "location": "Walldorf (~25 min Bahn + Shuttle)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 60,
+   "tier": "must_apply",
+   "why": "Am 21.08.2026 ausgeschrieben (Req-ID 459192) und ausdrücklich mit Claude Code, EPX und Joule im Anforderungsprofil — genau dein Werkzeugkasten. Die Rolle baut Features und Agenten für Autonomous Commodity Management inklusive Forward Deployed Engineering beim Kunden; die Energie- und Rohstoffdomäne kennst du aus dem Market Intelligence Center. Verlangt sind 2+ Jahre Software Engineering, deine zwei Werkstudentenstationen sind argumentierbar; der SAP-Stack fehlt dir, also die Agenten-Erfahrung nach vorn stellen statt SAP-Technologie.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Java",
+    "Machine Learning",
+    "Git"
+   ],
+   "url": "https://jobs.sap.com/job/Walldorf-Developer-%28fmd%29-for-Agribusiness-&-Commodities-Risk-Analytics-in-Industry-AI-69190/1428698733/",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
   },
   {
    "title": "Google Summer of Code 2027 über OpenAstronomy",
@@ -400,7 +607,8 @@
    "url": "https://openastronomy.org/gsoc/",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Initiativbewerbung HiWi oder Bachelorarbeit Astroteilchenphysik (KATRIN, Pierre Auger, IceCube)",
@@ -422,8 +630,33 @@
    ],
    "url": "https://www.iap.kit.edu/english/contacts.php",
    "first_seen": "2026-09-01",
-   "is_new": true,
-   "last_seen": "2026-09-01"
+   "is_new": false,
+   "last_seen": "2026-09-01",
+   "person": "oliver"
+  },
+  {
+   "title": "Manager BI Reporting (m/w/d)",
+   "employer": "MVV Energie AG",
+   "location": "Mannheim (0 min, Wohnort)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 58,
+   "tier": "must_apply",
+   "why": "Kennziffer 2026-0250, unbefristet, Mannheim mit Teil-Remote, 79.000–107.400 € brutto — und der Zuschnitt ist praktisch dein Market Intelligence Center in Vollzeit: Power-BI-Dashboards eigenverantwortlich weiterentwickeln, Prozesse automatisieren, KI- und Big-Data-Anwendungen bewerten und einführen, ETL mit SQL und MS Fabric. Formal ist ein Master plus mehrjährige BI-Erfahrung gefordert, faktisch machst du die Arbeit im Haus bereits. Zuerst der interne Weg über deine Führungskraft in Corporate Strategy, erst danach extern bewerben.",
+   "pay": "79.000–107.400 € brutto",
+   "skills": [
+    "Power BI",
+    "MS Fabric",
+    "SQL",
+    "Python"
+   ],
+   "url": "https://www.mvv.de/karriere/jobportal/job/manager-bi-reporting-m-w-d",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
   },
   {
    "title": "Åpen søknad (offene Initiativbewerbung), Frist 31.12.2026",
@@ -445,7 +678,56 @@
    "url": "https://andoyaspace.no/career/",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
+  },
+  {
+   "title": "Projektmanager IT und Digitalisierung (m/w/d), Schwerpunkt Strom",
+   "employer": "MVV Energie AG",
+   "location": "Mannheim (0 min, Wohnort)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 56,
+   "tier": "must_apply",
+   "why": "Kennziffer 2026-0157, unbefristet, ab sofort, 76.900–104.500 € brutto — die derzeit gestalterischste Digitalisierungsrolle im MVV-Portal: Netzinfrastruktur analysieren, Smart-Grid-Lösungen umsetzen, Digitalisierungsinitiativen treiben, ausdrücklich mit Power Platform, RPA, KI und IoT. Gefordert sind Master und mehrjährige IT-Erfahrung — trotzdem sondieren, ob die Stelle auf Junior-Niveau zuschneidbar ist. Als eingearbeiteter Interner hast du den Zugang, den externe Bewerber nicht haben.",
+   "pay": "76.900–104.500 € brutto",
+   "skills": [
+    "Power Automate",
+    "Machine Learning",
+    "SQL",
+    "Projektmanagement"
+   ],
+   "url": "https://www.mvv.de/karriere/jobportal/job/projektmanager-it-und-digitalisierung-m-w-d-schwerpunkt-strom",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
+   "title": "AI Engineer (m/w/d)",
+   "employer": "bridgingIT GmbH",
+   "location": "Mannheim (0 min, Wohnort)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 54,
+   "tier": "interesting",
+   "why": "Neu ausgeschrieben, unbefristet, Voll- oder Teilzeit, remote-fähig; bridgingIT hat den Hauptsitz in Mannheim und einen eigenen Bereich Data & AI. Inhaltlich sehr passend: KI-Vorhaben beraten und umsetzen, Lösungen mit LLMs, OCR und Automatisierung entwerfen, Ergebnisse vor Stakeholdern vertreten. Die Anzeige verlangt mehrjährige Erfahrung — bewirb dich trotzdem, ohne Anschreiben (ausdrücklich nicht gefordert), und frag parallel per Initiativbewerbung nach einem Einstiegsprofil in Data & AI.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "SQL",
+    "Machine Learning",
+    "Cloud"
+   ],
+   "url": "https://www.stepstone.de/stellenangebote--AI-Engineer-wmd-Mannheim-Frankfurt-a-M-Muenchen-Stuttgart-BridgingIT-GmbH--14342910-inline.html",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
   },
   {
    "title": "HiWi-Stellen Scientific Computing, Big Data und Netzinfrastruktur",
@@ -468,7 +750,8 @@
    "url": "https://www.scc.kit.edu/en/jobs/index.php",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "helita – Solarphysik-Bibliothek der Universität Oslo",
@@ -492,7 +775,8 @@
    "url": "https://github.com/ITA-Solar/helita",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "HiWi-Jobbörse des KIT Career Service",
@@ -513,8 +797,9 @@
    ],
    "url": "https://www.careerservice.kit.edu/en/studierende/jobboerse/stud_hilfskraft/",
    "first_seen": "2026-09-01",
-   "is_new": true,
-   "last_seen": "2026-09-01"
+   "is_new": false,
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Werkstudent:in Softwareentwicklung",
@@ -536,8 +821,9 @@
    ],
    "url": "https://www.inovex.de/de/karriere/stellenangebote/werkstudent-im-bereich-softwareentwicklung/",
    "first_seen": "2026-09-01",
-   "is_new": true,
-   "last_seen": "2026-09-01"
+   "is_new": false,
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Astropy: Einstieg über Package-novice und Effort-low",
@@ -561,7 +847,8 @@
    "url": "https://docs.astropy.org/en/latest/development/quickstart.html",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Summer Jobs, Placements und Master-Thesis-Themen",
@@ -584,7 +871,8 @@
    "url": "https://www.nordicsemi.com/Careers/Students-and-Graduates",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Working Student Global IT Support & Collaboration Tooling",
@@ -605,8 +893,9 @@
    ],
    "url": "https://www.ionos-group.com/jobs-career/4924476101-working-student-fmd-global-it-support-collaboration-tooling.html",
    "first_seen": "2026-09-01",
-   "is_new": true,
-   "last_seen": "2026-09-01"
+   "is_new": false,
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Nachhilfe in Mathematik und Physik geben",
@@ -626,8 +915,33 @@
    ],
    "url": "https://mannheim.studentenring.de/jobs/nachhilfe-geben/",
    "first_seen": "2026-09-01",
-   "is_new": true,
-   "last_seen": "2026-09-01"
+   "is_new": false,
+   "last_seen": "2026-09-01",
+   "person": "oliver"
+  },
+  {
+   "title": "Werkstudent (m/w/d) Software Development, Data & AI",
+   "employer": "HMS Analytical Software GmbH",
+   "location": "Heidelberg (~15 min Bahn)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 50,
+   "tier": "interesting",
+   "why": "Fachlich starke Werkstudentenstelle und der beste Türöffner im Set: Mitarbeit in Software-, Daten- und KI-Projekten, eigenständige Umsetzung von ML-Use-Cases, ausdrücklich Offenheit für KI-gestützte Entwicklungswerkzeuge gefordert. Entscheidend ist die Kombination — HMS schreibt dieselbe Fachrichtung zeitgleich als Festanstellung für Berufseinsteiger aus. Ein Werkstudentenvertrag ab Oktober wäre also der direkte Weg in die Vollzeitrolle nach dem Abschluss.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Java",
+    "Machine Learning",
+    "Cloud"
+   ],
+   "url": "https://karriere.analytical-software.de/Werkstudent-mwd-Software-Development-Data-AI-de-j40.html",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
   },
   {
    "title": "MPIA Job Board (Software- und IT-Stellen)",
@@ -650,7 +964,8 @@
    "url": "https://www.mpia.de/study-and-career/jobboard",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Master in Space Physics / Masterprojekt am Birkeland Centre",
@@ -673,7 +988,8 @@
    "url": "https://birkeland.uib.no/study/",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Praktikums- und Jobbörse der Fakultät Wirtschaftsinformatik",
@@ -694,8 +1010,33 @@
    ],
    "url": "https://www.wim.uni-mannheim.de/en/internships-and-jobs/internship-and-job-board/",
    "first_seen": "2026-09-01",
-   "is_new": true,
-   "last_seen": "2026-09-01"
+   "is_new": false,
+   "last_seen": "2026-09-01",
+   "person": "oliver"
+  },
+  {
+   "title": "Big Data Engineer / AI Software Engineer (m/w/d)",
+   "employer": "Solve42 GmbH",
+   "location": "Mannheim (0 min, Wohnort)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 48,
+   "tier": "interesting",
+   "why": "Vor einer Woche neu ausgeschrieben, unbefristete Vollzeitstelle in Mannheim mit Remote-Option: Entwicklung von Big-Data-, KI- und ML-Lösungen, Architekturentwurf für KI-Modelle, Kundenberatung — Gestaltungsspielraum statt Zuarbeit, und das fußläufig. Gefordert sind drei Jahre Erfahrung und Spark/Databricks-Praxis. Bei kleineren Häusern lohnt der Versuch besonders, weil Profile dort individuell zugeschnitten werden: Kurzbewerbung mit gezielter Frage nach einem Junior-Einstieg.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Docker",
+    "Cloud",
+    "Machine Learning"
+   ],
+   "url": "https://www.stepstone.de/stellenangebote--Big-Data-Engineer-AI-Software-Engineer-m-w-d-Mannheim-Solve42-GmbH--13699556-inline.html",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
   },
   {
    "title": "Young Graduate Trainee Programme",
@@ -718,7 +1059,8 @@
    "url": "https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_the_ESA_Graduate_Trainee_Programme",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Ferienjobs im Werk Wiesloch-Walldorf",
@@ -739,7 +1081,32 @@
    "url": "https://www.heidelberg.com/global/de/about_heidelberg/career/career_overview.jsp",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
+  },
+  {
+   "title": "Master – SAP AI Engineering Architect (m/w/d)",
+   "employer": "SAP SE",
+   "location": "Walldorf (~25 min Bahn + Shuttle)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 46,
+   "tier": "interesting",
+   "why": "Am 16.08.2026 ausgeschrieben und offen (Req-ID 449524): Architekturentwurf, ML-Modelle, Datenpipelines und AI Security mit LangChain und LangGraph auf SAP BTP AI Core — thematisch exakt deine Multi-Agenten-Welt. Wichtig zur Einordnung: Master bezeichnet hier die SAP-Karrierestufe, nicht den Abschluss; gefordert sind rund zehn Jahre Erfahrung plus Mentoring. Lies die Anzeige als Zielbild für drei bis fünf Jahre und filtere bei SAP Walldorf stattdessen laufend nach Associate- und Early-Talent-Rollen mit KI-Bezug.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Java",
+    "Machine Learning",
+    "Cloud"
+   ],
+   "url": "https://jobs.sap.com/job/Walldorf-Master-SAP-AI-Engineering-Architect-(fmd)-69190/1376634333/",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
   },
   {
    "title": "Bachelor-Zulassung über Samordna opptak – Frist 15. April",
@@ -759,7 +1126,8 @@
    "url": "https://www.samordnaopptak.no/info/english/",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "ESA Datalabs – eigenes Notebook-Projekt mit Missionsdaten",
@@ -783,7 +1151,8 @@
    "url": "https://datalabs.esa.int/",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Werkstudierende und Praktika für Studierende (Softwareentwicklung, Data Science)",
@@ -804,8 +1173,32 @@
    ],
    "url": "https://karriere.basf.com/de/de/einstieg/studierende",
    "first_seen": "2026-09-01",
-   "is_new": true,
-   "last_seen": "2026-09-01"
+   "is_new": false,
+   "last_seen": "2026-09-01",
+   "person": "oliver"
+  },
+  {
+   "title": "Working Student (m/w/d) SAP AI/BTP Solutions, Experience Labs",
+   "employer": "SAP SE",
+   "location": "Walldorf (~25 min Bahn + Shuttle)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 44,
+   "tier": "interesting",
+   "why": "Am 25.08.2026 ausgeschrieben und offen (Req-ID 457736, Teilzeit, Präsenz in Walldorf): eigene KI-Szenarien auf SAP-BTP-Diensten bauen und Proof-of-Concepts für Kundentermine erstellen; gefordert sind Wirtschaftsinformatik sowie Deutsch und Englisch — passt. Sinnvoll, um vor dem Abschluss einen Fuß bei SAP in die Tür zu bekommen. Für die Zeit nach Dezember 2026 nur dann, wenn du für den Master ohnehin wieder immatrikuliert bist.",
+   "pay": "",
+   "skills": [
+    "Machine Learning",
+    "SQL",
+    "Python"
+   ],
+   "url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-for-SAP-AIBTP-solutions-for-Experience-Labs-69190/1429634133/",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
   },
   {
    "title": "Praktika, studentische Tätigkeiten und Abschlussarbeiten",
@@ -828,7 +1221,8 @@
    "url": "https://www.dlr.de/de/karriere/dein-einstieg/deine-karrierestufe/studierende-promovierende",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Online-Jobbörse des Studierendenwerks",
@@ -851,7 +1245,8 @@
    "url": "https://www.stw.uni-heidelberg.de/de/online_jobboerse",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01"
+   "last_seen": "2026-09-01",
+   "person": "oliver"
   },
   {
    "title": "Stellenangebote der Universität Mannheim (u. a. HiWi am ZLL, Frist 30.09.2026)",
@@ -871,8 +1266,32 @@
    ],
    "url": "https://www.uni-mannheim.de/en/about/working-at-the-university/job-vacancies/",
    "first_seen": "2026-09-01",
-   "is_new": true,
-   "last_seen": "2026-09-01"
+   "is_new": false,
+   "last_seen": "2026-09-01",
+   "person": "oliver"
+  },
+  {
+   "title": "Werkstudent (Geo-)Informatik – Digitale energetische Stadtentwicklung (m/w/d)",
+   "employer": "MVV Regioplan",
+   "location": "Mannheim (0 min, Wohnort)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 42,
+   "tier": "interesting",
+   "why": "Kennziffer 2026-0252, Mannheim mit Teil-Remote, 10–20 Stunden, befristet auf sechs Monate. Bemerkenswert ist die ausdrückliche Nennung von Human-in-the-Loop-Methoden mit LLM-Entwicklungswerkzeugen im Anforderungsprofil — genau das Muster aus deinem M&A-Agentensystem, hier auf Python-Geodatenverarbeitung übertragen. Führerschein Klasse B nötig. Interessant als interner Wechsel, falls du in Corporate Strategy an Grenzen stößt.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "SQL"
+   ],
+   "url": "https://www.mvv.de/karriere/jobportal/job/werkstudent-geo-informatik-digitale-energetische-stadtentwicklung-m-w-d",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
   },
   {
    "title": "Telefoninterviewer in der Meinungsforschung",
@@ -891,8 +1310,54 @@
    ],
    "url": "https://www.nebenjob-mannheim.de/",
    "first_seen": "2026-09-01",
-   "is_new": true,
-   "last_seen": "2026-09-01"
+   "is_new": false,
+   "last_seen": "2026-09-01",
+   "person": "oliver"
+  },
+  {
+   "title": "Initiativbewerbung AI Engineering",
+   "employer": "Aleph Alpha GmbH",
+   "location": "Heidelberg (~15 min Bahn)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Vollzeit",
+   "status": "initiative",
+   "score": 40,
+   "tier": "interesting",
+   "why": "Das öffentliche Stellenboard über die Ashby-API ausgelesen: derzeit ist dort genau eine Position offen, eine Assistenzstelle — keine einzige AI-Engineering-Vakanz. Der naheliegendste deutsche KI-Arbeitgeber in Bahnreichweite stellt fachlich also gerade nicht ein. Trotzdem lohnt die Initiativbewerbung mit der Bachelorarbeit als Aufhänger: Fehlermodi in einem produktiven Multi-Agenten-System ist genau das Thema, das ein LLM-Haus interessiert. Board monatlich nachprüfen, dort erscheinen Rollen sprunghaft.",
+   "pay": "",
+   "skills": [
+    "Machine Learning",
+    "Python"
+   ],
+   "url": "https://jobs.ashbyhq.com/AlephAlpha",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
+   "title": "Digitalisierung & IT – Stellenübersicht mit KI-Schwerpunkt",
+   "employer": "BASF SE",
+   "location": "Ludwigshafen (~5 min Bahn)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Vollzeit",
+   "status": "source",
+   "score": 38,
+   "tier": "backup",
+   "why": "Der größte KI-Arbeitgeber direkt vor der Haustür: BASF beschreibt einen eigenen Bereich Künstliche Intelligenz, der Lösungen in Produktion, Engineering, Forschung und Verwaltung umsetzt, und adressiert dort ausdrücklich Berufseinsteiger. Ehrlich: die Trefferliste unter basf.jobs lädt per JavaScript nach und war über mehrere Versuche nicht auslesbar, ältere Einzelanzeigen trugen abgelaufene IDs — deshalb bewusst nur die Bereichsseite statt einer erfundenen Stelle. Filter auf Digitalisierung und Informationstechnik setzen und einen Job-Alert einrichten.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "Cloud"
+   ],
+   "url": "https://karriere.basf.com/de/de/fachbereiche/digitalisierung",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
   }
  ]
 }
