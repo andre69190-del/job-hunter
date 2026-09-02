@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T18:55",
+ "updated": "2026-09-02T20:25",
  "default_person": "oliver",
  "people": {
   "oliver": {
@@ -10,43 +10,43 @@
    "skill_gap": [
     {
      "skill": "Python",
-     "count": 31,
-     "of": 33
+     "count": 32,
+     "of": 37
     },
     {
      "skill": "Linux",
      "count": 24,
-     "of": 33
+     "of": 37
     },
     {
      "skill": "Git",
      "count": 20,
-     "of": 33
+     "of": 37
     },
     {
      "skill": "C++",
      "count": 16,
-     "of": 33
-    },
-    {
-     "skill": "NumPy",
-     "count": 9,
-     "of": 33
+     "of": 37
     },
     {
      "skill": "Machine Learning",
      "count": 9,
-     "of": 33
+     "of": 37
+    },
+    {
+     "skill": "NumPy",
+     "count": 9,
+     "of": 37
     },
     {
      "skill": "Docker",
      "count": 7,
-     "of": 33
+     "of": 37
     },
     {
      "skill": "Astropy",
      "count": 5,
-     "of": 33
+     "of": 37
     }
    ],
    "portfolio_tips": [
@@ -59,42 +59,47 @@
    "label": "💼 Leonard",
    "goal": "Ziel: Stelle mit echter Gestaltungsverantwortung im KI-Umfeld · Bachelor 03.12.2026 · sonst Master ab Wintersemester 2027 mit Werkstudentenjob zur Überbrückung",
    "phase": "Phase 1 – Einstieg nach dem Bachelor (Vollzeit bevorzugt, Werkstudent als Brücke)",
-   "summary": "Stand 02.09.2026, Radius Mannheim und alles in etwa 45 Bahnminuten — mit ICE zählt Frankfurt dazu. Beratung ist jetzt eigener Schwerpunkt, weil du gern mit Menschen arbeitest. Bester Fund im ganzen Satz: Deloitte „Consultant AI Engineering“ — Mannheim ist ausdrücklich als Standort genannt, die Anzeige ist erst drei Tage alt, und gefordert sind Python, GenAI und Azure AI Foundry. Sofort bewerben. Capgemini Invent nennt den Bachelor ausdrücklich als ausreichend und Wirtschaftsinformatik als Wunschfach; Horváth hat einen expliziten Junior-Consultant-Pfad für Bachelorabsolventen. Zu den Fachschaftskontakten ehrlich: d-fine verlangt Bachelor plus angestrebten Master (das lässt sich im Gespräch erklären, weil der Master ab Wintersemester 2027 ohnehin der Plan B ist), Oliver Wymans Board lädt per JavaScript und die zwei auffindbaren Berliner Analystenstellen sind besetzt, BCG X ist in München verankert — das wäre ein Umzug, kein Pendeln. Korrektur zum letzten Lauf: Camelot ITLab gibt es nicht mehr eigenständig, Accenture hat die Mannheimer Gruppe übernommen. Weiter gilt: Die MVV-Stelle „Digitalisierungsarchitekt KI“ ist zu; Ersatz am Wohnort sind Bilfinger Mannheim (AI & Automation Specialist, verlangt nur „erste Erfahrung“) und HMS Analytical Software Heidelberg. Grundregel: „Master vorausgesetzt“ ist kein Ausschlusskriterium — die Lücke benennen und trotzdem bewerben. Zeitfenster: Für einen Start im Januar oder Februar 2027 müssen die Bewerbungen im September und Oktober raus; die großen Beratungen brauchen sechs bis zehn Wochen für ihren Prozess.",
+   "summary": "Stand 02.09.2026, Radius Mannheim und alles in etwa 45 Bahnminuten — mit ICE zählt Frankfurt dazu. Die Liste deckt jetzt beide Wege ab: Vollzeiteinstieg nach dem Bachelor und die Werkstudenten-/Praktikumsbrücke bis zum Master im Wintersemester 2027. Beste Vollzeittreffer: Deloitte „Consultant AI Engineering“ (Mannheim ausdrücklich als Standort, Anzeige drei Tage alt, Python/GenAI/Azure AI Foundry) und Bilfinger „AI & Automation Specialist“ in Mannheim, der fast wörtlich deine MVV-Tätigkeit beschreibt. Beste Brückenstellen: MVV „Werkstudent Data Analyst HR“ am Wohnort mit 17,75 €/Stunde — fachlich unter deinem Niveau, dafür kennst du das Haus; Drees & Sommer „Werkstudent KI & Digitalisierung im Tender Management“ in Mannheim, im Kern ein RAG-Use-Case mit Beratungsanteil, Anzeige einen Tag alt; und vier SAP-Werkstudentenstellen in Walldorf rund um AI/BTP und LLM-Evaluation. Ehrlich zu den Fachschaftskontakten: d-fine verlangt Bachelor plus angestrebten Master (lässt sich erklären, der Master ist ohnehin Plan B), Oliver Wymans Board lädt per JavaScript und die auffindbaren Analystenstellen sind besetzt, BCG X ist in München verankert — Umzug, kein Pendeln. Korrektur: Camelot ITLab gibt es nicht mehr eigenständig, Accenture hat die Mannheimer Gruppe übernommen. Die MVV-Stelle „Digitalisierungsarchitekt KI“ ist zu. Nicht bestätigbar waren BASF, Deutsche Bahn und PwC — Portale gesperrt oder Anzeigen zurückgezogen; deshalb bewusst keine Einträge statt erfundener. Grundregel bleibt: „Master vorausgesetzt“ ist kein Ausschlusskriterium — Lücke benennen und trotzdem bewerben. Zeitfenster: Für einen Start im Januar oder Februar 2027 müssen die Bewerbungen im September und Oktober raus; die großen Beratungen brauchen sechs bis zehn Wochen.",
    "skill_gap": [
     {
      "skill": "Python",
-     "count": 24,
-     "of": 26
-    },
-    {
-     "skill": "Machine Learning",
-     "count": 21,
-     "of": 26
+     "count": 33,
+     "of": 41
     },
     {
      "skill": "SQL",
-     "count": 18,
-     "of": 26
+     "count": 26,
+     "of": 41
     },
     {
-     "skill": "Cloud",
-     "count": 11,
-     "of": 26
+     "skill": "Machine Learning",
+     "count": 18,
+     "of": 41
     },
     {
      "skill": "Power BI",
-     "count": 4,
-     "of": 26
+     "count": 14,
+     "of": 41
+    },
+    {
+     "skill": "Cloud",
+     "count": 10,
+     "of": 41
     },
     {
      "skill": "Power Automate",
-     "count": 3,
-     "of": 26
+     "count": 8,
+     "of": 41
     },
     {
-     "skill": "Java",
-     "count": 3,
-     "of": 26
+     "skill": "RAG",
+     "count": 7,
+     "of": 41
+    },
+    {
+     "skill": "Copilot Studio",
+     "count": 4,
+     "of": 41
     }
    ],
    "portfolio_tips": [
@@ -104,7 +109,9 @@
     "Die Fachschaftskontakte zu Oliver Wyman, d-fine und BCG X sind bares Geld: eine warme Vorstellung schlägt jede Blindbewerbung.",
     "Beratung braucht ein anderes Anschreiben als Engineering: Nicht der Stack ist der Aufhänger, sondern dass du Ergebnisse erklären kannst. Ein Absatz über die M&A-Vorprüfungen — wem du was erklärt hast und was danach entschieden wurde — schlägt jede Technologieliste.",
     "Für die Beratungshäuser kommt fast immer ein Case-Interview. Zwei Wochen mit einem Übungspartner reichen für den Einstieg; die Fachschaft vermittelt meist Partner dafür.",
-    "Deloitte AI Engineering Mannheim zuerst, danach Capgemini Invent und Horváth. Alle drei parallel — Beratungsprozesse laufen unabhängig, und mehrere Angebote sind die einzige echte Verhandlungsposition."
+    "Deloitte AI Engineering Mannheim zuerst, danach Capgemini Invent und Horváth. Alle drei parallel — Beratungsprozesse laufen unabhängig, und mehrere Angebote sind die einzige echte Verhandlungsposition.",
+    "Bewirb dich parallel auf beiden Gleisen: Vollzeit bei Deloitte, Bilfinger und Capgemini — und gleichzeitig auf zwei, drei Werkstudentenstellen. Die Brücke muss stehen, bevor die Vollzeitabsagen kommen, nicht danach.",
+    "Bei Werkstudentenstellen ist die Einschreibung die einzige echte Hürde: Zwischen dem 03.12.2026 und dem Masterstart im Wintersemester 2027 bist du zeitweise nicht immatrikuliert. Sprich das im Erstgespräch offen an und biete für die Lücke ein Praktikum oder eine Aushilfstätigkeit an — viele Firmen stellen dann einfach um."
    ]
   }
  },
@@ -113,43 +120,43 @@
  "skill_gap": [
   {
    "skill": "Python",
-   "count": 31,
-   "of": 33
+   "count": 32,
+   "of": 37
   },
   {
    "skill": "Linux",
    "count": 24,
-   "of": 33
+   "of": 37
   },
   {
    "skill": "Git",
    "count": 20,
-   "of": 33
+   "of": 37
   },
   {
    "skill": "C++",
    "count": 16,
-   "of": 33
-  },
-  {
-   "skill": "NumPy",
-   "count": 9,
-   "of": 33
+   "of": 37
   },
   {
    "skill": "Machine Learning",
    "count": 9,
-   "of": 33
+   "of": 37
+  },
+  {
+   "skill": "NumPy",
+   "count": 9,
+   "of": 37
   },
   {
    "skill": "Docker",
    "count": 7,
-   "of": 33
+   "of": 37
   },
   {
    "skill": "Astropy",
    "count": 5,
-   "of": 33
+   "of": 37
   }
  ],
  "portfolio_tips": [
@@ -234,8 +241,8 @@
    "employer": "Deloitte",
    "location": "Mannheim (0 min) / Frankfurt (~35 min, ICE)",
    "region": "Deutschland",
-   "category": "Karriere",
-   "type": "Beratung",
+   "category": "Beratung",
+   "type": "Vollzeit",
    "status": "verified",
    "score": 74,
    "tier": "must_apply",
@@ -258,8 +265,8 @@
    "employer": "Capgemini Invent",
    "location": "Frankfurt (~35 min, ICE) / Stuttgart (~40 min, ICE)",
    "region": "Deutschland",
-   "category": "Karriere",
-   "type": "Beratung",
+   "category": "Beratung",
+   "type": "Vollzeit",
    "status": "verified",
    "score": 72,
    "tier": "must_apply",
@@ -352,6 +359,29 @@
    "person": "oliver"
   },
   {
+   "title": "Werkstudent Data Analyst HR (m/w/d)",
+   "employer": "MVV Energie AG",
+   "location": "Mannheim (0 min Bahn, Heimatstandort)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 68,
+   "tier": "must_apply",
+   "why": "Das ist dein klarster Treffer: Du baust die zentrale HR-Daten- und Reporting-Infrastruktur mit auf, analysierst Personaldaten und -kosten, entwickelst Kennzahlen und Visualisierungen in Power BI und suchst Automatisierungspotenziale im Reporting. Power BI, SQL und Python stehen explizit als Pluspunkte in der Anzeige — genau dein Stack aus dem Market Intelligence Center. Und du kennst MVV bereits von innen, das ist ein enormer Vorteil im Prozess und ein sauberer interner Wechsel, falls dein aktueller Vertrag ausläuft. Ehrliche Einschränkung: Es ist HR-Controlling, nicht KI oder Agentensysteme — fachlich ein Rückschritt gegenüber deiner Bachelorarbeit, dafür aber inhaltlich solide und bezahlt mit 17,75 EUR brutto/Stunde. Die Stelle ist auf 6 Monate befristet und ab sofort zu besetzen; bewirb dich über das MVV-Jobportal (Kennziffer 2026-0271) mit tabellarischem Lebenslauf, gültiger Immatrikulationsbescheinigung und aktuellem Notenspiegel — und sprich intern vorher kurz mit deiner jetzigen Führungskraft.",
+   "pay": "17,75 EUR brutto/Stunde",
+   "skills": [
+    "Power BI",
+    "SQL",
+    "Python"
+   ],
+   "url": "https://www.mvv.de/karriere/jobportal/job/werkstudent-data-analyst-hr-m-w-d",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
    "title": "ESA Science Internships (ESAC Madrid / ESTEC Noordwijk)",
    "employer": "European Space Agency (ESA)",
    "location": "Madrid / Noordwijk",
@@ -406,8 +436,8 @@
    "employer": "Horváth",
    "location": "Frankfurt (~35 min, ICE) / Stuttgart (~40 min, ICE)",
    "region": "Deutschland",
-   "category": "Karriere",
-   "type": "Beratung",
+   "category": "Beratung",
+   "type": "Vollzeit",
    "status": "verified",
    "score": 66,
    "tier": "must_apply",
@@ -478,8 +508,8 @@
    "employer": "Deloitte",
    "location": "Frankfurt (~35 min, ICE), Standorte nicht ausgewiesen",
    "region": "Deutschland",
-   "category": "Karriere",
-   "type": "Beratung",
+   "category": "Beratung",
+   "type": "Vollzeit",
    "status": "verified",
    "score": 64,
    "tier": "must_apply",
@@ -498,12 +528,36 @@
    "is_new": true
   },
   {
+   "title": "Werkstudent (w/m/d) KI & Digitalisierung im Tender Management",
+   "employer": "Drees & Sommer SE",
+   "location": "Mannheim / Karlsruhe (0 bzw. ~30 min ICE)",
+   "region": "Deutschland",
+   "category": "Beratung",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 64,
+   "tier": "must_apply",
+   "why": "Hier geht es genau um das, was du kannst und magst: Du digitalisierst und automatisierst Akquiseprozesse, analysierst öffentliche Ausschreibungsunterlagen und entwickelst KI-basierte Lösungen zu deren Auswertung — das ist im Kern ein RAG-/Dokumentenverarbeitungs-Use-Case, mit dem du dich bei MVV schon beschäftigt hast. Dazu Recherche, Managementpräsentationen und Mitarbeit in Digitalisierungs-Innovationsprojekten, also der Beratungsanteil, den du suchst. Die Anzeige nennt ausdrücklich praktische KI-Erfahrung mit ChatGPT, Microsoft Copilot und Prompt Engineering — das kannst du mit deiner Bachelorarbeit und deinem Copilot-Studio-Hintergrund deutlich übererfüllen. Ehrliche Einschränkung: Als Studiengang werden Bauingenieurwesen, Architektur, Bauinformatik oder Ingenieurwesen genannt; Wirtschaftsinformatik steht nicht dabei, du musst also im Anschreiben aktiv die Brücke bauen (Prozessautomatisierung + KI schlagen Baufachwissen). Die Anzeige ist erst einen Tag alt — bewirb dich zügig über StepStone bzw. das Drees-&-Sommer-Karriereportal, Mannheim als Standort angeben.",
+   "pay": "",
+   "skills": [
+    "Power Automate",
+    "Copilot Studio",
+    "RAG",
+    "Python"
+   ],
+   "url": "https://www.stepstone.de/stellenangebote--Werkstudent-w-m-d-KI-Digitalisierung-im-Tender-Management-Karlsruhe-Mannheim-Stuttgart-Vaihingen-Drees-Sommer-SE--14447490-inline.html",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
    "title": "(Senior) Consultant Data Science – AI and Data (w/m/d)",
    "employer": "EY",
    "location": "Eschborn bei Frankfurt (~45 min, ICE + S-Bahn)",
    "region": "Deutschland",
-   "category": "Karriere",
-   "type": "Beratung",
+   "category": "Beratung",
+   "type": "Vollzeit",
    "status": "verified",
    "score": 63,
    "tier": "must_apply",
@@ -624,8 +678,8 @@
    "employer": "d-fine",
    "location": "Frankfurt (~35 min, ICE), auch Düsseldorf und München",
    "region": "Deutschland",
-   "category": "Karriere",
-   "type": "Beratung",
+   "category": "Beratung",
+   "type": "Vollzeit",
    "status": "program",
    "score": 62,
    "tier": "must_apply",
@@ -641,6 +695,54 @@
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
    "is_new": true
+  },
+  {
+   "title": "Werkstudent (m/w/d) Global Master Data Management",
+   "employer": "FUCHS SE",
+   "location": "Mannheim (0 min Bahn)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 62,
+   "tier": "must_apply",
+   "why": "Du unterstützt die Bereitstellung und Integration von Unternehmensdaten, führst Datenqualitätsprüfungen mit Microsoft Fabric und KNIME durch und erstellst Analysen und Reports für Stakeholder in einem internationalen Team. Microsoft Fabric steht wörtlich in der Anzeige — das hast du bei MVV bereits eingesetzt, du bringst also nicht nur Interesse, sondern belegbare Praxis mit. Wirtschaftsinformatik wird explizit als passender Studiengang genannt, und FUCHS sitzt direkt in Mannheim, also null Pendelzeit. Ehrliche Einschränkung: Master Data Management ist ein eher operatives Datenqualitätsthema, kein GenAI — die Zuarbeit-Komponente ist real, aber das ist laut deiner Vorgabe ausdrücklich okay. Verhandlungssicheres Englisch wird gefordert, was mit C1 kein Problem ist. Die Anzeige ist rund eine Woche alt; bewirb dich über StepStone bzw. das FUCHS-Karriereportal und stelle MS Fabric und Power BI im Lebenslauf ganz nach oben.",
+   "pay": "",
+   "skills": [
+    "MS Fabric",
+    "Power BI",
+    "SQL",
+    "Python"
+   ],
+   "url": "https://www.stepstone.de/stellenangebote--Werkstudent-m-w-d-Global-Master-Data-Management-Mannheim-FUCHS-SE--14391869-inline.html",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
+   "title": "Working Student (f/m/d) for SAP AI/BTP solutions for Experience Labs",
+   "employer": "SAP SE",
+   "location": "Walldorf (~25 min S-Bahn bis Wiesloch-Walldorf + Shuttle)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 61,
+   "tier": "must_apply",
+   "why": "Du entwickelst Storylines über das SAP-BTP- und AI-Portfolio, organisierst technische Projekte rund um Business Data Cloud und Business-AI-Use-Cases und baust AI-Szenarien und Proof-of-Concepts. Genannt werden AI Core und der Generative AI Hub — das ist die SAP-Entsprechung dessen, was du mit OpenAI- und Gemini-APIs schon gebaut hast, und der Mix aus Bauen und Kundenkontakt trifft deinen Wunsch nach Kommunikation gut. Wirtschaftsinformatik ist ausdrücklich als Studiengang gelistet. Ehrliche Einschränkung: Die Anzeige verlangt Java sowie Frontend-Kenntnisse (JavaScript, UI5, Angular, HTML/CSS, REST/OData) — Java hast du, UI5 und Angular vermutlich nicht; React/Next.js ist aber ein tragfähiges Argument. Hybrid, Teilzeit befristet, veröffentlicht am 25.08.2026. Bewirb dich über jobs.sap.com; SAP verlangt in der Regel Lebenslauf, Anschreiben, Notenspiegel und Immatrikulationsbescheinigung.",
+   "pay": "",
+   "skills": [
+    "Java",
+    "React/Next.js",
+    "OpenAI-/Gemini-APIs",
+    "RAG"
+   ],
+   "url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-for-SAP-AIBTP-solutions-for-Experience-Labs-69190/1429634133/",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "is_new": true,
+   "last_seen": "2026-09-02"
   },
   {
    "title": "Initiativbewerbung Sommer- oder Masterprojekt Solarphysik (RoCS)",
@@ -746,8 +848,8 @@
    "employer": "Horváth",
    "location": "Frankfurt (~35 min, ICE) / Stuttgart (~40 min, ICE)",
    "region": "Deutschland",
-   "category": "Karriere",
-   "type": "Beratung",
+   "category": "Beratung",
+   "type": "Vollzeit",
    "status": "verified",
    "score": 60,
    "tier": "must_apply",
@@ -764,6 +866,54 @@
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
    "is_new": true
+  },
+  {
+   "title": "Intern/Thesis/Working Student (f/m/d) - Evaluating and Improving LLM-based SE Solutions in SAP HANA",
+   "employer": "SAP SE",
+   "location": "Walldorf (~25 min S-Bahn + Shuttle)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 60,
+   "tier": "must_apply",
+   "why": "Das ist inhaltlich die nächste Verwandte deiner Bachelorarbeit: Es geht um Testgenerierung, Fault Localization, LLM-as-a-Judge, Incident-Analyse und Code-Review-Automatisierung — also um die Frage, wo LLM-basierte Systeme im Produktivbetrieb versagen und wie man das misst. Genau darüber schreibst du gerade mit dem Lehrstuhl für KI und MVV. Aktuelle Modelle und GPU-Hardware werden gestellt, und die Stelle ist bewusst für Praktikum, Abschlussarbeit oder Werkstudententätigkeit offen, was dir Flexibilität für Dezember 2026 bis Herbst 2027 gibt. Ehrliche Einschränkung: SAP verlangt hier sehr gute Noten per Transcript of Records und nachgewiesene ML-/LLM-Erfahrung aus Projekten — dein Notenbild musst du also selbst einschätzen; präsentiert wird typischerweise ein Informatik-/Data-Science-Profil, du kommst aus der Wirtschaftsinformatik. Kein Remote, Präsenz in Walldorf erwartet. Veröffentlicht am 19.08.2026; bewirb dich über jobs.sap.com und leg deine Bachelorarbeit als Arbeitsprobe bei.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "RAG",
+    "Multi-Agenten-Workflows",
+    "OpenAI-/Gemini-APIs"
+   ],
+   "url": "https://jobs.sap.com/job/Walldorf-InternThesisWorking-Student-%28fmd%29-Evaluating-and-Improving-LLM-based-SE-Solutions-in-SAP-HANA-69190/1427816733/",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
+   "title": "Werkstudent (mwd) Software Development, Data & AI",
+   "employer": "HMS Analytical Software GmbH",
+   "location": "Heidelberg (~15 min Bahn)",
+   "region": "Deutschland",
+   "category": "Beratung",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 59,
+   "tier": "must_apply",
+   "why": "HMS ist ein Data-Science- und Software-Engineering-Beratungshaus, das heisst du arbeitest in Kundenprojekten und nicht nur im Innendienst — das passt zu deinem Wunsch nach Beratung. Inhaltlich: Mitarbeit in Softwareentwicklungs-, Data- und AI-Projekten, Anwendungen zur Datenverarbeitung und -analyse, Machine-Learning- und AI-Use-Cases. Python und Java stehen in der Anzeige, ebenso ausdrücklich Offenheit für KI-gestützte Entwicklungswerkzeuge — dein Profil deckt das direkt ab. Heidelberg ist in einer Viertelstunde erreichbar, das ist logistisch die bequemste Option nach Mannheim selbst. Ehrliche Einschränkung: Als Studiengänge werden Informatik und Naturwissenschaften genannt, Wirtschaftsinformatik ist Auslegungssache; ausserdem sind Berlin und Ulm als Alternativstandorte gelistet, du musst Heidelberg aktiv anfragen. Kein Gehalt genannt. Bewerbung online über das Karriereportal karriere.analytical-software.de.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Java",
+    "SQL",
+    "RAG"
+   ],
+   "url": "https://karriere.analytical-software.de/Werkstudent-mwd-Software-Development-Data-AI-de-j40.html",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "is_new": true,
+   "last_seen": "2026-09-02"
   },
   {
    "title": "Google Summer of Code 2027 über OpenAstronomy",
@@ -843,8 +993,8 @@
    "employer": "Oliver Wyman",
    "location": "Frankfurt (~35 min, ICE), auch München und Düsseldorf",
    "region": "Deutschland",
-   "category": "Karriere",
-   "type": "Beratung",
+   "category": "Beratung",
+   "type": "Vollzeit",
    "status": "program",
    "score": 58,
    "tier": "must_apply",
@@ -885,6 +1035,29 @@
    "person": "oliver"
   },
   {
+   "title": "Working Student (f/m/d) - Optimization of Processes leveraging AI in the Business Transformation",
+   "employer": "SAP SE",
+   "location": "Walldorf (~25 min S-Bahn + Shuttle)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 57,
+   "tier": "must_apply",
+   "why": "Die Aufgabe ist eine Mischung aus Inhouse-Beratung und Prozessautomatisierung: Du treibst Kundeneinsätze und Stakeholder-Alignment, identifizierst Use Cases, um KI und Automatisierung über Workflows hinweg einzusetzen, arbeitest an der Business-Transformation-Methodik mit und wertest KPIs aus. Genannt werden Signavio, LeanIX, WalkMe und Power BI — Power BI kannst du, der Rest ist in wenigen Wochen lernbar, und Use-Case-Identifikation für KI ist genau das, was du bei MVV im Market Intelligence Center gemacht hast. Ehrliche Einschränkung, und die ist hart: Die Anzeige verlangt eine Immatrikulation mindestens bis Ende 2027. Dein Bachelor endet am 03.12.2026, der Master startet erst im Wintersemester 2027 — dazwischen liegt eine Lücke. Sprich das offensiv im Anschreiben an und nenne den geplanten Masterstart; SAP handhabt das im Einzelfall unterschiedlich, ein Versuch ist es allemal wert. Veröffentlicht am 01.09.2026, Bewerbung über jobs.sap.com.",
+   "pay": "",
+   "skills": [
+    "Power BI",
+    "Power Automate",
+    "Multi-Agenten-Workflows"
+   ],
+   "url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-Optimization-of-Processes-leveraging-AI-in-the-Business-Transformation-69190/1412094533/",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
    "title": "Projektmanager IT und Digitalisierung (m/w/d), Schwerpunkt Strom",
    "employer": "MVV Energie AG",
    "location": "Mannheim (0 min, Wohnort)",
@@ -913,8 +1086,8 @@
    "employer": "Deloitte",
    "location": "Frankfurt (~35 min, ICE), Standorte nicht ausgewiesen",
    "region": "Deutschland",
-   "category": "Karriere",
-   "type": "Beratung",
+   "category": "Beratung",
+   "type": "Vollzeit",
    "status": "verified",
    "score": 56,
    "tier": "must_apply",
@@ -927,6 +1100,29 @@
     "Python"
    ],
    "url": "https://job.deloitte.com/job-ai-governance-masterclass-dein-einstieg-als-consultant-data-management-mwd-_50212",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
+   "title": "Praktikant / Werkstudent Innovation & Technology - Tax & Legal (m/w/d)",
+   "employer": "Deloitte GmbH",
+   "location": "Mannheim / Frankfurt a. M. (0 bzw. ~35 min ICE)",
+   "region": "Deutschland",
+   "category": "Beratung",
+   "type": "Praktikum",
+   "status": "verified",
+   "score": 55,
+   "tier": "must_apply",
+   "why": "Der einzige Treffer bei den grossen Beratungen, der Mannheim als Standort wirklich anbietet — und inhaltlich geht es um die Weiterentwicklung KI-basierter Lösungen zur Digitalisierung der Steuerbranche: KI-Modelle trainieren und verbessern, technisches Feedback zur Produktentwicklung geben, qualitative und quantitative Recherche zu Fragestellungen rund um innovative Technologien. Generative AI wird ausdrücklich genannt. Für dich ist das die Chance, Beratungsluft in einer Big Four zu schnuppern, ohne nach München oder Berlin zu ziehen, und Teilzeit wie Vollzeit sind möglich — also sowohl als Werkstudentenjob neben dem Master als auch als Praktikum ab Dezember 2026 denkbar. Ehrliche Einschränkung: Gesucht werden primär Studierende der Wirtschaftswissenschaften oder Jura mit Steuerschwerpunkt, überdurchschnittliche Leistungen vorausgesetzt. Steuerrecht ist bei dir eine Leerstelle; deine Karte ist der Technologieteil. Die Anzeige ist einen Tag alt — bewirb dich schnell und nenne Mannheim explizit als Wunschstandort.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "RAG",
+    "OpenAI-/Gemini-APIs"
+   ],
+   "url": "https://www.stepstone.de/stellenangebote--Praktikant-Werkstudent-Innovation-Technology-Tax-Legal-m-w-d-Duesseldorf-Dresden-Frankfurt-Hamburg-Hannover-Koeln-Leipzig-Magdeburg-Mannheim-Muenchen-Deloitte--14448755-inline.html",
+   "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
    "is_new": true
@@ -960,8 +1156,8 @@
    "employer": "bridgingIT",
    "location": "Mannheim (0 min, Wohnort)",
    "region": "Deutschland",
-   "category": "Karriere",
-   "type": "Beratung",
+   "category": "Beratung",
+   "type": "Vollzeit",
    "status": "initiative",
    "score": 54,
    "tier": "interesting",
@@ -1001,6 +1197,50 @@
    "is_new": false,
    "last_seen": "2026-09-01",
    "person": "oliver"
+  },
+  {
+   "title": "Working Student (f/m/d) - Chief of Staff Office - Business Data Cloud Fabric & Data",
+   "employer": "SAP SE",
+   "location": "Walldorf (~25 min S-Bahn + Shuttle)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 53,
+   "tier": "interesting",
+   "why": "Das ist SAPs Version von Inhouse-Strategie: Du unterstützt Executive Meetings und Quarterly Business Reviews, baust Präsentationen und Kommunikationsmaterial, bereitest Townhalls vor, analysierst Workforce- und Budgetdaten und recherchierst strategische Themen als Entscheidungsgrundlage fürs Leadership. Das entspricht ziemlich genau deiner Rolle in der Corporate Strategy bei MVV, nur in einem deutlich grösseren Konzern und im Umfeld Business Data Cloud — thematisch also nah an Daten, ohne selbst zu bauen. Wirtschaftsinformatik wird als Wunschstudiengang genannt, und KI-Tools wie Copilot, ChatGPT und Claude sind ausdrücklich als optionale Skills gelistet. Ehrliche Einschränkung: Es ist im Kern eine Assistenz- und Aufbereitungsrolle mit viel PowerPoint, Excel, SharePoint und Jira — technisch fordert sie dich nicht. Als Überbrückung mit gutem Namen im Lebenslauf funktioniert sie trotzdem. Veröffentlicht am 11.08.2026; Bewerbung über jobs.sap.com.",
+   "pay": "",
+   "skills": [
+    "Power BI",
+    "SQL"
+   ],
+   "url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-Chief-of-Staff-Office-Business-Data-Cloud-Fabric-&-Data-69190/1425336933/",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
+   "title": "SAP MEE Strategy & Operations iXp Intern (f/m/d) - Strategic Project Management Officer",
+   "employer": "SAP SE",
+   "location": "Walldorf (~25 min S-Bahn + Shuttle)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Praktikum",
+   "status": "verified",
+   "score": 53,
+   "tier": "interesting",
+   "why": "Ein 5- bis 6-monatiges bezahltes Praktikum, das zeitlich fast perfekt auf dein Fenster Januar bis Juni 2027 fällt: Du treibst cross-funktionale strategische Initiativen von der Problemstrukturierung bis zur Umsetzung, machst quantitative und qualitative Analysen und bereitest Executive-taugliche Empfehlungen sowie Steering Committees vor. Das ist echte Strategiearbeit mit viel Kommunikation — genau der Beratungscharakter, den du suchst — und die Anzeige stellt eine anschliessende Werkstudentenstelle in Aussicht, was deine Überbrückung bis zum Masterstart in einem Rutsch lösen könnte. Ehrliche Einschränkung: Gefordert ist eine laufende Einschreibung in einem fortgeschrittenen Bachelor- oder Masterprogramm; für Januar 2027 wärst du formal zwischen zwei Abschlüssen. Bewirb dich trotzdem und erwähne den Masterstart zum Wintersemester 2027. Unterlagen laut Anzeige: einseitiger Lebenslauf, Anschreiben mit maximal 150 Wörtern, Notenspiegel, Immatrikulationsbescheinigung. Bewerbung über jobs.sap.com.",
+   "pay": "bezahltes Praktikum, Höhe nicht genannt",
+   "skills": [
+    "Power BI",
+    "SQL"
+   ],
+   "url": "https://jobs.sap.com/job/Walldorf-SAP-MEE-Strategy-&-Operations-iXp-Intern-%28fmd%29-Strategic-Project-Management-Officer-69190/1411000733/",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
   },
   {
    "title": "helita – Solarphysik-Bibliothek der Universität Oslo",
@@ -1055,8 +1295,8 @@
    "employer": "BCG X",
    "location": "München (außerhalb des Radius)",
    "region": "Deutschland",
-   "category": "Karriere",
-   "type": "Beratung",
+   "category": "Beratung",
+   "type": "Vollzeit",
    "status": "source",
    "score": 52,
    "tier": "interesting",
@@ -1096,6 +1336,29 @@
    "is_new": false,
    "last_seen": "2026-09-01",
    "person": "oliver"
+  },
+  {
+   "title": "Praktikant Data Analyst HR (m/w/d)",
+   "employer": "MVV Energie AG",
+   "location": "Mannheim (0 min Bahn)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Praktikum",
+   "status": "verified",
+   "score": 51,
+   "tier": "interesting",
+   "why": "Die Praktikumsvariante zur MVV-Werkstudentenstelle, inhaltlich identisch: Aufbau der HR-Daten- und Reporting-Infrastruktur, Analyse von Personaldaten und -kosten, Kennzahlen und Visualisierungen in Power BI, Automatisierung von Reporting-Prozessen. Power BI, SQL und Python sind als Vorteil genannt. Für dich ist das die Absicherung, falls du lieber ein Vollzeit-Praktikum mit klarem Ende als einen Teilzeitjob willst. Ehrliche Einschränkung, und die ist wichtig: Als Startdatum steht der 28.08.2026 in der Anzeige, also bereits vergangen, und die Laufzeit beträgt nur 3 Monate — die Stelle könnte inzwischen vergeben sein, auch wenn sie im Portal noch online ist. Ruf vor der Bewerbung kurz durch und frag, ob ein späterer Start ab Dezember 2026 oder Januar 2027 möglich ist; als MVV-Insider hast du den kurzen Draht. Kennziffer 2026-0272, Bewerbung über das MVV-Jobportal mit Lebenslauf, Immatrikulationsbescheinigung und Notenspiegel.",
+   "pay": "",
+   "skills": [
+    "Power BI",
+    "SQL",
+    "Python"
+   ],
+   "url": "https://www.mvv.de/karriere/jobportal/job/praktikant-data-analyst-hr-m-w-d",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
   },
   {
    "title": "Astropy: Einstieg über Package-novice und Effort-low",
@@ -1192,24 +1455,69 @@
    "person": "oliver"
   },
   {
-   "title": "Werkstudent (m/w/d) Software Development, Data & AI",
-   "employer": "HMS Analytical Software GmbH",
-   "location": "Heidelberg (~15 min Bahn)",
+   "title": "Working student (f/m/d) - Data Analytics",
+   "employer": "IONOS SE",
+   "location": "Karlsruhe (~30 min ICE)",
    "region": "Deutschland",
    "category": "Karriere",
    "type": "Werkstudent",
    "status": "verified",
    "score": 50,
    "tier": "interesting",
-   "why": "Fachlich starke Werkstudentenstelle und der beste Türöffner im Set: Mitarbeit in Software-, Daten- und KI-Projekten, eigenständige Umsetzung von ML-Use-Cases, ausdrücklich Offenheit für KI-gestützte Entwicklungswerkzeuge gefordert. Entscheidend ist die Kombination — HMS schreibt dieselbe Fachrichtung zeitgleich als Festanstellung für Berufseinsteiger aus. Ein Werkstudentenvertrag ab Oktober wäre also der direkte Weg in die Vollzeitrolle nach dem Abschluss.",
+   "why": "Eine breit angelegte Business-Analytics-Rolle: Du nimmst fachliche Anforderungen auf und dokumentierst sie, analysierst bestehende Geschäftsprozesse, Systeme und Daten, arbeitest an Lösungsentwicklung und Prozessverbesserungen mit und übernimmst Reporting, Massnahmencontrolling sowie KPI- und Performance-Management, dazu Markt- und Wettbewerbsanalysen. Der Mix aus Prozessanalyse und Zahlen liegt genau zwischen deiner Siemens- und deiner MVV-Station, und Wirtschaftsinformatik ist als Studiengang ausdrücklich genannt. SQL und Datenvisualisierung stehen in den Anforderungen. Ehrliche Einschränkung: Die Anzeige ist inhaltlich generisch gehalten, KI kommt nicht vor, und Karlsruhe bedeutet pro Tag rund eine Stunde Bahn hin und zurück plus Fussweg — mit ICE machbar, aber nur, wenn die Wochentage gebündelt sind. Kein Gehalt genannt, kein Bewerbungsschluss. Bewerbung über das Online-Formular auf jobs.ionos.de.",
+   "pay": "",
+   "skills": [
+    "SQL",
+    "Power BI",
+    "Python"
+   ],
+   "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/869-working-student-fmd-data-analytics",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
+   "title": "Praktikant (m/f/d) HR Controlling & Data Management",
+   "employer": "PHOENIX Pharma SE",
+   "location": "Mannheim (0 min Bahn)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Praktikum",
+   "status": "verified",
+   "score": 49,
+   "tier": "interesting",
+   "why": "Ein Vollzeitpraktikum direkt in Mannheim mit einer der wenigen konkret genannten Vergütungen in dieser Liste: 2.322 EUR im Monat. Aufgaben sind monatliche und quartalsweise HR-Reports, Aufbau von Dashboards und Reporting-Templates, Datenextraktion, -bereinigung und -validierung, Managementpräsentationen mit KPI-Analysen, Trend- und Abweichungsanalysen sowie die Automatisierung von Reporting-Prozessen. Automatisierung und Dashboarding sind genau deine Power-BI-Themen, und die Präsentation Richtung Management passt zu deinem Wunsch, mit Menschen zu arbeiten. Ehrliche Einschränkung: Die Anzeige nennt als Werkzeug nur Excel, Power BI und SQL kommen nicht vor — das ist fachlich unter deinem Niveau, und gesucht werden eher HR-Management- oder BWL-Profile. Als bezahlte, gut gelegene Überbrückung ab Dezember 2026 ist es trotzdem eine sehr solide Absicherung. Start zum nächstmöglichen Zeitpunkt, teilweise Homeoffice; Bewerbung über StepStone bzw. das PHOENIX-Karriereportal.",
+   "pay": "2.322 EUR/Monat",
+   "skills": [
+    "Power BI",
+    "SQL"
+   ],
+   "url": "https://www.stepstone.de/stellenangebote--Praktikant-m-f-d-HR-Controlling-Data-Management-Mannheim-PHOENIX-Pharma-SE--14405311-inline.html",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
+   "title": "Praktikums- und Jobbörse der Fakultät für Wirtschaftsinformatik und Wirtschaftsmathematik",
+   "employer": "Universität Mannheim",
+   "location": "Mannheim (0 min Bahn)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "source",
+   "score": 49,
+   "tier": "interesting",
+   "why": "Das ist keine einzelne Stelle, sondern deine wichtigste laufende Quelle — und du hast als Mannheimer Wirtschaftsinformatiker den Heimvorteil, weil die hier ausgeschriebenen Stellen genau auf dein Curriculum zugeschnitten sind und der Bewerberkreis klein ist. Ich habe über dieses Board unter anderem Weldebräu (Power Apps), essentiq in Mannheim (Werkstudent IT ab Oktober 2026), W Power (Werkstudent KI und Digitalisierung), qado (Internship AI Technical Product) und Südzucker (Praktikant IT Artificial Intelligence, GenAI und Computer Vision, Mannheim) gefunden. Ehrliche Einschränkung: Die Einträge sind reine PDF-Ausschreibungen ohne Statuspflege, die neuesten stammen von Anfang August 2026, und mehrere Anzeigen aus dem Frühjahr, darunter die sehr gut passende Südzucker-Stelle, hatten Startdaten im Juni/Juli 2026 und sind damit vermutlich durch — auf dem Südzucker-Karriereportal liess sie sich nicht mehr bestätigen. Konkreter nächster Schritt: Setz dir einen wöchentlichen Termin, ruf die Seite ab, und schreib bei interessanten PDFs direkt die genannte Kontaktperson an mit der Frage, ob die Stelle noch offen ist.",
    "pay": "",
    "skills": [
     "Python",
-    "Java",
-    "Machine Learning",
-    "Cloud"
+    "Power BI",
+    "Power Automate",
+    "RAG"
    ],
-   "url": "https://karriere.analytical-software.de/Werkstudent-mwd-Software-Development-Data-AI-de-j40.html",
+   "url": "https://www.wim.uni-mannheim.de/en/internships-and-jobs/internship-and-job-board/",
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
@@ -1385,8 +1693,8 @@
    "employer": "Accenture",
    "location": "Mannheim (0 min) / Frankfurt (~35 min, ICE)",
    "region": "Deutschland",
-   "category": "Karriere",
-   "type": "Beratung",
+   "category": "Beratung",
+   "type": "Vollzeit",
    "status": "source",
    "score": 46,
    "tier": "interesting",
@@ -1402,6 +1710,28 @@
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
    "is_new": true
+  },
+  {
+   "title": "Werkstudent (Geo-)Informatik - Digitale energetische Stadtentwicklung (m/w/d)",
+   "employer": "MVV Regioplan GmbH (MVV-Gruppe)",
+   "location": "Mannheim (0 min Bahn)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 46,
+   "tier": "interesting",
+   "why": "Du entwickelst Softwarekomponenten in Python zur automatisierten Geodatenverarbeitung, erweiterst digitale Lösungen für die energetische Gebäudesanierungsberatung und arbeitest agil mit Jira und Bitbucket. Interessant für dich: Die Anzeige nennt ausdrücklich Interesse an LLM-gestützten Entwicklungswerkzeugen, du darfst also mit KI-Assistenz arbeiten statt sie zu verstecken. 10 bis 20 Stunden pro Woche, ab sofort, 6 Monate befristet, Standort Mannheim mit Homeoffice-Anteil — logistisch ideal. Ehrliche Einschränkung: Gefordert werden QGIS-Kenntnisse und ein geowissenschaftlicher Studiengang mit Informatikschwerpunkt; Geodatenverarbeitung, PostGIS und GeoPandas sind bei dir eine Lücke, und ein Führerschein Klasse B wird verlangt. Deine Python-Basis trägt dich weit, aber das Fachdomänenwissen musst du dir aneignen. Kennziffer 2026-0252, Bewerbung an bewerbung@mvv-regioplan.de.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "SQL"
+   ],
+   "url": "https://www.mvv.de/karriere/jobportal/job/werkstudent-geo-informatik-digitale-energetische-stadtentwicklung-m-w-d",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "is_new": true,
+   "last_seen": "2026-09-02"
   },
   {
    "title": "Bachelor-Zulassung über Samordna opptak – Frist 15. April",
@@ -1471,29 +1801,6 @@
    "is_new": false,
    "last_seen": "2026-09-01",
    "person": "oliver"
-  },
-  {
-   "title": "Working Student (m/w/d) SAP AI/BTP Solutions, Experience Labs",
-   "employer": "SAP SE",
-   "location": "Walldorf (~25 min Bahn + Shuttle)",
-   "region": "Deutschland",
-   "category": "Karriere",
-   "type": "Werkstudent",
-   "status": "verified",
-   "score": 44,
-   "tier": "interesting",
-   "why": "Am 25.08.2026 ausgeschrieben und offen (Req-ID 457736, Teilzeit, Präsenz in Walldorf): eigene KI-Szenarien auf SAP-BTP-Diensten bauen und Proof-of-Concepts für Kundentermine erstellen; gefordert sind Wirtschaftsinformatik sowie Deutsch und Englisch — passt. Sinnvoll, um vor dem Abschluss einen Fuß bei SAP in die Tür zu bekommen. Für die Zeit nach Dezember 2026 nur dann, wenn du für den Master ohnehin wieder immatrikuliert bist.",
-   "pay": "",
-   "skills": [
-    "Machine Learning",
-    "SQL",
-    "Python"
-   ],
-   "url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-for-SAP-AIBTP-solutions-for-Experience-Labs-69190/1429634133/",
-   "person": "leonard",
-   "first_seen": "2026-09-02",
-   "last_seen": "2026-09-02",
-   "is_new": true
   },
   {
    "title": "Praktika, studentische Tätigkeiten und Abschlussarbeiten",
@@ -1566,23 +1873,48 @@
    "person": "oliver"
   },
   {
-   "title": "Werkstudent (Geo-)Informatik – Digitale energetische Stadtentwicklung (m/w/d)",
-   "employer": "MVV Regioplan",
-   "location": "Mannheim (0 min, Wohnort)",
+   "title": "Werkstudent:in* im Bereich Data & AI",
+   "employer": "inovex GmbH",
+   "location": "Karlsruhe (~30 min ICE)",
    "region": "Deutschland",
-   "category": "Karriere",
+   "category": "Beratung",
    "type": "Werkstudent",
    "status": "verified",
    "score": 42,
    "tier": "interesting",
-   "why": "Kennziffer 2026-0252, Mannheim mit Teil-Remote, 10–20 Stunden, befristet auf sechs Monate. Bemerkenswert ist die ausdrückliche Nennung von Human-in-the-Loop-Methoden mit LLM-Entwicklungswerkzeugen im Anforderungsprofil — genau das Muster aus deinem M&A-Agentensystem, hier auf Python-Geodatenverarbeitung übertragen. Führerschein Klasse B nötig. Interessant als interner Wechsel, falls du in Corporate Strategy an Grenzen stößt.",
+   "why": "Inhaltlich wäre das dein Traumjob in dieser Liste: ein Data-Engineering- und AI-Team in einer sehr angesehenen IT-Beratung, moderne Datenplattformen, ETL-Pipelines, Machine-Learning-Deployments, Best Practices für Sicherheit, Skalierbarkeit und Wartbarkeit, Einsatz in Kundenprojekten oder internen Initiativen. Der Stack ist Python, SQL, Clean Code, Git, CI/CD, dazu Databricks, Spark, Airflow, Snowflake und die drei grossen Clouds. Deutsch auf C1 wird gefordert, für dich als Muttersprachler kein Thema. Ehrliche Einschränkung, und sie ist der Grund für die niedrige Bewertung: Die Anzeige verlangt ausdrücklich eine laufende Einschreibung in einem Masterstudiengang. Für den Zeitraum Dezember 2026 bis Herbst 2027 erfüllst du das nicht, ab Wintersemester 2027 dagegen schon. Behandle die Stelle deshalb als Vormerkung für den Masterstart und nicht als Überbrückung — oder frag jetzt direkt an, ob ein Einstieg mit Bachelor und zugesagtem Masterplatz möglich ist. Bewerbung über inovex.de.",
    "pay": "",
    "skills": [
     "Python",
-    "Machine Learning",
-    "SQL"
+    "SQL",
+    "RAG",
+    "Multi-Agenten-Workflows"
    ],
-   "url": "https://www.mvv.de/karriere/jobportal/job/werkstudent-geo-informatik-digitale-energetische-stadtentwicklung-m-w-d",
+   "url": "https://www.inovex.de/de/karriere/stellenangebote/werkstudent-in-im-bereich-data-ai/",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
+   "title": "Werkstudent (m/w/d) Data Analytics & Business Intelligence",
+   "employer": "MVV Energie AG",
+   "location": "Offenbach am Main (~55-60 min: ICE nach Frankfurt + S-Bahn) — ausserhalb deines 45-Minuten-Radius",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 41,
+   "tier": "interesting",
+   "why": "Fachlich ist das die beste Passung der gesamten Liste: Mitarbeit in Projekten rund um Power BI, Microsoft Fabric und KI, Datenintegration und -aufbereitung aus verschiedenen Quellen, Weiterentwicklung von Power-BI-Dashboards und Reporting-Lösungen, Aufbau des Data Lakes und der Analytics-Plattform. Power BI, MS Fabric, Power Apps, Power Automate, Python und KI-Anwendungen stehen alle wörtlich in der Anzeige — das ist praktisch eine Eins-zu-eins-Kopie deines Skillsets, und es ist eine MVV-Gesellschaft, wo du das Umfeld kennst. 15 bis 20 Stunden pro Woche, ab sofort, Kennziffer 2026-0241. Ehrliche Einschränkung, und deshalb steht sie nicht oben: Der Standort ist Offenbach, nicht Mannheim. Vom Hauptbahnhof sind das realistisch 55 bis 60 Minuten mit ICE nach Frankfurt plus S-Bahn — das reisst deinen 45-Minuten-Radius. Die Anzeige nennt aber ausdrücklich Homeoffice-Möglichkeiten. Nur bewerben, wenn du im Gespräch zwei bis drei Remote-Tage verhandeln kannst; Ansprechpartnerin ist Jana Michel, +49 69 8060 1514 — dort vorab anrufen und genau das klären.",
+   "pay": "",
+   "skills": [
+    "Power BI",
+    "MS Fabric",
+    "Power Automate",
+    "Python"
+   ],
+   "url": "https://www.mvv.de/karriere/jobportal/job/werkstudent-m-w-d-data-analytics-business-intelligence",
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
@@ -1626,6 +1958,29 @@
     "Python"
    ],
    "url": "https://jobs.ashbyhq.com/AlephAlpha",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
+   "title": "Werkstudent (m/w/d) Prozessdigitalisierung / Power Apps / Low-Code",
+   "employer": "Weldebräu GmbH & Co. KG",
+   "location": "Plankstadt bei Schwetzingen (~30 min Bahn + Bus)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "source",
+   "score": 40,
+   "tier": "interesting",
+   "why": "Eine kleine, sehr konkrete Low-Code-Rolle: Du analysierst Arbeitsabläufe, findest Digitalisierungspotenziale, entwickelst Anwendungen mit Microsoft Power Apps, baust unternehmensweite Systemlogik für Prozesse und Daten und setzt Lösungen mit SharePoint, Microsoft Lists und Power Automate um, dazu Unterstützung bei Qualitätsmanagement, Dokumentenlenkung und Auditvorbereitung. Power Apps, Power Automate und SharePoint deckst du aus deiner Siemens-Low-Code-Zeit und über Copilot Studio direkt ab, und Wirtschaftsinformatik ist ausdrücklich als Studiengang genannt. In einem mittelständischen Betrieb dieser Grösse hättest du echten Gestaltungsspielraum statt reiner Zuarbeit. Ehrliche Einschränkung: Ich konnte nur die PDF-Ausschreibung über die Jobbörse der Fakultät Wirtschaftsinformatik bestätigen, eingestellt am 15.05.2026 — ob die Stelle heute noch offen ist, liess sich nicht verifizieren, deshalb der Status source. Weder Stundenzahl noch Vergütung sind genannt. Bewirb dich per E-Mail an personal@welde.de, Ansprechpartnerin Sabine Pflugbeil, und frag im ersten Satz, ob die Stelle noch frei ist.",
+   "pay": "",
+   "skills": [
+    "Power Automate",
+    "Copilot Studio",
+    "Mendix"
+   ],
+   "url": "https://www.wim.uni-mannheim.de/media/Fakultaeten/wim/Dateien_Praxis/Praktikums-_und_Jobboerse_der_Fakultaet/2026_05_Mai/Werkstudent_Prozessdigitalisierung_A4_ANSICHT.pdf",
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",

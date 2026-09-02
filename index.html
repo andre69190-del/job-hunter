@@ -229,12 +229,29 @@ $('typeclear').addEventListener('click',()=>{
   SV('types',[]);typeLabel();render();
 });
 typeLabel();
+const CATLAB={'Karriere':'\ud83d\udcbc Karriere','Ferienjob':'\ud83d\udcb6 Ferienjob (gut bezahlt)','Beratung':'\ud83e\udd1d Beratung / Consulting'};
+const REGLAB={'Norwegen / Remote':'\ud83c\uddf3\ud83c\uddf4 Norwegen / Remote','Deutschland':'\ud83c\udde9\ud83c\uddea Deutschland','Weitere':'Weitere'};
+function fillSel(sel,vals,lab,key){
+  const keep=sel.value;
+  sel.innerHTML='<option value=all>'+(key==='cat'?'Alle Kategorien':'Alle Regionen')+'</option>'
+    +vals.map(v=>'<option value="'+esc(v)+'">'+esc(lab[v]||v)+'</option>').join('');
+  sel.value=vals.indexOf(keep)>=0?keep:'all';
+  if(sel.value!==keep)SV(key,sel.value);
+}
+function buildFilters(){
+  const mine=ALL.filter(d=>(d.person||'oliver')===person);
+  const lab=Object.assign({},CATLAB);
+  if(person==='oliver')lab['Karriere']='\ud83d\udd2d Astro/Space-Karriere';
+  fillSel(cat,[...new Set(mine.map(d=>d.category||'Karriere'))].sort(),lab,'cat');
+  fillSel(region,[...new Set(mine.map(d=>d.region||'Deutschland'))].sort(),REGLAB,'region');
+}
 function meta(){
   const ppl=DATA.people||{};const m=ppl[person]||{};
   const mine=ALL.filter(d=>(d.person||'oliver')===person);
   const nw=mine.filter(d=>d.is_new).length;
   const must=mine.filter(d=>tierOf(d)==='must_apply').length;
   const upd=(DATA.updated||'').replace('T',' ').slice(0,16)||'—';
+  buildFilters();
   $('title').innerHTML=TITLES[person]||'Career Scout';
   $('goal').textContent=m.goal||'';
   $('meta').innerHTML=`${mine.length} Chancen${must?` · <b style="color:#22c55e">${must} 🟢 Must-Apply</b>`:''}${nw?` · <b style="color:#43d17a">${nw} neu</b>`:''} · Stand ${esc(upd)}`
