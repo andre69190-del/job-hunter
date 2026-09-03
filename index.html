@@ -1,6 +1,5 @@
 <!doctype html><html lang=de><head><meta charset=utf-8>
 <meta name=viewport content="width=device-width, initial-scale=1">
-<meta http-equiv=refresh content=900>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%94%AD%3C/text%3E%3C/svg%3E">
 <meta name="robots" content="noindex, nofollow">
 <meta name="description" content="Privates Karriere-Dashboard.">
@@ -14,7 +13,7 @@
  a{color:#5ec8f0;text-decoration:none} a:hover{text-decoration:underline}
  .meta{color:#8b93a7;font-size:12px;margin-top:5px}
  .goal{color:#7f8aa3;font-size:11.5px;margin-top:3px}
- .panels{padding:12px 20px 0;display:grid;gap:10px;grid-template-columns:1fr 1fr}
+ .panels{padding:12px 0 0;display:grid;gap:10px;grid-template-columns:1fr 1fr}
  @media(max-width:720px){.panels{grid-template-columns:1fr}}
  .panel{background:#141b26;border:1px solid #26303f;border-left:3px solid #3b6ea5;border-radius:10px;padding:10px 13px;font-size:12.5px;line-height:1.5}
  .panel.port{border-left-color:#8b5cf6}
@@ -53,7 +52,7 @@
  .status.st-src{background:#2a2f3a;color:#aab6c8;border:1px solid #3a4556}
  .tag{display:inline-block;background:#23314a;color:#9cc4ff;border-radius:6px;padding:1px 8px;font-size:11px;margin:2px 4px 0 0}
  .tag.reg{background:#2a2440;color:#c3aaff}
- .tag.new{background:#1c8f45;color:#fff}
+ .tag.new{background:#3ddc84;color:#07230f;font-weight:700}
  .tag.pay{background:#14352a;color:#7ee0af}
  .tag.dl{background:#3a1f24;color:#ffb3bd}
  .tag.init{background:#3a2a12;color:#ffcf8a}
@@ -62,46 +61,65 @@
  .btns{display:flex;gap:8px;margin-top:4px}
  .btn{flex:1;text-align:center;background:#2563eb;color:#fff;border-radius:8px;padding:8px;font-size:13px}
  .empty{padding:44px;text-align:center;color:#8b93a7;grid-column:1/-1;line-height:1.6}
+ .hrow{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+ .hrow h1{flex:0 0 auto}
+ .hrow .persons{margin:0;flex:1 1 auto;justify-content:center}
+ .briefbtn{background:#1b2029;color:#9aa7b4;border:1px solid #2b3140;border-radius:8px;padding:6px 12px;
+           font-size:12.5px;cursor:pointer;font-family:inherit;white-space:nowrap}
+ .briefbtn:hover{color:#e6e6e6;border-color:#3b475c}
+ .briefbtn.on{background:#233043;color:#cfe0f5;border-color:#3b5a80}
+ #brief{padding:12px 20px 4px;border-bottom:1px solid #262b36;background:#101319}
+ .summary{color:#c7d2e0;font-size:12.5px;line-height:1.55;background:#141b26;border:1px solid #26303f;
+          border-left:3px solid #d9a441;border-radius:10px;padding:10px 13px}
+ .summary b{color:#eaf0fb}
+ .why.clamp{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+ .more{color:#5ec8f0;font-size:12px;cursor:pointer;display:inline-block;margin-top:2px;
+       background:none;border:0;padding:0;font-family:inherit}
+ .more:hover{text-decoration:underline}
+ .jbtns{display:flex;gap:6px;margin-top:7px}
+ .jb{flex:1;background:#1b2029;color:#8b93a7;border:1px solid #2b3140;border-radius:7px;padding:5px 4px;
+     font-size:11.5px;cursor:pointer;font-family:inherit;white-space:nowrap}
+ .jb:hover{color:#e6e6e6;border-color:#3b475c}
+ .jb.on{background:#233043;color:#cfe0f5;border-color:#3b5a80;font-weight:600}
+ .card.st-done{opacity:.5}
+ .card.st-applied{box-shadow:inset 3px 0 0 #22c55e}
+ .card.st-saved{box-shadow:inset 3px 0 0 #d9a441}
+ .resetbtn{background:#233043;color:#cfe0f5;border:1px solid #3b5a80;border-radius:8px;padding:7px 14px;
+           font-size:13px;cursor:pointer;font-family:inherit;margin-top:12px}
+ .empty b{color:#e6e6e6}
 </style></head><body>
 <header>
- <h1 id=title>Career Scout</h1>
- <div class=persons id=persons></div>
+ <div class=hrow>
+   <h1 id=title>Career Scout</h1>
+   <div class=persons id=persons></div>
+   <button type=button id=briefbtn class=briefbtn aria-expanded=false>Lagebericht &#9662;</button>
+ </div>
  <div class=meta id=meta>lädt …</div>
- <div class=goal id=goal></div>
 </header>
-<div class=panels id=panels></div>
+<div id=brief hidden>
+ <div class=goal id=goal></div>
+ <div class=summary id=summary></div>
+ <div class=panels id=panels></div>
+</div>
 <div class=controls>
- <input id=q placeholder="Suche: Arbeitgeber / Titel / Ort / Skill …" style="flex:1;min-width:170px">
- <select id=cat>
-   <option value=all>Alle Kategorien</option>
-   <option value=Karriere>🔭 Astro/Space-Karriere</option>
-   <option value=Ferienjob>💶 Ferienjob (gut bezahlt)</option>
- </select>
- <select id=region>
-   <option value=all>Alle Regionen</option>
-   <option value="Norwegen / Remote">🇳🇴 Norwegen / Remote</option>
-   <option value="Deutschland">🇩🇪 Deutschland</option>
-   <option value="Weitere">Weitere</option>
+ <input id=q aria-label="Volltextsuche" placeholder="Suche: Arbeitgeber / Titel / Ort / Skill …" style="flex:1;min-width:170px">
+ <select id=cat aria-label="Kategorie"><option value=all>Alle Kategorien</option></select>
+ <select id=region aria-label="Region"><option value=all>Alle Regionen</option></select>
+ <select id=work aria-label="Bearbeitungsstand">
+   <option value=open>Offen (ohne erledigte)</option>
+   <option value=all>Alle, auch erledigte</option>
+   <option value=saved>★ Nur gemerkte</option>
+   <option value=applied>✔ Nur beworbene</option>
+   <option value=done>✖ Nur erledigte</option>
  </select>
  <div class=multi>
    <button type=button id=typebtn class=multibtn>Alle Arten &#9662;</button>
    <div id=typemenu class=multimenu hidden>
-     <label><input type=checkbox value="Werkstudent"> Werkstudent</label>
-     <label><input type=checkbox value="HiWi"> HiWi</label>
-     <label><input type=checkbox value="Praktikum"> Praktikum</label>
-     <label><input type=checkbox value="Nebenjob"> Nebenjob</label>
-     <label><input type=checkbox value="Vollzeit"> Vollzeit</label>
-     <label><input type=checkbox value="Remote"> Remote</label>
-     <label><input type=checkbox value="Ferienjob"> Ferienjob</label>
-     <label><input type=checkbox value="Open Source"> Open Source</label>
-     <label><input type=checkbox value="Sommerjob"> Sommerjob</label>
-     <label><input type=checkbox value="Studium"> Studium</label>
-     <label><input type=checkbox value="Thesis"> Thesis</label>
-     <label><input type=checkbox value="Traineeship"> Traineeship</label>
+     <div id=typeopts></div>
      <button type=button id=typeclear class=multiclear>Auswahl zurücksetzen</button>
    </div>
   </div>
- <select id=status>
+ <select id=status aria-label="Quellenstatus">
    <option value=all>Alle Status</option>
    <option value=verified>🟢 Geprüfte Ausschreibung</option>
    <option value=program>📋 Programm</option>
@@ -117,10 +135,12 @@
  <label class=muted>min&nbsp;Score <input id=minscore type=number value=0 min=0 max=80 style="width:60px"></label>
  <select id=sort>
    <option value=score>Sortierung: Score</option>
-   <option value=last_seen>Neueste zuerst</option>
+   <option value=first_seen>Neueste zuerst</option>
+   <option value=deadline>Frist zuerst</option>
    <option value=employer>Arbeitgeber A–Z</option>
  </select>
  <label class=muted><input type=checkbox id=onlynew> nur neue</label>
+ <button type=button id=resetall class=briefbtn hidden>Filter zurücksetzen</button>
 </div>
 <div class=list id=list></div>
 <script>
@@ -133,6 +153,19 @@ let typeSel=(function(){const v=L('types',null);if(Array.isArray(v))return v;con
 q.value=L('q','');cat.value=L('cat','all');region.value=L('region','all');
 status.value=L('status','all');tier.value=L('tier','all');ms.value=L('minscore',0);so.value=L('sort','score');onlynew.checked=L('onlynew',false);
 let ALL=[];let DATA={};
+const work=$('work');work.value=L('work','open');
+let JOBST=(function(){const v=L('jobstate',null);return (v&&typeof v==='object'&&!Array.isArray(v))?v:{};})();
+const ISO=new Date().toISOString().slice(0,10);
+let lastVisit=L('lastvisit',null);
+let NEWSINCE='';
+function keyOf(d){return d.id||d.url||'';}
+function jstate(d){return JOBST[keyOf(d)]||'';}
+function setState(k,v){
+  if(JOBST[k]===v)delete JOBST[k];else JOBST[k]=v;
+  SV('jobstate',JOBST);meta();render();
+}
+function newestFor(p){return ALL.reduce((m,d)=>{if((d.person||'oliver')!==p)return m;const f=''+(d.first_seen||'');return f>m?f:m},'');}
+function isNew(d){const n=newestFor(d.person||'oliver');return n?((''+(d.first_seen||''))>=n):!!d.is_new;}
 let person=L('person','oliver');
 const TITLES={oliver:'🔭 Astro Career Scout <span class=muted style="font-weight:400">Astronomie · Space · Informatik</span>',
               leonard:'💼 Career Scout Leonard <span class=muted style="font-weight:400">KI · Data · Digitalisierung</span>'};
@@ -145,9 +178,32 @@ function statusMeta(s){return s==='verified'?['🟢 Geprüfte Ausschreibung','st
   :s==='initiative'?['✍️ Initiativbewerbung (keine offene Stelle)','st-init','Kontakt / Karriereseite →']
   :['🔎 Karriereseite – bitte selbst nach aktueller Ausschreibung schauen','st-src','Karriereseite öffnen →'];}
 function label(s){s=+s||0;if(s>=55)return['🔥','#166534'];if(s>=40)return['✅','#92700d'];if(s>=25)return['👀','#3a4a63'];return['⏭️','#374151'];}
+function activeFilters(){
+  const a=[];
+  if(q.value.trim())a.push('Suche „'+q.value.trim()+'“');
+  if(cat.value!=='all')a.push('Kategorie');
+  if(region.value!=='all')a.push('Region');
+  if(typeSel.length)a.push('Arten ('+typeSel.join(', ')+')');
+  if(status.value!=='all')a.push('Status');
+  if(tier.value!=='all')a.push('Priorität');
+  if((+ms.value||0)>0)a.push('min. Score '+(+ms.value||0));
+  if(onlynew.checked)a.push('nur neue');
+  if(work.value!=='open'&&work.value!=='all')a.push('Bearbeitungsstand');
+  return a;
+}
+function resetFilters(){
+  q.value='';cat.value='all';region.value='all';status.value='all';tier.value='all';
+  ms.value=0;onlynew.checked=false;work.value='open';typeSel=[];
+  ['q','cat','region','status','tier','onlynew','work'].forEach(k=>SV(k,k==='onlynew'?false:(k==='work'?'open':(k==='q'?'':'all'))));
+  SV('minscore',0);SV('types',[]);
+  typeMenu.querySelectorAll('input[type=checkbox]').forEach(c=>c.checked=false);
+  typeLabel();render();
+}
 function render(){
- let x=[...ALL];
- x=x.filter(d=>(d.person||'oliver')===person);
+ let x=ALL.filter(d=>(d.person||'oliver')===person);
+ const w=work.value;
+ if(w==='open')x=x.filter(d=>jstate(d)!=='done');
+ else if(w!=='all')x=x.filter(d=>jstate(d)===w);
  if(cat.value!=='all')x=x.filter(d=>(d.category||'Karriere')===cat.value);
  if(region.value!=='all')x=x.filter(d=>(d.region||'Weitere')===region.value);
  if(typeSel.length)x=x.filter(d=>{const t=(''+(d.type||'')).toLowerCase();return typeSel.some(v=>t.includes(v.toLowerCase()))});
@@ -155,40 +211,55 @@ function render(){
  if(tier.value!=='all')x=x.filter(d=>tierOf(d)===tier.value);
  const qq=q.value.toLowerCase().trim();
  if(qq)x=x.filter(d=>(`${d.title||''} ${d.employer||''} ${d.location||''} ${d.why||''} ${(d.skills||[]).join(' ')}`).toLowerCase().includes(qq));
- const mn=+ms.value||0;x=x.filter(d=>(+d.score||0)>=mn);
- if(onlynew.checked)x=x.filter(d=>d.is_new);
+ let mn=+ms.value;if(!isFinite(mn)||mn<0)mn=0;if(mn>100)mn=100;
+ x=x.filter(d=>(+d.score||0)>=mn);
+ if(onlynew.checked)x=x.filter(isNew);
  const k=so.value;
- x.sort((a,b)=> k==='last_seen' ? (''+(b.last_seen||'')).localeCompare(''+(a.last_seen||''))
-              : k==='employer' ? (''+(a.employer||'')).localeCompare(''+(b.employer||''))
+ x.sort((a,b)=> k==='first_seen' ? (''+(b.first_seen||'')).localeCompare(''+(a.first_seen||''))
+              : k==='deadline'   ? ((a.deadline||'9999').localeCompare(b.deadline||'9999'))
+              : k==='employer'   ? (''+(a.employer||'')).localeCompare(''+(b.employer||''))
               : ((+b.score||0)-(+a.score||0)));
+ $('resetall').hidden=activeFilters().length===0;
  const el=$('list');
- if(!x.length){el.innerHTML='<div class=empty>Keine passenden Treffer für diese Filter.<br>Der Scout sammelt Mo &amp; Do automatisch — neue Chancen erscheinen dann hier.</div>';return;}
+ if(!x.length){
+   const af=activeFilters();
+   el.innerHTML='<div class=empty>'+(af.length
+     ? 'Keine Treffer. Aktive Filter: <b>'+af.map(esc).join('</b>, <b>')+'</b>.<br>Oben in der Filterleiste steht „Filter zurücksetzen“.'
+     : 'Für '+esc((DATA.people&&DATA.people[person]&&DATA.people[person].label)||person)+' liegen keine Einträge vor.<br>Der Scout sammelt Mo &amp; Do automatisch.')+'</div>';
+   return;
+ }
  el.innerHTML=x.map(d=>{
   const lb=label(d.score);const t=tierOf(d);const tm=tierMeta(t);
   const st=statusOf(d);const sm=statusMeta(st);
+  const js=jstate(d);const key=esc(keyOf(d));
   const tags=[];
-  if(d.region)tags.push(`<span class="tag reg">${esc(d.region)}</span>`);
   if(d.type)tags.push(`<span class=tag>${esc(d.type)}</span>`);
   if(d.location)tags.push(`<span class=tag>📍 ${esc(d.location)}</span>`);
   if(d.pay)tags.push(`<span class="tag pay">💶 ${esc(d.pay)}</span>`);
-  if(d.deadline)tags.push(`<span class="tag dl">⏳ ${esc(d.deadline)}</span>`);
-  if(d.is_new)tags.push(`<span class="tag new">NEU</span>`);
+  if(d.deadline)tags.push(`<span class="tag dl">⏳ Frist ${esc(d.deadline)}</span>`);
+  if(d.link_code&&d.link_code!=='200'&&d.link_code!=='403')tags.push(`<span class="tag dl">⚠️ Link zuletzt ${esc(d.link_code)}</span>`);
+  if(isNew(d))tags.push(`<span class="tag new">NEU</span>`);
   const skills=(d.skills&&d.skills.length)?`<div class=skills>Skills: ${d.skills.map(esc).join(' · ')}</div>`:'';
-  const seen=d.last_seen?`zuletzt geprüft ${esc((''+d.last_seen).slice(0,10))}`:'';
-  return `<div class="card${d.is_new?' new':''}${t==='must_apply'?' must':''}">
+  const why=esc(d.why||'');
+  const longtext=why.length>260;
+  return `<div class="card${isNew(d)?' new':''}${t==='must_apply'?' must':''}${js?' st-'+js:''}">
     <div class="status ${sm[1]}">${sm[0]}</div>
     <div class=top>
       <div>
-        <div class="tier ${tm[1]}">${tm[0]}</div>
         <div class=title>${esc(d.title||'(ohne Titel)')}</div>
-        <div class=emp>${esc(d.employer||'')}</div>
+        <div class=emp>${esc(d.employer||'')}${d.region?` <span class="tag reg">${esc(d.region)}</span>`:''}</div>
       </div>
-      <span class=badge style="background:${lb[1]}">${lb[0]} ${esc(d.score!=null?d.score:'?')}</span>
+      <span class=badge style="background:${lb[1]}" title="${esc(tm[0])} · Score ${esc(d.score!=null?d.score:'?')} von 100">${lb[0]} ${esc(d.score!=null?d.score:'?')}</span>
     </div>
     <div>${tags.join('')}</div>
-    <div class=why>${esc(d.why||'')}</div>
+    <div class="why${longtext?' clamp':''}" data-w="${key}">${why}</div>
+    ${longtext?`<button type=button class=more data-more="${key}">mehr anzeigen</button>`:''}
     ${skills}
-    <div class=muted>${seen}</div>
+    <div class=jbtns>
+      <button type=button class="jb${js==='saved'?' on':''}" data-set=saved data-k="${key}">★ Gemerkt</button>
+      <button type=button class="jb${js==='applied'?' on':''}" data-set=applied data-k="${key}">✔ Beworben</button>
+      <button type=button class="jb${js==='done'?' on':''}" data-set=done data-k="${key}">✖ Erledigt</button>
+    </div>
     <div class=btns>${d.url?`<a class=btn href="${esc(d.url)}" target=_blank rel=noopener>${sm[2]}</a>`:''}</div>
   </div>`;}).join('');
 }
@@ -205,20 +276,18 @@ function panels(j){
  }
  p.innerHTML=h;
 }
-[q,cat,region,status,tier,ms,so,onlynew].forEach(e=>['input','change'].forEach(ev=>e.addEventListener(ev,()=>{
-  SV('q',q.value);SV('cat',cat.value);SV('region',region.value);SV('status',status.value);SV('tier',tier.value);
+[q,cat,region,status,tier,ms,so,onlynew,work].forEach(e=>['input','change'].forEach(ev=>e.addEventListener(ev,()=>{
+  SV('q',q.value);SV('cat',cat.value);SV('region',region.value);SV('status',status.value);SV('tier',tier.value);SV('work',work.value);
   SV('minscore',+ms.value||0);SV('sort',so.value);SV('onlynew',onlynew.checked);render();})));
 
 function typeLabel(){
   typeBtn.textContent=(typeSel.length===0?'Alle Arten':(typeSel.length===1?typeSel[0]:typeSel.length+' Arten'))+' \u25BE';
   typeBtn.classList.toggle('on',typeSel.length>0);
 }
-typeMenu.querySelectorAll('input[type=checkbox]').forEach(cb=>{
-  cb.checked=typeSel.indexOf(cb.value)>=0;
-  cb.addEventListener('change',()=>{
-    typeSel=[...typeMenu.querySelectorAll('input[type=checkbox]')].filter(c=>c.checked).map(c=>c.value);
-    SV('types',typeSel);typeLabel();render();
-  });
+typeMenu.addEventListener('change',e=>{
+  if(!e.target||e.target.type!=='checkbox')return;
+  typeSel=[...typeMenu.querySelectorAll('input[type=checkbox]')].filter(c=>c.checked).map(c=>c.value);
+  SV('types',typeSel);typeLabel();render();
 });
 typeBtn.addEventListener('click',e=>{e.stopPropagation();typeMenu.hidden=!typeMenu.hidden;});
 typeMenu.addEventListener('click',e=>e.stopPropagation());
@@ -229,6 +298,15 @@ $('typeclear').addEventListener('click',()=>{
   SV('types',[]);typeLabel();render();
 });
 typeLabel();
+$('resetall').addEventListener('click',resetFilters);
+$('list').addEventListener('click',e=>{
+  const jb=e.target.closest('.jb'); if(jb){setState(jb.dataset.k,jb.dataset.set);return;}
+  const mo=e.target.closest('.more');
+  if(mo){
+    const w=$('list').querySelector('.why[data-w="'+CSS.escape(mo.dataset.more)+'"]');
+    if(w){const open=w.classList.toggle('clamp')===false;mo.textContent=open?'weniger anzeigen':'mehr anzeigen';}
+  }
+});
 const CATLAB={'Karriere':'\ud83d\udcbc Karriere','Ferienjob':'\ud83d\udcb6 Ferienjob (gut bezahlt)','Beratung':'\ud83e\udd1d Beratung / Consulting'};
 const REGLAB={'Norwegen / Remote':'\ud83c\uddf3\ud83c\uddf4 Norwegen / Remote','Deutschland':'\ud83c\udde9\ud83c\uddea Deutschland','Weitere':'Weitere'};
 function fillSel(sel,vals,lab,key){
@@ -244,20 +322,52 @@ function buildFilters(){
   if(person==='oliver')lab['Karriere']='\ud83d\udd2d Astro/Space-Karriere';
   fillSel(cat,[...new Set(mine.map(d=>d.category||'Karriere'))].sort(),lab,'cat');
   fillSel(region,[...new Set(mine.map(d=>d.region||'Deutschland'))].sort(),REGLAB,'region');
+  const arten=[...new Set(mine.map(d=>d.type).filter(Boolean))].sort();
+  $('typeopts').innerHTML=arten.map(a=>'<label><input type=checkbox value="'+esc(a)+'"'
+      +(typeSel.indexOf(a)>=0?' checked':'')+'> '+esc(a)+'</label>').join('');
+  typeSel=typeSel.filter(v=>arten.indexOf(v)>=0);SV('types',typeSel);typeLabel();
 }
+function stand(v){
+  const t=(''+(v||'')).replace('T',' ');
+  const m=t.match(/^(\d{4})-(\d{2})-(\d{2})[ ]?(\d{2}:\d{2})?/);
+  return m?`${m[3]}.${m[2]}.${m[1]}${m[4]?', '+m[4]+' Uhr':''}`:(t.slice(0,16)||'—');
+}
+let briefOpen=L('brief',false);
+function syncTop(){
+  const h=document.querySelector('header').offsetHeight;
+  document.querySelector('.controls').style.top=h+'px';
+}
+function applyBrief(){
+  const b=$('brief'),k=$('briefbtn');
+  b.hidden=!briefOpen;
+  k.classList.toggle('on',briefOpen);
+  k.innerHTML='Lagebericht '+(briefOpen?'&#9652;':'&#9662;');
+  k.setAttribute('aria-expanded',briefOpen?'true':'false');
+  syncTop();
+}
+$('briefbtn').addEventListener('click',()=>{briefOpen=!briefOpen;SV('brief',briefOpen);applyBrief();});
+window.addEventListener('resize',syncTop);
+applyBrief();
 function meta(){
   const ppl=DATA.people||{};const m=ppl[person]||{};
   const mine=ALL.filter(d=>(d.person||'oliver')===person);
-  const nw=mine.filter(d=>d.is_new).length;
+  const nw=mine.filter(isNew).length;
   const must=mine.filter(d=>tierOf(d)==='must_apply').length;
   const upd=(DATA.updated||'').replace('T',' ').slice(0,16)||'—';
   buildFilters();
   $('title').innerHTML=TITLES[person]||'Career Scout';
   $('goal').textContent=m.goal||'';
-  $('meta').innerHTML=`${mine.length} Chancen${must?` · <b style="color:#22c55e">${must} 🟢 Must-Apply</b>`:''}${nw?` · <b style="color:#43d17a">${nw} neu</b>`:''} · Stand ${esc(upd)}`
-     + (m.phase?` · <span class=muted>${esc(m.phase)}</span>`:'')
-     + (m.summary?`<br><span style="color:#c7d2e0">💡 ${esc(m.summary)}</span>`:'');
+  const app=mine.filter(d=>jstate(d)==='applied').length;
+  const dn=mine.filter(d=>jstate(d)==='done').length;
+  const sv=mine.filter(d=>jstate(d)==='saved').length;
+  $('meta').innerHTML=`${mine.length} Chancen${must?` · <b style="color:#22c55e">${must} 🟢 Must-Apply</b>`:''}`
+    +`${nw?` · <b style="color:#43d17a">${nw} neu</b>`:''}`
+    +`${sv?` · ★ ${sv} gemerkt`:''}${app?` · ✔ ${app} beworben`:''}${dn?` · ✖ ${dn} erledigt`:''}`
+    +` · Stand ${esc(stand(DATA.updated))}`;
+  document.title=((DATA.people&&DATA.people[person]&&DATA.people[person].label)||'Career Scout').replace(/^[^A-Za-zÄÖÜ]+/,'')+' · Career Scout';
+  $('summary').innerHTML=(m.phase?`<b>${esc(m.phase)}</b><br>`:'')+(m.summary?`💡 ${esc(m.summary)}`:'');
   panels(m);
+  syncTop();
 }
 function buildPersons(){
   const ppl=DATA.people||{};const keys=Object.keys(ppl);
@@ -269,11 +379,22 @@ function buildPersons(){
     meta();render();
   }));
 }
-fetch('results.json?t='+Date.now()).then(r=>r.json()).then(j=>{
+fetch('results.json?t='+Date.now()).then(r=>{
+  if(!r.ok)throw new Error('HTTP '+r.status);
+  const ct=(r.headers.get('content-type')||'');
+  if(ct.indexOf('json')<0)throw new Error('AUTH');
+  return r.json();
+}).then(j=>{
   DATA=j;ALL=j.jobs||[];
   const ppl=j.people||{};
   if(!ppl[person])person=j.default_person||'oliver';
   buildPersons();meta();render();
-}).catch(e=>{$('list').innerHTML='<div class=empty>Fehler beim Laden: '+e+'</div>';});
-</script><footer style="text-align:center;color:#8b93a7;font-size:12px;padding:26px 20px 34px;border-top:1px solid #262b36;margin-top:20px">Privates Karriere-Dashboard · arndt-software.de · <a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a></footer>
+}).catch(e=>{
+  const auth=(''+e).indexOf('AUTH')>=0||(''+e).indexOf('SyntaxError')>=0;
+  $('meta').innerHTML='';
+  $('list').innerHTML='<div class=empty>'+(auth
+    ? '<b>Anmeldung abgelaufen.</b><br>Bitte die Seite neu laden und dich erneut per E-Mail-Code anmelden.'
+    : '<b>Daten konnten nicht geladen werden.</b><br>'+esc(''+e))+'</div>';
+});
+</script><footer style="text-align:center;color:#8b93a7;font-size:12px;padding:26px 20px 34px;border-top:1px solid #262b36;margin-top:20px">Privates Karriere-Dashboard der Familie Arndt · nicht öffentlich · Kontakt: kontakt@arndt-software.de</footer>
 </body></html>

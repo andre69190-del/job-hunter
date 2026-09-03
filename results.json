@@ -185,7 +185,11 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "972740c86a2e",
+   "deadline": "2027-03-01",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Summer Internship Programme 2027 (Mai–September)",
@@ -209,7 +213,10 @@
    "first_seen": "2026-07-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "cf9b78fd9c57",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "AI & Automation Specialist (m/w/d)",
@@ -234,7 +241,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "801523333661",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Consultant AI Engineering (m/w/d)",
@@ -258,7 +268,10 @@
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15794-471556_50427-1-S",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "c562247b54c8",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "(Associate) Consultant Data Science & AI (m/w/d)",
@@ -282,7 +295,10 @@
    "url": "https://job-boards.eu.greenhouse.io/capgeminideutschlandgmbh/jobs/4635692101",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "209527ed5ed1",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Summer Internship Programme 2027 (6 Wochen, Juni–August)",
@@ -307,7 +323,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "f4f0b5ddcae0",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "AI Engineer / Data Scientist (m/w/d) – Machine Learning & Generative AI",
@@ -332,7 +351,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "f582db98fc9b",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Sommerjobber i KSAT – Software für den Antennenpark-Betrieb",
@@ -356,7 +378,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "55e892187f68",
+   "link_code": "403",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Werkstudent Data Analyst HR (m/w/d)",
@@ -379,7 +404,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "45e7a8b7330e",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "ESA Science Internships (ESAC Madrid / ESTEC Noordwijk)",
@@ -404,7 +432,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "abb754a0f40c",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Studentische Hilfskraft im Research Software Engineering",
@@ -429,7 +460,10 @@
    "first_seen": "2026-07-29",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "c0bd42424a2a",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Consultant (w/m/d) BI & Analytics (all levels)",
@@ -453,7 +487,10 @@
    "url": "https://www.horvath-partners.com/de/karriere/jobs/jobsuche/job-detailseite/detail/2703?cHash=f7eb7d17d056b3166725c9a00e3a8fbb",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "a653c16c2531",
+   "link_code": "403",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Summer Internship Programme (7 Wochen) – Sommer 2027",
@@ -477,7 +514,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "0eac7240f870",
+   "link_code": "403",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Business AI & Data Architect (m/w/d)",
@@ -501,7 +541,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "12670117238d",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Consultant Intelligent Automation – Einstieg in AI & Data (m/w/d)",
@@ -525,7 +568,10 @@
    "url": "https://job.deloitte.com/job-consultant-intelligent-automation-dein-einstieg-in-ai-data-mwd-_49502",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "48436a50bfc1",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Werkstudent (w/m/d) KI & Digitalisierung im Tender Management",
@@ -549,7 +595,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "d55a29901c89",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "(Senior) Consultant Data Science – AI and Data (w/m/d)",
@@ -573,7 +622,10 @@
    "url": "https://jobsgermany.ey.com/absolventin/offer/senior-consultant-data-science-ai-a/36d14880-1b74-4459-92c5-1b4f5a14e834",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "e4f9b1238a7b",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "SunPy: vier offene Good-First-Issues (u.a. #8445, #8416, #3800, #2784)",
@@ -598,7 +650,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "fa685872c5e2",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Sommerjobb i SINTEF (~100 Stellen pro Jahr) + SINTEF-Stipendium",
@@ -623,7 +678,10 @@
    "first_seen": "2026-07-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "5b904ab6387c",
+   "link_code": "403",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Initiativbewerbung Astroinformatics-Gruppe (AIN)",
@@ -647,7 +705,10 @@
    "first_seen": "2026-07-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "00d89d4e34ef",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Studentische Hilfskraft – LLM-basiertes ChatBot-System (Vacancy 1254)",
@@ -671,7 +732,10 @@
    "first_seen": "2026-09-01",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "a600240f5bad",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Einstieg Consulting & Solutions (Fachschaftskontakt)",
@@ -694,7 +758,10 @@
    "url": "https://www.d-fine.com/karriere/deutschland/consulting-solutions/",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "c0ddd14b957f",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Werkstudent (m/w/d) Global Master Data Management",
@@ -718,7 +785,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "ce9ccdd92582",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Working Student (f/m/d) for SAP AI/BTP solutions for Experience Labs",
@@ -742,7 +812,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "is_new": true,
-   "last_seen": "2026-09-02"
+   "last_seen": "2026-09-02",
+   "id": "12a26f7c03d4",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Initiativbewerbung Sommer- oder Masterprojekt Solarphysik (RoCS)",
@@ -768,7 +841,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "8a2601f61ed0",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Initiativbewerbung Gaia-Datenverarbeitung am ARI",
@@ -792,7 +868,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "3bd8e138f071",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Werkstudenten- und Praktikantenstellen am Hauptsitz Walldorf",
@@ -817,7 +896,10 @@
    "first_seen": "2026-09-01",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "8260a0f6b385",
+   "link_code": "403",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Developer (m/w/d) Agribusiness & Commodities Risk Analytics, Industry AI",
@@ -841,7 +923,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "e2cfdb787ff2",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Consultant (w/m/d) Data Science & AI (all levels)",
@@ -865,7 +950,10 @@
    "url": "https://www.horvath-partners.com/de/karriere/jobs/jobsuche/job-detailseite/detail/3469?cHash=6af6db7aa08b1c614f14c9297d685db7",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "c1cdf0421449",
+   "link_code": "403",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Intern/Thesis/Working Student (f/m/d) - Evaluating and Improving LLM-based SE Solutions in SAP HANA",
@@ -889,7 +977,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "135dc6fc9bcb",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Werkstudent (mwd) Software Development, Data & AI",
@@ -913,7 +1004,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "is_new": true,
-   "last_seen": "2026-09-02"
+   "last_seen": "2026-09-02",
+   "id": "70a9abf84e71",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Google Summer of Code 2027 über OpenAstronomy",
@@ -938,7 +1032,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "c5c5ea5fd200",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Initiativbewerbung HiWi oder Bachelorarbeit Astroteilchenphysik (KATRIN, Pierre Auger, IceCube)",
@@ -962,7 +1059,10 @@
    "first_seen": "2026-09-01",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "fe4d94eab8ae",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Manager BI Reporting (m/w/d)",
@@ -986,7 +1086,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "3261e826c51c",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Entry Level Consultant (Fachschaftskontakt)",
@@ -1009,7 +1112,10 @@
    "url": "https://www.oliverwyman.de/karriere/berufseinsteiger.html",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "83d7f4e78a38",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Åpen søknad (offene Initiativbewerbung), Frist 31.12.2026",
@@ -1032,7 +1138,11 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "adfca7875574",
+   "deadline": "2026-12-31",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Working Student (f/m/d) - Optimization of Processes leveraging AI in the Business Transformation",
@@ -1055,7 +1165,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "d78fb41a9692",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Projektmanager IT und Digitalisierung (m/w/d), Schwerpunkt Strom",
@@ -1079,7 +1192,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "495589b148bb",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "AI Governance Masterclass – Einstieg als Consultant Data Management (m/w/d)",
@@ -1102,7 +1218,10 @@
    "url": "https://job.deloitte.com/job-ai-governance-masterclass-dein-einstieg-als-consultant-data-management-mwd-_50212",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "4cadab9de701",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Praktikant / Werkstudent Innovation & Technology - Tax & Legal (m/w/d)",
@@ -1125,7 +1244,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "2c8c5cbe5af9",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "AI Engineer (m/w/d)",
@@ -1149,7 +1271,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "f1b86e45efae",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Einstieg Data & AI Consulting (Initiativbewerbung)",
@@ -1172,7 +1297,10 @@
    "url": "https://www.bridging-it.de/karriere/data-ai.html",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "7cd5cb6dd8bb",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "HiWi-Stellen Scientific Computing, Big Data und Netzinfrastruktur",
@@ -1196,7 +1324,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "8f2ee1fa7c86",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Working Student (f/m/d) - Chief of Staff Office - Business Data Cloud Fabric & Data",
@@ -1218,7 +1349,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "67258ade6664",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "SAP MEE Strategy & Operations iXp Intern (f/m/d) - Strategic Project Management Officer",
@@ -1240,7 +1374,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "676cffd2c73a",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "helita – Solarphysik-Bibliothek der Universität Oslo",
@@ -1265,7 +1402,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "ec0625cf8d3f",
+   "link_code": "403",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "HiWi-Jobbörse des KIT Career Service",
@@ -1288,7 +1428,10 @@
    "first_seen": "2026-09-01",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "f4dc0e844fbd",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Data Scientist / Forward Deployed AI Scientist (Fachschaftskontakt)",
@@ -1311,7 +1454,10 @@
    "url": "https://careers.bcg.com/global/en/x",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "aafd34581e11",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Werkstudent:in Softwareentwicklung",
@@ -1335,7 +1481,10 @@
    "first_seen": "2026-09-01",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "88ee252dca6f",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Praktikant Data Analyst HR (m/w/d)",
@@ -1358,7 +1507,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "7d7177319581",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Astropy: Einstieg über Package-novice und Effort-low",
@@ -1383,7 +1535,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "870aac7f3bbe",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Summer Jobs, Placements und Master-Thesis-Themen",
@@ -1407,7 +1562,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "d198f3b79c66",
+   "link_code": "403",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Working Student Global IT Support & Collaboration Tooling",
@@ -1430,7 +1588,10 @@
    "first_seen": "2026-09-01",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "d78706d1256c",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Nachhilfe in Mathematik und Physik geben",
@@ -1452,30 +1613,10 @@
    "first_seen": "2026-09-01",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
-  },
-  {
-   "title": "Working student (f/m/d) - Data Analytics",
-   "employer": "IONOS SE",
-   "location": "Karlsruhe (~30 min ICE)",
-   "region": "Deutschland",
-   "category": "Karriere",
-   "type": "Werkstudent",
-   "status": "verified",
-   "score": 50,
-   "tier": "interesting",
-   "why": "Eine breit angelegte Business-Analytics-Rolle: Du nimmst fachliche Anforderungen auf und dokumentierst sie, analysierst bestehende Geschäftsprozesse, Systeme und Daten, arbeitest an Lösungsentwicklung und Prozessverbesserungen mit und übernimmst Reporting, Massnahmencontrolling sowie KPI- und Performance-Management, dazu Markt- und Wettbewerbsanalysen. Der Mix aus Prozessanalyse und Zahlen liegt genau zwischen deiner Siemens- und deiner MVV-Station, und Wirtschaftsinformatik ist als Studiengang ausdrücklich genannt. SQL und Datenvisualisierung stehen in den Anforderungen. Ehrliche Einschränkung: Die Anzeige ist inhaltlich generisch gehalten, KI kommt nicht vor, und Karlsruhe bedeutet pro Tag rund eine Stunde Bahn hin und zurück plus Fussweg — mit ICE machbar, aber nur, wenn die Wochentage gebündelt sind. Kein Gehalt genannt, kein Bewerbungsschluss. Bewerbung über das Online-Formular auf jobs.ionos.de.",
-   "pay": "",
-   "skills": [
-    "SQL",
-    "Power BI",
-    "Python"
-   ],
-   "url": "https://jobs.ionos.de/career/all-jobs/detailed-view/869-working-student-fmd-data-analytics",
-   "person": "leonard",
-   "first_seen": "2026-09-02",
-   "last_seen": "2026-09-02",
-   "is_new": true
+   "person": "oliver",
+   "id": "3418fdfedea4",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Praktikant (m/f/d) HR Controlling & Data Management",
@@ -1497,7 +1638,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "ba577d745793",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Praktikums- und Jobbörse der Fakultät für Wirtschaftsinformatik und Wirtschaftsmathematik",
@@ -1521,7 +1665,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "e8d444f82649",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "MPIA Job Board (Software- und IT-Stellen)",
@@ -1545,7 +1692,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "8a072995bff1",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Master in Space Physics / Masterprojekt am Birkeland Centre",
@@ -1569,7 +1719,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "762614b51f5b",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Praktikums- und Jobbörse der Fakultät Wirtschaftsinformatik",
@@ -1592,7 +1745,10 @@
    "first_seen": "2026-09-01",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "27277b68e509",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Big Data Engineer / AI Software Engineer (m/w/d)",
@@ -1616,7 +1772,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "475e12f349ef",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Young Graduate Trainee Programme",
@@ -1640,7 +1799,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "60c29b02c951",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Ferienjobs im Werk Wiesloch-Walldorf",
@@ -1662,7 +1824,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "8838f2ce788e",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Master – SAP AI Engineering Architect (m/w/d)",
@@ -1686,7 +1851,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "16a0ef7e11be",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Einstieg Technology & Data Consulting (ehemals Camelot ITLab)",
@@ -1699,17 +1867,20 @@
    "score": 46,
    "tier": "interesting",
    "person": "leonard",
-   "why": "Wichtige Korrektur: Camelot ITLab existiert nicht mehr eigenständig — Accenture hat die Mannheimer Gruppe übernommen, camelot-itlab.com liefert inzwischen Accenture-Inhalte aus. Eine Bewerbung läuft also über Accenture, der Mannheimer Standort und die SAP- und Supply-Chain-Kompetenz bleiben aber erhalten, was die kurze Anreise rettet. Eine offene deutsche Einstiegsstelle mit KI-Bezug ließ sich nicht bestätigen; die einzige auffindbare Analyst-Ausschreibung ist in Wien und fordert einen Master. Karriereseite Deutschland selbst nach Analyst-Rollen in Data & AI filtern.",
+   "why": "Wichtige Korrektur: Camelot ITLab existiert nicht mehr eigenständig — Accenture hat die Mannheimer Gruppe übernommen, accenture.com liefert inzwischen Accenture-Inhalte aus. Eine Bewerbung läuft also über Accenture, der Mannheimer Standort und die SAP- und Supply-Chain-Kompetenz bleiben aber erhalten, was die kurze Anreise rettet. Eine offene deutsche Einstiegsstelle mit KI-Bezug ließ sich nicht bestätigen; die einzige auffindbare Analyst-Ausschreibung ist in Wien und fordert einen Master. Karriereseite Deutschland selbst nach Analyst-Rollen in Data & AI filtern.",
    "pay": "",
    "skills": [
     "Python",
     "SQL",
     "Power BI"
    ],
-   "url": "https://www.camelot-itlab.com/karriere/",
+   "url": "https://www.accenture.com/de-de/careers/jobsearch?jk=&sb=1&vw=0&is_rj=0&pg=1",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "5e1a026cd3eb",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Werkstudent (Geo-)Informatik - Digitale energetische Stadtentwicklung (m/w/d)",
@@ -1731,7 +1902,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "is_new": true,
-   "last_seen": "2026-09-02"
+   "last_seen": "2026-09-02",
+   "id": "6dec726157bf",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Bachelor-Zulassung über Samordna opptak – Frist 15. April",
@@ -1752,7 +1926,11 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "b51fe0e4386f",
+   "deadline": "2027-04-15",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "ESA Datalabs – eigenes Notebook-Projekt mit Missionsdaten",
@@ -1777,7 +1955,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "fbba49dca3b5",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Werkstudierende und Praktika für Studierende (Softwareentwicklung, Data Science)",
@@ -1800,7 +1981,10 @@
    "first_seen": "2026-09-01",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "063be75bd0a4",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Praktika, studentische Tätigkeiten und Abschlussarbeiten",
@@ -1824,7 +2008,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "02e9a2de7503",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Online-Jobbörse des Studierendenwerks",
@@ -1848,7 +2035,10 @@
    "first_seen": "2026-08-28",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "01eb47c2118b",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Stellenangebote der Universität Mannheim (u. a. HiWi am ZLL, Frist 30.09.2026)",
@@ -1870,7 +2060,11 @@
    "first_seen": "2026-09-01",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "99ddabec0f69",
+   "deadline": "2026-09-30",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Werkstudent:in* im Bereich Data & AI",
@@ -1894,7 +2088,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "879f6b370bac",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Werkstudent (m/w/d) Data Analytics & Business Intelligence",
@@ -1918,7 +2115,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "9061a596354c",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Telefoninterviewer in der Meinungsforschung",
@@ -1939,7 +2139,10 @@
    "first_seen": "2026-09-01",
    "is_new": false,
    "last_seen": "2026-09-01",
-   "person": "oliver"
+   "person": "oliver",
+   "id": "97eae169b2a3",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Initiativbewerbung AI Engineering",
@@ -1961,7 +2164,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "404afe37655b",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Werkstudent (m/w/d) Prozessdigitalisierung / Power Apps / Low-Code",
@@ -1984,7 +2190,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "fa68349b83cf",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   },
   {
    "title": "Digitalisierung & IT – Stellenübersicht mit KI-Schwerpunkt",
@@ -2007,7 +2216,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true
+   "is_new": true,
+   "id": "65f4ec4a4b3b",
+   "link_code": "200",
+   "link_checked": "2026-09-03"
   }
  ]
 }

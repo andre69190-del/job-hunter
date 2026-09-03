@@ -34,7 +34,8 @@ if errorlevel 1 (
 )
 
 echo.
-echo   Fertig. Coolify deployt automatisch - in ca. 1 Minute live:
+echo   Push erledigt. ACHTUNG: Coolify deployt NICHT automatisch,
+echo   solange der GitHub-Webhook fehlt - bitte in Coolify auf Redeploy klicken.
 echo   https://jobs.arndt-software.de
 echo.
 pause

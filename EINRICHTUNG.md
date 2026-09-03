@@ -182,3 +182,49 @@ deshalb ist der Webhook noch nicht eingerichtet. Selbst nachholen:
    *Just the push event*, **Add webhook**.
 
 Bis dahin gilt: nach `publish.bat` einmal in Coolify auf **Redeploy** klicken.
+
+---
+
+## Stand 03.09.2026 — Umbau nach dem Prüfbericht
+
+**Oberfläche**
+
+- Kopfzeile zeigt nur noch Zahlen und Datenstand. Ziel, Lagebericht, Skill-Gap und
+  Portfolio-Ideen stecken hinter dem Knopf **Lagebericht** oben rechts; der Zustand
+  wird gemerkt und ist standardmäßig zu.
+- **Job-Status pro Karte**: ★ Gemerkt · ✔ Beworben · ✖ Erledigt. Wird im Browser
+  gespeichert (localStorage-Schlüssel `jh_jobstate`, Schlüssel ist die neue `id`).
+  Das Auswahlfeld *Bearbeitungsstand* blendet Erledigte standardmäßig aus.
+- Begründungstexte sind auf vier Zeilen gekürzt, „mehr anzeigen" klappt auf.
+- Kategorie-, Regionen- und Artenliste bauen sich aus den Daten der jeweiligen Person.
+  Damit verschwinden Karteileichen wie die frühere Art „Remote" von selbst.
+- „Filter zurücksetzen" erscheint in der Filterleiste, sobald ein Filter aktiv ist.
+  Der Leerzustand nennt die schuldigen Filter.
+- Sortierung „Neueste zuerst" nutzt jetzt `first_seen` (vorher `last_seen`, wirkungslos).
+  Neu: Sortierung „Frist zuerst".
+- NEU bedeutet: aus dem jüngsten Lauf dieser Person. Vorher war `is_new` für Oliver
+  immer leer und für Leonard immer voll.
+- Abgelaufene Anmeldung wird als Klartext gemeldet statt als SyntaxError.
+- Der 15-Minuten-Auto-Reload ist raus.
+- Browser-Tab trägt den Namen der gewählten Person.
+
+**Daten**
+
+- Jeder Eintrag hat eine stabile `id` (SHA1 aus Arbeitgeber, Titel, URL, 12 Zeichen).
+  Der Scout muss sie bei jedem Lauf gleich vergeben, sonst geht der Job-Status verloren.
+- `deadline` wird befüllt, wo eine Frist eindeutig im Text steht (aktuell 4 Einträge).
+  **Besser: der Scout schreibt Fristen künftig direkt ins Feld.**
+- `link_code` und `link_checked` je Eintrag. Karten mit einem anderen Code als 200/403
+  zeigen eine Warnung. 403 bedeutet Bot-Sperre, nicht tot.
+- Toter IONOS-SE-Eintrag entfernt (echter 404), Accenture-URL von camelot-itlab.com
+  (HTTP 500) auf accenture.com umgestellt.
+
+**Rechtstexte entfernt** — impressum.html und datenschutz.html liegen in `_to_delete/`
+und stehen in `.gitignore`. Grund: zugangsgeschütztes, nicht-kommerzielles
+Familienwerkzeug, damit keine Impressumspflicht nach § 5 DDG; der Datenschutztext
+behauptete außerdem „keine Anmeldung, keine Cookies, keine externen Skripte",
+was mit Cloudflare Access alles drei nicht stimmte.
+
+**Wichtig:** Der Server liest die Oberfläche jetzt aus `web/index.html`. Nach dieser
+einen letzten Neustartrunde wirken künftige Änderungen an der Seite sofort —
+`build_site.py` genügt, kein Serverneustart mehr.
