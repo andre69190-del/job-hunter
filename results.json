@@ -1,52 +1,52 @@
 {
- "updated": "2026-09-02T20:25",
+ "updated": "2026-09-08T22:30",
  "default_person": "oliver",
  "people": {
   "oliver": {
    "label": "🔭 Oliver",
    "goal": "Ziel: in ~1 Jahr Zulassung Uni Norwegen · danach (Master bevorzugt Norwegen) Arbeit in Norwegen",
    "phase": "Phase 1 – neben dem Studium (Werkstudent / HiWi / Remote bevorzugt)",
-   "summary": "Lauf vom 01.09.2026 — Schwerpunkt Heimatregion. Neu hinzugekommen sind Mannheim, Karlsruhe und die Orte dazwischen. Ehrlicher Status pro Eintrag: 🟢 geprüfte Ausschreibung · 📋 Programm (Bewerbungsfenster prüfen) · ✍️ Initiativbewerbung · 🔎 Karriereseite (selbst prüfen). Sofort bewerbbar sind die FZI-HiWi-Stelle für ein LLM-ChatBot-System in Karlsruhe, die Werkstudentenstelle bei inovex, der Working Student bei IONOS sowie die Nachhilfe beim Studentenring Mannheim mit 15–21 €/Stunde. Die Norwegen- und Open-Source-Einträge stammen vom Lauf am 28.08. und wurden nicht erneut geprüft. Drängende Fristen: ESA-Praktika öffnen im November, MPIA im Dezember mit Frist Januar 2027, HiWi am ZLL der Uni Mannheim bis 30.09.2026, Andøya Space bis 31.12.2026, Master-Bewerbung Norwegen vom 1. Februar bis 1. März 2027.",
+   "summary": "Lauf vom 08.09.2026. Wichtigster Befund zum Zeitpunkt: Das norwegische Sommerjob-Fenster für 2027 ist JETZT offen — über zwanzig frische Anzeigen, Fristen zwischen Ende September und Mitte Oktober. Der Haken: Die meisten verlangen Norwegisch als Arbeitssprache (Sopra Steria, Bane NOR, Intility, Xledger, FFI), Thales verlangt sogar norwegische Staatsbürgerschaft — die sind deshalb bewusst nicht in der Liste. Aufgenommen ist, was ohne Norwegisch geht. Drängendste Frist: Stingray Marine Solutions in Oslo am 20.09.2026 — Python, PyTorch, C/C++, Git, CI/CD, und ausdrücklich ohne Norwegisch-Anforderung; gesucht wird das vierte Studienjahr, das ist die ehrliche Lücke. Danach der erste Montag im Oktober für die MPIA-Sichtungsrunde und Anfang November das ESA-Fenster. Bester Treffer am Wohnort: SAP Walldorf sucht einen Working Student Quantum Machine Learning, verlangt nur Mathe auf Bachelor-Niveau und nennt Programmierung ausdrücklich als Wunsch, nicht als Pflicht. Nicht prüfbar waren UiO, SINTEF und das Kongsberg-Portal — alle drei antworten mit 403; die Master-Fristen stehen deshalb über NTNU in der Liste (EU-Fenster 1. Februar bis 1. März, keine Studiengebühren für EU-Bürger). HITS, ZAH, DLR und die Heidelberger HiWi-Börse hatten nichts Offenes — dort steht bewusst nichts statt Aufgefülltem.",
    "skill_gap": [
     {
      "skill": "Python",
-     "count": 32,
-     "of": 37
+     "count": 41,
+     "of": 48
     },
     {
      "skill": "Linux",
-     "count": 24,
-     "of": 37
+     "count": 28,
+     "of": 48
     },
     {
      "skill": "Git",
-     "count": 20,
-     "of": 37
+     "count": 22,
+     "of": 48
     },
     {
      "skill": "C++",
-     "count": 16,
-     "of": 37
+     "count": 18,
+     "of": 48
     },
     {
      "skill": "Machine Learning",
-     "count": 9,
-     "of": 37
+     "count": 11,
+     "of": 48
     },
     {
      "skill": "NumPy",
      "count": 9,
-     "of": 37
+     "of": 48
     },
     {
      "skill": "Docker",
-     "count": 7,
-     "of": 37
+     "count": 8,
+     "of": 48
     },
     {
      "skill": "Astropy",
-     "count": 5,
-     "of": 37
+     "count": 7,
+     "of": 48
     }
    ],
    "portfolio_tips": [
@@ -59,47 +59,47 @@
    "label": "💼 Leonard",
    "goal": "Ziel: Stelle mit echter Gestaltungsverantwortung im KI-Umfeld · Bachelor 03.12.2026 · sonst Master ab Wintersemester 2027 mit Werkstudentenjob zur Überbrückung",
    "phase": "Phase 1 – Einstieg nach dem Bachelor (Vollzeit bevorzugt, Werkstudent als Brücke)",
-   "summary": "Stand 02.09.2026, Radius Mannheim und alles in etwa 45 Bahnminuten — mit ICE zählt Frankfurt dazu. Die Liste deckt jetzt beide Wege ab: Vollzeiteinstieg nach dem Bachelor und die Werkstudenten-/Praktikumsbrücke bis zum Master im Wintersemester 2027. Beste Vollzeittreffer: Deloitte „Consultant AI Engineering“ (Mannheim ausdrücklich als Standort, Anzeige drei Tage alt, Python/GenAI/Azure AI Foundry) und Bilfinger „AI & Automation Specialist“ in Mannheim, der fast wörtlich deine MVV-Tätigkeit beschreibt. Beste Brückenstellen: MVV „Werkstudent Data Analyst HR“ am Wohnort mit 17,75 €/Stunde — fachlich unter deinem Niveau, dafür kennst du das Haus; Drees & Sommer „Werkstudent KI & Digitalisierung im Tender Management“ in Mannheim, im Kern ein RAG-Use-Case mit Beratungsanteil, Anzeige einen Tag alt; und vier SAP-Werkstudentenstellen in Walldorf rund um AI/BTP und LLM-Evaluation. Ehrlich zu den Fachschaftskontakten: d-fine verlangt Bachelor plus angestrebten Master (lässt sich erklären, der Master ist ohnehin Plan B), Oliver Wymans Board lädt per JavaScript und die auffindbaren Analystenstellen sind besetzt, BCG X ist in München verankert — Umzug, kein Pendeln. Korrektur: Camelot ITLab gibt es nicht mehr eigenständig, Accenture hat die Mannheimer Gruppe übernommen. Die MVV-Stelle „Digitalisierungsarchitekt KI“ ist zu. Nicht bestätigbar waren BASF, Deutsche Bahn und PwC — Portale gesperrt oder Anzeigen zurückgezogen; deshalb bewusst keine Einträge statt erfundener. Grundregel bleibt: „Master vorausgesetzt“ ist kein Ausschlusskriterium — Lücke benennen und trotzdem bewerben. Zeitfenster: Für einen Start im Januar oder Februar 2027 müssen die Bewerbungen im September und Oktober raus; die großen Beratungen brauchen sechs bis zehn Wochen.",
+   "summary": "Lauf vom 08.09.2026, Radius Mannheim und alles in etwa 45 Bahnminuten, ICE eingerechnet. Bester Treffer ist neu und liegt am Wohnort: bridgingIT sucht in Mannheim einen Business Process Solution Consultant für Low Code, Automation und KI-Agenten — die Aufgabenbeschreibung ist praktisch das, was du bei MVV mit Copilot Studio, Power Automate und Human-in-the-Loop schon gebaut hast. Null Pendelweg. Dahinter BCG Platinion, AI Associate in Frankfurt: LLM-Orchestrierung, agentische Systeme und Evaluationsframeworks für Coding-Agents — deckungsgleich mit deiner Bachelorarbeit, Bachelor reicht laut Anzeige ausdrücklich, und über die Fachschaft gibt es den BCG-X-Kontakt für ein Referral. Dann d-fine in Frankfurt: Fachschaftskontakt, Einstieg jeden Monatsanfang, und das Modell mit höchstens acht Übernachtungen im Monat ist von Mannheim aus gut zu machen; die Anzeige nennt Master oder Promotion — das ist die Lücke, beworben wird trotzdem. Zeitkritisch, obwohl keine Anzeige eine formale Frist nennt: Deloitte sucht in Walldorf einen Praktikanten/Werkstudenten SAP Consulting mit Start ausdrücklich zum 1. Februar 2027, also genau in deinem Fenster — solche datierten Einstiege werden im Herbst besetzt, das ist die Bewerbung, die zuerst raus sollte. Ehrlich zu den Fachschaftskontakten: Oliver Wymans deutsche Einzelanzeigen waren beide besetzt und das Portal lädt per JavaScript, deshalb steht dort nur die Einstiegsseite — dort führt ohnehin der persönliche Weg. Bei BCG X war die deutsche Stelle besetzt, ersatzweise steht BCG Platinion drin, derselbe Konzern-Techarm. Nicht bestätigen ließen sich msg, adesso, Accenture, Reply, Alexander Thamm, statworx, Aleph Alpha, BASF und Südzucker — Portale gesperrt, per JavaScript geladen oder Anzeigen abgelaufen. Die Roche-Stelle in Mannheim ist gelöscht (HTTP 410).",
    "skill_gap": [
     {
      "skill": "Python",
-     "count": 33,
-     "of": 41
+     "count": 39,
+     "of": 55
     },
     {
      "skill": "SQL",
-     "count": 26,
-     "of": 41
+     "count": 29,
+     "of": 55
     },
     {
      "skill": "Machine Learning",
-     "count": 18,
-     "of": 41
+     "count": 23,
+     "of": 55
     },
     {
      "skill": "Power BI",
      "count": 14,
-     "of": 41
+     "of": 55
     },
     {
      "skill": "Cloud",
-     "count": 10,
-     "of": 41
+     "count": 12,
+     "of": 55
     },
     {
      "skill": "Power Automate",
-     "count": 8,
-     "of": 41
+     "count": 9,
+     "of": 55
     },
     {
      "skill": "RAG",
      "count": 7,
-     "of": 41
+     "of": 55
     },
     {
      "skill": "Copilot Studio",
-     "count": 4,
-     "of": 41
+     "count": 5,
+     "of": 55
     }
    ],
    "portfolio_tips": [
@@ -116,47 +116,47 @@
   }
  },
  "phase": "Phase 1 – neben dem Studium (Werkstudent / HiWi / Remote bevorzugt)",
- "summary": "Lauf vom 01.09.2026 — Schwerpunkt Heimatregion. Neu hinzugekommen sind Mannheim, Karlsruhe und die Orte dazwischen. Ehrlicher Status pro Eintrag: 🟢 geprüfte Ausschreibung · 📋 Programm (Bewerbungsfenster prüfen) · ✍️ Initiativbewerbung · 🔎 Karriereseite (selbst prüfen). Sofort bewerbbar sind die FZI-HiWi-Stelle für ein LLM-ChatBot-System in Karlsruhe, die Werkstudentenstelle bei inovex, der Working Student bei IONOS sowie die Nachhilfe beim Studentenring Mannheim mit 15–21 €/Stunde. Die Norwegen- und Open-Source-Einträge stammen vom Lauf am 28.08. und wurden nicht erneut geprüft. Drängende Fristen: ESA-Praktika öffnen im November, MPIA im Dezember mit Frist Januar 2027, HiWi am ZLL der Uni Mannheim bis 30.09.2026, Andøya Space bis 31.12.2026, Master-Bewerbung Norwegen vom 1. Februar bis 1. März 2027.",
+ "summary": "Lauf vom 08.09.2026. Wichtigster Befund zum Zeitpunkt: Das norwegische Sommerjob-Fenster für 2027 ist JETZT offen — über zwanzig frische Anzeigen, Fristen zwischen Ende September und Mitte Oktober. Der Haken: Die meisten verlangen Norwegisch als Arbeitssprache (Sopra Steria, Bane NOR, Intility, Xledger, FFI), Thales verlangt sogar norwegische Staatsbürgerschaft — die sind deshalb bewusst nicht in der Liste. Aufgenommen ist, was ohne Norwegisch geht. Drängendste Frist: Stingray Marine Solutions in Oslo am 20.09.2026 — Python, PyTorch, C/C++, Git, CI/CD, und ausdrücklich ohne Norwegisch-Anforderung; gesucht wird das vierte Studienjahr, das ist die ehrliche Lücke. Danach der erste Montag im Oktober für die MPIA-Sichtungsrunde und Anfang November das ESA-Fenster. Bester Treffer am Wohnort: SAP Walldorf sucht einen Working Student Quantum Machine Learning, verlangt nur Mathe auf Bachelor-Niveau und nennt Programmierung ausdrücklich als Wunsch, nicht als Pflicht. Nicht prüfbar waren UiO, SINTEF und das Kongsberg-Portal — alle drei antworten mit 403; die Master-Fristen stehen deshalb über NTNU in der Liste (EU-Fenster 1. Februar bis 1. März, keine Studiengebühren für EU-Bürger). HITS, ZAH, DLR und die Heidelberger HiWi-Börse hatten nichts Offenes — dort steht bewusst nichts statt Aufgefülltem.",
  "skill_gap": [
   {
    "skill": "Python",
-   "count": 32,
-   "of": 37
+   "count": 41,
+   "of": 48
   },
   {
    "skill": "Linux",
-   "count": 24,
-   "of": 37
+   "count": 28,
+   "of": 48
   },
   {
    "skill": "Git",
-   "count": 20,
-   "of": 37
+   "count": 22,
+   "of": 48
   },
   {
    "skill": "C++",
-   "count": 16,
-   "of": 37
+   "count": 18,
+   "of": 48
   },
   {
    "skill": "Machine Learning",
-   "count": 9,
-   "of": 37
+   "count": 11,
+   "of": 48
   },
   {
    "skill": "NumPy",
    "count": 9,
-   "of": 37
+   "of": 48
   },
   {
    "skill": "Docker",
-   "count": 7,
-   "of": 37
+   "count": 8,
+   "of": 48
   },
   {
    "skill": "Astropy",
-   "count": 5,
-   "of": 37
+   "count": 7,
+   "of": 48
   }
  ],
  "portfolio_tips": [
@@ -189,7 +189,7 @@
    "id": "972740c86a2e",
    "deadline": "2027-03-01",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Summer Internship Programme 2027 (Mai–September)",
@@ -216,7 +216,7 @@
    "person": "oliver",
    "id": "cf9b78fd9c57",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "AI & Automation Specialist (m/w/d)",
@@ -241,10 +241,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "801523333661",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Consultant AI Engineering (m/w/d)",
@@ -268,10 +268,10 @@
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15794-471556_50427-1-S",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "c562247b54c8",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "(Associate) Consultant Data Science & AI (m/w/d)",
@@ -295,38 +295,67 @@
    "url": "https://job-boards.eu.greenhouse.io/capgeminideutschlandgmbh/jobs/4635692101",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "209527ed5ed1",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
-   "title": "Summer Internship Programme 2027 (6 Wochen, Juni–August)",
-   "employer": "Simula Research Laboratory",
-   "location": "Oslo / Bergen",
-   "region": "Norwegen",
-   "category": "Karriere",
-   "type": "Praktikum",
-   "status": "program",
-   "score": 70,
+   "title": "Business Process Solution Consultant - Low Code, Automation, KI-Agents (w|m|d)",
+   "employer": "bridgingIT GmbH",
+   "location": "Mannheim (Wohnort, kein Pendeln)",
+   "region": "Deutschland",
+   "category": "Beratung",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 72,
    "tier": "must_apply",
-   "why": "Auf der Programmseite geprüft: Simula pausiert Sommer 2026, die Ausschreibung für 2027 öffnet später – man kann sich jetzt für die Benachrichtigung registrieren. Zielgruppe sind ausdrücklich Bachelor- und Masterstudierende aus Physik, Mathematik, Data Science und Informatik in Scientific Computing und AI. Jetzt eintragen und academy@simula.no anschreiben; als EU-Bürger ist die Arbeitserlaubnis kein Thema.",
-   "pay": "Stundenlohn (Höhe nicht veröffentlicht), subventionierter Lunch",
+   "why": "Du analysierst und optimierst Kundenprozesse, entwirfst Low-Code- und Automatisierungsloesungen und ordnest KI-Agenten technisch ein - genau das, was du bei MVV mit Copilot Studio, Power Automate und Human-in-the-Loop schon produktiv gebaut hast. bridgingIT hat seinen Hauptsitz in Mannheim, du haettest also keinen Pendelweg; gearbeitet wird beim Kunden in der Region, dazu mobiles Arbeiten und bis zu 183 Tage pro Jahr aus dem EU-Ausland, Reisebereitschaft ist erwartet aber nicht als Vielfliegerei ausgelegt. Ehrlich: die Anzeige liest sich eher nach Mid-Level, BPMN/ARIS/UML und ein abgeschlossenes Studium plus Praxis werden vorausgesetzt - dein Bachelor plus zwei Werkstudentenstellen ist knapp, aber deine Low-Code-Praxis ist ungewoehnlich stark fuer einen Absolventen. Bewirb dich direkt bei Annekatrin Kempf oder Luisa Schuhmacher und leg das MVV-Agentensystem als konkrete Referenz mit in die Bewerbung.",
+   "pay": "",
    "skills": [
-    "Python",
-    "NumPy",
-    "Scientific Computing",
-    "Machine Learning",
-    "Linux"
+    "Power Automate",
+    "Copilot Studio",
+    "Low-Code",
+    "BPMN",
+    "Prozessanalyse",
+    "KI-Agenten"
    ],
-   "url": "https://www.simula.no/careers/summer-internships",
-   "first_seen": "2026-08-28",
-   "is_new": false,
-   "last_seen": "2026-09-01",
-   "person": "oliver",
-   "id": "f4f0b5ddcae0",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15835-0009030049f001-S",
+   "person": "leonard",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "11fd56104a90",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "AI Associate (all genders) - BCG Platinion",
+   "employer": "BCG Platinion (Boston Consulting Group)",
+   "location": "Frankfurt am Main (~35 Min., ICE)",
+   "region": "Deutschland",
+   "category": "Beratung",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 71,
+   "tier": "must_apply",
+   "why": "Hier entwirfst du KI-getriebene Zielarchitekturen mit LLM-Orchestrierung und agentischen Systemen, baust Toolchains und Evaluationsframeworks fuer Coding-Agents und uebersetzt Fachanforderungen in testbare Spezifikationen - das ist praktisch die Berufsversion deiner Bachelorarbeit ueber Fehlermodi in produktiven Multi-Agenten-Systemen. Der Abschluss auf Bachelor-Niveau reicht laut Anzeige explizit aus, gefordert sind Hands-on-Erfahrung mit Coding-Agents und Verstaendnis von Agent-Loops, Observability und MCP. Beratung heisst hier Projektarbeit beim Kunden mit ausdruecklich erwarteter Reisebereitschaft, Frankfurt ist der Anker, Remote-Anteil nennt die Anzeige nicht - rechne mit drei bis vier Tagen beim Kunden. Ueber die Fachschaft Data Analytics hast du eine echte Partnerschaft zu BCG X aufgebaut: nutz diesen Kontakt fuer eine Referral, bevor du ueber das Portal gehst. Einschraenkung: die Anzeige nennt keinen Standort im Stellentext, im Jobportal-Filter erscheint sie unter Frankfurt - frag das im Erstgespraech ab.",
+   "pay": "",
+   "skills": [
+    "LLM-Orchestrierung",
+    "Agentic AI",
+    "Python",
+    "Softwarearchitektur",
+    "DevSecOps"
+   ],
+   "url": "https://platinion.avature.net/CareersDe/JobDetail/AI-Associate-all-genders-BCG-Platinion/789",
+   "person": "leonard",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "e107f2db3d7d",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "AI Engineer / Data Scientist (m/w/d) – Machine Learning & Generative AI",
@@ -351,63 +380,122 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "f582db98fc9b",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
-   "title": "Sommerjobber i KSAT – Software für den Antennenpark-Betrieb",
-   "employer": "Kongsberg Satellite Services (KSAT)",
-   "location": "Tromsø / Norwegen",
-   "region": "Norwegen",
-   "category": "Karriere",
-   "type": "Sommerjob",
-   "status": "program",
-   "score": 68,
+   "title": "Associate - AI Tech Architecture (all genders) - BCG Platinion",
+   "employer": "BCG Platinion (Boston Consulting Group)",
+   "location": "Frankfurt am Main (~35 Min., ICE)",
+   "region": "Deutschland",
+   "category": "Beratung",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 69,
    "tier": "must_apply",
-   "why": "Verifizierte Programmseite: KSAT sucht Studierende für Sommerprojekte rund um Datenerfassung von Antennen-Equipment, Zeitreihen-Datenbanken, Messwertanalyse und Visualisierungs-APIs – gefordert werden Python, Java oder Perl. Teams aus 2–3 Studierenden, mindestens 6 Wochen, danach ist ein Teilzeitjob möglich. Keine Frist genannt: ab Herbst 2026 monatlich prüfen und parallel eine Initiativmail schicken.",
+   "why": "Du begleitest die digitale Transformation von Grosskonzernen, fuehrst Capability-Assessments durch, steuerst agile Entwicklungsteams und entwirfst massgeschneiderte IT-Architekturen mit integrierten KI-Faehigkeiten. Die Anzeige verlangt ausdruecklich nur ein abgeschlossenes oder kurz vor dem Abschluss stehendes Studium plus erste Praxis aus Praktika oder Werkstudentenjobs sowie erste Erfahrung mit KI-Tools und KI-gestuetzten Architekturen - dein Siemens-RAG-Chatbot und das MVV-Agentensystem decken das sauber ab. Reisebereitschaft und Flexibilitaet werden erwartet, ein konkreter Remote-Anteil wird nicht genannt, Frankfurt ist im Portal als Standort gefuehrt. Ehrliche Luecke: klassische IT-Beratungserfahrung hast du nicht, das wird im Interview Thema. Nimm den Fachschaftskontakt zu BCG X mit, Ansprechpartnerin in der Anzeige ist Leonie Kutschera-Gross.",
    "pay": "",
    "skills": [
-    "Python",
-    "Linux",
-    "Datenbanken",
-    "Git"
+    "IT-Architektur",
+    "KI-Integration",
+    "Agile Methoden",
+    "Stakeholder-Kommunikation",
+    "Python"
    ],
-   "url": "https://www.kongsberg.com/careers/vacancies/sommerjobber-i-ksat/",
-   "first_seen": "2026-08-28",
-   "is_new": false,
-   "last_seen": "2026-09-01",
-   "person": "oliver",
-   "id": "55e892187f68",
-   "link_code": "403",
-   "link_checked": "2026-09-03"
+   "url": "https://platinion.avature.net/CareersDe/JobDetail/Associate-AI-Tech-Architecture-all-genders-BCG-Platinion/785",
+   "person": "leonard",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "65e12ff1961a",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
   },
   {
-   "title": "Werkstudent Data Analyst HR (m/w/d)",
-   "employer": "MVV Energie AG",
-   "location": "Mannheim (0 min Bahn, Heimatstandort)",
+   "title": "Working Student (f/m/d) - Quantum Machine Learning Researcher",
+   "employer": "SAP SE",
+   "location": "Walldorf (~0 min)",
    "region": "Deutschland",
    "category": "Karriere",
    "type": "Werkstudent",
    "status": "verified",
    "score": 68,
    "tier": "must_apply",
-   "why": "Das ist dein klarster Treffer: Du baust die zentrale HR-Daten- und Reporting-Infrastruktur mit auf, analysierst Personaldaten und -kosten, entwickelst Kennzahlen und Visualisierungen in Power BI und suchst Automatisierungspotenziale im Reporting. Power BI, SQL und Python stehen explizit als Pluspunkte in der Anzeige — genau dein Stack aus dem Market Intelligence Center. Und du kennst MVV bereits von innen, das ist ein enormer Vorteil im Prozess und ein sauberer interner Wechsel, falls dein aktueller Vertrag ausläuft. Ehrliche Einschränkung: Es ist HR-Controlling, nicht KI oder Agentensysteme — fachlich ein Rückschritt gegenüber deiner Bachelorarbeit, dafür aber inhaltlich solide und bezahlt mit 17,75 EUR brutto/Stunde. Die Stelle ist auf 6 Monate befristet und ab sofort zu besetzen; bewirb dich über das MVV-Jobportal (Kennziffer 2026-0271) mit tabellarischem Lebenslauf, gültiger Immatrikulationsbescheinigung und aktuellem Notenspiegel — und sprich intern vorher kurz mit deiner jetzigen Führungskraft.",
-   "pay": "17,75 EUR brutto/Stunde",
+   "why": "Du unterstuetzt den QML-Lead bei Validierung von Quantum-Machine-Learning-Modellen und explorativer Forschung in einem kleinen, startup-artigen Team. Die Anzeige verlangt ausdruecklich nur eine starke Mathe-Basis auf Bachelor-Niveau, Programmierkenntnisse sind erwuenscht aber nicht Pflicht - das ist fuer dich mit Python und NumPy eher untertrieben. Der Job liegt buchstaeblich vor deiner Haustuer, nur 1-2 Praesenztage pro Woche in Walldorf. Ehrliche Einschraenkung: Das ist Wirtschafts-ML, kein Astro-Thema, und Publikationen sind hier unwahrscheinlich - dafuer ist es bezahlte, vorzeigbare Forschungserfahrung. Naechster Schritt: direkt ueber jobs.sap.com bewerben, die Anzeige ist seit 25.08.2026 online und SAP-Werkstudentenstellen sind erfahrungsgemaess schnell weg.",
+   "pay": "",
    "skills": [
-    "Power BI",
-    "SQL",
-    "Python"
+    "Python",
+    "Mathematik",
+    "Machine Learning",
+    "Deutsch"
    ],
-   "url": "https://www.mvv.de/karriere/jobportal/job/werkstudent-data-analyst-hr-m-w-d",
-   "person": "leonard",
-   "first_seen": "2026-09-02",
-   "last_seen": "2026-09-02",
+   "url": "https://jobs.sap.com/job/Walldorf-Working-Student-(fmd)-Quantum-Machine-Learing-Researcher-69190/1419127333/",
+   "person": "oliver",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
    "is_new": true,
-   "id": "45e7a8b7330e",
+   "id": "0192382fd8f2",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Consultant (m/w/d) aus den Fachrichtungen Physik, Mathematik, Informatik, Natur-, Ingenieur- oder Wirtschaftswissenschaften",
+   "employer": "d-fine GmbH",
+   "location": "Frankfurt am Main (~35 Min., ICE)",
+   "region": "Deutschland",
+   "category": "Beratung",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 68,
+   "tier": "must_apply",
+   "why": "d-fine sucht Einsteiger fuer Data-Science-Methodik, Modellkonzeption und -validierung, Machine Learning und Full-Stack-Programmierung komplexer Loesungen inklusive Prozessdigitalisierung - fachlich der beste Schnitt aus deinem Python-/SQL-Profil und deiner Beratungslust. Besonders gut: d-fine laesst dich das Arbeitsmodell waehlen, Blue bedeutet Projekte deutschland- und europaweit, Orange regionale Projekte rund um den Standort mit maximal acht Uebernachtungen im Monat, Yellow ueberwiegend remote im festen Team - fuer dich in Mannheim ist Orange ab Frankfurt der Sweetspot. Einstieg ist ganzjaehrig jeweils zum Monatsanfang moeglich, Januar oder Februar 2027 passt also. Ehrliche Luecke: die Anzeige nennt Master oder Promotion, ein Bachelor ist nicht ausgeschlossen, aber du musst ihn mit Projektsubstanz aufwiegen. Ueber die Fachschaft Corporate Relations hast du einen echten Draht zu d-fine - schreib den Recruiting-Kontakt direkt an und verweise auf die Partnerschaft, bevor du dich ueber das Portal bewirbst.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "SQL",
+    "Machine Learning",
+    "Datenmodellierung",
+    "Prozessdigitalisierung"
+   ],
+   "url": "https://jobs.d-fine.com/en/jobs/15/consultant-mwd-aus-den-fachrichtungen-physik-mathematik-informatik-natur-ingenieur-oder-wirtschaftswissenschaften",
+   "person": "leonard",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "c1777e0ee4f8",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "AI Engineer / Data Scientist (mwd) - Machine Learning & Generative AI",
+   "employer": "HMS Analytical Software GmbH",
+   "location": "Heidelberg (~15 Min.)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 67,
+   "tier": "must_apply",
+   "why": "HMS fuehrt diese Stelle im eigenen Karriereportal ausdruecklich unter Berufseinsteiger und Berufserfahrene - du entwickelst ML- und GenAI-Loesungen in Python, baust MLOps- und LLMOps-Workflows mit CI/CD und lieferst APIs, Microservices und Datenpipelines. Heidelberg ist 15 Bahnminuten weg, du koenntest in Mannheim wohnen bleiben; Hybrid und Remote sind moeglich, gelegentliche Reisen zu Kunden werden erwartet, aber es ist kein Vielreiser-Modell. Fuer dich passt das, weil du OpenAI- und Gemini-APIs, RAG und Multi-Agenten-Workflows schon produktiv gebaut hast statt nur Notebooks zu schreiben. Ehrliche Luecke: gefordert werden Cloud-Erfahrung mit AWS oder Azure sowie Docker und Git-basierte CI/CD - dein Schwerpunkt liegt auf Microsoft Fabric und Power Platform, das solltest du vor dem Gespraech mit einem eigenen containerisierten Projekt untermauern. Bewirb dich direkt ueber karriere.analytical-software.de.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "Generative AI",
+    "MLOps",
+    "Docker",
+    "Azure"
+   ],
+   "url": "https://karriere.analytical-software.de/AI-Engineer-Data-Scientist-mwd-Machine-Learning-Generative-de-j28.html",
+   "person": "leonard",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "7b2d623c794b",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "ESA Science Internships (ESAC Madrid / ESTEC Noordwijk)",
@@ -435,35 +523,7 @@
    "person": "oliver",
    "id": "abb754a0f40c",
    "link_code": "200",
-   "link_checked": "2026-09-03"
-  },
-  {
-   "title": "Studentische Hilfskraft im Research Software Engineering",
-   "employer": "Scientific Software Center (SSC), Universität Heidelberg",
-   "location": "Heidelberg (~25 min)",
-   "region": "Deutschland",
-   "category": "Karriere",
-   "type": "HiWi",
-   "status": "initiative",
-   "score": 66,
-   "tier": "must_apply",
-   "why": "Die Seite Open positions listet aktuell keine offene Stelle, sagt aber wörtlich, dass das SSC gelegentlich HiWi-Stellen anbietet, bei denen man Code zu laufenden Forschungsprojekten beiträgt – genau sein Profil. Das SSC arbeitet fakultätsübergreifend, auch mit Physik- und Astro-Gruppen. Kurze Initiativmail an ssc-jobs@uni-heidelberg.de mit CV und zwei GitHub-Links; keine Frist, also je früher desto besser.",
-   "pay": "HiWi-Satz Uni Heidelberg, ca. 13–14 €/Std.",
-   "skills": [
-    "Python",
-    "Git",
-    "Docker",
-    "Linux",
-    "C++"
-   ],
-   "url": "https://www.ssc.uni-heidelberg.de/en/what-the-scientific-software-center-is-all-about/open-positions",
-   "first_seen": "2026-07-29",
-   "is_new": false,
-   "last_seen": "2026-09-01",
-   "person": "oliver",
-   "id": "c0bd42424a2a",
-   "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Consultant (w/m/d) BI & Analytics (all levels)",
@@ -487,37 +547,67 @@
    "url": "https://www.horvath-partners.com/de/karriere/jobs/jobsuche/job-detailseite/detail/2703?cHash=f7eb7d17d056b3166725c9a00e3a8fbb",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "a653c16c2531",
    "link_code": "403",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
-   "title": "Summer Internship Programme (7 Wochen) – Sommer 2027",
-   "employer": "Kongsberg Gruppen",
-   "location": "Kongsberg / Oslo",
-   "region": "Norwegen",
+   "title": "Bachelorarbeiten, Mini-Forschungsprojekte und Praktika am MPIA",
+   "employer": "Max-Planck-Institut fuer Astronomie",
+   "location": "Heidelberg-Koenigstuhl (~25 min)",
+   "region": "Deutschland",
    "category": "Karriere",
-   "type": "Praktikum",
+   "type": "Thesis",
    "status": "program",
-   "score": 64,
+   "score": 66,
    "tier": "must_apply",
-   "why": "Siebenwöchiges betreutes Sommerprogramm für Studierende technischer Fächer, auch im Bereich Aerospace. Die Runde für Sommer 2026 hatte Bewerbungsschluss 28. Februar 2026, für 2027 ist ein Fenster ab Winter 2026/27 zu erwarten. Kongsberg vergibt Zusagen laufend schon vor Fristende – also früh bewerben statt auf die Deadline warten.",
+   "why": "Das MPIA vergibt laufend Bachelorarbeiten, Mini-Forschungsprojekte und Praktika an Studierende aus Astronomie, Physik, Mathematik und Informatik - genau der Kanal, ueber den man als Bachelorstudent an echte Beobachtungsdaten und im Idealfall an eine Koautorenschaft kommt. Bewerbungen laufen ueber ein Online-Formular und werden sechsmal im Jahr gesichtet, jeweils am ersten Montag im Februar, April, Juni, August, Oktober und Dezember; Rueckmeldung kommt rund zwei Wochen spaeter. Fuer dich ist das der staerkste Hebel Richtung Publikation, weil Python/NumPy/Astropy dort die Standardwerkzeuge sind. Ehrliche Einschraenkung: Das MPIA verleiht keine Abschluesse, deine Heimatuni muss die extern betreute Arbeit akzeptieren, und du musst vor Ort in Heidelberg arbeiten koennen. Naechster Schritt: das Formular vor dem ersten Montag im Oktober 2026 abschicken, damit du in die naechste Sichtungsrunde faellst.",
    "pay": "",
    "skills": [
     "Python",
-    "C++",
+    "NumPy",
+    "Astropy",
     "Linux",
     "Git"
    ],
-   "url": "https://www.kongsberg.com/careers/summer-interns/",
-   "first_seen": "2026-08-28",
-   "is_new": false,
-   "last_seen": "2026-09-01",
+   "url": "http://www.mpia.de/studium-und-karriere/studieren-am-mpia/bachelor-und-masterarbeiten",
    "person": "oliver",
-   "id": "0eac7240f870",
-   "link_code": "403",
-   "link_checked": "2026-09-03"
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "1232c45f9a98",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "AI Engineer (w|m|d)",
+   "employer": "bridgingIT GmbH",
+   "location": "Mannheim (Wohnort, kein Pendeln)",
+   "region": "Deutschland",
+   "category": "Beratung",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 66,
+   "tier": "must_apply",
+   "why": "Du beraetst zu KI-Projekten und setzt sie um, entwickelst Loesungen mit LLMs, OCR und Automatisierung, bewertest ML-Verfahren und integrierst sie in Kundenarchitekturen und praesentierst die Ergebnisse - Beratung und Engineering in einer Rolle, also genau die Mischung, die du suchst. Standort Mannheim, dazu mobiles Arbeiten und bis zu 183 Tage aus dem EU-Ausland; Reiseanteil nennt die Anzeige nicht explizit, bei bridgingIT sind Projekte typischerweise regional, du bliebest also im Rhein-Neckar-Raum. Gehalt ist mit 50.000 bis 80.000 Euro ausgeschrieben, das untere Ende ist ein realistischer Absolventeneinstieg. Ehrliche Luecke: gewuenscht sind Data Science oder Wirtschaftsinformatik plus praxiserprobtes TensorFlow, PyTorch, Keras und LangChain - LangChain und LLM-APIs hast du, das klassische Deep-Learning-Stack-Wissen musst du dir vor dem Gespraech noch anlesen. Bewirb dich mit einem kurzen Projektsteckbrief zum MVV-M&A-Agentensystem.",
+   "pay": "50.000 - 80.000 EUR p.a.",
+   "skills": [
+    "Python",
+    "SQL",
+    "LLM",
+    "LangChain",
+    "RAG",
+    "Machine Learning"
+   ],
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15835-000903004c9001-S",
+   "person": "leonard",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "69b4806f3db8",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Business AI & Data Architect (m/w/d)",
@@ -541,10 +631,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "12670117238d",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Consultant Intelligent Automation – Einstieg in AI & Data (m/w/d)",
@@ -568,10 +658,10 @@
    "url": "https://job.deloitte.com/job-consultant-intelligent-automation-dein-einstieg-in-ai-data-mwd-_49502",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "48436a50bfc1",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Werkstudent (w/m/d) KI & Digitalisierung im Tender Management",
@@ -595,10 +685,68 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "d55a29901c89",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Software Summer Internship 2027",
+   "employer": "Stingray Marine Solutions AS",
+   "location": "Oslo, Grorud (~1 Flugstunde ab FRA)",
+   "region": "Norwegen",
+   "category": "Karriere",
+   "type": "Sommerjob",
+   "status": "verified",
+   "score": 64,
+   "tier": "must_apply",
+   "deadline": "2026-09-20",
+   "why": "Stingray baut autonome Unterwasser-Roboter fuer Lachsfarmen; als Intern landest du entweder im Machine-Learning-Team (Computer Vision, Deep Learning) oder im Node-Team (Echtzeit-C/C++, Robotik-Integration). Die geforderten Skills - Python, PyTorch, C/C++, Git, CI/CD - decken sich fast eins zu eins mit deinem Profil, und die Anzeige nennt keine Norwegisch-Anforderung, was bei norwegischen Sommerjobs die grosse Ausnahme ist. Vier Stellen sind ausgeschrieben, Homeoffice gibt es nicht. Ehrliche Einschraenkung: Gesucht werden Studierende im 4. Studienjahr, du bist als Bachelorstudent frueher dran - du musst das ueber ein starkes Projekt-Portfolio auf GitHub ausgleichen. Naechster Schritt: Das ist die dringendste Frist im ganzen Set, Bewerbung bis 20.09.2026 raus.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "PyTorch",
+    "C++",
+    "Git",
+    "CI/CD",
+    "Linux"
+   ],
+   "url": "https://www.finn.no/job/ad/475301794",
+   "person": "oliver",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "f89ff738dd20",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Junior IT-Berater Enterprise Architecture & Industrie 4.0 (w/m/d)",
+   "employer": "Capgemini",
+   "location": "Frankfurt am Main (~35 Min., ICE)",
+   "region": "Deutschland",
+   "category": "Beratung",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 64,
+   "tier": "must_apply",
+   "why": "Explizit als Junior-Rolle ausgeschrieben: du analysierst und modellierst Unternehmens- und IT-Architekturen im Manufacturing-Umfeld, optimierst Prozesse in komplexen IT-Landschaften inklusive KI- und Industrie-4.0-Kontexten und moderierst Workshops und Kundenpraesentationen. Genau das Praesentieren und Moderieren ist deine Staerke - du hast bei MVV Fuehrungskraefte geschult und vor rund 30 Stakeholdern gepitcht. Bachelor oder Master reichen, TOGAF-Kenntnisse sind erwuenscht aber hohe Lernbereitschaft wird ausdruecklich akzeptiert. Frankfurt ist einer von 14 Standorten, hybrides Arbeiten von zuhause oder aus anderen Capgemini-Buero ist vorgesehen, Reisebereitschaft wird gefordert ohne Prozentsatz - bei Capgemini realistisch zwei bis drei Tage beim Kunden. Ehrliche Luecke: Enterprise Architecture und TOGAF sind fuer dich Neuland, das ist aber genau das, was die Stelle dir beibringen will. Bewirb dich ueber den get-in-IT-Link, dort steht die vollstaendige Beschreibung.",
+   "pay": "",
+   "skills": [
+    "Enterprise Architecture",
+    "Prozessmodellierung",
+    "Industrie 4.0",
+    "Workshops",
+    "Stakeholder-Kommunikation"
+   ],
+   "url": "https://www.get-in-it.de/jobsuche/p302873",
+   "person": "leonard",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "019c0dfd0bfa",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "(Senior) Consultant Data Science – AI and Data (w/m/d)",
@@ -622,10 +770,38 @@
    "url": "https://jobsgermany.ey.com/absolventin/offer/senior-consultant-data-science-ai-a/36d14880-1b74-4459-92c5-1b4f5a14e834",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "e4f9b1238a7b",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Business IT Consultant / Technical Consultant (m/w/d)",
+   "employer": "Senacor Technologies AG",
+   "location": "Frankfurt am Main (~35 Min., ICE)",
+   "region": "Deutschland",
+   "category": "Beratung",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 63,
+   "tier": "must_apply",
+   "why": "Senacor richtet diese Stelle ausdruecklich an Absolventen und Young Professionals: du beraetst zu Transformation und Digitalisierung, definierst fachliche und technische Architekturen, uebernimmst Steuerungsrollen im Programm-Management und erste Projektleitungsaufgaben. Fuer dich passend, weil Wirtschaftsinformatik explizit als Fachrichtung genannt ist und die Rolle Technik und Kundengespraech verbindet statt dich in eine reine Entwicklerrolle zu stecken. Das Arbeitsmodell ist bemerkenswert flexibel: Kundenreisen starten von deinem Wohnort aus, ein Umzug wird nicht verlangt, dazu Homeoffice und bis zu 20 Workation-Tage in der EU - fuer dich in Mannheim mit Frankfurt als Basis sehr gut. Ehrliche Luecke: verlangt wird ein ueberdurchschnittlicher Abschluss, deine Noten sollten also stimmen, und der Fokus liegt stark auf Financial Services und Kernbanksystemen, nicht auf Energie. Bewirb dich ueber die Stepstone-Anzeige, sie ist aktuell und vollstaendig.",
+   "pay": "",
+   "skills": [
+    "IT-Architektur",
+    "Digitalisierung",
+    "Projektmanagement",
+    "Java",
+    "SQL"
+   ],
+   "url": "https://www.stepstone.de/stellenangebote--Business-IT-Consultant-Technical-Consultant-m-w-d-Berlin-Bonn-Frankfurt-Hamburg-Muenchen-Nuernberg-Wien-Senacor-Technologies-AG--7785739-inline.html",
+   "person": "leonard",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "d8657e2feff0",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "SunPy: vier offene Good-First-Issues (u.a. #8445, #8416, #3800, #2784)",
@@ -653,7 +829,7 @@
    "person": "oliver",
    "id": "fa685872c5e2",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Sommerjobb i SINTEF (~100 Stellen pro Jahr) + SINTEF-Stipendium",
@@ -681,7 +857,7 @@
    "person": "oliver",
    "id": "5b904ab6387c",
    "link_code": "403",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Initiativbewerbung Astroinformatics-Gruppe (AIN)",
@@ -708,7 +884,7 @@
    "person": "oliver",
    "id": "00d89d4e34ef",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Studentische Hilfskraft – LLM-basiertes ChatBot-System (Vacancy 1254)",
@@ -735,7 +911,7 @@
    "person": "oliver",
    "id": "a600240f5bad",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Einstieg Consulting & Solutions (Fachschaftskontakt)",
@@ -758,10 +934,10 @@
    "url": "https://www.d-fine.com/karriere/deutschland/consulting-solutions/",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "c0ddd14b957f",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Werkstudent (m/w/d) Global Master Data Management",
@@ -785,10 +961,64 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "ce9ccdd92582",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Opptak til internasjonale masterprogram (EU/EWS-soekere)",
+   "employer": "NTNU Trondheim",
+   "location": "Trondheim",
+   "region": "Norwegen",
+   "category": "Karriere",
+   "type": "Studium",
+   "status": "program",
+   "score": 62,
+   "tier": "must_apply",
+   "deadline": "2027-03-01",
+   "why": "Das ist dein eigentliches Ziel: NTNU nimmt Bewerbungen fuer die englischsprachigen Zweijahres-Master von EU/EWR-Buergern im Fenster 1. Februar bis 1. Maerz entgegen, Ergebnisse kommen Ende April. Als Deutscher zahlst du keine Studiengebuehren, das gilt ausdruecklich nur fuer Nicht-EU-Buerger. Informatik-nahe Programme wie MSIT und die physiknahen Master passen zu deinem Profil. Ehrliche Einschraenkung: Zum Zeitpunkt der Pruefung zeigte die Seite noch den Zyklus 2026, die Jahreszahlen fuer 2027 bestaetige bitte im Januar erneut - das Fenster selbst ist seit Jahren stabil. Naechster Schritt: jetzt die Zulassungsvoraussetzungen deines Wunschprogramms gegen deinen Studienplan pruefen, damit du im Februar keine fehlenden Kreditpunkte entdeckst.",
+   "pay": "",
+   "skills": [
+    "Bachelor Informatik/Physik",
+    "Englisch"
+   ],
+   "url": "https://www.ntnu.edu/studies/imp/how_to_apply",
+   "person": "oliver",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "84d7bab067cf",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Consultant (w/m/d) Data Science & AI (all levels)",
+   "employer": "Horvath",
+   "location": "Frankfurt am Main (~35 Min., ICE)",
+   "region": "Deutschland",
+   "category": "Beratung",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 62,
+   "tier": "must_apply",
+   "why": "Die Anzeige adressiert ausdruecklich auch Absolventinnen und Absolventen: du beraetst Kunden zu KI- und ML-Strategie und deren Umsetzung, fuehrst Teilprojekte von der Konzeption bis zur Umsetzung und uebersetzt zwischen Data Science und Fachbereich - genau die Uebersetzerrolle, die du bei MVV zwischen Corporate Strategy und Technik schon gespielt hast. GenAI und LLMs sind namentlich als Schwerpunkt genannt. Horvath arbeitet mit einer Mischung aus Buero, Remote und Kundenstandort, der Reiseanteil wird nicht beziffert, bei Horvath ueblicherweise zwei bis drei Tage - ab Frankfurt gut machbar. Start ist nach Vereinbarung, Januar oder Februar 2027 also verhandelbar. Ehrliche Luecke: die Anzeige nennt einen Masterabschluss und mehrere Jahre Data-Science-Praxis, akademisch oder beruflich - dein Bachelor plus Bachelorarbeit am KI-Lehrstuhl deckt das nur teilweise, bewirb dich trotzdem und fuehre die Arbeit prominent auf.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "GenAI",
+    "LLM",
+    "Beratung"
+   ],
+   "url": "https://www.horvath-partners.com/de/karriere/jobs/jobsuche/job-detailseite/detail/3469",
+   "person": "leonard",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "9a7c3985b802",
+   "link_code": "403",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Working Student (f/m/d) for SAP AI/BTP solutions for Experience Labs",
@@ -811,11 +1041,11 @@
    "url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-for-SAP-AIBTP-solutions-for-Experience-Labs-69190/1429634133/",
    "person": "leonard",
    "first_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "last_seen": "2026-09-02",
    "id": "12a26f7c03d4",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Initiativbewerbung Sommer- oder Masterprojekt Solarphysik (RoCS)",
@@ -844,7 +1074,7 @@
    "person": "oliver",
    "id": "8a2601f61ed0",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Initiativbewerbung Gaia-Datenverarbeitung am ARI",
@@ -871,7 +1101,7 @@
    "person": "oliver",
    "id": "3bd8e138f071",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Werkstudenten- und Praktikantenstellen am Hauptsitz Walldorf",
@@ -899,7 +1129,7 @@
    "person": "oliver",
    "id": "8260a0f6b385",
    "link_code": "403",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Developer (m/w/d) Agribusiness & Commodities Risk Analytics, Industry AI",
@@ -923,10 +1153,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "e2cfdb787ff2",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Consultant (w/m/d) Data Science & AI (all levels)",
@@ -950,10 +1180,10 @@
    "url": "https://www.horvath-partners.com/de/karriere/jobs/jobsuche/job-detailseite/detail/3469?cHash=6af6db7aa08b1c614f14c9297d685db7",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "c1cdf0421449",
    "link_code": "403",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Intern/Thesis/Working Student (f/m/d) - Evaluating and Improving LLM-based SE Solutions in SAP HANA",
@@ -977,41 +1207,42 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "135dc6fc9bcb",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
-   "title": "Werkstudent (mwd) Software Development, Data & AI",
-   "employer": "HMS Analytical Software GmbH",
-   "location": "Heidelberg (~15 min Bahn)",
+   "title": "Consultant Analytics (m/w/d)",
+   "employer": "INFOMOTION GmbH",
+   "location": "Frankfurt am Main (~35 Min., ICE)",
    "region": "Deutschland",
    "category": "Beratung",
-   "type": "Werkstudent",
+   "type": "Vollzeit",
    "status": "verified",
-   "score": 59,
+   "score": 60,
    "tier": "must_apply",
-   "why": "HMS ist ein Data-Science- und Software-Engineering-Beratungshaus, das heisst du arbeitest in Kundenprojekten und nicht nur im Innendienst — das passt zu deinem Wunsch nach Beratung. Inhaltlich: Mitarbeit in Softwareentwicklungs-, Data- und AI-Projekten, Anwendungen zur Datenverarbeitung und -analyse, Machine-Learning- und AI-Use-Cases. Python und Java stehen in der Anzeige, ebenso ausdrücklich Offenheit für KI-gestützte Entwicklungswerkzeuge — dein Profil deckt das direkt ab. Heidelberg ist in einer Viertelstunde erreichbar, das ist logistisch die bequemste Option nach Mannheim selbst. Ehrliche Einschränkung: Als Studiengänge werden Informatik und Naturwissenschaften genannt, Wirtschaftsinformatik ist Auslegungssache; ausserdem sind Berlin und Ulm als Alternativstandorte gelistet, du musst Heidelberg aktiv anfragen. Kein Gehalt genannt. Bewerbung online über das Karriereportal karriere.analytical-software.de.",
+   "why": "INFOMOTION ist ein reines Data-und-AI-Beratungshaus, und in dieser Rolle arbeitest du quer durch den Analytics-Stack mit Visualisierungs-Best-Practices und Advanced Analytics in Power BI, Tableau und SAP Analytics Cloud und gestaltest die kuenftige Analytics-Landschaft der Kunden mit. Power BI und Microsoft Fabric hast du bei MVV produktiv eingesetzt, das ist ein direkter Treffer. Gefordert ist ein abgeschlossenes technisches, mathematisches oder naturwissenschaftliches Studium plus Begeisterung fuer Daten und Dashboards, kein fester Erfahrungsumfang. Das Arbeitsmodell ist als hochflexibel und hybrid beschrieben, Standorte Frankfurt und Koeln - Frankfurt ist fuer dich in 35 ICE-Minuten erreichbar, der Kundenreiseanteil wird nicht beziffert. Ehrliche Luecke: die Rolle ist eher BI- als KI-lastig, dein Agenten- und LLM-Profil kannst du hier nur teilweise ausspielen. Bewirb dich ueber das INFOMOTION-Jobportal und frag im Gespraech nach den GenAI-Projekten des Hauses.",
    "pay": "",
    "skills": [
-    "Python",
-    "Java",
+    "Power BI",
+    "MS Fabric",
     "SQL",
-    "RAG"
+    "Tableau",
+    "Datenvisualisierung"
    ],
-   "url": "https://karriere.analytical-software.de/Werkstudent-mwd-Software-Development-Data-AI-de-j40.html",
+   "url": "https://www.infomotion.de/karriere/jobportal/details/consultant-mwd-analytics",
    "person": "leonard",
-   "first_seen": "2026-09-02",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
    "is_new": true,
-   "last_seen": "2026-09-02",
-   "id": "70a9abf84e71",
+   "id": "2acb8a3519c7",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
-   "title": "Google Summer of Code 2027 über OpenAstronomy",
-   "employer": "OpenAstronomy (Astropy, SunPy u.a.)",
+   "title": "Google Summer of Code mit OpenAstronomy (Astropy, SunPy u.a.)",
+   "employer": "Google / OpenAstronomy",
    "location": "Remote",
    "region": "Remote",
    "category": "Karriere",
@@ -1019,23 +1250,22 @@
    "status": "program",
    "score": 58,
    "tier": "must_apply",
-   "why": "OpenAstronomy mentoriert seit 2016 durchgehend bei GSoC und sammelt Projektideen seiner Mitgliedsprojekte; das übliche Muster ist Org-Bewerbung im Januar/Februar und Contributor-Bewerbung Mitte bis Ende März. Ein bezahltes, mentoriertes Open-Source-Sommerprojekt in der Astronomie ist praktisch der stärkste Einzelbaustein für die spätere Master-Bewerbung. Bis Winter zwei bis drei kleine PRs bei SunPy oder Astropy landen – ohne Vorleistung wird man nicht genommen.",
+   "why": "OpenAstronomy ist die Dachorganisation, unter der Astropy, SunPy und verwandte Projekte GSoC-Projekte ausschreiben, und ist seit 2016 dabei. Ein angenommenes GSoC-Projekt ist bezahlt, dauert einen Sommer und ist im Lebenslauf fuer eine norwegische Master-Bewerbung mehr wert als die meisten Praktika, weil der gesamte Code oeffentlich nachvollziehbar ist. Der Ablauf verschiebt sich jaehrlich leicht, folgt aber immer demselben Muster: Organisationen werden im Februar bekanntgegeben, Kontakt zu den Mentoren ab Maerz, Proposals Ende Maerz bis Mitte April, Coding ab Juni. Ehrliche Einschraenkung: Fuer 2027 sind noch keine Daten veroeffentlicht, und angenommen wird praktisch nur, wer schon vor der Bewerbung sichtbare Beitraege im jeweiligen Repo hat. Naechster Schritt: jetzt im Herbst 2026 mit kleinen Pull Requests bei Astropy oder SunPy anfangen, damit dein Name im Februar 2027 kein unbeschriebenes Blatt ist.",
    "pay": "GSoC-Stipendium",
    "skills": [
     "Python",
     "Git",
-    "NumPy",
     "Astropy",
-    "C++"
+    "Open Source"
    ],
    "url": "https://openastronomy.org/gsoc/",
+   "person": "oliver",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
-   "person": "oliver",
-   "id": "c5c5ea5fd200",
+   "last_seen": "2026-09-08",
+   "id": "54e13ecbfa46",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Initiativbewerbung HiWi oder Bachelorarbeit Astroteilchenphysik (KATRIN, Pierre Auger, IceCube)",
@@ -1062,60 +1292,62 @@
    "person": "oliver",
    "id": "fe4d94eab8ae",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
-   "title": "Manager BI Reporting (m/w/d)",
-   "employer": "MVV Energie AG",
-   "location": "Mannheim (0 min, Wohnort)",
+   "title": "Studentische Hilfskraft fuer Reinforcement Learning mit Roboterarmen",
+   "employer": "FZI Forschungszentrum Informatik",
+   "location": "Karlsruhe (~45 min)",
    "region": "Deutschland",
    "category": "Karriere",
-   "type": "Vollzeit",
+   "type": "HiWi",
    "status": "verified",
    "score": 58,
    "tier": "must_apply",
-   "why": "Kennziffer 2026-0250, unbefristet, Mannheim mit Teil-Remote, 79.000–107.400 € brutto — und der Zuschnitt ist praktisch dein Market Intelligence Center in Vollzeit: Power-BI-Dashboards eigenverantwortlich weiterentwickeln, Prozesse automatisieren, KI- und Big-Data-Anwendungen bewerten und einführen, ETL mit SQL und MS Fabric. Formal ist ein Master plus mehrjährige BI-Erfahrung gefordert, faktisch machst du die Arbeit im Haus bereits. Zuerst der interne Weg über deine Führungskraft in Corporate Strategy, erst danach extern bewerben.",
-   "pay": "79.000–107.400 € brutto",
-   "skills": [
-    "Power BI",
-    "MS Fabric",
-    "SQL",
-    "Python"
-   ],
-   "url": "https://www.mvv.de/karriere/jobportal/job/manager-bi-reporting-m-w-d",
-   "person": "leonard",
-   "first_seen": "2026-09-02",
-   "last_seen": "2026-09-02",
-   "is_new": true,
-   "id": "3261e826c51c",
-   "link_code": "200",
-   "link_checked": "2026-09-03"
-  },
-  {
-   "title": "Entry Level Consultant (Fachschaftskontakt)",
-   "employer": "Oliver Wyman",
-   "location": "Frankfurt (~35 min, ICE), auch München und Düsseldorf",
-   "region": "Deutschland",
-   "category": "Beratung",
-   "type": "Vollzeit",
-   "status": "program",
-   "score": 58,
-   "tier": "must_apply",
-   "person": "leonard",
-   "why": "Kontakt besteht über die Fachschaft, Corporate Relations — die warme Vorstellung sollte vor jeder Onlinebewerbung erfolgen, das ist hier der klar wertvollste Zugang. Das Einstiegsprogramm nimmt ausdrücklich alle Studienrichtungen und setzt Einsteiger von Beginn an direkt beim Kunden ein: hohe Reisebereitschaft, wenig planbarer Remote-Anteil. Ehrlich: Eine aktuell offene deutsche Einstiegsstelle ließ sich nicht bestätigen — das Early-Careers-Board lädt per JavaScript nach, die beiden auffindbaren Analyst-Stellen in Berlin sind bereits besetzt. Board selbst live prüfen.",
-   "pay": "",
+   "why": "Du baust Simulationsumgebungen fuer Roboterarme, entwickelst und evaluierst Reinforcement-Learning-Szenarien und testest sie anschliessend auf echter Hardware. Verlangt werden Python oder C++, Interesse an Robotik und RL sowie gutes Englisch - ROS/ROS 2 oder Isaac/MuJoCo sind ausdruecklich nur ideal, nicht Pflicht, also eine realistische Einstiegshuerde fuer dich. Start ist ab sofort, Bezahlung stundenweise nach Landesregelung, abhaengig von Abschluss und Vorerfahrung. Ehrliche Einschraenkung: Karlsruhe bedeutet rund 45 Minuten Fahrt pro Weg, und thematisch ist das Robotik, nicht Astronomie. Naechster Schritt: Die Anzeige nennt keine Frist und laeuft laufend - deshalb frueh bewerben, solche FZI-HiWi-Stellen werden ohne Ankuendigung offline genommen.",
+   "pay": "Stundenlohn nach Landesvorgaben",
    "skills": [
     "Python",
-    "SQL",
+    "C++",
+    "Reinforcement Learning",
+    "ROS",
+    "Linux"
+   ],
+   "url": "https://karriere.fzi.de/Vacancies/934/Description/1",
+   "person": "oliver",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "2ded1e33f83e",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Summer internships program",
+   "employer": "Simula Research Laboratory",
+   "location": "Oslo",
+   "region": "Norwegen",
+   "category": "Karriere",
+   "type": "Sommerjob",
+   "status": "program",
+   "score": 57,
+   "tier": "must_apply",
+   "why": "Sechs Wochen bezahlte Forschung mit internationalen Wissenschaftlern in einem von fuenf Feldern, darunter Scientific Computing, Software Engineering und Kuenstliche Intelligenz - fachlich das naechste an echter Forschungsarbeit, was Norwegen an Sommerprogrammen zu bieten hat, und Simula-Interns landen regelmaessig in Paper-Danksagungen oder Koautorenschaften. Bezahlt wird stundenweise. Wichtig: Simula hat den Sommer 2026 ausgesetzt und bietet aktuell nur eine Benachrichtigungsanmeldung fuer Sommer 2027 an, konkrete Termine stehen noch nicht auf der Seite. Ehrliche Einschraenkung: Bewerber muessen bereits arbeitsberechtigt in Norwegen sein, es wird kein Visum bearbeitet - als EU-Buerger bist du hier auf der sicheren Seite, aber Reise und Unterkunft zahlst du selbst. Naechster Schritt: heute auf der Seite fuer die Benachrichtigung registrieren und parallel academy@simula.no anschreiben, ob 2027 wirklich stattfindet.",
+   "pay": "Stundenlohn (Hoehe nicht genannt)",
+   "skills": [
+    "Python",
+    "Scientific Computing",
+    "Linux",
     "Machine Learning"
    ],
-   "url": "https://www.oliverwyman.de/karriere/berufseinsteiger.html",
-   "first_seen": "2026-09-02",
-   "last_seen": "2026-09-02",
-   "is_new": true,
-   "id": "83d7f4e78a38",
+   "url": "https://www.simula.no/careers/summer-internships",
+   "person": "oliver",
+   "first_seen": "2026-08-28",
+   "is_new": false,
+   "last_seen": "2026-09-08",
+   "id": "dc5ef29b7915",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Åpen søknad (offene Initiativbewerbung), Frist 31.12.2026",
@@ -1142,7 +1374,7 @@
    "id": "adfca7875574",
    "deadline": "2026-12-31",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Working Student (f/m/d) - Optimization of Processes leveraging AI in the Business Transformation",
@@ -1165,10 +1397,38 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "d78fb41a9692",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Entry Level Consultant (m/w/d)",
+   "employer": "Oliver Wyman",
+   "location": "Frankfurt am Main (~35 Min., ICE)",
+   "region": "Deutschland",
+   "category": "Beratung",
+   "type": "Vollzeit",
+   "status": "source",
+   "score": 56,
+   "tier": "must_apply",
+   "why": "Oliver Wyman fuehrt den Entry Level Consultant als Standardeinstieg fuer Absolventen, du uebernimmst dort verantwortungsvolle Markt- und Unternehmensanalysen in Kundenprojekten, dazu kommen Spezialbereiche wie Oliver Wyman Vector mit Technologie- und Digitalfokus. Wichtig und ehrlich: ich konnte keine offene, verifizierbare Einzelanzeige fuer Deutschland finden - die beiden deutschen Ausschreibungen, die ich geprueft habe, waren bereits besetzt, und das Bewerbungsportal laedt seine Liste per JavaScript nach. Deshalb steht hier die Einstiegsseite als Quelle, nicht eine bestaetigte Stelle. Beratung heisst bei Oliver Wyman hohe Reisebereitschaft mit Frankfurt als Anker und drei bis vier Tagen beim Kunden, Remote ist die Ausnahme. Ueber die Fachschaft Corporate Relations hast du eine bestehende Partnerschaft zu Oliver Wyman aufgebaut - konkreter naechster Schritt: schreib deinen Recruiting-Kontakt direkt an und frag, wann der Einstiegszyklus fuer Starts Anfang 2027 in Frankfurt oeffnet, statt auf das Portal zu warten.",
+   "pay": "",
+   "skills": [
+    "Analyse",
+    "Beratung",
+    "Praesentation",
+    "Python",
+    "SQL"
+   ],
+   "url": "https://www.oliverwyman.de/karriere/berufseinsteiger.html",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "is_new": false,
+   "last_seen": "2026-09-08",
+   "id": "52f94ec1d7b5",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Projektmanager IT und Digitalisierung (m/w/d), Schwerpunkt Strom",
@@ -1192,10 +1452,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "495589b148bb",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "AI Governance Masterclass – Einstieg als Consultant Data Management (m/w/d)",
@@ -1218,10 +1478,67 @@
    "url": "https://job.deloitte.com/job-ai-governance-masterclass-dein-einstieg-als-consultant-data-management-mwd-_50212",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "4cadab9de701",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Masterprojekt / Kontaktaufnahme am Rosseland Centre for Solar Physics",
+   "employer": "Universitetet i Oslo, Institutt for teoretisk astrofysikk (RoCS)",
+   "location": "Oslo",
+   "region": "Norwegen",
+   "category": "Karriere",
+   "type": "Thesis",
+   "status": "initiative",
+   "score": 56,
+   "tier": "must_apply",
+   "why": "RoCS entwickelt Bifrost und die DISPATCH-Kopplung, also eine der fuehrenden numerischen Codebasen fuer die Simulation der Sonnenatmosphaere, inklusive grosser Laeufe von 72 Mm Kantenlaenge. Genau dort liegt die Schnittmenge deiner Physik- und HPC-Interessen mit Python, C++ und Linux, und es ist die Gruppe, an die ein UiO-Master in Astrophysik andockt. Auf der Seite steht Boris Vilhelm Gudiksen als Autor, das ist dein natuerlicher Erstkontakt. Ehrliche Einschraenkung: Es gibt hier keine ausgeschriebene Stelle - das ist eine reine Initiativbewerbung, und die Antwortquote bei Kaltmails an Forschungsgruppen ist niedrig. Naechster Schritt: eine kurze, konkrete Mail mit deinem GitHub-Profil und der Frage, ob es Vorbereitungsaufgaben oder ein Masterthema gibt, auf das du dich im Jahr vor der Bewerbung hinarbeiten kannst.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "C++",
+    "Linux",
+    "HPC",
+    "Astrophysik"
+   ],
+   "url": "https://www.mn.uio.no/rocs/english/research-themes/new-code-developments.html",
+   "person": "oliver",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "6ecd5094b146",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Manager BI Reporting (m/w/d)",
+   "employer": "MVV Netze GmbH (MVV Energie)",
+   "location": "Mannheim (Wohnort, kein Pendeln)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Vollzeit",
+   "status": "verified",
+   "score": 55,
+   "tier": "must_apply",
+   "why": "Du konzipierst und entwickelst eigenstaendig Power-BI-Dashboards weiter, baust Planungs- und Forecast-Systeme und automatisiertes Reporting fuer den Geschaeftsbereich Netze auf und bewertest KI- und Big-Data-Anwendungen - fachlich genau dein MVV-Werkzeugkasten aus dem Market Intelligence Center, nur mit Netzdaten statt Marktdaten. Der grosse Hebel ist, dass du intern bist: du kennst die Systeme, die Leute und die Governance, das ersetzt einen Teil der geforderten Erfahrung. Standort Mannheim mit anteiligem mobilen Arbeiten, kein Reiseanteil, unbefristet, Start ab sofort. Ehrliche und deutliche Luecke: die Anzeige verlangt einen Masterabschluss und mehrjaehrige Erfahrung im Aufbau von BI- und Data-Warehouse-Systemen, das Gehaltsband von 79.000 bis 107.400 Euro zeigt, dass die Stelle senior geschnitten ist - als Bachelor-Absolvent bist du hier klar unter der Ausschreibung. Konkreter naechster Schritt: sprich vor der Bewerbung mit Bastian Schmitt, Telefon 0621 290 3275, und frag, ob eine Junior-Variante der Rolle denkbar ist.",
+   "pay": "79.000 - 107.400 EUR brutto p.a.",
+   "skills": [
+    "Power BI",
+    "SQL",
+    "Python",
+    "SAP",
+    "Excel",
+    "Forecasting"
+   ],
+   "url": "https://www.mvv.de/karriere/jobportal/job/manager-bi-reporting-m-w-d",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "is_new": false,
+   "last_seen": "2026-09-08",
+   "id": "dd5901c9032f",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Praktikant / Werkstudent Innovation & Technology - Tax & Legal (m/w/d)",
@@ -1244,10 +1561,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "2c8c5cbe5af9",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "AI Engineer (m/w/d)",
@@ -1271,10 +1588,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "f1b86e45efae",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Einstieg Data & AI Consulting (Initiativbewerbung)",
@@ -1297,10 +1614,38 @@
    "url": "https://www.bridging-it.de/karriere/data-ai.html",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "7cd5cb6dd8bb",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Praktikant / Werkstudent SAP Consulting (m/w/d)",
+   "employer": "Deloitte GmbH",
+   "location": "Wiesloch-Walldorf (~25 Min.)",
+   "region": "Deutschland",
+   "category": "Beratung",
+   "type": "Praktikum",
+   "status": "verified",
+   "score": 54,
+   "tier": "interesting",
+   "why": "Von allen Brueckenoptionen ist das die mit dem besten Timing: als Startdatum ist ausdruecklich der 1. Februar 2027 hinterlegt, also genau dein Fenster nach dem Abschluss am 3. Dezember 2026. Du arbeitest ab Tag eins in SAP-Transformationsprojekten mit, quer ueber Projektmanagement, Supply Chain, Finance, Analytics und Stammdatenmanagement, und bist voll ins Projektteam integriert statt Zuarbeit im Backoffice zu machen. Standort Walldorf liegt 25 Bahnminuten von Mannheim, Deloitte arbeitet flexibel ueber mehrere Standorte, Reisebereitschaft wird verlangt. Ehrliche Einschraenkung: gefordert ist eine laufende Immatrikulation ab dem 5. Semester - nach deinem Abschluss im Dezember 2026 bist du das nur, wenn du dich fuer den Master zum Wintersemester 2027 vorab einschreibst oder als Praktikant nach dem Studium antrittst; klaer das vor der Bewerbung unter career@deloitte.de. Ausserdem ist es SAP-lastig, nicht KI-lastig.",
+   "pay": "",
+   "skills": [
+    "SAP",
+    "Prozessanalyse",
+    "Projektmanagement",
+    "Analytics",
+    "Stammdaten"
+   ],
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15794-468672_48912-1-S",
+   "person": "leonard",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "862af2d4cd7e",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "HiWi-Stellen Scientific Computing, Big Data und Netzinfrastruktur",
@@ -1327,7 +1672,7 @@
    "person": "oliver",
    "id": "8f2ee1fa7c86",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Working Student (f/m/d) - Chief of Staff Office - Business Data Cloud Fabric & Data",
@@ -1349,10 +1694,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "67258ade6664",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "SAP MEE Strategy & Operations iXp Intern (f/m/d) - Strategic Project Management Officer",
@@ -1374,38 +1719,37 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "676cffd2c73a",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
-   "title": "helita – Solarphysik-Bibliothek der Universität Oslo",
-   "employer": "Institute of Theoretical Astrophysics, UiO",
-   "location": "Remote",
+   "title": "Summer internship programme (Summer Interns)",
+   "employer": "KONGSBERG Gruppen",
+   "location": "Kongsberg / Horten / Trondheim",
    "region": "Norwegen",
    "category": "Karriere",
-   "type": "Open Source",
-   "status": "initiative",
+   "type": "Sommerjob",
+   "status": "program",
    "score": 52,
    "tier": "interesting",
-   "why": "Der direkteste Norwegen-Hebel im Open-Source-Bereich: helita wird von genau dem Institut gepflegt, an dem er später den Master machen will. Kleines Projekt mit wenigen offenen Issues, also fällt ein guter Beitrag den Maintainern wirklich auf – Dokumentation, Tests oder Portabilitäts-Fixes sind realistische Einstiege. Repo klonen, Installation auf Linux durchspielen und den ersten Stolperstein als Issue plus PR melden.",
+   "why": "Kongsberg fuehrt jaehrlich ein grosses Sommerpraktikanten-Programm ueber die Konzern-Karriereseite durch, mit Projekten in Maritime, Defence und Discovery - technisch anspruchsvolle Software- und Signalverarbeitungsthemen, die zu C++ und Python passen. Das Bewerbungsportal des letzten Zyklus schloss am 28. Februar, mit dem ausdruecklichen Hinweis, dass interessante Kandidaten schon vorher Zusagen bekommen koennen - fruehe Bewerbung zahlt sich also aus. Ehrliche Einschraenkung: Zum Pruefzeitpunkt zeigte die Seite noch den Zyklus 2026, das Fenster fuer Sommer 2027 war noch nicht veroeffentlicht, und Teile des Konzerns arbeiten unter Sicherheitsauflagen, die norwegische Staatsbuergerschaft voraussetzen koennen. Naechster Schritt: die Seite ab November monatlich pruefen und dich gezielt auf die zivilen Einheiten Kongsberg Discovery und Kongsberg Maritime konzentrieren, wo Clearance seltener Pflicht ist.",
    "pay": "",
    "skills": [
+    "C++",
     "Python",
-    "NumPy",
-    "Git",
     "Linux",
-    "C++"
+    "Signalverarbeitung"
    ],
-   "url": "https://github.com/ITA-Solar/helita",
+   "url": "https://www.kongsberg.com/careers/summer-interns/",
+   "person": "oliver",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
-   "person": "oliver",
-   "id": "ec0625cf8d3f",
+   "last_seen": "2026-09-08",
+   "id": "f2b471577d20",
    "link_code": "403",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "HiWi-Jobbörse des KIT Career Service",
@@ -1431,7 +1775,7 @@
    "person": "oliver",
    "id": "f4dc0e844fbd",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Data Scientist / Forward Deployed AI Scientist (Fachschaftskontakt)",
@@ -1454,10 +1798,64 @@
    "url": "https://careers.bcg.com/global/en/x",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "aafd34581e11",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Beitraege zu Astropy (Good First Issues)",
+   "employer": "Astropy Project",
+   "location": "Remote",
+   "region": "Remote",
+   "category": "Karriere",
+   "type": "Open Source",
+   "status": "program",
+   "score": 52,
+   "tier": "interesting",
+   "why": "Astropy pflegt ausdruecklich Einstiegs-Labels: good-first-issue fuer den ersten Beitrag, package-novice fuer Themen ohne tiefe Paketkenntnis, dazu Aufwandsstufen von low bis high - du kannst dir also passgenau ein erstes Ticket aussuchen. Kanaele sind die Astropy-Mailingliste, der Slack und astropy-dev, es gibt eine Entwicklerdokumentation und einen dokumentierten GitHub-Workflow sowie eine Richtlinie zum KI-Einsatz, an die du dich halten solltest. Fuer dich ist das der billigste Weg, oeffentlich nachweisbare Erfahrung mit genau dem Stack aufzubauen, den Astro-Gruppen in Oslo und Heidelberg taeglich benutzen. Ehrliche Einschraenkung: Unbezahlt, und der erste Merge dauert erfahrungsgemaess mehrere Wochen Review. Naechster Schritt: Repository forken, ein good-first-issue mit Label low effort auswaehlen und den PR noch im September aufmachen - das ist auch die Voraussetzung fuer GSoC 2027.",
+   "pay": "unbezahlt",
+   "skills": [
+    "Python",
+    "NumPy",
+    "Astropy",
+    "Git"
+   ],
+   "url": "https://www.astropy.org/contribute.html",
+   "person": "oliver",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "0c43c5f645c2",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Praktikum als Fellow Consultant (w/m/d) Data Science & AI",
+   "employer": "Horvath",
+   "location": "Frankfurt am Main (~35 Min., ICE)",
+   "region": "Deutschland",
+   "category": "Beratung",
+   "type": "Praktikum",
+   "status": "verified",
+   "score": 52,
+   "tier": "interesting",
+   "why": "Du arbeitest in Kundenprojekten zu Predictive Analytics, Machine Learning und KI mit und unterstuetzt die AI- und Data-Science-Teams Seite an Seite mit erfahrenen Beratern - eine ernsthafte Beratungsbruecke, keine Zuarbeit. Gefordert sind Programmierkenntnisse in Python oder R und ein quantitativer Studienhintergrund, beides hast du. Start ist nach Vereinbarung, Mindestdauer drei Monate, das passt auf Januar bis Maerz oder Januar bis Juni 2027 vor dem Masterstart im Wintersemester. Horvath hebt Mentoring und die Students@Horvath-Community hervor und uebernimmt starke Praktikanten regelmaessig fest - das ist fuer dich der eigentliche Wert, weil aus der Bruecke ein Vollzeitangebot werden kann. Frankfurt in 35 ICE-Minuten, gearbeitet wird gemischt aus Buero, Remote und Kundenstandort. Ehrliche Einschraenkung: Verguetung nennt die Anzeige nicht, und ob eine Immatrikulation zwingend ist, steht nicht drin - frag das bei der Bewerbung direkt mit ab.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "Predictive Analytics",
+    "Beratung"
+   ],
+   "url": "https://www.horvath-partners.com/de/karriere/jobs/jobsuche/job-detailseite/detail/430",
+   "person": "leonard",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "09808190b60a",
+   "link_code": "403",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Werkstudent:in Softwareentwicklung",
@@ -1484,7 +1882,7 @@
    "person": "oliver",
    "id": "88ee252dca6f",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Praktikant Data Analyst HR (m/w/d)",
@@ -1507,10 +1905,37 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "7d7177319581",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Sommerjobber i KSAT",
+   "employer": "Kongsberg Satellite Services (KSAT)",
+   "location": "Tromsoe / Svalbard",
+   "region": "Norwegen",
+   "category": "Karriere",
+   "type": "Sommerjob",
+   "status": "source",
+   "score": 50,
+   "tier": "interesting",
+   "why": "KSAT betreibt die Bodenstationen in Tromsoe und auf Svalbard und stellt jeden Sommer kleine Teams von zwei bis drei Studierenden fuer Programmieraufgaben ein, mindestens sechs Wochen, Zeitraum flexibel. Gesucht werden Python, Java oder Perl plus Eigeninitiative, JetBrains-Tools und Datenbankkenntnisse gelten als Plus - fuer dich fachlich sehr gut erreichbar, und Satellitenbodensegment ist genau die Branche, in der du in Norwegen spaeter arbeiten willst. Ehrliche Einschraenkung: Die Seite ist eine dauerhafte Programmbeschreibung ohne Jahreszahl und ohne Frist, und sie ist auf Norwegisch verfasst, was auf Norwegischkenntnisse als stillschweigende Erwartung hindeutet. Naechster Schritt: die KSAT-Karriereseite ab Oktober woechentlich pruefen und parallel eine Initiativmail schicken, in der du explizit fragst, ob Bewerbungen auf Englisch moeglich sind.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Java",
+    "Datenbanken",
+    "Linux"
+   ],
+   "url": "https://www.kongsberg.com/careers/vacancies/sommerjobber-i-ksat/",
+   "person": "oliver",
+   "first_seen": "2026-08-28",
+   "is_new": false,
+   "last_seen": "2026-09-08",
+   "id": "a267d32b49b5",
+   "link_code": "403",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Astropy: Einstieg über Package-novice und Effort-low",
@@ -1538,34 +1963,7 @@
    "person": "oliver",
    "id": "870aac7f3bbe",
    "link_code": "200",
-   "link_checked": "2026-09-03"
-  },
-  {
-   "title": "Summer Jobs, Placements und Master-Thesis-Themen",
-   "employer": "Nordic Semiconductor",
-   "location": "Trondheim / Oslo",
-   "region": "Norwegen",
-   "category": "Karriere",
-   "type": "Praktikum",
-   "status": "source",
-   "score": 50,
-   "tier": "interesting",
-   "why": "Im Stellenportal geprüft: unter Internships & Placements steht aktuell No matching jobs, es ist also nichts offen. Die Studentenseite sagt explizit, dass Placement-Stellen (6–12 Monate, bezahlt) im Herbst veröffentlicht werden und dass Sommerstellen sowie Thesis-Themen angeboten werden. Jetzt den Job-Alert abonnieren und ab September 2026 prüfen – fachlich passt sein C++/Embedded-Anteil besser als der Astro-Teil, deshalb eher Plan B.",
-   "pay": "bezahlt (Höhe nicht veröffentlicht)",
-   "skills": [
-    "C++",
-    "Python",
-    "Linux",
-    "Git"
-   ],
-   "url": "https://www.nordicsemi.com/Careers/Students-and-Graduates",
-   "first_seen": "2026-08-28",
-   "is_new": false,
-   "last_seen": "2026-09-01",
-   "person": "oliver",
-   "id": "d198f3b79c66",
-   "link_code": "403",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Working Student Global IT Support & Collaboration Tooling",
@@ -1591,7 +1989,7 @@
    "person": "oliver",
    "id": "d78706d1256c",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Nachhilfe in Mathematik und Physik geben",
@@ -1616,7 +2014,34 @@
    "person": "oliver",
    "id": "3418fdfedea4",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Praktikum im Business IT | Technical Consulting (m/w/d)",
+   "employer": "Senacor Technologies AG",
+   "location": "Frankfurt am Main (~35 Min., ICE)",
+   "region": "Deutschland",
+   "category": "Beratung",
+   "type": "Praktikum",
+   "status": "verified",
+   "score": 50,
+   "tier": "interesting",
+   "why": "Du analysierst Geschaeftsprozesse und IT-Landschaften beim Kunden, nimmst technische Anforderungen auf, wirkst am IT-Architekturentwurf mit, unterstuetzt das Projektmanagement und praesentierst deine Ergebnisse im Projektteam - fuer ein Praktikum ungewoehnlich viel echte Verantwortung und genau die Mischung aus Technik und Kommunikation, die du suchst. Wirtschaftsinformatik ist als Fachrichtung explizit genannt. Die Anzeige ist wenige Tage alt, Standorte inklusive Frankfurt, hybride Flexibilitaet innerhalb von Deutschland, Oesterreich und der Schweiz, Kundeneinsaetze starten vom Wohnort. Senacor stellt ausdruecklich die Uebernahme in Festanstellung oder eine Werkstudententaetigkeit in Aussicht - das macht diese Bruecke strategisch wertvoll. Ehrliche Einschraenkung: gefordert werden ueberdurchschnittliche Noten und sehr gutes Deutsch, Verguetung und Dauer nennt die Anzeige nicht. Frag beides bei der Bewerbung ab und nenne den Wunschstart Januar 2027.",
+   "pay": "",
+   "skills": [
+    "Prozessanalyse",
+    "IT-Architektur",
+    "Anforderungsmanagement",
+    "Praesentation"
+   ],
+   "url": "https://www.stepstone.de/stellenangebote--Praktikum-im-Business-IT-Technical-Consulting-m-w-d-Berlin-Bonn-Frankfurt-Hamburg-Muenchen-Nuernberg-Wien-Senacor-Technologies-AG--13266906-inline.html",
+   "person": "leonard",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "fae8336470d6",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Praktikant (m/f/d) HR Controlling & Data Management",
@@ -1638,10 +2063,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "ba577d745793",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Praktikums- und Jobbörse der Fakultät für Wirtschaftsinformatik und Wirtschaftsmathematik",
@@ -1665,10 +2090,65 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "e8d444f82649",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Working Student (f/m/d) - SAP Business AI Platform",
+   "employer": "SAP SE",
+   "location": "Wiesloch-Walldorf (~25 Min.)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 49,
+   "tier": "interesting",
+   "why": "Du hilfst beim Aufbau der AI- und ML-Demo-Infrastruktur, schreibst Dokumentation, unterstuetzt das interne AI Adoption Programme und leistest Full-Stack-Support fuer Projekte auf der SAP Business AI Platform. Wirtschaftsinformatik ist in der Anzeige namentlich als Wunschstudiengang genannt, und das AI Adoption Programme spielt direkt auf deine Erfahrung an, Fuehrungskraefte in KI-Werkzeugen zu schulen. Walldorf sind 25 Bahnminuten, die Stelle verlangt Praesenz im Buero, Reiseanteil 0 bis 10 Prozent - kein Remote-Job also, aber pendelbar. Die Anzeige wurde am 11. August 2026 veroeffentlicht und ist offen, Requisition-ID 455457. Ehrliche Einschraenkung: Werkstudent bei SAP setzt eine laufende Immatrikulation voraus, das greift fuer dich erst ab dem Masterstart im Wintersemester 2027 - fuer die Luecke Januar bis September 2027 brauchst du eine Praktikumsvariante. Bewirb dich mit Lebenslauf, Notenspiegel und Immatrikulationsbescheinigung ueber jobs.sap.com.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "AI/ML",
+    "Cloud",
+    "Dokumentation",
+    "Full-Stack"
+   ],
+   "url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-SAP-Business-AI-Platform-69190/1425303433/",
+   "person": "leonard",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "2159f372406e",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Beitraege zu helita (Solar-Physics-Bibliothek von ITA/RoCS Oslo)",
+   "employer": "ITA-Solar, Universitetet i Oslo",
+   "location": "Remote",
+   "region": "Remote",
+   "category": "Karriere",
+   "type": "Open Source",
+   "status": "verified",
+   "score": 48,
+   "tier": "interesting",
+   "why": "helita ist die Python-Bibliothek, mit der das Institutt for teoretisk astrofysikk und das Rosseland Centre ihre Simulations- und Beobachtungsdaten einlesen - der Name steht fuer Helios plus ITA. Ein Beitrag hier ist strategisch wertvoll, weil dein Name dadurch im Repository genau der Gruppe auftaucht, bei der du spaeter den Master machen willst; das Repo hat 1160 Commits, BSD-3-Lizenz und Dokumentation unter ita-solar.github.io/helita. Ehrliche Einschraenkung: Nur 11 Sterne und zwei offene Issues, und das Projekt beschreibt sich selbst als lose Sammlung von Skripten mit schwankender Portabilitaet - es gibt hier also kaum vorbereitete Einstiegsaufgaben und keine sichtbaren Contribution Guidelines. Naechster Schritt: Repo klonen, an einem Bifrost-Beispiel durchspielen und einen konkreten Verbesserungsvorschlag als Issue formulieren, bevor du Code schickst.",
+   "pay": "unbezahlt",
+   "skills": [
+    "Python",
+    "NumPy",
+    "Git",
+    "Linux"
+   ],
+   "url": "https://github.com/ITA-Solar/helita",
+   "person": "oliver",
+   "first_seen": "2026-08-28",
+   "is_new": false,
+   "last_seen": "2026-09-08",
+   "id": "bc900909de7f",
+   "link_code": "403",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "MPIA Job Board (Software- und IT-Stellen)",
@@ -1695,7 +2175,7 @@
    "person": "oliver",
    "id": "8a072995bff1",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Master in Space Physics / Masterprojekt am Birkeland Centre",
@@ -1722,7 +2202,7 @@
    "person": "oliver",
    "id": "762614b51f5b",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Praktikums- und Jobbörse der Fakultät Wirtschaftsinformatik",
@@ -1748,7 +2228,7 @@
    "person": "oliver",
    "id": "27277b68e509",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Big Data Engineer / AI Software Engineer (m/w/d)",
@@ -1772,10 +2252,94 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "475e12f349ef",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Studentische Hilfskraft (HiWi) am Scientific Software Center",
+   "employer": "Scientific Software Center, Universitaet Heidelberg",
+   "location": "Heidelberg (~25 min)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "HiWi",
+   "status": "initiative",
+   "score": 47,
+   "tier": "interesting",
+   "why": "Das SSC schreibt auf seiner Stellenseite selbst, dass es zeitweise HiWi-Stellen anbietet, bei denen du deine Software-Entwicklungsfaehigkeiten verbesserst und Code zu laufenden Forschungsprojekten beitraegst - also genau die Bruecke zwischen sauberem Software-Engineering und Wissenschaft, die dir fuer eine norwegische Bewerbung Profil gibt. Gesucht werden Leute, die guten Code schreiben wollen und Wissen weitergeben. Ehrliche Einschraenkung: Zum Pruefzeitpunkt war keine konkrete Stelle ausgeschrieben, die Seite verweist ausschliesslich auf eine Mailadresse - das ist damit eine Initiativbewerbung ohne garantierte Vakanz. Naechster Schritt: kurze Mail an ssc-jobs@uni-heidelberg.de mit GitHub-Link und einem Satz dazu, welche Sprache und welches Testing-Setup du beherrschst.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "C++",
+    "Git",
+    "Docker",
+    "Software Engineering"
+   ],
+   "url": "https://www.ssc.uni-heidelberg.de/en/what-the-scientific-software-center-is-all-about/open-positions",
+   "person": "oliver",
+   "first_seen": "2026-07-29",
+   "is_new": false,
+   "last_seen": "2026-09-08",
+   "id": "7bc1650443bf",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Werkstudent (mwd) Software Development, Data & AI",
+   "employer": "HMS Analytical Software GmbH",
+   "location": "Heidelberg (~15 Min.)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 47,
+   "tier": "interesting",
+   "why": "Du arbeitest in Softwareentwicklungs-, Data- und AI-Projekten mit, unterstuetzt beim Bau von Anwendungen zur Datenverarbeitung und -analyse und setzt Machine-Learning-Use-Cases um, zusammen mit erfahrenen Teams an Cloud- und Digitalthemen. Heidelberg ist 15 Bahnminuten weg, das ist der kuerzeste Weg aller Brueckenoptionen. Python gefordert, ML-Interesse reicht statt tiefer Vorerfahrung - das ist fuer dich locker abgedeckt. Besonders interessant: HMS bietet ausdruecklich die Moeglichkeit zur Abschlussarbeit an, du koenntest die Werkstudentenstelle also direkt in eine Masterarbeit verlaengern, und dieselbe Firma hat parallel die Vollzeitstelle AI Engineer offen - ein sauberer Pfad von Bruecke zu Festanstellung. Ehrliche Einschraenkung: Stundenzahl, Startdatum und Verguetung nennt die Anzeige nicht, und Immatrikulation ist Voraussetzung. Bewirb dich ueber karriere.analytical-software.de und frag im selben Anschreiben nach dem Uebergang in die AI-Engineer-Rolle.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Java",
+    "Machine Learning",
+    "Datenverarbeitung",
+    "Cloud"
+   ],
+   "url": "https://karriere.analytical-software.de/Werkstudent-mwd-Software-Development-Data-AI-de-j40.html",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "is_new": false,
+   "last_seen": "2026-09-08",
+   "id": "70a9abf84e71",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Students and Graduates - Summer jobs, placements und Abschlussarbeiten",
+   "employer": "Nordic Semiconductor",
+   "location": "Trondheim / Oslo",
+   "region": "Norwegen",
+   "category": "Karriere",
+   "type": "Sommerjob",
+   "status": "source",
+   "score": 46,
+   "tier": "interesting",
+   "why": "Nordic Semiconductor bietet Sommerjobs, bezahlte Vollzeit-Placements ueber sechs bis zwoelf Monate, Bachelor- und Masterarbeiten sowie Teilzeitstellen, jeweils mit festem Mentor in Forschung und Entwicklung. Die Sommerprojekte der Vorjahre verlangten C, C++ oder Python plus Interesse an Embedded Systems, Signalverarbeitung oder RF - dein C++ und Linux passen hier besser als bei den meisten Consulting-Sommerjobs. Wichtig fuer die Zeitplanung: Die Seite sagt ausdruecklich, dass Placement-Stellen ueblicherweise im Herbst veroeffentlicht werden. Ehrliche Einschraenkung: Zum Pruefzeitpunkt stand in der Stellenliste keine einzige offene Studierendenstelle, die alten Ausschreibungen zielten auf Sommer 2026 und auf Elektrotechnik-Profile. Naechster Schritt: Profil im Karriereportal anlegen, damit du bei Veroeffentlichung benachrichtigt wirst, und ab Oktober alle zwei Wochen nachsehen.",
+   "pay": "bezahlt (Hoehe nicht genannt)",
+   "skills": [
+    "C",
+    "C++",
+    "Python",
+    "Embedded",
+    "Linux"
+   ],
+   "url": "https://www.nordicsemi.com/Careers/Students-and-Graduates",
+   "person": "oliver",
+   "first_seen": "2026-08-28",
+   "is_new": false,
+   "last_seen": "2026-09-08",
+   "id": "de3ac96fe6ad",
+   "link_code": "403",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Young Graduate Trainee Programme",
@@ -1802,7 +2366,7 @@
    "person": "oliver",
    "id": "60c29b02c951",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Ferienjobs im Werk Wiesloch-Walldorf",
@@ -1827,7 +2391,7 @@
    "person": "oliver",
    "id": "8838f2ce788e",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Master – SAP AI Engineering Architect (m/w/d)",
@@ -1851,10 +2415,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "16a0ef7e11be",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Einstieg Technology & Data Consulting (ehemals Camelot ITLab)",
@@ -1877,10 +2441,10 @@
    "url": "https://www.accenture.com/de-de/careers/jobsearch?jk=&sb=1&vw=0&is_rj=0&pg=1",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
-   "id": "5e1a026cd3eb",
+   "is_new": false,
+   "id": "b2927372ba88",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Werkstudent (Geo-)Informatik - Digitale energetische Stadtentwicklung (m/w/d)",
@@ -1901,11 +2465,37 @@
    "url": "https://www.mvv.de/karriere/jobportal/job/werkstudent-geo-informatik-digitale-energetische-stadtentwicklung-m-w-d",
    "person": "leonard",
    "first_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "last_seen": "2026-09-02",
    "id": "6dec726157bf",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Sommerjobb 2027 - laufende Ausschreibungen IT-Entwicklung",
+   "employer": "FINN Jobb (norwegische Stellenboerse)",
+   "location": "Oslo / Bergen / Trondheim",
+   "region": "Norwegen",
+   "category": "Karriere",
+   "type": "Sommerjob",
+   "status": "source",
+   "score": 46,
+   "tier": "interesting",
+   "why": "Diese gefilterte Suche ist der zentrale Kanal, ueber den norwegische Sommerjobs fuer 2027 gerade live gehen - bei der Pruefung standen dort ueber 20 frische Anzeigen, darunter Stingray, Axaz, Xledger, Intility, Bane NOR, Avinor, SpareBank 1 und Sopra Steria, die meisten in den letzten zwei Wochen eingestellt. Fristen liegen typischerweise zwischen Ende September und Mitte Oktober 2026, das Fenster ist also jetzt offen und schliesst schnell. Ehrliche Einschraenkung, und die ist wichtig: Ein Grossteil dieser Anzeigen verlangt fliessendes Norwegisch als Arbeitssprache, Sopra Steria, Bane NOR, Intility und Xledger scheiden fuer dich damit vorerst aus - fuer dich bleiben die englischsprachigen Ausschreibungen und die Produktfirmen. Naechster Schritt: diese Suche woechentlich pruefen und jede Anzeige zuerst auf den Punkt Arbeidssprak abklopfen, bevor du Zeit in eine Bewerbung steckst.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "C++",
+    "Git"
+   ],
+   "url": "https://www.finn.no/job/search?occupation=0.23&q=sommerjobb+2027",
+   "person": "oliver",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "f8ed65015d82",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Bachelor-Zulassung über Samordna opptak – Frist 15. April",
@@ -1930,7 +2520,35 @@
    "id": "b51fe0e4386f",
    "deadline": "2027-04-15",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Working Student / Werkstudent Stellen Walldorf",
+   "employer": "SAP SE",
+   "location": "Walldorf (~0 min)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "source",
+   "score": 45,
+   "tier": "interesting",
+   "why": "SAP hatte zum Pruefzeitpunkt rund 93 Werkstudentenstellen allein am Standort Walldorf ausgeschrieben, quer durch Security Engineering, SAP Business AI Platform, Data Science und Softwareentwicklung. Weil du in Walldorf wohnst, ist das der mit Abstand effizienteste Nebenjob-Pool fuer dich: kein Pendeln, tarifliche Bezahlung, flexible Stundenzahl neben dem Studium. Ehrliche Einschraenkung: Der Durchsatz ist hoch und die Anzeigen sind kurzlebig - zwei von mir gepruefte Werkstudentenstellen mit Python- beziehungsweise AI-Bezug waren bereits mit Diese Stelle wurde leider bereits besetzt markiert. Ausserdem ist kaum eine dieser Stellen wissenschaftlich, sie zahlen gut, bringen dir aber keine Publikation. Naechster Schritt: Suchagent auf jobs.sap.com anlegen und bei jeder neuen technischen Werkstudentenstelle innerhalb weniger Tage bewerben.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Docker",
+    "Git",
+    "Machine Learning",
+    "Deutsch"
+   ],
+   "url": "https://jobs.sap.com/search/?q=Working+Student&locationsearch=Walldorf",
+   "person": "oliver",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "2c567a6650f2",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "ESA Datalabs – eigenes Notebook-Projekt mit Missionsdaten",
@@ -1958,7 +2576,7 @@
    "person": "oliver",
    "id": "fbba49dca3b5",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Werkstudierende und Praktika für Studierende (Softwareentwicklung, Data Science)",
@@ -1984,7 +2602,63 @@
    "person": "oliver",
    "id": "063be75bd0a4",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Praktikant Technology Risk (w/m/d)",
+   "employer": "EY GmbH & Co. KG Wirtschaftspruefungsgesellschaft",
+   "location": "Mannheim (Wohnort, kein Pendeln)",
+   "region": "Deutschland",
+   "category": "Beratung",
+   "type": "Praktikum",
+   "status": "verified",
+   "score": 43,
+   "tier": "interesting",
+   "why": "Du arbeitest in IT-Projekten mit, pruefst Informationsportale und komplexe operative IT-Systeme, begleitest Migrationstests, Softwarezertifizierungen und Auswahlverfahren, und das im Team mit Mentoring. Mannheim ist einer von acht Standorten - fuer dich also null Pendelzeit, was diese Bruecke praktisch sehr bequem macht, und EY ist ein Name, der jede spaetere Bewerbung staerkt. Deutsch und Englisch auf C1 sind gefordert, beides hast du. Ehrliche Einschraenkungen, und davon gleich zwei: erstens ist die Rolle Pruefung und IT-Risiko, nicht KI-Entwicklung - dein Agenten- und LLM-Profil spielst du hier kaum aus; zweitens wird Vorerfahrung als Praktikant oder Werkstudent bei einer Pruefungs- oder Beratungsgesellschaft erwartet, die hast du nicht, deine Industrie- und Konzernerfahrung bei MVV und Siemens musst du entsprechend positionieren. Start ist ab sofort, ruf vor der Bewerbung im EY Recruitment Center unter 06196 996 10005 an und klaer einen Start Januar 2027.",
+   "pay": "",
+   "skills": [
+    "IT-Audit",
+    "Prozessanalyse",
+    "SQL",
+    "MS Office",
+    "Englisch C1"
+   ],
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15548-1433754-1-S",
+   "person": "leonard",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "c19e495244e9",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Werkstudent Data Analyst HR (m/w/d)",
+   "employer": "MVV Energie AG",
+   "location": "Mannheim (Wohnort, kein Pendeln)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 42,
+   "tier": "interesting",
+   "why": "Du erarbeitest datenbasierte Einblicke in Personalstrukturen und HR-Prozesse, machst Datenanalysen, baust Reportings in Power BI und entwickelst HR-Kennzahlen weiter. Der Reiz liegt nicht im Thema, sondern in der Konstellation: du bist bei MVV schon intern, kennst die Datenlandschaft und die Power-BI- und Fabric-Umgebung, und diese Stelle haelt dich im Haus, waehrend du auf eine Vollzeitrolle wartest. Mannheim mit anteiligem mobilen Arbeiten, kein Pendeln, 17,75 Euro brutto pro Stunde sind fuer eine Werkstudentenstelle sehr solide, Laufzeit sechs Monate befristet, Start ab sofort - das deckt Januar bis Juni 2027 sauber ab. Ehrliche Einschraenkung: fachlich ist das ein Rueckschritt gegenueber deinem Agentensystem im Market Intelligence Center, HR-Reporting statt KI-Entwicklung, und Immatrikulation ist Voraussetzung. Konkreter Schritt: sprich zuerst mit deiner Fuehrungskraft in Corporate Strategy, ob dort eine Verlaengerung oder eine Uebernahme moeglich ist, und nimm diese Stelle als Absicherung.",
+   "pay": "17,75 EUR brutto/Stunde",
+   "skills": [
+    "Power BI",
+    "Excel",
+    "Datenanalyse",
+    "Reporting",
+    "SQL"
+   ],
+   "url": "https://www.mvv.de/karriere/jobportal/job/werkstudent-data-analyst-hr-m-w-d",
+   "person": "leonard",
+   "first_seen": "2026-09-02",
+   "is_new": false,
+   "last_seen": "2026-09-08",
+   "id": "45e7a8b7330e",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Praktika, studentische Tätigkeiten und Abschlussarbeiten",
@@ -2011,7 +2685,7 @@
    "person": "oliver",
    "id": "02e9a2de7503",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Online-Jobbörse des Studierendenwerks",
@@ -2038,7 +2712,7 @@
    "person": "oliver",
    "id": "01eb47c2118b",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Stellenangebote der Universität Mannheim (u. a. HiWi am ZLL, Frist 30.09.2026)",
@@ -2064,7 +2738,7 @@
    "id": "99ddabec0f69",
    "deadline": "2026-09-30",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Werkstudent:in* im Bereich Data & AI",
@@ -2088,10 +2762,37 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "879f6b370bac",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "ESA Student Internship Programme",
+   "employer": "European Space Agency",
+   "location": "ESOC Darmstadt / ESTEC Noordwijk (~60 min bzw. Ausland)",
+   "region": "Europa",
+   "category": "Karriere",
+   "type": "Praktikum",
+   "status": "program",
+   "score": 42,
+   "tier": "interesting",
+   "why": "Das ESA-Studentenpraktikum dauert drei bis sechs Monate an einem ESA-Standort, darunter das Kontrollzentrum ESOC in Darmstadt, das von Walldorf aus taeglich erreichbar waere. Bewerbungsfenster ist traditionell der November mit rund einem Monat Laufzeit, fruehester Start ist der Februar danach; es gibt eine monatliche Aufwandsentschaedigung, Versicherung und Reise zahlst du selbst, maximal zwei Bewerbungen pro Runde. Als Deutscher erfuellst du die Staatsbuergerschaftsbedingung problemlos. Ehrliche Einschraenkung, und die ist erheblich: Die ESA sucht ausdruecklich bevorzugt Studierende im letzten oder vorletzten Jahr eines Masterstudiums - als Bachelorstudent bist du hier deutlich unter der Zielgruppe, das ist realistisch eher ein Thema fuer das Jahr nach deinem Master-Start in Norwegen. Naechster Schritt: Kalendereintrag fuer Anfang November 2026 setzen und die Ausschreibungsliste durchsehen, ob eine Stelle explizit Bachelor zulaesst.",
+   "pay": "monatliche Aufwandsentschaedigung",
+   "skills": [
+    "Python",
+    "Linux",
+    "Physik",
+    "Englisch"
+   ],
+   "url": "https://www.esa.int/About_Us/Careers_at_ESA/Student_Internships2",
+   "person": "oliver",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "376219777fb9",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Werkstudent (m/w/d) Data Analytics & Business Intelligence",
@@ -2115,10 +2816,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "9061a596354c",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Telefoninterviewer in der Meinungsforschung",
@@ -2142,7 +2843,7 @@
    "person": "oliver",
    "id": "97eae169b2a3",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Initiativbewerbung AI Engineering",
@@ -2164,10 +2865,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "404afe37655b",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Werkstudent (m/w/d) Prozessdigitalisierung / Power Apps / Low-Code",
@@ -2190,10 +2891,10 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "fa68349b83cf",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
   },
   {
    "title": "Digitalisierung & IT – Stellenübersicht mit KI-Schwerpunkt",
@@ -2216,10 +2917,32 @@
    "person": "leonard",
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
-   "is_new": true,
+   "is_new": false,
    "id": "65f4ec4a4b3b",
    "link_code": "200",
-   "link_checked": "2026-09-03"
+   "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Online-Jobboerse fuer Studierende",
+   "employer": "Studierendenwerk Heidelberg",
+   "location": "Heidelberg und Umgebung (~25 min)",
+   "region": "Deutschland",
+   "category": "Ferienjob",
+   "type": "Nebenjob",
+   "status": "source",
+   "score": 32,
+   "tier": "backup",
+   "why": "Das Studierendenwerk Heidelberg betreibt eine eigene Jobboerse fuer Nebenjobs, in der jede Anzeige ein Feld fuer den Bruttolohn pro Stunde enthaelt - du kannst also direkt nach Bezahlung filtern, statt dich durch Portale mit Lockangeboten zu wuehlen. Anzeigen laufen 14 Tage und werden verlaengert, die Kontaktdaten der Arbeitgeber stehen direkt im Inserat, du bewirbst dich ohne Zwischenstelle. Das ist der Puffer fuer die Wochen, in denen kein HiWi-Vertrag laeuft und du trotzdem Geld fuer Norwegen zuruecklegen willst. Ehrliche Einschraenkung: Das sind ueberwiegend fachfremde Nebenjobs ohne jeden Bezug zu Physik oder Softwareentwicklung - fuer deine Bewerbungsmappe bringen sie nichts, nur Geld. Naechster Schritt: Boerse einmal pro Woche durchsehen und nur Angebote ab etwa 15 Euro pro Stunde ueberhaupt anschauen, alles darunter kostet dich mehr Zeit als es wert ist.",
+   "pay": "je Inserat ausgewiesen (Bruttolohn pro Stunde)",
+   "skills": [],
+   "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/",
+   "person": "oliver",
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "is_new": true,
+   "id": "4631137c9d7a",
+   "link_code": "200",
+   "link_checked": "2026-09-08"
   }
  ]
 }
