@@ -112,7 +112,13 @@
 <div class=controls>
  <input id=q aria-label="Volltextsuche" placeholder="Suche: Arbeitgeber / Titel / Ort / Skill …" style="flex:1;min-width:170px">
  <select id=cat aria-label="Kategorie"><option value=all>Alle Kategorien</option></select>
- <select id=region aria-label="Region"><option value=all>Alle Regionen</option></select>
+ <div class=multi>
+   <button type=button id=regionbtn class=multibtn aria-label="Region">Alle Regionen &#9662;</button>
+   <div id=regionmenu class=multimenu hidden>
+     <div id=regionopts></div>
+     <button type=button id=regionclear class=multiclear>Auswahl zurücksetzen</button>
+   </div>
+ </div>
  <select id=work aria-label="Bearbeitungsstand">
    <option value=open>Offen (ohne erledigte)</option>
    <option value=all>Alle, auch erledigte</option>
@@ -155,10 +161,12 @@
 const L=(k,d)=>{try{const v=JSON.parse(localStorage.getItem('jh_'+k));return v==null?d:v}catch(e){return d}};
 const SV=(k,v)=>{try{localStorage.setItem('jh_'+k,JSON.stringify(v))}catch(e){}};
 const $=id=>document.getElementById(id);
-const q=$('q'),cat=$('cat'),region=$('region'),status=$('status'),tier=$('tier'),ms=$('minscore'),so=$('sort'),onlynew=$('onlynew');
+const q=$('q'),cat=$('cat'),status=$('status'),tier=$('tier'),ms=$('minscore'),so=$('sort'),onlynew=$('onlynew');
 const typeBtn=$('typebtn'),typeMenu=$('typemenu');
+const regionBtn=$('regionbtn'),regionMenu=$('regionmenu');
+let regionSel=(function(){const v=L('regions',null);if(Array.isArray(v))return v;const o=L('region','all');return(o&&o!=='all')?[o]:[];})();
 let typeSel=(function(){const v=L('types',null);if(Array.isArray(v))return v;const o=L('type','all');return(o&&o!=='all')?[o]:[];})();
-q.value=L('q','');cat.value=L('cat','all');region.value=L('region','all');
+q.value=L('q','');cat.value=L('cat','all');
 status.value=L('status','all');tier.value=L('tier','all');ms.value=L('minscore',0);so.value=L('sort','score');onlynew.checked=L('onlynew',false);
 let ALL=[];let DATA={};
 const work=$('work');work.value=L('work','open');
@@ -190,7 +198,7 @@ function activeFilters(){
   const a=[];
   if(q.value.trim())a.push('Suche „'+q.value.trim()+'“');
   if(cat.value!=='all')a.push('Kategorie');
-  if(region.value!=='all')a.push('Region');
+  if(regionSel.length)a.push('Regionen ('+regionSel.join(', ')+')');
   if(typeSel.length)a.push('Arten ('+typeSel.join(', ')+')');
   if(status.value!=='all')a.push('Status');
   if(tier.value!=='all')a.push('Priorität');
@@ -200,12 +208,13 @@ function activeFilters(){
   return a;
 }
 function resetFilters(){
-  q.value='';cat.value='all';region.value='all';status.value='all';tier.value='all';
-  ms.value=0;onlynew.checked=false;work.value='open';typeSel=[];
-  ['q','cat','region','status','tier','onlynew','work'].forEach(k=>SV(k,k==='onlynew'?false:(k==='work'?'open':(k==='q'?'':'all'))));
-  SV('minscore',0);SV('types',[]);
+  q.value='';cat.value='all';status.value='all';tier.value='all';
+  ms.value=0;onlynew.checked=false;work.value='open';typeSel=[];regionSel=[];
+  ['q','cat','status','tier','onlynew','work'].forEach(k=>SV(k,k==='onlynew'?false:(k==='work'?'open':(k==='q'?'':'all'))));
+  SV('minscore',0);SV('types',[]);SV('regions',[]);
   typeMenu.querySelectorAll('input[type=checkbox]').forEach(c=>c.checked=false);
-  typeLabel();render();
+  regionMenu.querySelectorAll('input[type=checkbox]').forEach(c=>c.checked=false);
+  typeLabel();regionLabel();render();
 }
 function render(){
  let x=ALL.filter(d=>(d.person||'oliver')===person);
@@ -213,7 +222,7 @@ function render(){
  if(w==='open')x=x.filter(d=>jstate(d)!=='done');
  else if(w!=='all')x=x.filter(d=>jstate(d)===w);
  if(cat.value!=='all')x=x.filter(d=>(d.category||'Karriere')===cat.value);
- if(region.value!=='all')x=x.filter(d=>(d.region||'Weitere')===region.value);
+ if(regionSel.length)x=x.filter(d=>regionSel.indexOf(d.region||'Weitere')>=0);
  if(typeSel.length)x=x.filter(d=>{const t=(''+(d.type||'')).toLowerCase();return typeSel.some(v=>t.includes(v.toLowerCase()))});
  if(status.value!=='all')x=x.filter(d=>statusOf(d)===status.value);
  if(tier.value!=='all')x=x.filter(d=>tierOf(d)===tier.value);
@@ -284,8 +293,8 @@ function panels(j){
  }
  p.innerHTML=h;
 }
-[q,cat,region,status,tier,ms,so,onlynew,work].forEach(e=>['input','change'].forEach(ev=>e.addEventListener(ev,()=>{
-  SV('q',q.value);SV('cat',cat.value);SV('region',region.value);SV('status',status.value);SV('tier',tier.value);SV('work',work.value);
+[q,cat,status,tier,ms,so,onlynew,work].forEach(e=>['input','change'].forEach(ev=>e.addEventListener(ev,()=>{
+  SV('q',q.value);SV('cat',cat.value);SV('status',status.value);SV('tier',tier.value);SV('work',work.value);
   SV('minscore',+ms.value||0);SV('sort',so.value);SV('onlynew',onlynew.checked);render();})));
 
 function typeLabel(){
@@ -297,14 +306,30 @@ typeMenu.addEventListener('change',e=>{
   typeSel=[...typeMenu.querySelectorAll('input[type=checkbox]')].filter(c=>c.checked).map(c=>c.value);
   SV('types',typeSel);typeLabel();render();
 });
-typeBtn.addEventListener('click',e=>{e.stopPropagation();typeMenu.hidden=!typeMenu.hidden;});
+typeBtn.addEventListener('click',e=>{e.stopPropagation();regionMenu.hidden=true;typeMenu.hidden=!typeMenu.hidden;});
 typeMenu.addEventListener('click',e=>e.stopPropagation());
-document.addEventListener('click',()=>{typeMenu.hidden=true;});
-document.addEventListener('keydown',e=>{if(e.key==='Escape')typeMenu.hidden=true;});
+document.addEventListener('click',()=>{typeMenu.hidden=true;regionMenu.hidden=true;});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){typeMenu.hidden=true;regionMenu.hidden=true;}});
 $('typeclear').addEventListener('click',()=>{
   typeSel=[];typeMenu.querySelectorAll('input[type=checkbox]').forEach(c=>c.checked=false);
   SV('types',[]);typeLabel();render();
 });
+function regionLabel(){
+  regionBtn.textContent=(regionSel.length===0?'Alle Regionen':(regionSel.length===1?regionSel[0]:regionSel.length+' Regionen'))+' \u25BE';
+  regionBtn.classList.toggle('on',regionSel.length>0);
+}
+regionMenu.addEventListener('change',e=>{
+  if(!e.target||e.target.type!=='checkbox')return;
+  regionSel=[...regionMenu.querySelectorAll('input[type=checkbox]')].filter(c=>c.checked).map(c=>c.value);
+  SV('regions',regionSel);regionLabel();render();
+});
+regionBtn.addEventListener('click',e=>{e.stopPropagation();typeMenu.hidden=true;regionMenu.hidden=!regionMenu.hidden;});
+regionMenu.addEventListener('click',e=>e.stopPropagation());
+$('regionclear').addEventListener('click',()=>{
+  regionSel=[];regionMenu.querySelectorAll('input[type=checkbox]').forEach(c=>c.checked=false);
+  SV('regions',[]);regionLabel();render();
+});
+regionLabel();
 typeLabel();
 $('resetall').addEventListener('click',resetFilters);
 $('list').addEventListener('click',e=>{
@@ -316,7 +341,7 @@ $('list').addEventListener('click',e=>{
   }
 });
 const CATLAB={'Karriere':'\ud83d\udcbc Karriere','Ferienjob':'\ud83d\udcb6 Ferienjob (gut bezahlt)','Beratung':'\ud83e\udd1d Beratung / Consulting'};
-const REGLAB={'Norwegen / Remote':'\ud83c\uddf3\ud83c\uddf4 Norwegen / Remote','Deutschland':'\ud83c\udde9\ud83c\uddea Deutschland','Weitere':'Weitere'};
+const REGLAB={'Norwegen':'\ud83c\uddf3\ud83c\uddf4 Norwegen','Deutschland':'\ud83c\udde9\ud83c\uddea Deutschland','Remote':'\ud83c\udf10 Remote','Europa':'\ud83c\uddea\ud83c\uddfa Europa','Weitere':'Weitere'};
 function fillSel(sel,vals,lab,key){
   const keep=sel.value;
   sel.innerHTML='<option value=all>'+(key==='cat'?'Alle Kategorien':'Alle Regionen')+'</option>'
@@ -329,7 +354,10 @@ function buildFilters(){
   const lab=Object.assign({},CATLAB);
   if(person==='oliver')lab['Karriere']='\ud83d\udd2d Astro/Space-Karriere';
   fillSel(cat,[...new Set(mine.map(d=>d.category||'Karriere'))].sort(),lab,'cat');
-  fillSel(region,[...new Set(mine.map(d=>d.region||'Deutschland'))].sort(),REGLAB,'region');
+  const regionen=[...new Set(mine.map(d=>d.region||'Deutschland'))].sort();
+  $('regionopts').innerHTML=regionen.map(r=>'<label><input type=checkbox value="'+esc(r)+'"'
+      +(regionSel.indexOf(r)>=0?' checked':'')+'> '+esc(REGLAB[r]||r)+'</label>').join('');
+  regionSel=regionSel.filter(v=>regionen.indexOf(v)>=0);SV('regions',regionSel);regionLabel();
   const arten=[...new Set(mine.map(d=>d.type).filter(Boolean))].sort();
   $('typeopts').innerHTML=arten.map(a=>'<label><input type=checkbox value="'+esc(a)+'"'
       +(typeSel.indexOf(a)>=0?' checked':'')+'> '+esc(a)+'</label>').join('');
