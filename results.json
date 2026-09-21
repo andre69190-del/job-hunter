@@ -1,52 +1,52 @@
 {
- "updated": "2026-09-16T22:15",
+ "updated": "2026-09-21T21:30",
  "default_person": "oliver",
  "people": {
   "oliver": {
    "label": "🔭 Oliver",
    "goal": "Ziel: in ~1 Jahr Zulassung Uni Norwegen · danach (Master bevorzugt Norwegen) Arbeit in Norwegen",
    "phase": "Phase 1 – neben dem Studium (Werkstudent / HiWi / Remote bevorzugt)",
-   "summary": "Lauf vom 16.09.2026, nur Oliver — Leonards Liste bleibt bewusst auf dem Stand vom 8. September stehen. Der wichtigste Befund ist unbequem: Der norwegische Sommerjobmarkt 2027 ist für dich fast geschlossen, weil er Norwegisch verlangt. Sieben Anzeigen habe ich einzeln geöffnet und wegen der Sprachanforderung wieder verworfen — Sopra Steria, Fremtind, Bane NOR, Xledger, Axaz, Intility. Übrig bleiben zwei: Stingray Marine Solutions in Oslo, Frist 20. September, die Anzeige zeigt selbst noch „5 dager igjen“ — Python, PyTorch, C++, CI/CD, keine Norwegisch-Pflicht. Und neu: Computas, Sommerstudent 2027, Frist 30. September, die einzige weitere norwegische Anzeige ohne Sprachhürde. Beide sollten diese Woche raus. Das Gewicht Norwegens liegt deshalb bei Studium und Forschung statt bei Sommerjobs: Neu dabei ist der Masterstudiengang Computational Science mit Schwerpunkt Astrophysik an der UiO — die genaueste Entsprechung deines Profils im ganzen Satz — sowie Physik mit Space Physics an der UiB mit fester EU-Frist am 1. März 2027. Stärkster Einzeleintrag bleibt das MPIA: Bachelorarbeiten und Miniforschungsprojekte, nächste Sichtungsrunde am 5. Oktober, und der einzige Kanal mit realistischer Publikationschance. Am Wohnort weiter offen: die SAP-Werkstudentenstelle Quantum Machine Learning, am 25. August neu veröffentlicht. Neu dazu eine FZI-HiWi-Stelle in Karlsruhe zu NeRF und LiDAR, bei der Deutsch ausdrücklich nicht zwingend ist. Ehrlich zu den Lücken: KSAT sperrt das Auslesen weiterhin per robots.txt, die ZAH-Jobseite trägt noch Fristen von 2020, die DLR-Stelle ist verschwunden, zwei SAP-Anzeigen sind besetzt, das Simula-Programm fiel 2026 aus und verlangt eine bestehende Arbeitserlaubnis, und Google Summer of Code hat 2027 noch nicht angekündigt. Das ESA-Fenster öffnet am 1. November für einen Monat — unbezahlt bis auf 800 Euro Aufwandsentschädigung.",
+   "summary": "Lauf vom 21.09.2026, nur Oliver – Leonards Liste bleibt bewusst unverändert. Neu dabei sind zwei norwegische Sommerprogramme mit Fristen im Oktober: das NBIM Summer Internship in Oslo mit ML- und Technologieprojekten, ohne Norwegisch-Pflicht (Bewerbung 28.09. bis 18.10.), und Equinor (25.09. bis 15.10.), dessen Sprachanforderung ich nicht bestätigen konnte. In Walldorf ist außerdem eine SAP-Werkstudentenstelle für Policy-as-Code neu. Die Stingray-Stelle ist abgelaufen, die Frist war der 20.09., und die IONOS-Anzeige bleibt tot (404). Vier weitere FINN-Sommerjobs von Nordea, Avinor, Bouvet und Domstoladministrasjonen habe ich wegen Norwegisch-Pflicht verworfen. Am dringendsten sind jetzt die HiWi-Stelle an der Uni Mannheim und Computas Sommerstudent (beide Frist 30.09.), danach die MPIA-Sichtungsrunde am 5. Oktober. Nicht prüfen konnte ich acht Seiten, die Bots mit 403 abweisen: SINTEF, Kongsberg, KSAT, Nordic Semiconductor, FZI-ChatBot, eine SAP-Übersicht sowie GitHub (Astropy, helita). Sie stehen unverändert drin. Ergänzt aus einem zweiten Suchlauf am selben Abend: drei weitere norwegische Sommerprogramme mit Englisch als Arbeitssprache — Hydro mit Themen zu KI und Plasma-Prozessmodellierung (Frist 16. Oktober, verlangt drei abgeschlossene Studienjahre), VARD mit Softwareentwicklung bei VARD Electro (18. Oktober) und das DNB IT Summer Internship mit 30 Plätzen (25. Oktober). Dazu der Physik-Master an der UiT in Tromsø mit Space Physics (EU-Frist 1. März) und eine FZI-HiWi-Stelle in Computer Vision, die Physikstudierende ausdrücklich anspricht. Stingray ist mit Fristende am 20. September aus dem Rennen.",
    "skill_gap": [
     {
      "skill": "Python",
-     "count": 51,
-     "of": 59
+     "count": 58,
+     "of": 67
     },
     {
      "skill": "Linux",
-     "count": 39,
-     "of": 59
+     "count": 42,
+     "of": 67
     },
     {
      "skill": "Git",
-     "count": 33,
-     "of": 59
+     "count": 35,
+     "of": 67
     },
     {
      "skill": "C++",
-     "count": 22,
-     "of": 59
+     "count": 24,
+     "of": 67
     },
     {
      "skill": "NumPy",
-     "count": 18,
-     "of": 59
+     "count": 20,
+     "of": 67
     },
     {
      "skill": "Machine Learning",
-     "count": 15,
-     "of": 59
+     "count": 19,
+     "of": 67
+    },
+    {
+     "skill": "Docker",
+     "count": 13,
+     "of": 67
     },
     {
      "skill": "Astropy",
      "count": 11,
-     "of": 59
-    },
-    {
-     "skill": "Docker",
-     "count": 11,
-     "of": 59
+     "of": 67
     }
    ],
    "portfolio_tips": [
@@ -116,47 +116,47 @@
   }
  },
  "phase": "Phase 1 – neben dem Studium (Werkstudent / HiWi / Remote bevorzugt)",
- "summary": "Lauf vom 16.09.2026, nur Oliver — Leonards Liste bleibt bewusst auf dem Stand vom 8. September stehen. Der wichtigste Befund ist unbequem: Der norwegische Sommerjobmarkt 2027 ist für dich fast geschlossen, weil er Norwegisch verlangt. Sieben Anzeigen habe ich einzeln geöffnet und wegen der Sprachanforderung wieder verworfen — Sopra Steria, Fremtind, Bane NOR, Xledger, Axaz, Intility. Übrig bleiben zwei: Stingray Marine Solutions in Oslo, Frist 20. September, die Anzeige zeigt selbst noch „5 dager igjen“ — Python, PyTorch, C++, CI/CD, keine Norwegisch-Pflicht. Und neu: Computas, Sommerstudent 2027, Frist 30. September, die einzige weitere norwegische Anzeige ohne Sprachhürde. Beide sollten diese Woche raus. Das Gewicht Norwegens liegt deshalb bei Studium und Forschung statt bei Sommerjobs: Neu dabei ist der Masterstudiengang Computational Science mit Schwerpunkt Astrophysik an der UiO — die genaueste Entsprechung deines Profils im ganzen Satz — sowie Physik mit Space Physics an der UiB mit fester EU-Frist am 1. März 2027. Stärkster Einzeleintrag bleibt das MPIA: Bachelorarbeiten und Miniforschungsprojekte, nächste Sichtungsrunde am 5. Oktober, und der einzige Kanal mit realistischer Publikationschance. Am Wohnort weiter offen: die SAP-Werkstudentenstelle Quantum Machine Learning, am 25. August neu veröffentlicht. Neu dazu eine FZI-HiWi-Stelle in Karlsruhe zu NeRF und LiDAR, bei der Deutsch ausdrücklich nicht zwingend ist. Ehrlich zu den Lücken: KSAT sperrt das Auslesen weiterhin per robots.txt, die ZAH-Jobseite trägt noch Fristen von 2020, die DLR-Stelle ist verschwunden, zwei SAP-Anzeigen sind besetzt, das Simula-Programm fiel 2026 aus und verlangt eine bestehende Arbeitserlaubnis, und Google Summer of Code hat 2027 noch nicht angekündigt. Das ESA-Fenster öffnet am 1. November für einen Monat — unbezahlt bis auf 800 Euro Aufwandsentschädigung.",
+ "summary": "Lauf vom 21.09.2026, nur Oliver – Leonards Liste bleibt bewusst unverändert. Neu dabei sind zwei norwegische Sommerprogramme mit Fristen im Oktober: das NBIM Summer Internship in Oslo mit ML- und Technologieprojekten, ohne Norwegisch-Pflicht (Bewerbung 28.09. bis 18.10.), und Equinor (25.09. bis 15.10.), dessen Sprachanforderung ich nicht bestätigen konnte. In Walldorf ist außerdem eine SAP-Werkstudentenstelle für Policy-as-Code neu. Die Stingray-Stelle ist abgelaufen, die Frist war der 20.09., und die IONOS-Anzeige bleibt tot (404). Vier weitere FINN-Sommerjobs von Nordea, Avinor, Bouvet und Domstoladministrasjonen habe ich wegen Norwegisch-Pflicht verworfen. Am dringendsten sind jetzt die HiWi-Stelle an der Uni Mannheim und Computas Sommerstudent (beide Frist 30.09.), danach die MPIA-Sichtungsrunde am 5. Oktober. Nicht prüfen konnte ich acht Seiten, die Bots mit 403 abweisen: SINTEF, Kongsberg, KSAT, Nordic Semiconductor, FZI-ChatBot, eine SAP-Übersicht sowie GitHub (Astropy, helita). Sie stehen unverändert drin. Ergänzt aus einem zweiten Suchlauf am selben Abend: drei weitere norwegische Sommerprogramme mit Englisch als Arbeitssprache — Hydro mit Themen zu KI und Plasma-Prozessmodellierung (Frist 16. Oktober, verlangt drei abgeschlossene Studienjahre), VARD mit Softwareentwicklung bei VARD Electro (18. Oktober) und das DNB IT Summer Internship mit 30 Plätzen (25. Oktober). Dazu der Physik-Master an der UiT in Tromsø mit Space Physics (EU-Frist 1. März) und eine FZI-HiWi-Stelle in Computer Vision, die Physikstudierende ausdrücklich anspricht. Stingray ist mit Fristende am 20. September aus dem Rennen.",
  "skill_gap": [
   {
    "skill": "Python",
-   "count": 51,
-   "of": 59
+   "count": 58,
+   "of": 67
   },
   {
    "skill": "Linux",
-   "count": 39,
-   "of": 59
+   "count": 42,
+   "of": 67
   },
   {
    "skill": "Git",
-   "count": 33,
-   "of": 59
+   "count": 35,
+   "of": 67
   },
   {
    "skill": "C++",
-   "count": 22,
-   "of": 59
+   "count": 24,
+   "of": 67
   },
   {
    "skill": "NumPy",
-   "count": 18,
-   "of": 59
+   "count": 20,
+   "of": 67
   },
   {
    "skill": "Machine Learning",
-   "count": 15,
-   "of": 59
+   "count": 19,
+   "of": 67
+  },
+  {
+   "skill": "Docker",
+   "count": 13,
+   "of": 67
   },
   {
    "skill": "Astropy",
    "count": 11,
-   "of": 59
-  },
-  {
-   "skill": "Docker",
-   "count": 11,
-   "of": 59
+   "of": 67
   }
  ],
  "portfolio_tips": [
@@ -184,12 +184,12 @@
    "url": "https://www.ntnu.edu/studies/admissions/master",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "972740c86a2e",
    "deadline": "2027-03-01",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Computational Science (Master), Studienrichtung CS: Astrophysics",
@@ -213,11 +213,11 @@
    "url": "https://www.uio.no/english/studies/programmes/computational-science-master/",
    "person": "oliver",
    "first_seen": "2026-09-16",
-   "last_seen": "2026-09-16",
-   "is_new": true,
+   "last_seen": "2026-09-21",
+   "is_new": false,
    "id": "e6af8f5510a5",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "AI & Automation Specialist (m/w/d)",
@@ -297,11 +297,11 @@
    "url": "https://www.mpia.de/studium-und-karriere/studieren-am-mpia/bachelor-und-masterarbeiten",
    "person": "oliver",
    "first_seen": "2026-09-16",
-   "last_seen": "2026-09-16",
-   "is_new": true,
+   "last_seen": "2026-09-21",
+   "is_new": false,
    "id": "5d87a7c974aa",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "(Associate) Consultant Data Science & AI (m/w/d)",
@@ -410,10 +410,10 @@
    "person": "oliver",
    "first_seen": "2026-07-28",
    "is_new": false,
-   "last_seen": "2026-09-16",
+   "last_seen": "2026-09-21",
    "id": "7fea75f621b6",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "AI Engineer / Data Scientist (m/w/d) – Machine Learning & Generative AI",
@@ -478,11 +478,10 @@
    "region": "Norwegen",
    "category": "Karriere",
    "type": "Sommerjob",
-   "status": "verified",
+   "status": "dead",
    "score": 68,
-   "tier": "must_apply",
-   "deadline": "2026-09-20",
-   "why": "Du arbeitest an echter Bildverarbeitung und Machine Learning für Laser-Entlausung von Lachs, mit Python, PyTorch, C/C++ und CI/CD genau auf deinem Stack. Ich habe die Anzeige am 16.09. geprüft: sie ist offen und zeigt noch vier Tage Restlaufzeit. Die Anzeige ist auf Norwegisch verfasst, nennt aber keine Norwegisch-Pflicht, und das Team arbeitet technisch stark auf Englisch; das musst du im Anschreiben offen ansprechen. Einschränkung: gesucht sind Studierende im 4. Studienjahr, du bist als Bachelor-Student früher dran, und du brauchst eine Arbeitserlaubnis in Norwegen (als EU-Bürger unproblematisch). Nächster Schritt: heute oder morgen bewerben, CV plus kurzes englisches Motivationsschreiben mit einem konkreten Python/ML-Projekt von dir.",
+   "tier": "backup",
+   "why": "Die Stelle ist vorbei: Am 21.09. zeigt die FINN-Anzeige „Fristen er utløpt“, die Bewerbungsfrist war der 20.09.2026. Inhaltlich passte sie sehr gut – Bildverarbeitung und Machine Learning mit Python, PyTorch und C++ für die Laser-Entlausung von Lachs, ohne Norwegisch-Pflicht. Die Seite liefert zwar noch HTTP 200, deshalb bleibt der Eintrag als Erinnerung stehen. Nächster Schritt: Stingray Marine Solutions für den Herbst 2027 vormerken und das Team bei Interesse direkt für ein Praktikum oder eine Masterarbeit anschreiben.",
    "pay": "",
    "skills": [
     "Python",
@@ -496,10 +495,10 @@
    "person": "oliver",
    "first_seen": "2026-09-08",
    "is_new": false,
-   "last_seen": "2026-09-16",
+   "last_seen": "2026-09-21",
    "id": "f89ff738dd20",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Consultant (m/w/d) aus den Fachrichtungen Physik, Mathematik, Informatik, Natur-, Ingenieur- oder Wirtschaftswissenschaften",
@@ -580,11 +579,11 @@
    "url": "http://www.mpia.de/studium-und-karriere/studieren-am-mpia/bachelor-und-masterarbeiten",
    "person": "oliver",
    "first_seen": "2026-09-08",
-   "last_seen": "2026-09-08",
+   "last_seen": "2026-09-21",
    "is_new": false,
    "id": "7ba7771fd0a6",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Google Summer of Code bei OpenAstronomy",
@@ -609,10 +608,10 @@
    "person": "oliver",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-16",
+   "last_seen": "2026-09-21",
    "id": "946e5b6dcc23",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Summer Internship Programme",
@@ -637,10 +636,10 @@
    "person": "oliver",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-16",
+   "last_seen": "2026-09-21",
    "id": "447a4df61404",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Consultant (w/m/d) BI & Analytics (all levels)",
@@ -720,11 +719,11 @@
    "url": "https://www4.uib.no/en/studies/admission-and-application/masters-degree-programmes-for-applicants-from-the-eu-and-eea",
    "person": "oliver",
    "first_seen": "2026-09-16",
-   "last_seen": "2026-09-16",
-   "is_new": true,
+   "last_seen": "2026-09-21",
+   "is_new": false,
    "id": "d5c5fd086305",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Business AI & Data Architect (m/w/d)",
@@ -912,10 +911,10 @@
    "person": "oliver",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-16",
+   "last_seen": "2026-09-21",
    "id": "e5c62f93b950",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "SunPy: vier offene Good-First-Issues (u.a. #8445, #8416, #3800, #2784)",
@@ -939,11 +938,11 @@
    "url": "https://docs.sunpy.org/en/latest/dev_guide/contents/newcomers.html",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "fa685872c5e2",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Sommerjobb i SINTEF (~100 Stellen pro Jahr) + SINTEF-Stipendium",
@@ -971,7 +970,7 @@
    "person": "oliver",
    "id": "5b904ab6387c",
    "link_code": "403",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Initiativbewerbung Astroinformatics-Gruppe (AIN)",
@@ -994,11 +993,11 @@
    "url": "https://www.h-its.org/hits-job/",
    "first_seen": "2026-07-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "00d89d4e34ef",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Studentische Hilfskraft – LLM-basiertes ChatBot-System (Vacancy 1254)",
@@ -1025,7 +1024,7 @@
    "person": "oliver",
    "id": "a600240f5bad",
    "link_code": "403",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "International Master's Programmes, Bewerbung für EU/EWR-Bewerber",
@@ -1049,10 +1048,10 @@
    "person": "oliver",
    "first_seen": "2026-09-08",
    "is_new": false,
-   "last_seen": "2026-09-16",
+   "last_seen": "2026-09-21",
    "id": "6d612a38d7bb",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Einstieg Consulting & Solutions (Fachschaftskontakt)",
@@ -1136,6 +1135,34 @@
    "link_checked": "2026-09-08"
   },
   {
+   "title": "DNB IT Summer Internship 2027",
+   "employer": "DNB",
+   "location": "Oslo oder Bergen (~2 Flugstunden ab FRA)",
+   "region": "Norwegen",
+   "category": "Karriere",
+   "type": "Sommerjob",
+   "status": "verified",
+   "score": 62,
+   "tier": "must_apply",
+   "deadline": "2026-10-25",
+   "why": "DNB sucht 30 Sommerstudierende für etwa acht Wochen auf echten Projekten in Entwicklung, Daten, Security, Cloud und Machine Learning. Frühere Interns haben zum Beispiel NLP und ML für die Geldwäsche-Bekämpfung gebaut. Die Anzeige ist komplett englisch, eine Norwegisch-Pflicht nennt sie nicht, und statt eines Anschreibens beantwortest du ein paar Fragen. Nach der Frist folgt ein Online-Test von rund 30 Minuten. Die Anzeige bittet um Zeugnisse, am liebsten aus Vitnemålsportalen. Du lädst stattdessen deine deutschen Notenauszüge als PDF hoch. Start und Dauer sind flexibel, das macht es mit deinem Semesterplan leichter.",
+   "pay": "bezahlt (Betrag nicht genannt)",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "Docker",
+    "Git"
+   ],
+   "url": "https://www.finn.no/job/ad/474777851",
+   "person": "oliver",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "is_new": true,
+   "link_code": "200",
+   "link_checked": "2026-09-21",
+   "id": "ac0a10654dd1"
+  },
+  {
    "title": "Working Student (f/m/d) for SAP AI/BTP solutions for Experience Labs",
    "employer": "SAP SE",
    "location": "Walldorf (~25 min S-Bahn bis Wiesloch-Walldorf + Shuttle)",
@@ -1184,10 +1211,10 @@
    "person": "oliver",
    "first_seen": "2026-09-08",
    "is_new": false,
-   "last_seen": "2026-09-16",
+   "last_seen": "2026-09-21",
    "id": "0192382fd8f2",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Initiativbewerbung Sommer- oder Masterprojekt Solarphysik (RoCS)",
@@ -1212,11 +1239,11 @@
    "url": "https://www.mn.uio.no/astro/english/",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "8a2601f61ed0",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Initiativbewerbung Gaia-Datenverarbeitung am ARI",
@@ -1239,11 +1266,11 @@
    "url": "https://zah.uni-heidelberg.de/gaia",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "3bd8e138f071",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Werkstudenten- und Praktikantenstellen am Hauptsitz Walldorf",
@@ -1271,7 +1298,7 @@
    "person": "oliver",
    "id": "8260a0f6b385",
    "link_code": "403",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Developer (m/w/d) Agribusiness & Commodities Risk Analytics, Industry AI",
@@ -1403,11 +1430,11 @@
    "url": "https://www.iap.kit.edu/english/contacts.php",
    "first_seen": "2026-09-01",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "fe4d94eab8ae",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Studentische Hilfskraft für Reinforcement Learning mit Roboterarmen",
@@ -1431,11 +1458,11 @@
    "url": "https://karriere.fzi.de/Vacancies/934/Description/1",
    "person": "oliver",
    "first_seen": "2026-09-08",
-   "last_seen": "2026-09-08",
+   "last_seen": "2026-09-21",
    "is_new": false,
    "id": "e02627e04f54",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Sommerstudent 2027",
@@ -1459,11 +1486,11 @@
    "url": "https://careersno.computas.com/jobs/8265870-sommerstudent-2027",
    "person": "oliver",
    "first_seen": "2026-09-16",
-   "last_seen": "2026-09-16",
-   "is_new": true,
+   "last_seen": "2026-09-21",
+   "is_new": false,
    "id": "e65b1fed5297",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Beiträge zum Astropy-Kernpaket",
@@ -1488,10 +1515,64 @@
    "person": "oliver",
    "first_seen": "2026-09-16",
    "last_seen": "2026-09-16",
-   "is_new": true,
+   "is_new": false,
    "id": "236b9981976a",
    "link_code": "403",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
+  },
+  {
+   "title": "Summer Internship 2027 (Oslo) – Technologie- und ML-Projekte",
+   "employer": "Norges Bank Investment Management (NBIM)",
+   "location": "Oslo (~2 Flugstunden ab FRA)",
+   "region": "Norwegen",
+   "category": "Karriere",
+   "type": "Sommerjob",
+   "status": "program",
+   "score": 58,
+   "tier": "must_apply",
+   "why": "Der norwegische Staatsfonds vergibt achtwöchige Sommerpraktika in Oslo. Jede Person bekommt ein eigenes Projekt, auch im Bereich Technologie; frühere Beispiele sind „machine learning for equity management“ und „trading optimization“. Die Seite verlangt keine Norwegischkenntnisse, sondern eine „international mindset“. Als EU-Bürger brauchst du kein Visum, NBIM hilft aber weder bei Visum noch bei Wohnung oder Umzug. Ehrlich: Das Programm ist sehr kompetitiv und finanznah, du brauchst Sicherheitsüberprüfung und Führungszeugnis. Die Bewerbung öffnet am 28. September und schließt am 18. Oktober 2026. Nächster Schritt: Lebenslauf auf Englisch bereithalten und in der ersten Oktoberwoche ein ML-Projekt als Aufhänger für die Bewerbung wählen.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "Englisch"
+   ],
+   "deadline": "2026-10-18",
+   "url": "https://www.nbim.no/en/about-us/career/summer-internship/",
+   "person": "oliver",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "is_new": true,
+   "link_code": "200",
+   "link_checked": "2026-09-21",
+   "id": "7ce498721d97"
+  },
+  {
+   "title": "Summer Internship 2027 (u. a. VARD Electro: Software Development)",
+   "employer": "VARD",
+   "location": "Ålesund und weitere VARD-Standorte (~4 Std. ab FRA via Oslo)",
+   "region": "Norwegen",
+   "category": "Karriere",
+   "type": "Sommerjob",
+   "status": "verified",
+   "score": 58,
+   "tier": "must_apply",
+   "deadline": "2026-10-18",
+   "why": "Das Praktikum dauert acht Wochen und ist bezahlt, Arbeitssprache ist laut Anzeige Englisch. Gefordert ist nur „proficient in English“. Explizit gesucht sind auch Studierende aus Computer Science, ICT und Cyber Security. Bei VARD Electro gibt es Software-Development-Themen, bei VARD Design Hydrodynamik, dort hilft dein Physikhintergrund. Statt eines Anschreibens beantwortest du drei Fragen. Möglich ist eine Sicherheitsüberprüfung durch die norwegische Behörde NSM.",
+   "pay": "bezahlt (8 Wochen, Betrag nicht genannt)",
+   "skills": [
+    "Python",
+    "C++",
+    "Linux"
+   ],
+   "url": "https://www.finn.no/job/ad/473269029",
+   "person": "oliver",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "is_new": true,
+   "link_code": "200",
+   "link_checked": "2026-09-21",
+   "id": "8aca25a73775"
   },
   {
    "title": "Åpen søknad (offene Initiativbewerbung), Frist 31.12.2026",
@@ -1513,12 +1594,12 @@
    "url": "https://andoyaspace.no/career/",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "adfca7875574",
    "deadline": "2026-12-31",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Working Student (f/m/d) - Optimization of Processes leveraging AI in the Business Transformation",
@@ -1547,6 +1628,33 @@
    "link_checked": "2026-09-08"
   },
   {
+   "title": "Hydro Summer Internship 2027 (u. a. AI and Digital Materials Characterization, Plasma Burner Technology and Process Modelling)",
+   "employer": "Norsk Hydro",
+   "location": "Oslo, Sunndalsøra, Porsgrunn, Årdal u. a. (~2 Flugstunden ab FRA bis Oslo)",
+   "region": "Norwegen",
+   "category": "Karriere",
+   "type": "Sommerjob",
+   "status": "verified",
+   "score": 57,
+   "tier": "must_apply",
+   "deadline": "2026-10-16",
+   "why": "Hydro stellt für 2027 über 40 Interns ein, das Programm dauert acht Wochen von Mitte Juni bis Mitte August. Als Arbeitssprachen sind Englisch und Norwegisch angegeben, eine Norwegisch-Pflicht formuliert die Anzeige nicht. Für dich passen besonders „AI and Digital Materials Characterization“ und „Plasma Burner Technology and Process Modelling“ in Sunndalsøra. Achtung: Verlangt sind mindestens drei abgeschlossene Studienjahre bis zum Sommer 2027. Prüfe, ob du das dann erfüllst. Höchstens drei Bewerbungen, Zeugnisse beilegen.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Machine Learning",
+    "NumPy"
+   ],
+   "url": "https://www.finn.no/job/ad/471271777",
+   "person": "oliver",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "is_new": true,
+   "link_code": "200",
+   "link_checked": "2026-09-21",
+   "id": "a3fcfbd01f78"
+  },
+  {
    "title": "Masterprojekt / Kontaktaufnahme am Rosseland Centre for Solar Physics",
    "employer": "Universitetet i Oslo, Institutt for teoretisk astrofysikk (RoCS)",
    "location": "Oslo",
@@ -1568,11 +1676,11 @@
    "url": "https://www.mn.uio.no/rocs/english/research-themes/new-code-developments.html",
    "person": "oliver",
    "first_seen": "2026-09-08",
-   "last_seen": "2026-09-08",
+   "last_seen": "2026-09-21",
    "is_new": false,
    "id": "6ecd5094b146",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Entry Level Consultant (m/w/d)",
@@ -1680,7 +1788,8 @@
    "last_seen": "2026-09-16",
    "id": "5139b63198f7",
    "link_code": "403",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21",
+   "deadline": "2027-02-28"
   },
   {
    "title": "Manager BI Reporting (m/w/d)",
@@ -1736,6 +1845,33 @@
    "id": "2c8c5cbe5af9",
    "link_code": "200",
    "link_checked": "2026-09-08"
+  },
+  {
+   "title": "Physics – Master (u. a. Space Physics, Earth Observation, Machine Learning)",
+   "employer": "UiT Norges arktiske universitet",
+   "location": "Tromsø (~4–5 Std. ab FRA mit Umstieg)",
+   "region": "Norwegen",
+   "category": "Karriere",
+   "type": "Studium",
+   "status": "program",
+   "score": 55,
+   "tier": "must_apply",
+   "deadline": "2027-03-01",
+   "why": "Die Frist für EU/EEA-Bürger ist der 1. März. Unterricht und Literatur sind komplett englisch. Wählbar sind unter anderem Weltraumphysik, Erdbeobachtung und Machine Learning, mit Polarlicht-Forschung direkt vor der Tür. Im Herbst gibt es nur 10 Plätze. Auch hier verlangt der Studiengang mindestens 80 ECTS Physik. Tromsø ist außerdem KSAT-Standort, das hilft beim späteren Einstieg in die Raumfahrtbranche.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "NumPy",
+    "Machine Learning"
+   ],
+   "url": "https://en.uit.no/education/program/270597/physics_-_master",
+   "person": "oliver",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "is_new": true,
+   "link_code": "200",
+   "link_checked": "2026-09-21",
+   "id": "464e0eda8ce9"
   },
   {
    "title": "AI Engineer (m/w/d)",
@@ -1839,11 +1975,11 @@
    "url": "https://www.scc.kit.edu/en/jobs/index.php",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "8f2ee1fa7c86",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Working Student (f/m/d) - Chief of Staff Office - Business Data Cloud Fabric & Data",
@@ -1915,11 +2051,11 @@
    "url": "https://www.careerservice.kit.edu/en/studierende/jobboerse/stud_hilfskraft/",
    "first_seen": "2026-09-01",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "f4dc0e844fbd",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Beiträge zu Astropy (Good First Issues)",
@@ -1942,11 +2078,11 @@
    "url": "https://www.astropy.org/contribute.html",
    "person": "oliver",
    "first_seen": "2026-09-08",
-   "last_seen": "2026-09-08",
+   "last_seen": "2026-09-21",
    "is_new": false,
    "id": "23eb12d72aff",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Studentische/wissenschaftliche Hilfskraft oder Masterarbeit: Neural Radiance Fields aus LiDAR-Punktwolken",
@@ -1971,11 +2107,11 @@
    "url": "https://karriere.fzi.de/Vacancies/1241/Description/1",
    "person": "oliver",
    "first_seen": "2026-09-16",
-   "last_seen": "2026-09-16",
-   "is_new": true,
+   "last_seen": "2026-09-21",
+   "is_new": false,
    "id": "8a83cfa2c1d1",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Data Scientist / Forward Deployed AI Scientist (Fachschaftskontakt)",
@@ -2031,6 +2167,61 @@
    "link_checked": "2026-09-08"
   },
   {
+   "title": "Working Student (f/m/d) – Policy-as-Code Consultant in Hyperspace",
+   "employer": "SAP SE",
+   "location": "Walldorf (Wohnort, hybrid)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 52,
+   "tier": "interesting",
+   "why": "Veröffentlicht am 15.09.2026 und offen: Du würdest Entwicklungsteams helfen, Compliance-Regeln als Code umzusetzen. Dazu gehören JSON-Schemas, Auswertung mit Open Policy Agent/Rego und Einbindung in CI/CD-Pipelines. Git, GitHub und CI/CD-Grundlagen hast du, Go reicht auf Einsteigerniveau, Englisch ist Arbeitssprache und Deutsch ein Plus. Ehrlich: Mit Astrophysik oder Datenanalyse hat die Stelle wenig zu tun, sie ist Infrastruktur- und Prozessarbeit. Außerdem ist sie als „Limited Full Time“ ausgeschrieben, die Stundenzahl musst du also klären. Nächster Schritt: Bewerben und im Anschreiben eine GitHub-Actions-Pipeline aus einem eigenen Projekt zeigen.",
+   "pay": "",
+   "skills": [
+    "Git",
+    "JSON",
+    "CI/CD",
+    "Go",
+    "Docker"
+   ],
+   "url": "https://jobs.sap.com/job/Walldorf-Working-Student-%28fmd%29-Policy-as-Code-Consultant-in-Hyperspace-69190/1437280833/",
+   "person": "oliver",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "is_new": true,
+   "link_code": "200",
+   "link_checked": "2026-09-21",
+   "id": "16a41e4096c6"
+  },
+  {
+   "title": "Studentische oder wissenschaftliche Hilfskraft im Themenbereich Computer Vision",
+   "employer": "FZI Forschungszentrum Informatik",
+   "location": "Karlsruhe (~30 min ab Walldorf)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "HiWi",
+   "status": "verified",
+   "score": 52,
+   "tier": "interesting",
+   "deadline": "",
+   "why": "Neu in dieser Liste. Die Stelle ist aktiv und startet ab sofort. Physik-Studierende sind ausdrücklich angesprochen, gefordert sind starke C++- und Python-Kenntnisse. Du planst und setzt aktuelle Computer-Vision-Ansätze um und arbeitest dabei direkt mit Kamera- und Sensorsystemen mobiler Roboter. OpenCV- und ROS-Erfahrung wird erwartet. Wenn dir das fehlt, arbeite dich vor der Bewerbung kurz ein. Deutsch oder Englisch reichen.",
+   "pay": "stundenbasiert (Betrag nicht genannt)",
+   "skills": [
+    "C++",
+    "Python",
+    "Linux"
+   ],
+   "url": "https://karriere.fzi.de/Vacancies/1099/Description/1",
+   "person": "oliver",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "is_new": true,
+   "link_code": "200",
+   "link_checked": "2026-09-21",
+   "id": "50ae2f4ede2a"
+  },
+  {
    "title": "Werkstudent:in Softwareentwicklung",
    "employer": "inovex GmbH",
    "location": "Karlsruhe (~40 min)",
@@ -2051,11 +2242,11 @@
    "url": "https://www.inovex.de/de/karriere/stellenangebote/werkstudent-im-bereich-softwareentwicklung/",
    "first_seen": "2026-09-01",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "88ee252dca6f",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Praktikant Data Analyst HR (m/w/d)",
@@ -2108,7 +2299,7 @@
    "last_seen": "2026-09-08",
    "id": "a267d32b49b5",
    "link_code": "403",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Astropy: Einstieg über Package-novice und Effort-low",
@@ -2132,11 +2323,11 @@
    "url": "https://docs.astropy.org/en/latest/development/quickstart.html",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "870aac7f3bbe",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Working Student Global IT Support & Collaboration Tooling",
@@ -2162,7 +2353,7 @@
    "person": "oliver",
    "id": "d78706d1256c",
    "link_code": "404",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Nachhilfe in Mathematik und Physik geben",
@@ -2183,11 +2374,11 @@
    "url": "https://mannheim.studentenring.de/jobs/nachhilfe-geben/",
    "first_seen": "2026-09-01",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "3418fdfedea4",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Praktikum im Business IT | Technical Consulting (m/w/d)",
@@ -2321,7 +2512,7 @@
    "last_seen": "2026-09-08",
    "id": "b7e1c3e40bbd",
    "link_code": "403",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "MPIA Job Board (Software- und IT-Stellen)",
@@ -2344,11 +2535,11 @@
    "url": "https://www.mpia.de/study-and-career/jobboard",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "8a072995bff1",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Master in Space Physics / Masterprojekt am Birkeland Centre",
@@ -2371,11 +2562,11 @@
    "url": "https://birkeland.uib.no/study/",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "762614b51f5b",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Praktikums- und Jobbörse der Fakultät Wirtschaftsinformatik",
@@ -2397,11 +2588,11 @@
    "url": "https://www.wim.uni-mannheim.de/en/internships-and-jobs/internship-and-job-board/",
    "first_seen": "2026-09-01",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "27277b68e509",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "SAP iXp Intern (f/m/d) - Cloud-native Application Development",
@@ -2424,11 +2615,11 @@
    "url": "https://jobs.sap.com/job/Walldorf-SAP-iXp-Intern-%28fmd%29-Cloud-native-Application-Development-69190/1428252933/",
    "person": "oliver",
    "first_seen": "2026-09-16",
-   "last_seen": "2026-09-16",
-   "is_new": true,
+   "last_seen": "2026-09-21",
+   "is_new": false,
    "id": "3565e3c8b50c",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Big Data Engineer / AI Software Engineer (m/w/d)",
@@ -2458,6 +2649,33 @@
    "link_checked": "2026-09-08"
   },
   {
+   "title": "Summer Internship 2027 – IT & Cybernetics / Technology & Engineering",
+   "employer": "Equinor ASA",
+   "location": "Norwegen (Standort je nach Stelle, meist Stavanger/Bergen/Oslo)",
+   "region": "Norwegen",
+   "category": "Karriere",
+   "type": "Sommerjob",
+   "status": "program",
+   "score": 48,
+   "tier": "interesting",
+   "why": "Equinor bietet ein siebenwöchiges Sommerprogramm mit Fachbereichen wie IT & Cybernetics und Technology & Engineering an. Das Bewerbungsfenster für 2027 läuft laut Seite vom 25. September bis 15. Oktober 2026. Für dich passt das als großer norwegischer Arbeitgeber mit Daten- und Softwareprojekten. Einschränkung: Die Programmseite sagt nichts zur Sprachanforderung, zur Bezahlung oder dazu, ob Studierende ausländischer Hochschulen angenommen werden. Viele Equinor-Stellen in Norwegen verlangen Norwegisch. Nächster Schritt: Ab dem 25. September die einzelnen Ausschreibungen öffnen und nur dort bewerben, wo Englisch als Arbeitssprache genannt ist.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Linux",
+    "Englisch"
+   ],
+   "deadline": "2026-10-15",
+   "url": "https://www.equinor.com/careers/summer-interns",
+   "person": "oliver",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "is_new": true,
+   "link_code": "200",
+   "link_checked": "2026-09-21",
+   "id": "a16b2f915b84"
+  },
+  {
    "title": "Studentische Hilfskraft (HiWi) am Scientific Software Center",
    "employer": "Scientific Software Center, Universität Heidelberg",
    "location": "Heidelberg (~25 min)",
@@ -2480,10 +2698,10 @@
    "person": "oliver",
    "first_seen": "2026-07-29",
    "is_new": false,
-   "last_seen": "2026-09-08",
+   "last_seen": "2026-09-21",
    "id": "82f9f2ca2d48",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Werkstudent (mwd) Software Development, Data & AI",
@@ -2534,11 +2752,11 @@
    "url": "https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_the_ESA_Graduate_Trainee_Programme",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "60c29b02c951",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Ferienjobs im Werk Wiesloch-Walldorf",
@@ -2559,11 +2777,11 @@
    "url": "https://www.heidelberg.com/global/de/about_heidelberg/career/career_overview.jsp",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "8838f2ce788e",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Sommerjobb 2027 - laufende Ausschreibungen IT-Entwicklung",
@@ -2585,11 +2803,11 @@
    "url": "https://www.finn.no/job/search?occupation=0.23&q=sommerjobb+2027",
    "person": "oliver",
    "first_seen": "2026-09-08",
-   "last_seen": "2026-09-08",
+   "last_seen": "2026-09-21",
    "is_new": false,
    "id": "578176ea42a5",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Working-Student-Stellen am Standort Walldorf",
@@ -2612,11 +2830,11 @@
    "url": "https://jobs.sap.com/search/?q=working+student&locationsearch=Walldorf",
    "person": "oliver",
    "first_seen": "2026-09-16",
-   "last_seen": "2026-09-16",
-   "is_new": true,
+   "last_seen": "2026-09-21",
+   "is_new": false,
    "id": "e8acf27cea60",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Master – SAP AI Engineering Architect (m/w/d)",
@@ -2721,7 +2939,7 @@
    "last_seen": "2026-09-16",
    "id": "6d82a53a16ac",
    "link_code": "403",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Bachelor-Zulassung über Samordna opptak – Frist 15. April",
@@ -2741,12 +2959,12 @@
    "url": "https://www.samordnaopptak.no/info/english/",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "b51fe0e4386f",
    "deadline": "2027-04-15",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Working Student / Werkstudent Stellen Walldorf",
@@ -2770,11 +2988,11 @@
    "url": "https://jobs.sap.com/search/?q=Working+Student&locationsearch=Walldorf",
    "person": "oliver",
    "first_seen": "2026-09-08",
-   "last_seen": "2026-09-08",
+   "last_seen": "2026-09-21",
    "is_new": false,
    "id": "2c567a6650f2",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "ESA Datalabs – eigenes Notebook-Projekt mit Missionsdaten",
@@ -2798,11 +3016,11 @@
    "url": "https://datalabs.esa.int/",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "fbba49dca3b5",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Werkstudierende und Praktika für Studierende (Softwareentwicklung, Data Science)",
@@ -2824,11 +3042,11 @@
    "url": "https://karriere.basf.com/de/de/einstieg/studierende",
    "first_seen": "2026-09-01",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "063be75bd0a4",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Sammelseite: Sommerjobb 2027 auf FINN Jobb",
@@ -2850,11 +3068,11 @@
    "url": "https://www.finn.no/job/search?q=sommerjobb+2027",
    "person": "oliver",
    "first_seen": "2026-09-16",
-   "last_seen": "2026-09-16",
-   "is_new": true,
+   "last_seen": "2026-09-21",
+   "is_new": false,
    "id": "c5a5d3eafe8e",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Praktikant Technology Risk (w/m/d)",
@@ -2905,11 +3123,11 @@
    "url": "https://www.dlr.de/de/karriere/dein-einstieg/deine-karrierestufe/studierende-promovierende",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "02e9a2de7503",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Online-Jobbörse des Studierendenwerks",
@@ -2932,11 +3150,11 @@
    "url": "https://www.stw.uni-heidelberg.de/de/online_jobboerse",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "01eb47c2118b",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Stellenangebote der Universität Mannheim (u. a. HiWi am ZLL, Frist 30.09.2026)",
@@ -2948,7 +3166,7 @@
    "status": "verified",
    "score": 42,
    "tier": "interesting",
-   "why": "Die Übersicht listet aktuell 14 Stellen; verifiziert offen ist eine studentische Hilfskraft am Zentrum für Lehren und Lernen mit Bewerbungsfrist 30.09.2026. Ehrlich gesagt keine Informatikstelle, aber der schnellste Fuß in die Tür der Uni Mannheim. Fachlich näher liegt die dauerhaft offene IT-Initiativbewerbung mit Frist 31.12.2026. Beides parallel einreichen.",
+   "why": "Am 21.09. erneut geprüft: Die studentische Hilfskraft am Zentrum für Lehren und Lernen ist weiter ausgeschrieben, Frist 30.09.2026. Ehrlich gesagt ist das keine Informatikstelle, aber der schnellste Weg in die Uni Mannheim. Fachlich näher liegt die dauerhaft offene IT-Initiativbewerbung bei University IT mit Frist 31.12.2026. Wenn du die HiWi-Stelle willst, bewirb dich diese Woche, beide Bewerbungen kannst du parallel einreichen.",
    "pay": "ca. 13–15 €/Stunde",
    "skills": [
     "Python",
@@ -2957,12 +3175,12 @@
    "url": "https://www.uni-mannheim.de/en/about/working-at-the-university/job-vacancies/",
    "first_seen": "2026-09-01",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "99ddabec0f69",
    "deadline": "2026-09-30",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "ESA Student Internship Programme",
@@ -2985,11 +3203,11 @@
    "url": "https://www.esa.int/About_Us/Careers_at_ESA/Student_Internships2",
    "person": "oliver",
    "first_seen": "2026-09-08",
-   "last_seen": "2026-09-08",
+   "last_seen": "2026-09-21",
    "is_new": false,
    "id": "376219777fb9",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Werkstudent Data Analyst HR (m/w/d)",
@@ -3091,11 +3309,11 @@
    "url": "https://www.nebenjob-mannheim.de/",
    "first_seen": "2026-09-01",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "97eae169b2a3",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Initiativbewerbung AI Engineering",
@@ -3169,11 +3387,11 @@
    "url": "https://hits-jobs.softgarden.io/job/57549783/Unsolicited-application-m-f-x-?jobDbPVId=284971927&l=en",
    "person": "oliver",
    "first_seen": "2026-09-16",
-   "last_seen": "2026-09-16",
-   "is_new": true,
+   "last_seen": "2026-09-21",
+   "is_new": false,
    "id": "4fac4ff287d1",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Digitalisierung & IT – Stellenübersicht mit KI-Schwerpunkt",
@@ -3217,11 +3435,11 @@
    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/",
    "person": "oliver",
    "first_seen": "2026-09-08",
-   "last_seen": "2026-09-08",
+   "last_seen": "2026-09-21",
    "is_new": false,
    "id": "5ca07f0b63b9",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   },
   {
    "title": "Ferienjobs in Heidelberg und Umgebung",
@@ -3239,11 +3457,11 @@
    "url": "https://www.studentjob.de/ferienjob/heidelberg",
    "person": "oliver",
    "first_seen": "2026-09-16",
-   "last_seen": "2026-09-16",
-   "is_new": true,
+   "last_seen": "2026-09-21",
+   "is_new": false,
    "id": "692018785eac",
    "link_code": "200",
-   "link_checked": "2026-09-16"
+   "link_checked": "2026-09-21"
   }
  ]
 }
