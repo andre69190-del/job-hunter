@@ -1,52 +1,52 @@
 {
- "updated": "2026-09-21T21:30",
+ "updated": "2026-09-21T22:10",
  "default_person": "oliver",
  "people": {
   "oliver": {
    "label": "🔭 Oliver",
    "goal": "Ziel: in ~1 Jahr Zulassung Uni Norwegen · danach (Master bevorzugt Norwegen) Arbeit in Norwegen",
    "phase": "Phase 1 – neben dem Studium (Werkstudent / HiWi / Remote bevorzugt)",
-   "summary": "Lauf vom 21.09.2026, nur Oliver – Leonards Liste bleibt bewusst unverändert. Neu dabei sind zwei norwegische Sommerprogramme mit Fristen im Oktober: das NBIM Summer Internship in Oslo mit ML- und Technologieprojekten, ohne Norwegisch-Pflicht (Bewerbung 28.09. bis 18.10.), und Equinor (25.09. bis 15.10.), dessen Sprachanforderung ich nicht bestätigen konnte. In Walldorf ist außerdem eine SAP-Werkstudentenstelle für Policy-as-Code neu. Die Stingray-Stelle ist abgelaufen, die Frist war der 20.09., und die IONOS-Anzeige bleibt tot (404). Vier weitere FINN-Sommerjobs von Nordea, Avinor, Bouvet und Domstoladministrasjonen habe ich wegen Norwegisch-Pflicht verworfen. Am dringendsten sind jetzt die HiWi-Stelle an der Uni Mannheim und Computas Sommerstudent (beide Frist 30.09.), danach die MPIA-Sichtungsrunde am 5. Oktober. Nicht prüfen konnte ich acht Seiten, die Bots mit 403 abweisen: SINTEF, Kongsberg, KSAT, Nordic Semiconductor, FZI-ChatBot, eine SAP-Übersicht sowie GitHub (Astropy, helita). Sie stehen unverändert drin. Ergänzt aus einem zweiten Suchlauf am selben Abend: drei weitere norwegische Sommerprogramme mit Englisch als Arbeitssprache — Hydro mit Themen zu KI und Plasma-Prozessmodellierung (Frist 16. Oktober, verlangt drei abgeschlossene Studienjahre), VARD mit Softwareentwicklung bei VARD Electro (18. Oktober) und das DNB IT Summer Internship mit 30 Plätzen (25. Oktober). Dazu der Physik-Master an der UiT in Tromsø mit Space Physics (EU-Frist 1. März) und eine FZI-HiWi-Stelle in Computer Vision, die Physikstudierende ausdrücklich anspricht. Stingray ist mit Fristende am 20. September aus dem Rennen.",
+   "summary": "Zweiter Lauf vom 21.09.2026, nur Oliver – Leonards Liste bleibt bewusst unverändert. Neu ist ein Sommerjob bei DNV in Høvik bei Oslo: Platform Developer im AI Centre of Excellence von DNV Maritime, Englisch als Arbeitssprache, Python erlaubt, Frist 16. Oktober (verlangt allerdings das 3. oder 4. Studienjahr). Alle übrigen Oliver-Links habe ich erneut geprüft: keine neuen toten Links, die IONOS-Anzeige bleibt tot (404), Stingray bleibt wegen abgelaufener Frist (20.09.) aussortiert. Am dringendsten sind die HiWi-Stellen an der Uni Mannheim und Computas Sommerstudent (beide Frist 30.09.), danach die MPIA-Sichtungsrunde am 5. Oktober und Equinor (15.10.), Hydro und DNV (16.10.), NBIM und VARD (18.10.) sowie DNB (25.10.). Nicht prüfen konnte ich wie zuvor acht Seiten, die Bots mit 403 abweisen (SINTEF, Kongsberg, KSAT, Nordic Semiconductor, FZI-ChatBot, eine SAP-Übersicht, GitHub Astropy und helita) – sie stehen unverändert drin.",
    "skill_gap": [
     {
      "skill": "Python",
-     "count": 58,
-     "of": 67
+     "count": 59,
+     "of": 68
     },
     {
      "skill": "Linux",
-     "count": 42,
-     "of": 67
+     "count": 43,
+     "of": 68
     },
     {
      "skill": "Git",
-     "count": 35,
-     "of": 67
+     "count": 36,
+     "of": 68
     },
     {
      "skill": "C++",
      "count": 24,
-     "of": 67
+     "of": 68
     },
     {
      "skill": "NumPy",
      "count": 20,
-     "of": 67
+     "of": 68
     },
     {
      "skill": "Machine Learning",
-     "count": 19,
-     "of": 67
+     "count": 20,
+     "of": 68
     },
     {
      "skill": "Docker",
-     "count": 13,
-     "of": 67
+     "count": 14,
+     "of": 68
     },
     {
      "skill": "Astropy",
      "count": 11,
-     "of": 67
+     "of": 68
     }
    ],
    "portfolio_tips": [
@@ -116,47 +116,47 @@
   }
  },
  "phase": "Phase 1 – neben dem Studium (Werkstudent / HiWi / Remote bevorzugt)",
- "summary": "Lauf vom 21.09.2026, nur Oliver – Leonards Liste bleibt bewusst unverändert. Neu dabei sind zwei norwegische Sommerprogramme mit Fristen im Oktober: das NBIM Summer Internship in Oslo mit ML- und Technologieprojekten, ohne Norwegisch-Pflicht (Bewerbung 28.09. bis 18.10.), und Equinor (25.09. bis 15.10.), dessen Sprachanforderung ich nicht bestätigen konnte. In Walldorf ist außerdem eine SAP-Werkstudentenstelle für Policy-as-Code neu. Die Stingray-Stelle ist abgelaufen, die Frist war der 20.09., und die IONOS-Anzeige bleibt tot (404). Vier weitere FINN-Sommerjobs von Nordea, Avinor, Bouvet und Domstoladministrasjonen habe ich wegen Norwegisch-Pflicht verworfen. Am dringendsten sind jetzt die HiWi-Stelle an der Uni Mannheim und Computas Sommerstudent (beide Frist 30.09.), danach die MPIA-Sichtungsrunde am 5. Oktober. Nicht prüfen konnte ich acht Seiten, die Bots mit 403 abweisen: SINTEF, Kongsberg, KSAT, Nordic Semiconductor, FZI-ChatBot, eine SAP-Übersicht sowie GitHub (Astropy, helita). Sie stehen unverändert drin. Ergänzt aus einem zweiten Suchlauf am selben Abend: drei weitere norwegische Sommerprogramme mit Englisch als Arbeitssprache — Hydro mit Themen zu KI und Plasma-Prozessmodellierung (Frist 16. Oktober, verlangt drei abgeschlossene Studienjahre), VARD mit Softwareentwicklung bei VARD Electro (18. Oktober) und das DNB IT Summer Internship mit 30 Plätzen (25. Oktober). Dazu der Physik-Master an der UiT in Tromsø mit Space Physics (EU-Frist 1. März) und eine FZI-HiWi-Stelle in Computer Vision, die Physikstudierende ausdrücklich anspricht. Stingray ist mit Fristende am 20. September aus dem Rennen.",
+ "summary": "Zweiter Lauf vom 21.09.2026, nur Oliver – Leonards Liste bleibt bewusst unverändert. Neu ist ein Sommerjob bei DNV in Høvik bei Oslo: Platform Developer im AI Centre of Excellence von DNV Maritime, Englisch als Arbeitssprache, Python erlaubt, Frist 16. Oktober (verlangt allerdings das 3. oder 4. Studienjahr). Alle übrigen Oliver-Links habe ich erneut geprüft: keine neuen toten Links, die IONOS-Anzeige bleibt tot (404), Stingray bleibt wegen abgelaufener Frist (20.09.) aussortiert. Am dringendsten sind die HiWi-Stellen an der Uni Mannheim und Computas Sommerstudent (beide Frist 30.09.), danach die MPIA-Sichtungsrunde am 5. Oktober und Equinor (15.10.), Hydro und DNV (16.10.), NBIM und VARD (18.10.) sowie DNB (25.10.). Nicht prüfen konnte ich wie zuvor acht Seiten, die Bots mit 403 abweisen (SINTEF, Kongsberg, KSAT, Nordic Semiconductor, FZI-ChatBot, eine SAP-Übersicht, GitHub Astropy und helita) – sie stehen unverändert drin.",
  "skill_gap": [
   {
    "skill": "Python",
-   "count": 58,
-   "of": 67
+   "count": 59,
+   "of": 68
   },
   {
    "skill": "Linux",
-   "count": 42,
-   "of": 67
+   "count": 43,
+   "of": 68
   },
   {
    "skill": "Git",
-   "count": 35,
-   "of": 67
+   "count": 36,
+   "of": 68
   },
   {
    "skill": "C++",
    "count": 24,
-   "of": 67
+   "of": 68
   },
   {
    "skill": "NumPy",
    "count": 20,
-   "of": 67
+   "of": 68
   },
   {
    "skill": "Machine Learning",
-   "count": 19,
-   "of": 67
+   "count": 20,
+   "of": 68
   },
   {
    "skill": "Docker",
-   "count": 13,
-   "of": 67
+   "count": 14,
+   "of": 68
   },
   {
    "skill": "Astropy",
    "count": 11,
-   "of": 67
+   "of": 68
   }
  ],
  "portfolio_tips": [
@@ -2349,7 +2349,7 @@
    "url": "https://www.ionos-group.com/jobs-career/4924476101-working-student-fmd-global-it-support-collaboration-tooling.html",
    "first_seen": "2026-09-01",
    "is_new": false,
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-21",
    "person": "oliver",
    "id": "d78706d1256c",
    "link_code": "404",
@@ -3460,6 +3460,35 @@
    "last_seen": "2026-09-21",
    "is_new": false,
    "id": "692018785eac",
+   "link_code": "200",
+   "link_checked": "2026-09-21"
+  },
+  {
+   "id": "a5feda7e5564",
+   "title": "Summer Student 2027 – Platform Developer (AI Centre of Excellence, DNV Maritime)",
+   "employer": "DNV",
+   "location": "Høvik bei Oslo (~2 Flugstunden ab FRA)",
+   "region": "Norwegen",
+   "category": "Karriere",
+   "type": "Sommerjob",
+   "status": "verified",
+   "score": 52,
+   "tier": "interesting",
+   "person": "oliver",
+   "why": "Du würdest im Sommer 2027 an der Cloud- und Datenplattform für die KI-Lösungen von DNV Maritime mitarbeiten, mit dem Ziel, dass dein Code bis Sommerende in Produktion geht. Python ist ausdrücklich als eine der möglichen Sprachen genannt, Englisch reicht als Arbeitssprache, eine Norwegisch-Pflicht steht nicht in der Anzeige. Einschränkung: Gesucht sind Studierende im 3. oder 4. Studienjahr in Informatik, Informationswissenschaft, Kybernetik oder Robotik – als Physik-naher Bachelor musst du im Anschreiben deine Programmierprojekte in den Vordergrund stellen. Die Oracle-Karriereseite lädt die Details per JavaScript nach; Aufgaben und Frist habe ich aus dem Spiegel bei Dreamwork übernommen, der Titel ist auf der DNV-Seite bestätigt. Nächster Schritt: Lebenslauf, Anschreiben und Notenauszug auf Englisch bis 16. Oktober hochladen.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Docker",
+    "Git",
+    "Linux",
+    "Machine Learning"
+   ],
+   "deadline": "2026-10-16",
+   "url": "https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7558",
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "is_new": true,
    "link_code": "200",
    "link_checked": "2026-09-21"
   }
