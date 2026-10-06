@@ -58,9 +58,39 @@ if errorlevel 1 (
   pause
   exit /b 1
 )
+echo   Push erledigt.
+
+rem ===== Coolify anstossen =====
+set "CF_URL="
+set "CF_TOKEN="
+if exist "coolify-deploy.txt" (
+  for /f "usebackq eol=# tokens=1,* delims==" %%a in ("coolify-deploy.txt") do (
+    if /I "%%a"=="URL" set "CF_URL=%%b"
+    if /I "%%a"=="TOKEN" set "CF_TOKEN=%%b"
+  )
+)
+echo %CF_URL% | findstr /B /I "http" >nul || set "CF_URL="
+
+if defined CF_URL (
+  echo   Stosse Coolify an ...
+  if defined CF_TOKEN (
+    curl -s -S -m 60 -X POST -H "Authorization: Bearer %CF_TOKEN%" "%CF_URL%"
+  ) else (
+    curl -s -S -m 60 "%CF_URL%"
+  )
+  echo.
+  if errorlevel 1 (
+    echo   FEHLER: Coolify liess sich nicht anstossen. Bitte von Hand "Redeploy" klicken.
+  ) else (
+    echo   Coolify deployt jetzt - in etwa einer Minute live.
+  )
+) else (
+  echo   HINWEIS: coolify-deploy.txt fehlt oder enthaelt keine URL.
+  echo   Es wurde KEIN Deploy ausgeloest - bitte in Coolify "Redeploy" klicken.
+  echo   Einrichtung: siehe coolify-deploy.txt.vorlage
+)
 
 echo.
-echo   Push erledigt. ACHTUNG: Coolify deployt NICHT automatisch,
-echo   solange der GitHub-Webhook fehlt - bitte in Coolify auf Redeploy klicken.
+echo   https://jobs.arndt-software.de
 echo.
 pause

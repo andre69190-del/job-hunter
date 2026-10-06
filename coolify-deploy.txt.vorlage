@@ -1,0 +1,18 @@
+# Coolify-Deploy-Webhook
+#
+# So kommst du an die Adresse:
+#   1. Coolify oeffnen, zur Anwendung "job-hunter" gehen
+#   2. Reiter "Webhooks" (bei manchen Versionen unter "Advanced" oder "Deploy Webhooks")
+#   3. Die Zeile "Deploy Webhook" kopieren - sie sieht ungefaehr so aus:
+#        https://coolify.deine-domain.de/api/v1/deploy?uuid=abc123&force=false
+#   4. Falls dort zusaetzlich ein API-Token verlangt wird, in Coolify unter
+#      "Keys & Tokens" -> "API tokens" einen Token anlegen und unten eintragen.
+#
+# Diese Datei wird NICHT zu GitHub hochgeladen (steht in .gitignore).
+# Zeilen mit # am Anfang werden ignoriert.
+#
+# Adresse hier einfuegen (eine Zeile, ohne Anfuehrungszeichen):
+URL=
+
+# Nur ausfuellen, wenn Coolify einen Bearer-Token verlangt:
+TOKEN=

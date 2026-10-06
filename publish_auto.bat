@@ -21,4 +21,24 @@ if not %errorlevel%==0 (
 
 rem Immer pushen - holt auch einen frueher haengen gebliebenen Commit nach
 git push
+if errorlevel 1 exit /b 1
+
+rem ===== Coolify anstossen =====
+set "CF_URL="
+set "CF_TOKEN="
+if exist "coolify-deploy.txt" (
+  for /f "usebackq eol=# tokens=1,* delims==" %%a in ("coolify-deploy.txt") do (
+    if /I "%%a"=="URL" set "CF_URL=%%b"
+    if /I "%%a"=="TOKEN" set "CF_TOKEN=%%b"
+  )
+)
+echo %CF_URL% | findstr /B /I "http" >nul || set "CF_URL="
+
+if defined CF_URL (
+  if defined CF_TOKEN (
+    curl -s -S -m 60 -X POST -H "Authorization: Bearer %CF_TOKEN%" "%CF_URL%" >nul
+  ) else (
+    curl -s -S -m 60 "%CF_URL%" >nul
+  )
+)
 exit /b %errorlevel%
