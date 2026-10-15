@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-15T09:20",
+ "updated": "2026-10-15T20:10",
  "default_person": "oliver",
  "people": {
   "oliver": {
    "label": "🔭 Oliver",
    "goal": "Ziel: in ~1 Jahr Zulassung Uni Norwegen · danach (Master bevorzugt Norwegen) Arbeit in Norwegen",
    "phase": "Phase 1 – neben dem Studium (Werkstudent / HiWi / Remote bevorzugt)",
-   "summary": "Zehnter Lauf am 15.10.2026, wieder ausschließlich Oliver: Leonards 55 Einträge und sein people-Block bleiben Zeichen für Zeichen unverändert. Alle 148 bestehenden Oliver-Links wurden erneut aufgerufen: 143 antworteten mit 200, einer mit 403 (Lehrstuhl-Infosystem der Uni Heidelberg, robots-Sperre) und vier mit Abruffehlern (FZI-Stellen 1254 und 934, Computas, UiO-Astro-Vakanzenseite). Neu gestorben ist nichts, und fünf bisher als tot markierte Einträge sind zurück: die beiden SAP-Werkstudentenstellen (Quantum Machine Learning und Policy-as-Code), die IONOS-Werkstudentenstelle, die Stellenseite von HCI/IWR Heidelberg und Norsk Regnesentral, das zwar keine offenen Stellen listet, aber ausdrücklich zu Initiativbewerbungen auffordert; dauerhaft tot bleiben nur Stingray Marine (Frist abgelaufen) und Computas. Neu aufgenommen sind 41 Einträge. In Norwegen sind das sechs offene Sommer- und Praktikumsausschreibungen mit Englisch als Arbeitssprache: Kongsberg Discovery Resilient Navigation (Frist 30.11.), IFE Halden Applied Data Science (15.11.), Golar LNG Industrial AI (08.11.), Kabal in Stavanger (12.11.), Yara mit einem echten CFD-Thema (19.11.) und Fred. Olsen Windcarrier Data Engineering (31.10.). Bei den Brücken nach Norwegen liegen jetzt die harten Termine auf dem Tisch: UNIS-Bachelorkurse Arctic Geophysics zum 01.03.2027, die Austauschfristen von NTNU (01.05.2027), UiB (25.04.2027) und UiO (01.05.2027) und die IAESTE-Vorbewerbung, die schon am 31.12.2026 schließt. Dazu kommen zwei Thesis-Brücken, die du aus Deutschland anbahnen kannst (UiT Space Physics mit EISCAT-Radardaten, UiO 4DSpace) und der UiO-Onlinekurs Introduction to Norwegian 2. In der Pendelregion habe ich elf Forschungs- und 13 Industrie-Quellen neu geprüft; der beste Einzeltreffer ist eine ausgeschriebene Bachelorarbeit am MPIK Heidelberg zur ML-gestützten Detektorsignal-Analyse am Cryogenic Storage Ring, dazu BASF Ludwigshafen (drei Stellen), Heidelberger Druckmaschinen in Wiesloch, SAP iXp in Walldorf, IONOS Karlsruhe, Fraunhofer SIT Darmstadt mit 18,06 Euro pro Stunde und das EUMETSAT-Praktikumsprogramm in Darmstadt. Am dringendsten drängt diese Woche: heute laufen Equinor, Telenor und Safetec aus, morgen DNV mit 27 Stellen und Norsk Hydro, am 18.10. NBIM und VARD, am 20.10. Andøya Space, am 25.10. KSAT und DNB, am 29.10. SINTEF Digital und IFE. Nicht bestätigen konnte ich die Trefferlisten von stellenwerk Mannheim und Karlsruhe, stepstone und absolventa (JavaScript oder Sperre), die Cognite-Stellenliste, die ABB-Mannheim-Anzeigen (auf dem Aggregator als inaktiv markiert), die Siemens-Karlsruhe-Firmwarestelle, die Termine der UiO International Summer School (die Seite zeigt weiterhin 2024) und die IAC-Sommerstipendien, deren Ausschreibungen alle seit 2024 als abgeschlossen gelten. Elf norwegische Ausschreibungen sind in diesem Lauf allein an der Arbeitssprache gescheitert und stehen deshalb nicht in der Liste: Capgemini Invent, Norconsult, Hemit, Gjensidige, Oslobygg, Norges Bank, die IFE-Division Energi in Kjeller, SINTEF Energi, Xledger, Rambøll und Visma. Aktive Einträge je Bereich: 65 Norwegen, 39 Werkstudent und Praktikum in der Region, 44 HiWi und Thesis in der Region, 20 Remote und 21 Brücken nach Norwegen.",
+   "summary": "Zweiter Lauf am 15.10.2026, wieder ausschließlich Oliver – Leonards 55 Einträge und sein people-Block bleiben Zeichen für Zeichen unverändert. Weil der Morgenlauf alle 189 Oliver-Links bereits heute geprüft hatte, habe ich diesmal gezielt nachgefasst: die sechs Problemfälle (FZI 1254 und 934, Computas, UiO-Astro-Vakanzen, zentraler Stellenmarkt der Uni Heidelberg, Stingray) antworten unverändert – vier Abruffehler, eine Bot-Sperre mit 403, Stingray bleibt tot –, neu gestorben ist in diesem Lauf kein Link. Neu dazu kommen fünf Einträge: Vespa.ai in Trondheim als bester Fund (Open-Source-Praktikum 2027 an einer Suchmaschine und Vektordatenbank, Python und C++, Englisch, Frist 13.12.2026), Gintel in Trondheim (01.03.2027, richtet sich aber an Masterstudierende), eine Masterarbeits- und Initiativschiene bei NILU in Kjeller sowie die beiden erstmals geprüften Industriequellen SEW-Eurodrive Bruchsal und Verivox Heidelberg. An Norwegisch als Arbeitssprache oder an einer Sicherheitsfreigabe gescheitert und deshalb nicht aufgenommen: vier Ausschreibungen (mnemonic Oslo, Sopra Steria Teknologi und Forretningsrådgivning, Visma Oslo) plus der FFI-Sommerstudent, der eine norwegische Sicherheitsfreigabe verlangt. Nicht bestätigen konnte ich Heidelberg Materials, EnBW und Netcompany Oslo (Seiten blockiert oder Frist widersprüchlich), und Pepperl+Fuchs Mannheim bietet Studierenden nur Ausbildung und duales Studium, also nichts für dich. Aktiv sind damit 192 Oliver-Einträge: 68 in Norwegen, 41 Werkstudenten- und Praktikumsstellen in der Pendelregion, 44 HiWi- und Bachelorarbeits-Einträge in der Region, 20 Remote und 20 Brücken nach Norwegen. Am dringendsten drängt heute Abend das Fristenbündel Equinor, Telenor, Safetec und VHS-Norwegischkurs, morgen DNV mit 27 Stellen und Norsk Hydro, am 18.10. NBIM und VARD, am 20.10. Andøya Space.",
    "skill_gap": [
     "Python",
     "Linux",
@@ -19,9 +19,9 @@
    ],
    "portfolio_tips": [
     "Diese Woche entscheidet sich der ganze norwegische Sommer 2027, und zwar mit einem einzigen Materialsatz: englischer CV, englisches Anschreiben mit austauschbarem Mittelteil, Notenübersicht als PDF. Heute laufen Equinor, Telenor und Safetec aus, morgen DNV mit 27 Stellen und Norsk Hydro. Baue das Paket heute Abend, dann kostet dich jede weitere Bewerbung zwanzig Minuten statt zwei Stunden.",
-    "Nach dem 16.10. ist das Fenster nicht zu, sondern nur ruhiger: Fred. Olsen am 31.10., Nordic Semiconductor am 01.11., Golar am 08.11., Kabal am 12.11., IFE Halden am 15.11., Yara am 19.11., Kongsberg Discovery am 30.11. Trag diese sieben Daten jetzt in den Kalender ein, dann verteilst du die Bewerbungen auf sechs Wochen statt sie zu vergessen.",
+    "Nach dem 16.10. ist das Fenster nicht zu, sondern nur ruhiger: Fred. Olsen am 31.10., Nordic Semiconductor am 01.11., Golar am 08.11., Kabal am 12.11., IFE Halden am 15.11., Yara am 19.11., Kongsberg Discovery am 30.11. und – neu und für dich fachlich der stärkste Treffer – Vespa.ai in Trondheim am 13.12. Trag diese acht Daten jetzt in den Kalender ein, dann verteilst du die Bewerbungen auf acht Wochen statt sie zu vergessen.",
     "Arm Norway bleibt die einzige Stelle in der Liste, bei der Warten direkt Geld kostet: die Bewerbungen laufen rollierend nach first come, first served, es gibt keine Frist, hinter der du dich verstecken kannst. Bewirb dich diese Woche auf zwei der vier Trondheim-Praktika, dasselbe Material, zwei Bewerbungen, Transcript ist dort Pflichtanlage.",
-    "Für Publikationsbeteiligung ist jetzt das MPIK Heidelberg der kürzeste Weg: dort ist eine Bachelorarbeit zur ML-gestützten Analyse von Detektorsignalen am Cryogenic Storage Ring ausgeschrieben, Python plus Machine Learning, keine formalen Vorkenntnisse verlangt, zwanzig Kilometer von dir entfernt. Solche Einzelthemen sind schnell weg, also schreib die Ansprechpartner diese Woche an, nicht nächsten Monat.",
+    "Für sichtbare Projekterfahrung hast du jetzt zwei Wege, die sich ergänzen: das MPIK Heidelberg mit der ausgeschriebenen Bachelorarbeit zur ML-gestützten Analyse von Detektorsignalen am Cryogenic Storage Ring (Python plus Machine Learning, zwanzig Kilometer von dir entfernt) und Vespa.ai, wo dein Code als Open Source öffentlich auf GitHub landet. Beides zählt in einer norwegischen Masterbewerbung mehr als jeder Werkstudentenjob – schreib die MPIK-Ansprechpartner diese Woche an, Einzelthemen sind schnell weg.",
     "Die Brücke, die am meisten bringt und am wenigsten kostet, ist eine einzige Mail ans International Office deiner Uni: frag nach den norwegischen Partnerunis und der internen Nominierungsfrist. NTNU, UiB und UiO nehmen alle keine Free Mover, ohne Abkommen ist ein Austauschsemester unmöglich, und die internen Fristen liegen Monate vor den norwegischen (01.05., 25.04., 01.05.2027).",
     "Setz dir eine Erinnerung auf Anfang Dezember für die IAESTE-Vorbewerbung: sie schließt am 31.12.2026, Norwegen ist Mitgliedsland, und wer im Pool fehlt, kann sich 2027 nicht mehr nachmelden. Kläre bis dahin, ob deine Hochschule ein Local Committee hat.",
     "Der Norwegisch-Filter ist in diesem Lauf brutal gewesen: elf von rund 25 geprüften Ausschreibungen fielen allein an der Arbeitssprache. Englisch reicht vor allem bei Großkonzernen mit internationalem Programm und bei Tech-Einheiten mit Exportprodukt; Beratungen, Kommunen, Banken und das Gesundheitswesen verlangen fast immer Norwegisch. Starte deshalb parallel zum Studium einen Kurs auf A2/B1, sonst halbiert sich dein Arbeitsmarkt nach dem Master dauerhaft.",
@@ -89,7 +89,7 @@
   }
  },
  "phase": "Phase 1 – neben dem Studium (Werkstudent / HiWi / Remote bevorzugt)",
- "summary": "Zehnter Lauf am 15.10.2026, wieder ausschließlich Oliver: Leonards 55 Einträge und sein people-Block bleiben Zeichen für Zeichen unverändert. Alle 148 bestehenden Oliver-Links wurden erneut aufgerufen: 143 antworteten mit 200, einer mit 403 (Lehrstuhl-Infosystem der Uni Heidelberg, robots-Sperre) und vier mit Abruffehlern (FZI-Stellen 1254 und 934, Computas, UiO-Astro-Vakanzenseite). Neu gestorben ist nichts, und fünf bisher als tot markierte Einträge sind zurück: die beiden SAP-Werkstudentenstellen (Quantum Machine Learning und Policy-as-Code), die IONOS-Werkstudentenstelle, die Stellenseite von HCI/IWR Heidelberg und Norsk Regnesentral, das zwar keine offenen Stellen listet, aber ausdrücklich zu Initiativbewerbungen auffordert; dauerhaft tot bleiben nur Stingray Marine (Frist abgelaufen) und Computas. Neu aufgenommen sind 41 Einträge. In Norwegen sind das sechs offene Sommer- und Praktikumsausschreibungen mit Englisch als Arbeitssprache: Kongsberg Discovery Resilient Navigation (Frist 30.11.), IFE Halden Applied Data Science (15.11.), Golar LNG Industrial AI (08.11.), Kabal in Stavanger (12.11.), Yara mit einem echten CFD-Thema (19.11.) und Fred. Olsen Windcarrier Data Engineering (31.10.). Bei den Brücken nach Norwegen liegen jetzt die harten Termine auf dem Tisch: UNIS-Bachelorkurse Arctic Geophysics zum 01.03.2027, die Austauschfristen von NTNU (01.05.2027), UiB (25.04.2027) und UiO (01.05.2027) und die IAESTE-Vorbewerbung, die schon am 31.12.2026 schließt. Dazu kommen zwei Thesis-Brücken, die du aus Deutschland anbahnen kannst (UiT Space Physics mit EISCAT-Radardaten, UiO 4DSpace) und der UiO-Onlinekurs Introduction to Norwegian 2. In der Pendelregion habe ich elf Forschungs- und 13 Industrie-Quellen neu geprüft; der beste Einzeltreffer ist eine ausgeschriebene Bachelorarbeit am MPIK Heidelberg zur ML-gestützten Detektorsignal-Analyse am Cryogenic Storage Ring, dazu BASF Ludwigshafen (drei Stellen), Heidelberger Druckmaschinen in Wiesloch, SAP iXp in Walldorf, IONOS Karlsruhe, Fraunhofer SIT Darmstadt mit 18,06 Euro pro Stunde und das EUMETSAT-Praktikumsprogramm in Darmstadt. Am dringendsten drängt diese Woche: heute laufen Equinor, Telenor und Safetec aus, morgen DNV mit 27 Stellen und Norsk Hydro, am 18.10. NBIM und VARD, am 20.10. Andøya Space, am 25.10. KSAT und DNB, am 29.10. SINTEF Digital und IFE. Nicht bestätigen konnte ich die Trefferlisten von stellenwerk Mannheim und Karlsruhe, stepstone und absolventa (JavaScript oder Sperre), die Cognite-Stellenliste, die ABB-Mannheim-Anzeigen (auf dem Aggregator als inaktiv markiert), die Siemens-Karlsruhe-Firmwarestelle, die Termine der UiO International Summer School (die Seite zeigt weiterhin 2024) und die IAC-Sommerstipendien, deren Ausschreibungen alle seit 2024 als abgeschlossen gelten. Elf norwegische Ausschreibungen sind in diesem Lauf allein an der Arbeitssprache gescheitert und stehen deshalb nicht in der Liste: Capgemini Invent, Norconsult, Hemit, Gjensidige, Oslobygg, Norges Bank, die IFE-Division Energi in Kjeller, SINTEF Energi, Xledger, Rambøll und Visma. Aktive Einträge je Bereich: 65 Norwegen, 39 Werkstudent und Praktikum in der Region, 44 HiWi und Thesis in der Region, 20 Remote und 21 Brücken nach Norwegen.",
+ "summary": "Zweiter Lauf am 15.10.2026, wieder ausschließlich Oliver – Leonards 55 Einträge und sein people-Block bleiben Zeichen für Zeichen unverändert. Weil der Morgenlauf alle 189 Oliver-Links bereits heute geprüft hatte, habe ich diesmal gezielt nachgefasst: die sechs Problemfälle (FZI 1254 und 934, Computas, UiO-Astro-Vakanzen, zentraler Stellenmarkt der Uni Heidelberg, Stingray) antworten unverändert – vier Abruffehler, eine Bot-Sperre mit 403, Stingray bleibt tot –, neu gestorben ist in diesem Lauf kein Link. Neu dazu kommen fünf Einträge: Vespa.ai in Trondheim als bester Fund (Open-Source-Praktikum 2027 an einer Suchmaschine und Vektordatenbank, Python und C++, Englisch, Frist 13.12.2026), Gintel in Trondheim (01.03.2027, richtet sich aber an Masterstudierende), eine Masterarbeits- und Initiativschiene bei NILU in Kjeller sowie die beiden erstmals geprüften Industriequellen SEW-Eurodrive Bruchsal und Verivox Heidelberg. An Norwegisch als Arbeitssprache oder an einer Sicherheitsfreigabe gescheitert und deshalb nicht aufgenommen: vier Ausschreibungen (mnemonic Oslo, Sopra Steria Teknologi und Forretningsrådgivning, Visma Oslo) plus der FFI-Sommerstudent, der eine norwegische Sicherheitsfreigabe verlangt. Nicht bestätigen konnte ich Heidelberg Materials, EnBW und Netcompany Oslo (Seiten blockiert oder Frist widersprüchlich), und Pepperl+Fuchs Mannheim bietet Studierenden nur Ausbildung und duales Studium, also nichts für dich. Aktiv sind damit 192 Oliver-Einträge: 68 in Norwegen, 41 Werkstudenten- und Praktikumsstellen in der Pendelregion, 44 HiWi- und Bachelorarbeits-Einträge in der Region, 20 Remote und 20 Brücken nach Norwegen. Am dringendsten drängt heute Abend das Fristenbündel Equinor, Telenor, Safetec und VHS-Norwegischkurs, morgen DNV mit 27 Stellen und Norsk Hydro, am 18.10. NBIM und VARD, am 20.10. Andøya Space.",
  "skill_gap": [
   "Python",
   "Linux",
@@ -102,9 +102,9 @@
  ],
  "portfolio_tips": [
   "Diese Woche entscheidet sich der ganze norwegische Sommer 2027, und zwar mit einem einzigen Materialsatz: englischer CV, englisches Anschreiben mit austauschbarem Mittelteil, Notenübersicht als PDF. Heute laufen Equinor, Telenor und Safetec aus, morgen DNV mit 27 Stellen und Norsk Hydro. Baue das Paket heute Abend, dann kostet dich jede weitere Bewerbung zwanzig Minuten statt zwei Stunden.",
-  "Nach dem 16.10. ist das Fenster nicht zu, sondern nur ruhiger: Fred. Olsen am 31.10., Nordic Semiconductor am 01.11., Golar am 08.11., Kabal am 12.11., IFE Halden am 15.11., Yara am 19.11., Kongsberg Discovery am 30.11. Trag diese sieben Daten jetzt in den Kalender ein, dann verteilst du die Bewerbungen auf sechs Wochen statt sie zu vergessen.",
+  "Nach dem 16.10. ist das Fenster nicht zu, sondern nur ruhiger: Fred. Olsen am 31.10., Nordic Semiconductor am 01.11., Golar am 08.11., Kabal am 12.11., IFE Halden am 15.11., Yara am 19.11., Kongsberg Discovery am 30.11. und – neu und für dich fachlich der stärkste Treffer – Vespa.ai in Trondheim am 13.12. Trag diese acht Daten jetzt in den Kalender ein, dann verteilst du die Bewerbungen auf acht Wochen statt sie zu vergessen.",
   "Arm Norway bleibt die einzige Stelle in der Liste, bei der Warten direkt Geld kostet: die Bewerbungen laufen rollierend nach first come, first served, es gibt keine Frist, hinter der du dich verstecken kannst. Bewirb dich diese Woche auf zwei der vier Trondheim-Praktika, dasselbe Material, zwei Bewerbungen, Transcript ist dort Pflichtanlage.",
-  "Für Publikationsbeteiligung ist jetzt das MPIK Heidelberg der kürzeste Weg: dort ist eine Bachelorarbeit zur ML-gestützten Analyse von Detektorsignalen am Cryogenic Storage Ring ausgeschrieben, Python plus Machine Learning, keine formalen Vorkenntnisse verlangt, zwanzig Kilometer von dir entfernt. Solche Einzelthemen sind schnell weg, also schreib die Ansprechpartner diese Woche an, nicht nächsten Monat.",
+  "Für sichtbare Projekterfahrung hast du jetzt zwei Wege, die sich ergänzen: das MPIK Heidelberg mit der ausgeschriebenen Bachelorarbeit zur ML-gestützten Analyse von Detektorsignalen am Cryogenic Storage Ring (Python plus Machine Learning, zwanzig Kilometer von dir entfernt) und Vespa.ai, wo dein Code als Open Source öffentlich auf GitHub landet. Beides zählt in einer norwegischen Masterbewerbung mehr als jeder Werkstudentenjob – schreib die MPIK-Ansprechpartner diese Woche an, Einzelthemen sind schnell weg.",
   "Die Brücke, die am meisten bringt und am wenigsten kostet, ist eine einzige Mail ans International Office deiner Uni: frag nach den norwegischen Partnerunis und der internen Nominierungsfrist. NTNU, UiB und UiO nehmen alle keine Free Mover, ohne Abkommen ist ein Austauschsemester unmöglich, und die internen Fristen liegen Monate vor den norwegischen (01.05., 25.04., 01.05.2027).",
   "Setz dir eine Erinnerung auf Anfang Dezember für die IAESTE-Vorbewerbung: sie schließt am 31.12.2026, Norwegen ist Mitgliedsland, und wer im Pool fehlt, kann sich 2027 nicht mehr nachmelden. Kläre bis dahin, ob deine Hochschule ein Local Committee hat.",
   "Der Norwegisch-Filter ist in diesem Lauf brutal gewesen: elf von rund 25 geprüften Ausschreibungen fielen allein an der Arbeitssprache. Englisch reicht vor allem bei Großkonzernen mit internationalem Programm und bei Tech-Einheiten mit Exportprodukt; Beratungen, Kommunen, Banken und das Gesundheitswesen verlangen fast immer Norwegisch. Starte deshalb parallel zum Studium einen Kurs auf A2/B1, sonst halbiert sich dein Arbeitsmarkt nach dem Master dauerhaft.",
@@ -6643,6 +6643,139 @@
    "id": "65f4ec4a4b3b",
    "link_code": "200",
    "link_checked": "2026-09-08"
+  },
+  {
+   "title": "2027 Summer Interns – Open-Source-Entwicklung an Vespa (Suchmaschine und Vektordatenbank)",
+   "employer": "Vespa.ai",
+   "location": "Trondheim (~2 Flugstunden ab FRA)",
+   "region": "Norwegen",
+   "category": "Karriere",
+   "type": "Sommerjob",
+   "status": "verified",
+   "score": 74,
+   "tier": "must_apply",
+   "link_code": "200",
+   "why": "Vespa.ai sucht für Sommer 2027 Praktikanten, die echten Code an Vespa schreiben – einer quelloffenen Suchmaschine und Vektordatenbank, die weltweit in Produktion läuft. Die Ausschreibung nennt als Themen Machine Learning, Performance-Tuning, LLM-Anbindung, Beispielanwendungen und den Betrieb großer Systeme auf AWS und GCP, verlangt Informatik oder ein verwandtes Fach und Erfahrung in einer von fünf Sprachen, darunter ausdrücklich Python und C++. Das ist für dich der stärkste Treffer dieser Woche: Norwegen-Bezug, Englisch als Arbeitssprache (die komplette Anzeige ist englisch, kein Norwegisch gefordert), und weil Vespa Open Source ist, landet dein Code öffentlich sichtbar auf GitHub – fast so wertvoll wie eine Publikationsbeteiligung. Ehrliche Einschränkung: Vespa ist ein hartes Systems-Projekt in Java und C++, die Hürde liegt höher als bei einem Werkstudentenjob, und ein Transcript ist Pflichtanlage. Konkreter nächster Schritt: bis 13.12.2026 über das in der Anzeige verlinkte BambooHR-Formular bewerben und im Anschreiben einen deiner NumPy-/Astropy-Beiträge als Beleg für Arbeit an fremdem Code verlinken.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "C++",
+    "Machine Learning",
+    "Linux",
+    "Git"
+   ],
+   "deadline": "2026-12-13",
+   "url": "https://itdagene.no/jobb/vespa-internship-2027-2026",
+   "person": "oliver",
+   "id": "ec9104348c3c",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "is_new": true,
+   "link_checked": "2026-10-15"
+  },
+  {
+   "title": "Summer Internship 2027 – Prototypen und Softwareprojekte im Dreierteam",
+   "employer": "Gintel AS",
+   "location": "Trondheim (~2 Flugstunden ab FRA)",
+   "region": "Norwegen",
+   "category": "Karriere",
+   "type": "Sommerjob",
+   "status": "verified",
+   "score": 48,
+   "tier": "interesting",
+   "link_code": "200",
+   "why": "Gintel baut Telekommunikationsplattformen in Trondheim und nimmt jeden Sommer Studierende für sechs bis acht Wochen auf, die in Gruppen von zwei bis drei Leuten an neuen Technologien, Produktideen oder Integrationen arbeiten – mit Wochensprints, Demos und einer Abschlusspräsentation. Verlangt werden nur Interesse an Softwareentwicklung und Grundkenntnisse im Programmieren, eine Sprachanforderung nennt die Anzeige nicht, der Text ist komplett englisch. Ehrliche Einschränkung: die Ausschreibung richtet sich ausdrücklich an Masterstudierende (in jeder Phase), du bist noch im Bachelor – das macht die Stelle für Sommer 2027 unwahrscheinlich, aber zum Vormerken für die Zeit nach deinem Wechsel nach Norwegen sehr brauchbar. Konkreter nächster Schritt: die Frist 01.03.2027 im Kalender notieren und, wenn du bis dahin im Master bist, direkt über die Gintel-Karriereseite bewerben.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "C++",
+    "Git"
+   ],
+   "deadline": "2027-03-01",
+   "url": "https://itdagene.no/jobb/gintel-as-summer-internship-2027-2026",
+   "person": "oliver",
+   "id": "1470ce0f4803",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "is_new": true,
+   "link_checked": "2026-10-15"
+  },
+  {
+   "title": "Masterarbeit und Initiativbewerbung am norwegischen Klima- und Umweltforschungsinstitut",
+   "employer": "NILU (Norsk institutt for luftforskning)",
+   "location": "Kjeller bei Oslo (~2 Flugstunden ab FRA)",
+   "region": "Norwegen",
+   "category": "Karriere",
+   "type": "Thesis",
+   "status": "initiative",
+   "score": 52,
+   "tier": "interesting",
+   "link_code": "200",
+   "why": "NILU erforscht Luftqualität, Atmosphärenchemie und Klimadaten in Kjeller bei Oslo und nimmt laut eigener Studierendenseite jedes Jahr mehrere Masterstudierende auf: eigener Arbeitsplatz, Laborzugang, Betreuung in Kooperation mit Hochschulen im In- und Ausland, und man darf ausdrücklich ein eigenes Themenvorschlag einreichen. Für dich ist das inhaltlich näher dran als es klingt – Atmosphärendaten werden dort mit Python ausgewertet, und NILU hilft laut Seite sogar bei Wohnung und Norwegischkurs. Ehrliche Einschränkung: ich habe die Seite „Vacant Positions“ selbst geöffnet, sie sagt klar „We currently have no available positions“ (Stand 31.08.2026), und für Sommerhilfskräfte besteht derzeit kein Bedarf – das hier ist also eine Initiativbewerbung, keine offene Stelle, und das Masterarbeits-Angebot greift erst nach deinem Bachelor. Konkreter nächster Schritt: eine kurze englische Mail an jobb@nilu.no mit CV, Python-/NumPy-Projekten und der Frage nach einer Masterarbeit ab 2028 – und die Vakanzenseite alle paar Monate selbst prüfen.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "NumPy",
+    "Linux"
+   ],
+   "url": "https://nilu.com/career-in-nilu/students",
+   "person": "oliver",
+   "id": "3d973f913287",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "is_new": true,
+   "link_checked": "2026-10-15"
+  },
+  {
+   "title": "Praktikum, Werkstudententätigkeit und Abschlussarbeiten am Stammsitz Bruchsal",
+   "employer": "SEW-EURODRIVE GmbH & Co KG",
+   "location": "Bruchsal (~25 min Bahn / ~30 min Auto ab Walldorf)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "source",
+   "score": 44,
+   "tier": "interesting",
+   "link_code": "200",
+   "why": "SEW-Eurodrive in Bruchsal ist einer der großen Antriebstechnik-Hersteller der Region und liegt mit der Bahn eine knappe halbe Stunde von Wiesloch-Walldorf entfernt. Die Studierendenseite beschreibt drei Wege, die zu dir passen: Praktikum über drei bis sechs Monate, Werkstudententätigkeit mit bis zu 20 Stunden pro Woche (in den Semesterferien auch Vollzeit) und betreute Bachelorarbeiten. Fachlich interessant sind dort Embedded-Software, Steuerungstechnik und Simulation, also deine C++- und Python-Schiene. Ehrliche Einschränkung: ich habe die Studierendenseite selbst geöffnet, die eigentliche Stellenliste liegt aber hinter einem Oracle-Bewerbungsportal, das ich nicht auslesen konnte – deshalb „source“ und nicht „verified“, ich kann dir keine konkret offene Stelle bestätigen. Konkreter nächster Schritt: auf der Seite „Jetzt finden und bewerben“ anklicken, im Portal nach Praktikum und Werkstudent filtern, und wenn nichts Passendes dabei ist, eine Initiativbewerbung an die Studentenbetreuung schicken.",
+   "pay": "",
+   "skills": [
+    "C++",
+    "Python",
+    "Git"
+   ],
+   "url": "https://www.sew-eurodrive.de/karriere/studenten/studenten.html",
+   "person": "oliver",
+   "id": "f586c578110c",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "is_new": true,
+   "link_checked": "2026-10-15"
+  },
+  {
+   "title": "Werkstudentenstellen im Stellenportal (aktuell nichts Technisches offen)",
+   "employer": "Verivox GmbH",
+   "location": "Heidelberg (~20 min Bahn / ~25 min Auto ab Walldorf)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "source",
+   "score": 34,
+   "tier": "backup",
+   "link_code": "200",
+   "why": "Verivox ist einer der wenigen größeren Tech-Arbeitgeber direkt in Heidelberg und stellt regelmäßig Werkstudierende ein – das Stellenportal läuft über Personio und ist ohne Umwege lesbar. Ich habe es in diesem Lauf geöffnet: von zehn offenen Stellen sind nur zwei Werkstudentenstellen, und beide sind fachlich nichts für dich (Gebäudemanagement und Partner Management E-Mobilität); die technischen Rollen sind Vollzeitstellen für Senior-Profile. Deshalb steht hier ehrlich „source“ – die Seite ist als Dauerbeobachtung wertvoll, als heutige Bewerbungsmöglichkeit nicht. Konkreter nächster Schritt: das Portal alle zwei bis drei Wochen selbst aufrufen und auf Werkstudentenstellen in Data oder Engineering warten, die dort erfahrungsgemäß mehrmals im Jahr auftauchen.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Git"
+   ],
+   "url": "https://verivox.jobs.personio.de/",
+   "person": "oliver",
+   "id": "3e570620571a",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "is_new": true,
+   "link_checked": "2026-10-15"
   }
  ]
 }
