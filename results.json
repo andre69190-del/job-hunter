@@ -3768,7 +3768,7 @@
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_code": "200",
+   "link_code": "timeout",
    "link_checked": "2026-10-28",
    "id": "7ed4c7ed9a34"
   },
@@ -5947,7 +5947,7 @@
     "Nacht- und Wochenendbereitschaft"
    ],
    "url": "https://www.stepstone.de/stellenangebote--Studentische-Aushilfe-Lager-Nacht-Wochenende-Feiertage-m-w-d-Mannheim-DRK-Blutspendedienst-Baden-Wuerttemberg-Hessen-gGmbH--14594755-inline.html",
-   "link_code": "timeout",
+   "link_code": "fehler",
    "person": "oliver",
    "id": "6c71a853b77e",
    "first_seen": "2026-10-26",
