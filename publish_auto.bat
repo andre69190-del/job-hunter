@@ -2,6 +2,12 @@
 chcp 65001 >nul
 cd /d "%~dp0"
 if not exist "..\results.json" exit /b 1
+rem ===== Links automatisch pruefen (tote Links -> status dead) =====
+set "PYEXE="
+where py >nul 2>&1 && set "PYEXE=py -3"
+if not defined PYEXE where python >nul 2>&1 && set "PYEXE=python"
+if defined PYEXE if exist "..\link_check.py" %PYEXE% "..\link_check.py" "..\results.json" > "..\link_check.log" 2>&1
+
 copy /Y "..\results.json" "results.json" >nul
 
 rem Stehengebliebene Sperrdatei entfernen - sonst schlaegt jedes git add fehl

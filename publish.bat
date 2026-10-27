@@ -12,6 +12,13 @@ if not exist "..\results.json" (
   exit /b 1
 )
 
+echo   Pruefe Links ...
+rem ===== Links automatisch pruefen (tote Links -> status dead) =====
+set "PYEXE="
+where py >nul 2>&1 && set "PYEXE=py -3"
+if not defined PYEXE where python >nul 2>&1 && set "PYEXE=python"
+if defined PYEXE if exist "..\link_check.py" %PYEXE% "..\link_check.py" "..\results.json" > "..\link_check.log" 2>&1
+
 copy /Y "..\results.json" "results.json" >nul
 echo   results.json aktualisiert.
 

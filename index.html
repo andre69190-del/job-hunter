@@ -170,6 +170,7 @@
    <option value=program>📋 Programm</option>
    <option value=initiative>✍️ Initiativbewerbung</option>
    <option value=source>🔎 Karriereseite</option>
+   <option value=dead>❌ Nicht mehr verfügbar</option>
  </select>
  <select id=tier>
    <option value=all>Alle Prioritäten</option>
@@ -211,8 +212,8 @@ function setState(k,v){
   if(JOBST[k]===v)delete JOBST[k];else JOBST[k]=v;
   SV('jobstate',JOBST);meta();render();
 }
-function newestFor(p){return ALL.reduce((m,d)=>{if((d.person||'oliver')!==p)return m;const f=''+(d.first_seen||'');return f>m?f:m},'');}
-function isNew(d){const n=newestFor(d.person||'oliver');return n?((''+(d.first_seen||''))>=n):!!d.is_new;}
+function newestFor(p){return ALL.reduce((m,d)=>{if((d.person||'oliver')!==p)return m;const f=''+(d.first_seen||'');return (d.status!=='dead'&&f>m)?f:m},'');}
+function isNew(d){if(d.status==='dead')return false;const n=newestFor(d.person||'oliver');return n?((''+(d.first_seen||''))>=n):!!d.is_new;}
 let person=L('person','oliver');
 const TITLES={oliver:'🔭 Astro Career Scout <span class=muted style="font-weight:400">Astronomie · Space · Informatik</span>',
               leonard:'💼 Career Scout Leonard <span class=muted style="font-weight:400">KI · Data · Digitalisierung</span>'};
@@ -223,6 +224,7 @@ function statusOf(d){if(d.status)return d.status;return d.init_application?'init
 function statusMeta(s){return s==='verified'?['🟢 Geprüfte Ausschreibung','st-ver','Zur Ausschreibung →']
   :s==='program'?['📋 Programm – Bewerbungsfenster prüfen','st-prog','Zum Programm →']
   :s==='initiative'?['✍️ Initiativbewerbung (keine offene Stelle)','st-init','Kontakt / Karriereseite →']
+  :s==='dead'?['❌ Nicht mehr verfügbar – Link ist tot oder Stelle abgelaufen','st-src','Alte Seite öffnen →']
   :['🔎 Karriereseite – bitte selbst nach aktueller Ausschreibung schauen','st-src','Karriereseite öffnen →'];}
 function label(s){s=+s||0;if(s>=55)return['🔥','#166534'];if(s>=40)return['✅','#92700d'];if(s>=25)return['👀','#3a4a63'];return['⏭️','#374151'];}
 function activeFilters(){
@@ -255,6 +257,7 @@ function render(){
  if(cat.value!=='all')x=x.filter(d=>(d.category||'Karriere')===cat.value);
  if(regionSel.length)x=x.filter(d=>regionSel.indexOf(d.region||'Weitere')>=0);
  if(typeSel.length)x=x.filter(d=>{const t=(''+(d.type||'')).toLowerCase();return typeSel.some(v=>t.includes(v.toLowerCase()))});
+ if(status.value!=='dead')x=x.filter(d=>statusOf(d)!=='dead');
  if(status.value!=='all')x=x.filter(d=>statusOf(d)===status.value);
  if(tier.value!=='all')x=x.filter(d=>tierOf(d)===tier.value);
  const qq=q.value.toLowerCase().trim();
@@ -286,7 +289,7 @@ function render(){
   if(d.location)tags.push(`<span class=tag>📍 ${esc(d.location)}</span>`);
   if(d.pay)tags.push(`<span class="tag pay">💶 ${esc(d.pay)}</span>`);
   if(d.deadline)tags.push(`<span class="tag dl">⏳ Frist ${esc(d.deadline)}</span>`);
-  if(d.link_code&&d.link_code!=='200'&&d.link_code!=='403')tags.push(`<span class="tag dl">⚠️ Link zuletzt ${esc(d.link_code)}</span>`);
+  if(d.link_code&&d.link_code!=='200'&&d.status!=='dead')tags.push(`<span class="tag dl">⚠️ Link zuletzt ${esc(d.link_code)}</span>`);
   if(isNew(d))tags.push(`<span class="tag new">NEU</span>`);
   const skills=(d.skills&&d.skills.length)?`<div class=skills>Skills: ${d.skills.map(esc).join(' · ')}</div>`:'';
   const why=esc(d.why||'');
@@ -431,7 +434,7 @@ window.addEventListener('resize',syncTop);
 applyBrief();applyFilt();
 function meta(){
   const ppl=DATA.people||{};const m=ppl[person]||{};
-  const mine=ALL.filter(d=>(d.person||'oliver')===person);
+  const mine=ALL.filter(d=>(d.person||'oliver')===person&&d.status!=='dead');
   const nw=mine.filter(isNew).length;
   const must=mine.filter(d=>tierOf(d)==='must_apply').length;
   const upd=(DATA.updated||'').replace('T',' ').slice(0,16)||'—';
