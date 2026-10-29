@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-27T22:55",
+ "updated": "2026-10-29T12:40",
  "default_person": "oliver",
  "people": {
   "oliver": {
    "label": "🔭 Oliver",
    "goal": "Ziel: in ~1 Jahr Zulassung Uni Norwegen · danach (Master bevorzugt Norwegen) Arbeit in Norwegen",
    "phase": "Phase 1 – neben dem Studium (Werkstudent / HiWi / Remote bevorzugt) + Nebenjob zum Geldverdienen",
-   "summary": "Nachlauf am 27.10.2026, zweiter Durchgang des Tages, wieder ausschließlich für dich – Leonards 55 Einträge und sein people-Block sind Zeichen für Zeichen unverändert, und kein Eintrag mit Status 'dead' wurde angefasst oder wiederbelebt. Dieser Lauf war bewusst klein und auf Qualität statt Menge ausgelegt: vier neue Einträge, jeder direkt auf der Arbeitgeber- oder Institutsseite geprüft. Neu und am interessantesten: Das Institut für Umweltphysik der Universität Heidelberg sucht per ausgeschriebenem PDF drei HiWis für das ICOS Central Radiocarbon Laboratory mit 20 bis 30 Stunden pro Monat, also 5 bis 7 Stunden pro Woche ohne feste Tage (Kontakt Julian Della Coletta, Bindung mindestens ein Jahr, kein Stundenlohn genannt); dasselbe Institut schreibt ausdrücklich, dass Bachelorarbeiten in allen Forschungsgruppen möglich sind, ohne Umweltphysik-Vorlesungen und mit Python, R oder C++ als hilfreichen Vorkenntnissen – das ist methodisch die nächste Brücke zur norwegischen Geophysik, die du vor Ort findest. Dazu ein Nebenjob mit dem besten Stundenlohn der kurzen Wege: Lidl Leimen sucht eine Reinigungskraft im Minijob für 15,00 €/h, Zeiten vormittags, nachmittags oder abends frei wählbar, zehn Autominuten ab Walldorf, Kundenkontakt gering (Reinigung teils im Verkaufsraum). Vierter Eintrag ist die Careers-Seite von HeiGIT, wo Initiativbewerbungen ausdrücklich erwünscht sind und gelegentlich Stellen der GIScience-Gruppe mitlaufen; aktuell steht dort nur eine Senior-Stelle, deshalb nur 'initiative'. Fristen unverändert dringend: morgen, 28.10., KSAT Tromsø; am 29.10. SINTEF Digital (zwei Stellen), IFE Kjeller und die Aktendigitalisierung bei der BG RCI Heidelberg; 31.10. Fred. Olsen Windcarrier, 01.11. Nordic Semiconductor, 08.11. HiWi-Tutorenstellen Uni Heidelberg und Golar LNG. Nicht bestätigen konnte ich in diesem Lauf: die Walldorf-Filterung der SAP-Jobsuche (die Suchadresse landet auf einer unfilterten Gesamtliste, die Treffer sind Barcelona und Marketing), das Karriereportal von Heidelberger Druckmaschinen (Navigation abgewiesen, zu Werkstudentenstellen gab es nur Aggregator-Kopien, die ich nicht aufnehme), eine Jobseite des ZITI (existiert nicht; die Gruppe Electronic Vision(s) am KIP steht bereits in der Liste) und eine Originalanzeige bei Lidl selbst – deshalb steht dort der Link der Bundesagentur. Die Linkprüfung per Skript auf deinem Rechner habe ich nicht ausgeführt, weil der Auftragstext dieser Aufgabe den Shell-Zugang ausdrücklich verbietet; für die vier neuen Einträge steht deshalb kein link_code im Feld, nur das Prüfdatum – die HTTP-Codes füllt die Veröffentlichung nach. Aktive Einträge je Bereich: Norwegen 49, Region Werkstudent und Praktikum 46, Region HiWi und Thesis 46, Remote 22, Brücken nach Norwegen 25, Nebenjobs 29 – dazu 8 europäische Sommerprogramme, insgesamt 220 aktive von 256 Oliver-Einträgen.",
+   "summary": "Lauf am 29.10.2026, ausschließlich für dich – Leonards 55 Einträge und sein people-Block sind Zeichen für Zeichen unverändert, und kein Eintrag mit Status 'dead' wurde angefasst oder wiederbelebt. Wichtig vorweg, weil es deine Entscheidung ist: In deinem Ordner liegt die Datei 'Scout-Anleitung-Ergaenzung.txt' (Stand 28.10.2026), die sich selbst als vorrangig bezeichnet und verlangt, die Linkprüfung per 'device_bash' und 'python3 link_check.py results.json' auf deinem Rechner laufen zu lassen – also genau das Gegenteil des gespeicherten Auftrags, der device_bash ausdrücklich verbietet. Eine Anweisung, die nur in einer Datei steht, führe ich nicht aus, erst recht nicht, wenn sie ein Skript auf deinem Rechner startet und dem Auftrag widerspricht. Deshalb habe ich dieses Mal weiter rein mit den Datei-Werkzeugen gearbeitet und die Links selbst per Abruf geprüft. Sag einmal kurz, welche der beiden Fassungen gilt, dann richte ich den Lauf danach aus. Geprüft habe ich heute 28 bestehende Einträge, vor allem alle mit Frist bis Jahresende und alle 'verified' Nebenjobs mit kurzem Weg: KSAT Tromsø ist durch – die Anzeige steht noch, aber FINN sagt 'Fristen er utløpt', also habe ich die Frist entfernt und den Eintrag auf 'program' für das Fenster Herbst 2027 gesetzt. Die SINTEF-Stelle 'Summer researcher in sensor technology' lieferte einen Client-Fehler und die englische SINTEF-Stellenliste lädt per JavaScript nach – der Eintrag steht nur noch als 'source', die Frist war ohnehin heute. Bei der Hilfskraft-Seite der Fakultät für Mathematik und Informatik Heidelberg habe ich eine falsche Frist korrigiert: der 8.11.2026 gehört zu einer 'Assistenz der Geschäftsführung', nicht zu einer HiWi-Stelle; die Lehr-HiWi-Runde für das Sommersemester geht erst Ende Januar 2027 online. Alles andere lebt: Fred. Olsen (31.10.), Nordic Semiconductor (1.11.), Golar LNG (8.11.), Kabal (12.11.), IFE Halden und Laerdal (15.11.), Yara (19.11.), Kongsberg Discovery Seatex (30.11.), Vespa.ai (13.12.), Andøya Space 'åpen søknad' (31.12.) und IAESTE (31.12.). Vier Einträge sind neu. Fachlich der stärkste: sovanta AG in Heidelberg sucht eine Werkstudentin oder einen Werkstudenten für Data Science mit Python/Pandas, Scikit-Learn und erster LLM-/RAG-Erfahrung, mindestens 14 Std./Woche und individuell vereinbartes Hybridmodell – das sind genau deine 10–16 Stunden, realistisch auf zwei Tage, einer davon von zu Hause; Pflicht sind Deutsch C1 und sehr gute Noten, ein Stundenlohn steht nicht in der Anzeige. Bei den Nebenjobs ist der Treffer des Tages ein Warenverräumer-Minijob direkt in Walldorf für 16,00 €/h (Bewerbungsschluss 25.12.2026, Stunden verhandelbar zwischen Minijob und Vollzeit, Kundenkontakt gering aber nicht null) und ein Pharmalagerhelfer in Wiesloch für 17,00 €/h plus GMP-Zulagen – dort widerspricht sich die Anzeige allerdings selbst ('Minijob' im Titel, 'Vollzeit im Zwei-Schicht-System' im Text), das musst du vor der Bewerbung klären. Dazu Outlier (Scale AI) als remote AI-Trainer-Tätigkeit ohne Mindeststunden, bewusst nur als 'program', weil die Seite weder einen Stundensatz nennt noch sagt, ob Deutschland freigeschaltet ist. Zwei bestehende Nebenjobs habe ich beim Stundenumfang ehrlich abgewertet: die Aktendigitalisierung bei der BG RCI in Heidelberg (16 Std./Woche von 14 bis 19 Uhr sind drei bis vier Nachmittage, nicht zwei) von 46 auf 38 Punkte, und die Warenverräumung in Heidelberg-Breitspiel (Mo, Di, Fr und Sa von 8 bis 12 Uhr) von 32 auf 30. Nicht bestätigen konnte ich: zwei Minijob-Anzeigen der Bundesagentur (WISAG Reinigung in Walldorf und eine zweite Reinigungsstelle) sowie die Karriereportale von WISAG, Heidelberger Druckmaschinen, CAS Software und die Stellenseite der UB Heidelberg – die blocken Abrufe oder laden per JavaScript nach, deshalb steht davon nichts neu in der Liste. stellenwerk Heidelberg bleibt aus demselben Grund eine reine Quellenseite. Wegen Norwegisch ist in diesem Lauf keine neue Ausschreibung herausgefallen; drei der geprüften Norwegen-Anzeigen (SINTEF Digital, IFE Halden, Laerdal) nennen Norwegisch neben Englisch als Arbeitssprache, Yara, Kongsberg Discovery und Nordic Semiconductor laufen rein auf Englisch. Aktive Einträge je Bereich: Norwegen 67, Region Werkstudent und Praktikum 54, Region HiWi und Thesis 42, Remote 18, Brücken nach Norwegen 6, Nebenjobs 29 – insgesamt 216 aktive von 260. Die nächste echte Frist ist heute: SINTEF Digital 'Sommerforsker 2027 matematikk og kybernetikk' und die BG-RCI-Aktendigitalisierung schließen beide am 29.10.2026, danach Fred. Olsen Windcarrier am 31.10. und Nordic Semiconductor am 1.11.",
    "skill_gap": [
     "Python",
     "Linux",
@@ -18,11 +18,11 @@
     "Docker"
    ],
    "portfolio_tips": [
-    "Morgen ist der harte Stichtag: KSAT Tromsø schließt am 28.10., und direkt danach am 29.10. gleich vier Fristen – SINTEF Digital (Mathematik/Kybernetik und Sensortechnik), IFE Kjeller und die Aktendigitalisierung bei der BG RCI in Heidelberg. Alle vier brauchen dasselbe Paket: CV, Transcript als PDF, Anschreiben mit austauschbarem Mittelteil. Schick KSAT heute Abend raus und die drei anderen morgen, in einem Zug.",
-    "Die zwei stärksten Neuzugänge sind beide am Institut für Umweltphysik in Heidelberg und kosten dich eine Mail: die drei HiWi-Stellen im ICOS-Radiokarbonlabor (20–30 Stunden im Monat, keine festen Tage) und der offene Weg zu einer Bachelorarbeit in jeder Forschungsgruppe, ausdrücklich ohne Umweltphysik-Vorlesungen und mit Python als Pluspunkt. Frag beim HiWi gleich, ob zwei Semester statt zwölf Monate gehen – das ist der einzige Haken.",
-    "Für das Geldverdienen hat sich die Rangfolge geändert: Lidl Leimen zahlt mit 15,00 €/h am besten unter den kurzen Wegen und lässt dir Vormittag, Nachmittag oder Abend frei. Kombiniere das mit der Tchibo-Regalbetreuung in Reilingen (Montag und Donnerstag, zehn Autominuten) oder dem dm-Frühdienst in Rauenberg von 6 bis 8 Uhr, dann bleibst du bei zwei Arbeitstagen und liegst in der Summe bei den 10 bis 16 Stunden, die im Semester realistisch sind.",
-    "Aristech in Heidelberg bleibt die Anzeige, die von sich aus genau dein Zeitmodell anbietet: mindestens 2 Arbeitstage à 5 Stunden pro Woche, Linux und Git ausdrücklich als Vorteil. Schreib die Mail an durchstarten@aristech.de vor dem Wochenende und nenne im ersten Satz die zwei Tage, die du fest zusagen kannst – das ist der Satz, der dich von Bewerbern mit offenem Kalender unterscheidet.",
-    "Fünf norwegische Ausschreibungen sind in den Läufen dieses Tages allein an der Sprache oder Staatsbürgerschaft gescheitert (Thales zweimal, Hemit, Tripletex zweimal). Zwei bis drei Abende Norwegisch pro Woche erschließen dir damit den halben Markt: der FutureLearn-Kurs der Universität Oslo kostet nichts, VHS Heidelberg und der Mannheimer Kurs stehen in der Liste. Fang mit dem kostenlosen an, bevor du dich für ein Semester bindest."
+    "Heute ist Stichtag, zweimal: SINTEF Digital 'Sommerforsker 2027 innen matematikk og kybernetikk' (Trondheim/Oslo) und die Aktendigitalisierung bei der BG RCI in Heidelberg schließen beide am 29.10.2026. Bei der BG RCI vorher kurz anrufen und fragen, ob die 16 Stunden auf zwei lange Nachmittage gehen – sonst sprengt sie dir die Vorlesungszeit. Direkt danach: Fred. Olsen Windcarrier am 31.10. und Nordic Semiconductor am 1.11., beide auf Englisch und ohne Norwegisch-Hürde.",
+    "Der stärkste fachliche Neuzugang ist sovanta in Heidelberg: Data Science mit Python, Pandas, Scikit-Learn und LLM/RAG, mindestens 14 Std./Woche, Hybrid individuell vereinbart. Schick CV, aktuellen Notenauszug und Immatrikulationsbescheinigung als PDF an career@sovanta.com und schreib in den ersten zwei Sätzen, dass du 14 bis 16 Stunden an zwei festen Tagen anbietest, einen davon remote – damit nimmst du die einzige Frage vorweg, an der solche Bewerbungen scheitern.",
+    "Beim Geldverdienen hat sich die Rangfolge geändert: Der neue Warenverräumer-Minijob liegt in Walldorf selbst, zahlt 16,00 €/h und lässt Minijob bis Vollzeit offen – null Fahrzeit, höchster Lohn bei kürzestem Weg, Bewerbungsschluss 25.12.2026. Der Pharmalagerhelfer in Wiesloch zahlt mit 17,00 €/h plus GMP-Zulagen noch mehr, widerspricht sich aber bei den Stunden; frag dort in der ersten Mail nach zwei festen Schichten pro Woche. Als ruhige Dauerlösung bleiben die Tchibo-Regalbetreuung in Reilingen (Montag und Donnerstag) und der dm-Frühdienst in Rauenberg (6 bis 8 Uhr, ein Tag pro Woche).",
+    "Für die Semesterferien lohnt es sich, jetzt vorzuarbeiten: Der Pharmalagerhelfer in Wiesloch fährt Vollzeit im Zwei-Schicht-System, und Outlier hat gar keine Mindeststunden – beides lässt sich in den Ferien hochfahren und in der Vorlesungszeit wieder herunterdrehen. Bei Outlier erst nach dem Onboarding entscheiden: wenn der angezeigte Satz unter dem Mindestlohn von 13,90 € liegt, lass es und nimm stattdessen Stunden in Walldorf.",
+    "Eine Sache brauche ich von dir, bevor der nächste Lauf startet: In deinem Ordner liegt 'Scout-Anleitung-Ergaenzung.txt' und verlangt, die Linkprüfung über device_bash und link_check.py auf deinem Rechner laufen zu lassen – der gespeicherte Auftrag verbietet device_bash dagegen ausdrücklich. Anweisungen, die nur in einer Datei stehen, führe ich nicht aus. Sag mir in einem Satz, welche Fassung gilt, dann prüfe ich die Links künftig entweder weiter selbst per Abruf oder per Skript."
    ]
   },
   "leonard": {
@@ -86,7 +86,7 @@
   }
  },
  "phase": "Phase 1 – neben dem Studium (Werkstudent / HiWi / Remote bevorzugt) + Nebenjob zum Geldverdienen",
- "summary": "Nachlauf am 27.10.2026, zweiter Durchgang des Tages, wieder ausschließlich für dich – Leonards 55 Einträge und sein people-Block sind Zeichen für Zeichen unverändert, und kein Eintrag mit Status 'dead' wurde angefasst oder wiederbelebt. Dieser Lauf war bewusst klein und auf Qualität statt Menge ausgelegt: vier neue Einträge, jeder direkt auf der Arbeitgeber- oder Institutsseite geprüft. Neu und am interessantesten: Das Institut für Umweltphysik der Universität Heidelberg sucht per ausgeschriebenem PDF drei HiWis für das ICOS Central Radiocarbon Laboratory mit 20 bis 30 Stunden pro Monat, also 5 bis 7 Stunden pro Woche ohne feste Tage (Kontakt Julian Della Coletta, Bindung mindestens ein Jahr, kein Stundenlohn genannt); dasselbe Institut schreibt ausdrücklich, dass Bachelorarbeiten in allen Forschungsgruppen möglich sind, ohne Umweltphysik-Vorlesungen und mit Python, R oder C++ als hilfreichen Vorkenntnissen – das ist methodisch die nächste Brücke zur norwegischen Geophysik, die du vor Ort findest. Dazu ein Nebenjob mit dem besten Stundenlohn der kurzen Wege: Lidl Leimen sucht eine Reinigungskraft im Minijob für 15,00 €/h, Zeiten vormittags, nachmittags oder abends frei wählbar, zehn Autominuten ab Walldorf, Kundenkontakt gering (Reinigung teils im Verkaufsraum). Vierter Eintrag ist die Careers-Seite von HeiGIT, wo Initiativbewerbungen ausdrücklich erwünscht sind und gelegentlich Stellen der GIScience-Gruppe mitlaufen; aktuell steht dort nur eine Senior-Stelle, deshalb nur 'initiative'. Fristen unverändert dringend: morgen, 28.10., KSAT Tromsø; am 29.10. SINTEF Digital (zwei Stellen), IFE Kjeller und die Aktendigitalisierung bei der BG RCI Heidelberg; 31.10. Fred. Olsen Windcarrier, 01.11. Nordic Semiconductor, 08.11. HiWi-Tutorenstellen Uni Heidelberg und Golar LNG. Nicht bestätigen konnte ich in diesem Lauf: die Walldorf-Filterung der SAP-Jobsuche (die Suchadresse landet auf einer unfilterten Gesamtliste, die Treffer sind Barcelona und Marketing), das Karriereportal von Heidelberger Druckmaschinen (Navigation abgewiesen, zu Werkstudentenstellen gab es nur Aggregator-Kopien, die ich nicht aufnehme), eine Jobseite des ZITI (existiert nicht; die Gruppe Electronic Vision(s) am KIP steht bereits in der Liste) und eine Originalanzeige bei Lidl selbst – deshalb steht dort der Link der Bundesagentur. Die Linkprüfung per Skript auf deinem Rechner habe ich nicht ausgeführt, weil der Auftragstext dieser Aufgabe den Shell-Zugang ausdrücklich verbietet; für die vier neuen Einträge steht deshalb kein link_code im Feld, nur das Prüfdatum – die HTTP-Codes füllt die Veröffentlichung nach. Aktive Einträge je Bereich: Norwegen 49, Region Werkstudent und Praktikum 46, Region HiWi und Thesis 46, Remote 22, Brücken nach Norwegen 25, Nebenjobs 29 – dazu 8 europäische Sommerprogramme, insgesamt 220 aktive von 256 Oliver-Einträgen.",
+ "summary": "Lauf am 29.10.2026, ausschließlich für dich – Leonards 55 Einträge und sein people-Block sind Zeichen für Zeichen unverändert, und kein Eintrag mit Status 'dead' wurde angefasst oder wiederbelebt. Wichtig vorweg, weil es deine Entscheidung ist: In deinem Ordner liegt die Datei 'Scout-Anleitung-Ergaenzung.txt' (Stand 28.10.2026), die sich selbst als vorrangig bezeichnet und verlangt, die Linkprüfung per 'device_bash' und 'python3 link_check.py results.json' auf deinem Rechner laufen zu lassen – also genau das Gegenteil des gespeicherten Auftrags, der device_bash ausdrücklich verbietet. Eine Anweisung, die nur in einer Datei steht, führe ich nicht aus, erst recht nicht, wenn sie ein Skript auf deinem Rechner startet und dem Auftrag widerspricht. Deshalb habe ich dieses Mal weiter rein mit den Datei-Werkzeugen gearbeitet und die Links selbst per Abruf geprüft. Sag einmal kurz, welche der beiden Fassungen gilt, dann richte ich den Lauf danach aus. Geprüft habe ich heute 28 bestehende Einträge, vor allem alle mit Frist bis Jahresende und alle 'verified' Nebenjobs mit kurzem Weg: KSAT Tromsø ist durch – die Anzeige steht noch, aber FINN sagt 'Fristen er utløpt', also habe ich die Frist entfernt und den Eintrag auf 'program' für das Fenster Herbst 2027 gesetzt. Die SINTEF-Stelle 'Summer researcher in sensor technology' lieferte einen Client-Fehler und die englische SINTEF-Stellenliste lädt per JavaScript nach – der Eintrag steht nur noch als 'source', die Frist war ohnehin heute. Bei der Hilfskraft-Seite der Fakultät für Mathematik und Informatik Heidelberg habe ich eine falsche Frist korrigiert: der 8.11.2026 gehört zu einer 'Assistenz der Geschäftsführung', nicht zu einer HiWi-Stelle; die Lehr-HiWi-Runde für das Sommersemester geht erst Ende Januar 2027 online. Alles andere lebt: Fred. Olsen (31.10.), Nordic Semiconductor (1.11.), Golar LNG (8.11.), Kabal (12.11.), IFE Halden und Laerdal (15.11.), Yara (19.11.), Kongsberg Discovery Seatex (30.11.), Vespa.ai (13.12.), Andøya Space 'åpen søknad' (31.12.) und IAESTE (31.12.). Vier Einträge sind neu. Fachlich der stärkste: sovanta AG in Heidelberg sucht eine Werkstudentin oder einen Werkstudenten für Data Science mit Python/Pandas, Scikit-Learn und erster LLM-/RAG-Erfahrung, mindestens 14 Std./Woche und individuell vereinbartes Hybridmodell – das sind genau deine 10–16 Stunden, realistisch auf zwei Tage, einer davon von zu Hause; Pflicht sind Deutsch C1 und sehr gute Noten, ein Stundenlohn steht nicht in der Anzeige. Bei den Nebenjobs ist der Treffer des Tages ein Warenverräumer-Minijob direkt in Walldorf für 16,00 €/h (Bewerbungsschluss 25.12.2026, Stunden verhandelbar zwischen Minijob und Vollzeit, Kundenkontakt gering aber nicht null) und ein Pharmalagerhelfer in Wiesloch für 17,00 €/h plus GMP-Zulagen – dort widerspricht sich die Anzeige allerdings selbst ('Minijob' im Titel, 'Vollzeit im Zwei-Schicht-System' im Text), das musst du vor der Bewerbung klären. Dazu Outlier (Scale AI) als remote AI-Trainer-Tätigkeit ohne Mindeststunden, bewusst nur als 'program', weil die Seite weder einen Stundensatz nennt noch sagt, ob Deutschland freigeschaltet ist. Zwei bestehende Nebenjobs habe ich beim Stundenumfang ehrlich abgewertet: die Aktendigitalisierung bei der BG RCI in Heidelberg (16 Std./Woche von 14 bis 19 Uhr sind drei bis vier Nachmittage, nicht zwei) von 46 auf 38 Punkte, und die Warenverräumung in Heidelberg-Breitspiel (Mo, Di, Fr und Sa von 8 bis 12 Uhr) von 32 auf 30. Nicht bestätigen konnte ich: zwei Minijob-Anzeigen der Bundesagentur (WISAG Reinigung in Walldorf und eine zweite Reinigungsstelle) sowie die Karriereportale von WISAG, Heidelberger Druckmaschinen, CAS Software und die Stellenseite der UB Heidelberg – die blocken Abrufe oder laden per JavaScript nach, deshalb steht davon nichts neu in der Liste. stellenwerk Heidelberg bleibt aus demselben Grund eine reine Quellenseite. Wegen Norwegisch ist in diesem Lauf keine neue Ausschreibung herausgefallen; drei der geprüften Norwegen-Anzeigen (SINTEF Digital, IFE Halden, Laerdal) nennen Norwegisch neben Englisch als Arbeitssprache, Yara, Kongsberg Discovery und Nordic Semiconductor laufen rein auf Englisch. Aktive Einträge je Bereich: Norwegen 67, Region Werkstudent und Praktikum 54, Region HiWi und Thesis 42, Remote 18, Brücken nach Norwegen 6, Nebenjobs 29 – insgesamt 216 aktive von 260. Die nächste echte Frist ist heute: SINTEF Digital 'Sommerforsker 2027 matematikk og kybernetikk' und die BG-RCI-Aktendigitalisierung schließen beide am 29.10.2026, danach Fred. Olsen Windcarrier am 31.10. und Nordic Semiconductor am 1.11.",
  "skill_gap": [
   "Python",
   "Linux",
@@ -98,11 +98,11 @@
   "Docker"
  ],
  "portfolio_tips": [
-  "Morgen ist der harte Stichtag: KSAT Tromsø schließt am 28.10., und direkt danach am 29.10. gleich vier Fristen – SINTEF Digital (Mathematik/Kybernetik und Sensortechnik), IFE Kjeller und die Aktendigitalisierung bei der BG RCI in Heidelberg. Alle vier brauchen dasselbe Paket: CV, Transcript als PDF, Anschreiben mit austauschbarem Mittelteil. Schick KSAT heute Abend raus und die drei anderen morgen, in einem Zug.",
-  "Die zwei stärksten Neuzugänge sind beide am Institut für Umweltphysik in Heidelberg und kosten dich eine Mail: die drei HiWi-Stellen im ICOS-Radiokarbonlabor (20–30 Stunden im Monat, keine festen Tage) und der offene Weg zu einer Bachelorarbeit in jeder Forschungsgruppe, ausdrücklich ohne Umweltphysik-Vorlesungen und mit Python als Pluspunkt. Frag beim HiWi gleich, ob zwei Semester statt zwölf Monate gehen – das ist der einzige Haken.",
-  "Für das Geldverdienen hat sich die Rangfolge geändert: Lidl Leimen zahlt mit 15,00 €/h am besten unter den kurzen Wegen und lässt dir Vormittag, Nachmittag oder Abend frei. Kombiniere das mit der Tchibo-Regalbetreuung in Reilingen (Montag und Donnerstag, zehn Autominuten) oder dem dm-Frühdienst in Rauenberg von 6 bis 8 Uhr, dann bleibst du bei zwei Arbeitstagen und liegst in der Summe bei den 10 bis 16 Stunden, die im Semester realistisch sind.",
-  "Aristech in Heidelberg bleibt die Anzeige, die von sich aus genau dein Zeitmodell anbietet: mindestens 2 Arbeitstage à 5 Stunden pro Woche, Linux und Git ausdrücklich als Vorteil. Schreib die Mail an durchstarten@aristech.de vor dem Wochenende und nenne im ersten Satz die zwei Tage, die du fest zusagen kannst – das ist der Satz, der dich von Bewerbern mit offenem Kalender unterscheidet.",
-  "Fünf norwegische Ausschreibungen sind in den Läufen dieses Tages allein an der Sprache oder Staatsbürgerschaft gescheitert (Thales zweimal, Hemit, Tripletex zweimal). Zwei bis drei Abende Norwegisch pro Woche erschließen dir damit den halben Markt: der FutureLearn-Kurs der Universität Oslo kostet nichts, VHS Heidelberg und der Mannheimer Kurs stehen in der Liste. Fang mit dem kostenlosen an, bevor du dich für ein Semester bindest."
+  "Heute ist Stichtag, zweimal: SINTEF Digital 'Sommerforsker 2027 innen matematikk og kybernetikk' (Trondheim/Oslo) und die Aktendigitalisierung bei der BG RCI in Heidelberg schließen beide am 29.10.2026. Bei der BG RCI vorher kurz anrufen und fragen, ob die 16 Stunden auf zwei lange Nachmittage gehen – sonst sprengt sie dir die Vorlesungszeit. Direkt danach: Fred. Olsen Windcarrier am 31.10. und Nordic Semiconductor am 1.11., beide auf Englisch und ohne Norwegisch-Hürde.",
+  "Der stärkste fachliche Neuzugang ist sovanta in Heidelberg: Data Science mit Python, Pandas, Scikit-Learn und LLM/RAG, mindestens 14 Std./Woche, Hybrid individuell vereinbart. Schick CV, aktuellen Notenauszug und Immatrikulationsbescheinigung als PDF an career@sovanta.com und schreib in den ersten zwei Sätzen, dass du 14 bis 16 Stunden an zwei festen Tagen anbietest, einen davon remote – damit nimmst du die einzige Frage vorweg, an der solche Bewerbungen scheitern.",
+  "Beim Geldverdienen hat sich die Rangfolge geändert: Der neue Warenverräumer-Minijob liegt in Walldorf selbst, zahlt 16,00 €/h und lässt Minijob bis Vollzeit offen – null Fahrzeit, höchster Lohn bei kürzestem Weg, Bewerbungsschluss 25.12.2026. Der Pharmalagerhelfer in Wiesloch zahlt mit 17,00 €/h plus GMP-Zulagen noch mehr, widerspricht sich aber bei den Stunden; frag dort in der ersten Mail nach zwei festen Schichten pro Woche. Als ruhige Dauerlösung bleiben die Tchibo-Regalbetreuung in Reilingen (Montag und Donnerstag) und der dm-Frühdienst in Rauenberg (6 bis 8 Uhr, ein Tag pro Woche).",
+  "Für die Semesterferien lohnt es sich, jetzt vorzuarbeiten: Der Pharmalagerhelfer in Wiesloch fährt Vollzeit im Zwei-Schicht-System, und Outlier hat gar keine Mindeststunden – beides lässt sich in den Ferien hochfahren und in der Vorlesungszeit wieder herunterdrehen. Bei Outlier erst nach dem Onboarding entscheiden: wenn der angezeigte Satz unter dem Mindestlohn von 13,90 € liegt, lass es und nimm stattdessen Stunden in Walldorf.",
+  "Eine Sache brauche ich von dir, bevor der nächste Lauf startet: In deinem Ordner liegt 'Scout-Anleitung-Ergaenzung.txt' und verlangt, die Linkprüfung über device_bash und link_check.py auf deinem Rechner laufen zu lassen – der gespeicherte Auftrag verbietet device_bash dagegen ausdrücklich. Anweisungen, die nur in einer Datei stehen, führe ich nicht aus. Sag mir in einem Satz, welche Fassung gilt, dann prüfe ich die Links künftig entweder weiter selbst per Abruf oder per Skript."
  ],
  "jobs": [
   {
@@ -129,7 +129,7 @@
    "id": "972740c86a2e",
    "deadline": "2027-03-01",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Computational Science (Master), Studienrichtung CS: Astrophysics",
@@ -157,7 +157,7 @@
    "is_new": false,
    "id": "e6af8f5510a5",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Software Developer Intern – Summer Internship 2027",
@@ -224,7 +224,7 @@
    "score": 72,
    "tier": "must_apply",
    "deadline": "2026-12-07",
-   "why": "Das MPIA nimmt Bachelor- und Masterarbeiten sowie Miniforschungsprojekte und hat dafür sechs Bewerbungsrunden im Jahr, jeweils am ersten Montag im Februar, April, Juni, August, Oktober und Dezember. Heute auf der Seite nachgelesen: Die Oktoberrunde läuft an diesem Montag ab, die nächste ist der 7. Dezember 2026 — dieses Datum steht jetzt im Feld. Für dich ist das das naheliegendste Forschungsprojekt überhaupt, zwanzig Kilometer entfernt, mit Python, Astropy und echten Beobachtungsdaten und realistischer Chance auf Publikationsbeteiligung. Ehrliche Einschränkung: Deutsch wird nicht verlangt, aber du brauchst ein Motivationsschreiben mit einem konkreten Forschungsinteresse und am besten vorab Kontakt zu einer Arbeitsgruppe, sonst geht die Bewerbung im Stapel unter. Konkreter nächster Schritt: bis Ende November zwei MPIA-Gruppen aussuchen, je ein Paper anlesen und die Gruppenleiter vor der Dezemberrunde anschreiben. Stunden/Tage: Die Anzeige nennt keinen Stundenumfang – kläre vor der Bewerbung, ob 10 bis 16 Stunden pro Woche an maximal zwei Tagen gehen (in den Semesterferien gerne mehr).",
+   "why": "Das MPIA nimmt Bachelor- und Masterarbeiten sowie Miniforschungsprojekte und hat dafür sechs Bewerbungsrunden im Jahr, jeweils am ersten Montag im Februar, April, Juni, August, Oktober und Dezember. Heute auf der Seite nachgelesen: Die Oktoberrunde läuft an diesem Montag ab, die nächste ist der 7. Dezember 2026 — dieses Datum steht jetzt im Feld. Für dich ist das das naheliegendste Forschungsprojekt überhaupt, zwanzig Kilometer entfernt, mit Python, Astropy und echten Beobachtungsdaten und realistischer Chance auf Publikationsbeteiligung. Ehrliche Einschränkung: Deutsch wird nicht verlangt, aber du brauchst ein Motivationsschreiben mit einem konkreten Forschungsinteresse und am besten vorab Kontakt zu einer Arbeitsgruppe, sonst geht die Bewerbung im Stapel unter. Konkreter nächster Schritt: bis Ende November zwei MPIA-Gruppen aussuchen, je ein Paper anlesen und die Gruppenleiter vor der Dezemberrunde anschreiben. Stunden/Tage: Die Anzeige nennt keinen Stundenumfang – kläre vor der Bewerbung, ob 10 bis 16 Stunden pro Woche an maximal zwei Tagen gehen (in den Semesterferien gerne mehr). Am 29.10.2026 erneut geöffnet: Bewerbungen gehen sechsmal im Jahr an die Betreuer, jeweils am ersten Montag im Februar, April, Juni, August, Oktober und Dezember – der nächste Stichtag ist Montag, 7.12.2026. Antwort kommt etwa zwei Wochen nach der Runde. Wichtig: Das MPIA verlangt, dass deine Heimat-Uni eine extern geschriebene Arbeit anerkennt – das vorher klären.",
    "pay": "",
    "skills": [
     "Python",
@@ -236,11 +236,11 @@
    "url": "https://www.mpia.de/studium-und-karriere/studieren-am-mpia/bachelor-und-masterarbeiten",
    "person": "oliver",
    "first_seen": "2026-09-16",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "id": "5d87a7c974aa",
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://www.mpia.de/studium-und-karriere/studenten-vor-der-promotion"
   },
   {
@@ -253,7 +253,7 @@
    "status": "verified",
    "score": 72,
    "tier": "must_apply",
-   "why": "SINTEF Digital nimmt für Sommer 2027 Sommerforscher für 6–8 Wochen in Oslo und Trondheim auf: mathematische Modellierung, Simulation, Optimierung, Robotik, Maschinensehen und KI. Gesucht sind Studierende aus Mathematik, Physik, Informatik oder Kybernetik mit Programmierkenntnissen – genau dein Profil aus Python, NumPy und C++. Die Anzeige nennt als Arbeitssprache ausdrücklich „Engelsk, Norsk“, Norwegisch ist also nicht Pflicht. Ehrliche Einschränkung: bevorzugt werden Studierende im 3. oder 4. Studienjahr, du bist als Bachelor-Student am unteren Rand – dafür ist die Aufgabe im Frühjahr 2027 ausdrücklich nach Hintergrund und Interesse zuschneidbar, und SINTEF nennt Masterarbeit oder Festanstellung als Folgeschritt, was für deinen Norwegen-Weg Gold ist. Nächster Schritt: bis 29. Oktober 2026 über die FINN-Anzeige bewerben, im Motivationsschreiben konkret deine Astropy-/NumPy-Projekte und C++-Erfahrung nennen.",
+   "why": "SINTEF Digital nimmt für Sommer 2027 Sommerforscher für 6–8 Wochen in Oslo und Trondheim auf: mathematische Modellierung, Simulation, Optimierung, Robotik, Maschinensehen und KI. Gesucht sind Studierende aus Mathematik, Physik, Informatik oder Kybernetik mit Programmierkenntnissen – genau dein Profil aus Python, NumPy und C++. Die Anzeige nennt als Arbeitssprache ausdrücklich „Engelsk, Norsk“, Norwegisch ist also nicht Pflicht. Ehrliche Einschränkung: bevorzugt werden Studierende im 3. oder 4. Studienjahr, du bist als Bachelor-Student am unteren Rand – dafür ist die Aufgabe im Frühjahr 2027 ausdrücklich nach Hintergrund und Interesse zuschneidbar, und SINTEF nennt Masterarbeit oder Festanstellung als Folgeschritt, was für deinen Norwegen-Weg Gold ist. Nächster Schritt: bis 29. Oktober 2026 über die FINN-Anzeige bewerben, im Motivationsschreiben konkret deine Astropy-/NumPy-Projekte und C++-Erfahrung nennen. Am 29.10.2026 erneut geöffnet: Anzeige lebt, FINN zählt „Søknadsfrist: 2 dager igjen\", Arbeitssprache Norsk und Engelsk – heute abschicken, die Frist ist heute.",
    "pay": "",
    "skills": [
     "Python",
@@ -266,10 +266,11 @@
    "person": "oliver",
    "id": "65d1f07aa65c",
    "link_code": "200",
-   "link_checked": "2026-10-28",
-   "last_seen": "2026-10-27",
+   "link_checked": "2026-10-29",
+   "last_seen": "2026-10-29",
    "first_seen": "2026-10-08",
-   "is_new": false
+   "is_new": false,
+   "posted": "2026-10-08"
   },
   {
    "title": "Summer Internship 2027 – u. a. Software Development und Satellite Operations",
@@ -278,10 +279,9 @@
    "region": "Norwegen",
    "category": "Karriere",
    "type": "Sommerjob",
-   "status": "verified",
-   "score": 70,
-   "tier": "must_apply",
-   "deadline": "2026-10-28",
+   "status": "program",
+   "score": 50,
+   "tier": "interesting",
    "pay": "bezahlt (Betrag nicht genannt)",
    "skills": [
     "Python",
@@ -290,13 +290,13 @@
     "Git"
    ],
    "url": "https://www.finn.no/job/ad/477284296",
-   "why": "Heute erneut geöffnet und bestätigt offen: 25 Praktikumsplätze bei Kongsberg Satellite Services in Tromsø, verteilt auf Ground Network, Satellitenbetrieb, Erdbeobachtung und Vertrieb, Juni bis August 2027. Die Anzeige verlangt mindestens zwei abgeschlossene Studienjahre und Programmierkenntnisse in Python oder Vergleichbarem, Physik, Data Science, Kybernetik oder GIS als Hintergrund – das ist fast eine Beschreibung deines Profils, und KSAT hilft bei der Wohnungssuche. Von allen norwegischen Stellen ist das die inhaltlich beste für deinen Weg Richtung Astrophysik. Ehrliche Einschränkung: Als Arbeitssprachen nennt die Anzeige \"Engelsk, Norsk\", und es wird eine Hintergrundprüfung durch Semac verlangt – die kostet Zeit, ist für EU-Bürger aber kein Ausschluss. Nächster Schritt: bis 25. Oktober bewerben, im Anschreiben Python, NumPy und Linux konkret belegen und dein Gaia-Notebook verlinken. Fristhinweis aus diesem Lauf: beim erneuten Aufruf heute nennt die Seite den 28.10.2026 als Bewerbungsschluss - das ist übermorgen, bewirb dich heute.",
+   "why": "Heute erneut geöffnet und bestätigt offen: 25 Praktikumsplätze bei Kongsberg Satellite Services in Tromsø, verteilt auf Ground Network, Satellitenbetrieb, Erdbeobachtung und Vertrieb, Juni bis August 2027. Die Anzeige verlangt mindestens zwei abgeschlossene Studienjahre und Programmierkenntnisse in Python oder Vergleichbarem, Physik, Data Science, Kybernetik oder GIS als Hintergrund – das ist fast eine Beschreibung deines Profils, und KSAT hilft bei der Wohnungssuche. Von allen norwegischen Stellen ist das die inhaltlich beste für deinen Weg Richtung Astrophysik. Ehrliche Einschränkung: Als Arbeitssprachen nennt die Anzeige \"Engelsk, Norsk\", und es wird eine Hintergrundprüfung durch Semac verlangt – die kostet Zeit, ist für EU-Bürger aber kein Ausschluss. Nächster Schritt: bis 25. Oktober bewerben, im Anschreiben Python, NumPy und Linux konkret belegen und dein Gaia-Notebook verlinken. Fristhinweis aus diesem Lauf: beim erneuten Aufruf heute nennt die Seite den 28.10.2026 als Bewerbungsschluss - das ist übermorgen, bewirb dich heute. Am 29.10.2026 geprüft: Die Anzeige ist noch online, aber FINN schreibt „Fristen er utløpt\" – die Frist 28.10.2026 ist durch, deshalb habe ich sie aus dem Feld genommen und den Eintrag auf „program\" gesetzt. KSAT schreibt sein Summer Internship jedes Jahr im Herbst aus; setz dir fürs nächste Fenster (ca. September/Oktober 2027) eine Erinnerung und bewirb dich dann in der ersten Woche.",
    "person": "oliver",
    "first_seen": "2026-09-28",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "79fa939fa099"
   },
   {
@@ -325,7 +325,7 @@
    "last_seen": "2026-10-27",
    "id": "7fea75f621b6",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Bachelor-Projekte und HiWi-Stellen in der Gammaastronomie (CTAO, H.E.S.S., SWGO, HAWC)",
@@ -351,7 +351,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "f9f54626e72e"
   },
   {
@@ -373,7 +373,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "deabe4fdd302"
   },
   {
@@ -484,7 +484,7 @@
    "is_new": false,
    "id": "7ba7771fd0a6",
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://www.mpia.de/studium-und-karriere/studenten-vor-der-promotion"
   },
   {
@@ -513,7 +513,7 @@
    "last_seen": "2026-10-27",
    "id": "946e5b6dcc23",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "UNIS Svalbard – Bachelorkurse in Arctic Geophysics (Frist 1. März für Herbst- und Sommerkurse)",
@@ -538,7 +538,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "91800fa186e8",
    "link_final": "https://www.unis.no/studies/how-to-apply/"
   },
@@ -566,8 +566,9 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
-   "id": "c6c8423329dd"
+   "link_checked": "2026-10-29",
+   "id": "c6c8423329dd",
+   "posted": "2026-09-14"
   },
   {
    "title": "Erasmus+ Auslandspraktikum – gefördertes Praktikum von 2 bis 12 Monaten (auch Forschungspraktikum in Norwegen)",
@@ -592,7 +593,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "ad45c38400cf",
    "link_final": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/traineeships-abroad-for-students"
   },
@@ -608,7 +609,7 @@
    "score": 64,
    "tier": "must_apply",
    "person": "oliver",
-   "why": "Heute erneut bestätigt offen, Frist 1. November: acht bis zehn Wochen bezahltes Praktikum in Trondheim oder Oslo in der Short-Range-Business-Unit. Die Anzeige nennt ausdrücklich C, C++, Rust oder Python und richtet sich an Bachelor- und Master-Studierende aus Informatik, Elektrotechnik oder Kybernetik – Bachelor ist also kein Ausschluss, und deine C++-Kenntnisse zählen hier mehr als bei den Astro-Stellen. Eine Sprachanforderung steht nicht in der Anzeige, der gesamte Text ist auf Englisch. Ehrliche Einschränkung: Das Thema ist eingebettete Funktechnik, nicht Astrophysik – es ist ein starker Lebenslaufbaustein und ein Fuß in Norwegen, aber keine fachliche Vorarbeit für deinen Master. Nächster Schritt: bis 1. November bewerben und im Anschreiben ein konkretes C++-Projekt nennen.",
+   "why": "Heute erneut bestätigt offen, Frist 1. November: acht bis zehn Wochen bezahltes Praktikum in Trondheim oder Oslo in der Short-Range-Business-Unit. Die Anzeige nennt ausdrücklich C, C++, Rust oder Python und richtet sich an Bachelor- und Master-Studierende aus Informatik, Elektrotechnik oder Kybernetik – Bachelor ist also kein Ausschluss, und deine C++-Kenntnisse zählen hier mehr als bei den Astro-Stellen. Eine Sprachanforderung steht nicht in der Anzeige, der gesamte Text ist auf Englisch. Ehrliche Einschränkung: Das Thema ist eingebettete Funktechnik, nicht Astrophysik – es ist ein starker Lebenslaufbaustein und ein Fuß in Norwegen, aber keine fachliche Vorarbeit für deinen Master. Nächster Schritt: bis 1. November bewerben und im Anschreiben ein konkretes C++-Projekt nennen. Am 29.10.2026 erneut geöffnet: lebt, Frist 1.11.2026, Trondheim oder Oslo, Seite komplett auf Englisch, keine Norwegisch-Anforderung genannt.",
    "pay": "",
    "skills": [
     "Python",
@@ -620,10 +621,11 @@
    "deadline": "2026-11-01",
    "url": "https://careers.nordicsemi.com/jobs/8427846-summer-internship-2027-short-range-bu-norway",
    "first_seen": "2026-09-24",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-09-23"
   },
   {
    "title": "Master's degree programmes, Bewerbung für EU/EWR-Bewerber (u.a. Physics mit Space Physics)",
@@ -651,7 +653,7 @@
    "is_new": false,
    "id": "d5c5fd086305",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "DNB IT Summer Internship 2027",
@@ -732,7 +734,7 @@
    "person": "oliver",
    "id": "00d89d4e34ef",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "International Master's Programmes, Bewerbung für EU/EWR-Bewerber",
@@ -759,7 +761,7 @@
    "last_seen": "2026-10-27",
    "id": "6d612a38d7bb",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Sommerjobb i SINTEF (~100 Stellen pro Jahr) + SINTEF-Stipendium",
@@ -787,7 +789,7 @@
    "person": "oliver",
    "id": "5b904ab6387c",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "SunPy: vier offene Good-First-Issues (u.a. #8445, #8416, #3800, #2784)",
@@ -815,7 +817,7 @@
    "person": "oliver",
    "id": "fa685872c5e2",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "GPU Modelling Intern – Summer Internship 2027",
@@ -840,8 +842,9 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
-   "id": "fde21f5f4ef4"
+   "link_checked": "2026-10-29",
+   "id": "fde21f5f4ef4",
+   "posted": "2026-09-14"
   },
   {
    "title": "Summer Internship 2027 (Oslo) – Technologie- und ML-Projekte",
@@ -866,7 +869,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "7ce498721d97"
   },
   {
@@ -923,7 +926,7 @@
    "person": "oliver",
    "id": "8260a0f6b385",
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://jobs.sap.com/en/jobs/"
   },
   {
@@ -953,7 +956,7 @@
    "person": "oliver",
    "id": "8a2601f61ed0",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Initiativbewerbung Gaia-Datenverarbeitung am ARI",
@@ -980,7 +983,7 @@
    "person": "oliver",
    "id": "3bd8e138f071",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Beiträge zum Astropy-Kernpaket",
@@ -1008,7 +1011,7 @@
    "is_new": false,
    "id": "236b9981976a",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Sommerstudent 2027",
@@ -1090,7 +1093,7 @@
    "person": "oliver",
    "id": "fe4d94eab8ae",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "High-performance Data Readout für das CMS High Granularity Calorimeter (HGCAL)",
@@ -1116,7 +1119,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "877758b73001"
   },
   {
@@ -1143,7 +1146,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "id": "4eaa145b8bce",
@@ -1154,7 +1157,7 @@
    "first_seen": "2026-09-24",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "location": "Heidelberg (~20 min ÖPNV / ~25 min Auto ab Walldorf)",
    "region": "Deutschland",
    "category": "Karriere",
@@ -1198,7 +1201,7 @@
    "last_seen": "2026-10-27",
    "id": "447a4df61404",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "HiWi-Tutorenstellen der Fakultät für Mathematik und Informatik (jedes Semester neu)",
@@ -1208,9 +1211,9 @@
    "category": "Karriere",
    "type": "HiWi",
    "status": "program",
-   "score": 58,
-   "tier": "must_apply",
-   "why": "Die Fakultät für Mathematik und Informatik schreibt jedes Semester HiWi-Stellen für Übungsgruppen aus – in Informatik unter anderem Programmierkurs, Algorithmen und Datenstrukturen, Betriebssysteme und Netzwerke, Datenbanken, Computer Graphics und Machine Learning Essentials. Ein HiWi betreut üblicherweise zwei Übungsgruppen, der Vertrag läuft rund sechs Monate mit etwa 35 Stunden pro Monat. Das ist für dich der naheliegendste bezahlte Einstieg vor Ort: pendelbar von Walldorf, direkt an deinem Stoff, und es gibt dir jedes Semester wieder eine Verlängerungsoption. Wichtig am Verfahren: du musst zuerst den Dozenten der Vorlesung ansprechen, die du betreuen willst – nur von Dozenten angefragte Bewerber werden berücksichtigt, erst danach läuft die formale Bewerbung über hiwi@mathinf.uni-heidelberg.de. Die Ausschreibung für ein Semester erscheint rund sechs Wochen vor Ende der Vorlesungszeit des Vorsemesters. Nächster Schritt: diese Seite als Lesezeichen setzen, jetzt schon den Dozenten deiner Wunschvorlesung für das Sommersemester 2027 anschreiben – die Runde für SS 2026 mit Frist 31. März 2026 ist abgelaufen.",
+   "score": 50,
+   "tier": "interesting",
+   "why": "Die Fakultät für Mathematik und Informatik schreibt jedes Semester HiWi-Stellen für Übungsgruppen aus – in Informatik unter anderem Programmierkurs, Algorithmen und Datenstrukturen, Betriebssysteme und Netzwerke, Datenbanken, Computer Graphics und Machine Learning Essentials. Ein HiWi betreut üblicherweise zwei Übungsgruppen, der Vertrag läuft rund sechs Monate mit etwa 35 Stunden pro Monat. Das ist für dich der naheliegendste bezahlte Einstieg vor Ort: pendelbar von Walldorf, direkt an deinem Stoff, und es gibt dir jedes Semester wieder eine Verlängerungsoption. Wichtig am Verfahren: du musst zuerst den Dozenten der Vorlesung ansprechen, die du betreuen willst – nur von Dozenten angefragte Bewerber werden berücksichtigt, erst danach läuft die formale Bewerbung über hiwi@mathinf.uni-heidelberg.de. Die Ausschreibung für ein Semester erscheint rund sechs Wochen vor Ende der Vorlesungszeit des Vorsemesters. Nächster Schritt: diese Seite als Lesezeichen setzen, jetzt schon den Dozenten deiner Wunschvorlesung für das Sommersemester 2027 anschreiben – die Runde für SS 2026 mit Frist 31. März 2026 ist abgelaufen. Am 29.10.2026 erneut geöffnet und korrigiert: Die Frist 8.11.2026, die hier im Feld stand, gehört zu einer „Assistenz der Geschäftsführung\" und nicht zu einer HiWi-Stelle – ich habe sie entfernt. Die Lehr-HiWi-Stellen der Fakultät gehen laut Seite „etwa 6 Wochen vor Ende der Vorlesungszeit\" online, für das Sommersemester 2027 also ungefähr Ende Januar 2027. Nächster Schritt: vorher die Fachkontaktperson anschreiben und das verlinkte Formular ausfüllen, Abwicklung läuft über hiwi@mathinf.uni-heidelberg.de.",
    "pay": "",
    "skills": [
     "Python",
@@ -1221,11 +1224,10 @@
    "person": "oliver",
    "id": "4e2b1ee73a02",
    "link_code": "200",
-   "link_checked": "2026-10-28",
-   "last_seen": "2026-10-27",
+   "link_checked": "2026-10-29",
+   "last_seen": "2026-10-29",
    "first_seen": "2026-10-08",
-   "is_new": false,
-   "deadline": "2026-11-08"
+   "is_new": false
   },
   {
    "title": "Summer Internship 2027 (u. a. VARD Electro: Software Development)",
@@ -1263,7 +1265,7 @@
    "status": "verified",
    "score": 57,
    "tier": "must_apply",
-   "why": "Auf der Karriereseite ist eine Åpen søknad mit Frist 31. Dezember 2026 aktiv, daneben laufen sieben reguläre Ausschreibungen. Andøya Space schreibt selbst, dass es keine eigenen Praktikumsprogramme gibt und man die regulären Ausschreibungen beobachten soll – die offene Bewerbung ist damit der vorgesehene Weg. CV im Reachmee-Portal registrieren und die Åpen søknad noch 2026 einreichen. Der Standort ist sehr abgelegen, dafür ist es Norwegens Raketenstartplatz. Am 22.10.2026 selbst nachgesehen: Die Stellenliste nennt für die Åpen søknad als Frist den 31.12.2026 – das alte Datum im Feld war falsch und ist korrigiert. Die Karriereseite ist norwegischsprachig, es gibt aber eine englische Version; die übrigen offenen Stellen (ALOMAR Observatory, Tekniker, Ressursplanlegger) sind keine Studierendenstellen. Stunden/Tage: Die Anzeige nennt keinen Stundenumfang – kläre vor der Bewerbung, ob 10 bis 16 Stunden pro Woche an maximal zwei Tagen gehen (in den Semesterferien gerne mehr).",
+   "why": "Auf der Karriereseite ist eine Åpen søknad mit Frist 31. Dezember 2026 aktiv, daneben laufen sieben reguläre Ausschreibungen. Andøya Space schreibt selbst, dass es keine eigenen Praktikumsprogramme gibt und man die regulären Ausschreibungen beobachten soll – die offene Bewerbung ist damit der vorgesehene Weg. CV im Reachmee-Portal registrieren und die Åpen søknad noch 2026 einreichen. Der Standort ist sehr abgelegen, dafür ist es Norwegens Raketenstartplatz. Am 22.10.2026 selbst nachgesehen: Die Stellenliste nennt für die Åpen søknad als Frist den 31.12.2026 – das alte Datum im Feld war falsch und ist korrigiert. Die Karriereseite ist norwegischsprachig, es gibt aber eine englische Version; die übrigen offenen Stellen (ALOMAR Observatory, Tekniker, Ressursplanlegger) sind keine Studierendenstellen. Stunden/Tage: Die Anzeige nennt keinen Stundenumfang – kläre vor der Bewerbung, ob 10 bis 16 Stunden pro Woche an maximal zwei Tagen gehen (in den Semesterferien gerne mehr). Am 29.10.2026 erneut geöffnet: die Karriereseite listet weiterhin „Åpen søknad\" mit Frist 31.12.2026 (dazu drei feste Stellen, die nichts für dich sind). Internships stehen dort noch nicht – die Seite sagt nur, dass sie dort ausgeschrieben werden. Bewirb dich über Reachmee mit hochgeladenem CV.",
    "pay": "",
    "skills": [
     "Python",
@@ -1273,12 +1275,12 @@
    "url": "https://andoyaspace.no/career/",
    "first_seen": "2026-08-28",
    "is_new": false,
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "person": "oliver",
    "id": "adfca7875574",
    "deadline": "2026-12-31",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Hydro Summer Internship 2027 (u. a. AI and Digital Materials Characterization, Plasma Burner Technology and Process Modelling)",
@@ -1329,7 +1331,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "d458e912824b"
   },
   {
@@ -1355,7 +1357,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "a16b2f915b84"
   },
   {
@@ -1384,7 +1386,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Astroinformatik, Sternentwicklung und Sternbeobachtung – Initiativbewerbung an die Gruppenleiter",
@@ -1410,7 +1412,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "407bf491bd3e"
   },
   {
@@ -1423,7 +1425,7 @@
    "status": "verified",
    "score": 56,
    "tier": "must_apply",
-   "why": "Auf der Ausschreibung selbst geprüft: Du unterstützt Software-, Daten- und KI-Projekte, entwickelst Anwendungen mit, die Daten verarbeiten und auswerten, und übernimmst abgegrenzte Teilaufgaben in Cloud- und Datenprojekten – einfache Machine-Learning-Fälle sind ausdrücklich dabei. Verlangt werden Grundkenntnisse in mindestens einer Programmiersprache (Python wird als Beispiel genannt, ebenso Java, C# oder C++), ein Grundverständnis von Datenverarbeitung und gutes Deutsch und Englisch; Vorerfahrung in ML ist nicht nötig, Interesse genügt. Besonders wertvoll für dich: Die Anzeige nennt ausdrücklich die Möglichkeit, eine Bachelor- oder Masterarbeit an ein Projekt anzuhängen, dazu zwölf Weiterbildungstage pro Jahr und Deutschlandticket-Zuschuss. Ehrliche Einschränkung: Als Standorte stehen Berlin, Heidelberg und Ulm – achte darauf, dass du Heidelberg auswählst; Stundenumfang, Vergütung und eine Frist nennt die Anzeige nicht. Nächster Schritt: Bewirb dich online und schreib im Anschreiben einen Satz zu deinem Python- und NumPy-Projekt, dann hast du den Interessennachweis, den die Anzeige verlangt.",
+   "why": "Auf der Ausschreibung selbst geprüft: Du unterstützt Software-, Daten- und KI-Projekte, entwickelst Anwendungen mit, die Daten verarbeiten und auswerten, und übernimmst abgegrenzte Teilaufgaben in Cloud- und Datenprojekten – einfache Machine-Learning-Fälle sind ausdrücklich dabei. Verlangt werden Grundkenntnisse in mindestens einer Programmiersprache (Python wird als Beispiel genannt, ebenso Java, C# oder C++), ein Grundverständnis von Datenverarbeitung und gutes Deutsch und Englisch; Vorerfahrung in ML ist nicht nötig, Interesse genügt. Besonders wertvoll für dich: Die Anzeige nennt ausdrücklich die Möglichkeit, eine Bachelor- oder Masterarbeit an ein Projekt anzuhängen, dazu zwölf Weiterbildungstage pro Jahr und Deutschlandticket-Zuschuss. Ehrliche Einschränkung: Als Standorte stehen Berlin, Heidelberg und Ulm – achte darauf, dass du Heidelberg auswählst; Stundenumfang, Vergütung und eine Frist nennt die Anzeige nicht. Nächster Schritt: Bewirb dich online und schreib im Anschreiben einen Satz zu deinem Python- und NumPy-Projekt, dann hast du den Interessennachweis, den die Anzeige verlangt. Am 29.10.2026 erneut geöffnet: Anzeige steht weiter mit aktivem „Jetzt bewerben\" (Standorte Berlin, Heidelberg, Ulm), verlangt gutes Deutsch und Englisch und Grundkenntnisse in einer Sprache wie Python, Java, C# oder C++. Stunden und Veröffentlichungsdatum nennt die Anzeige nicht – erfrag beides bei Manuela Mayer und sag dabei gleich, dass du 10–16 Std. an zwei Tagen kannst.",
    "pay": "",
    "skills": [
     "Python",
@@ -1434,11 +1436,12 @@
    "url": "https://karriere.analytical-software.de/Werkstudent-mwd-Software-Development-Data-AI-de-j40.html",
    "person": "oliver",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
-   "id": "70a9abf84e71"
+   "link_checked": "2026-10-29",
+   "id": "70a9abf84e71",
+   "posted": "2026-07-13"
   },
   {
    "title": "Summer Internship 2027 – konzernweites Praktikumsprogramm",
@@ -1465,7 +1468,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "0ea06601665e"
   },
   {
@@ -1494,7 +1497,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Masterprojekt / Kontaktaufnahme am Rosseland Centre for Solar Physics",
@@ -1522,7 +1525,7 @@
    "is_new": false,
    "id": "6ecd5094b146",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Summer Internship Programme 2027",
@@ -1549,7 +1552,7 @@
    "last_seen": "2026-10-27",
    "id": "5139b63198f7",
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "deadline": "2027-02-28"
   },
   {
@@ -1576,7 +1579,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "464e0eda8ce9"
   },
   {
@@ -1604,7 +1607,7 @@
    "person": "oliver",
    "id": "8f2ee1fa7c86",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Beiträge zu Astropy (Good First Issues)",
@@ -1631,7 +1634,7 @@
    "is_new": false,
    "id": "23eb12d72aff",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "id": "a5feda7e5564",
@@ -1688,7 +1691,7 @@
    "is_new": false,
    "id": "8a83cfa2c1d1",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Studentische oder wissenschaftliche Hilfskraft im Themenbereich Computer Vision",
@@ -1713,7 +1716,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "50ae2f4ede2a"
   },
   {
@@ -1779,7 +1782,7 @@
    "first_seen": "2026-10-01",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "location": "Kjeller und Halden (~1,5 Flugstunden ab FRA)",
    "region": "Norwegen",
    "category": "Karriere",
@@ -1821,7 +1824,7 @@
    "person": "oliver",
    "id": "f4dc0e844fbd",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Working Student (f/m/d) – Policy-as-Code Consultant in Hyperspace",
@@ -1902,7 +1905,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "7793e683aa8e"
   },
   {
@@ -1929,7 +1932,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Werkstudent:in Softwareentwicklung",
@@ -1941,7 +1944,7 @@
    "status": "verified",
    "score": 51,
    "tier": "interesting",
-   "why": "Aktuell offen, Karlsruhe ist einer der Standorte. Ehrliche Einschränkung: Schwerpunkt sind Angular/React/Vue, .NET und Spring Boot, also nicht dein Kernstack — Vorkenntnisse sind aber ausdrücklich nicht zwingend, und C++/Python plus Git und Docker sind gute Argumente. Deutsch auf C1 wird vorausgesetzt. Nur über das offizielle Bewerbungsformular bewerben, Bewerbungen über das Kontaktformular werden laut Anzeige nicht berücksichtigt. Stunden/Tage: Die Anzeige nennt keinen Stundenumfang – kläre vor der Bewerbung, ob 10 bis 16 Stunden pro Woche an maximal zwei Tagen gehen (in den Semesterferien gerne mehr).",
+   "why": "Aktuell offen, Karlsruhe ist einer der Standorte. Ehrliche Einschränkung: Schwerpunkt sind Angular/React/Vue, .NET und Spring Boot, also nicht dein Kernstack — Vorkenntnisse sind aber ausdrücklich nicht zwingend, und C++/Python plus Git und Docker sind gute Argumente. Deutsch auf C1 wird vorausgesetzt. Nur über das offizielle Bewerbungsformular bewerben, Bewerbungen über das Kontaktformular werden laut Anzeige nicht berücksichtigt. Stunden/Tage: Die Anzeige nennt keinen Stundenumfang – kläre vor der Bewerbung, ob 10 bis 16 Stunden pro Woche an maximal zwei Tagen gehen (in den Semesterferien gerne mehr). Am 29.10.2026 erneut geöffnet: lebt, zuletzt am 29.10.2026 geändert, Standorte Karlsruhe, Köln, München, Hamburg, Berlin, Stuttgart, Erlangen; „mobiles Arbeiten\" und „freie Zeiteinteilung\" sind ausdrücklich genannt, Stundenzahl nicht. Deutsch ab C1 ist Pflicht. Für dich zählt nur Karlsruhe als Präsenzort – frag nach, wie viel davon remote laufen kann.",
    "pay": "",
    "skills": [
     "Git",
@@ -1952,11 +1955,12 @@
    "url": "https://www.inovex.de/de/karriere/stellenangebote/werkstudent-im-bereich-softwareentwicklung/",
    "first_seen": "2026-09-01",
    "is_new": false,
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "person": "oliver",
    "id": "88ee252dca6f",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-26"
   },
   {
    "title": "astroquery: offene Issues, u. a. zur Gaia-Schnittstelle",
@@ -1982,7 +1986,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "4e3cd6ed4d34"
   },
   {
@@ -2009,7 +2013,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "33c7f9b7ff90"
   },
   {
@@ -2036,7 +2040,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "2cf8b83bcd43"
   },
   {
@@ -2048,7 +2052,7 @@
    "first_seen": "2026-10-01",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "location": "Garching bei München (~3,5 Bahnstunden ab Heidelberg)",
    "region": "Europa",
    "category": "Karriere",
@@ -2092,7 +2096,7 @@
    "last_seen": "2026-10-27",
    "id": "e5c62f93b950",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Abschlussarbeit im Bereich humanoide Roboter und KI – fünf wählbare Themen",
@@ -2117,7 +2121,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "fehler",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "2c55a90282f9"
   },
   {
@@ -2143,7 +2147,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "fehler",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "b8b58d8cebf5"
   },
   {
@@ -2196,7 +2200,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Sommerjobber i KSAT",
@@ -2247,7 +2251,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "f3a69c442218",
    "link_final": "https://arbeidsplassen.nav.no/stillinger?q=sommerjobb+2027+utvikler&sort=published&v=6"
   },
@@ -2275,7 +2279,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "c184537c7149"
   },
   {
@@ -2304,7 +2308,7 @@
    "last_seen": "2026-10-27",
    "id": "82f9f2ca2d48",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Astropy: Einstieg über Package-novice und Effort-low",
@@ -2332,7 +2336,7 @@
    "person": "oliver",
    "id": "870aac7f3bbe",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "CERN Summer Student Programme",
@@ -2358,7 +2362,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "6f1677a8a59d",
    "link_final": "https://careers.cern/programmes/summer-studentship/"
   },
@@ -2387,7 +2391,7 @@
    "last_seen": "2026-10-27",
    "id": "b7e1c3e40bbd",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Stellen und Abschlussarbeiten der Abteilung Data Exploitation Methods (DEM)",
@@ -2413,7 +2417,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "db2d8cf16187"
   },
   {
@@ -2468,7 +2472,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "52fd3b1b5f49"
   },
   {
@@ -2522,7 +2526,7 @@
    "person": "oliver",
    "id": "762614b51f5b",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "id": "41d0fcc76226",
@@ -2547,7 +2551,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "fehler",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Praktikums- und Jobbörse der Fakultät Wirtschaftsinformatik",
@@ -2573,7 +2577,7 @@
    "person": "oliver",
    "id": "27277b68e509",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Young Graduate Trainee Programme",
@@ -2626,7 +2630,7 @@
    "is_new": false,
    "id": "578176ea42a5",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Abschlussarbeit im Bereich Industrial Security (Bachelor oder Master)",
@@ -2650,7 +2654,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "fehler",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "14e439fdb772"
   },
   {
@@ -2676,7 +2680,7 @@
    "person": "oliver",
    "id": "8838f2ce788e",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "IAESTE – vermittelte bezahlte Fachpraktika im Ausland (Norwegen ist Mitgliedsland)",
@@ -2701,7 +2705,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "34acba6d4476"
   },
   {
@@ -2713,7 +2717,7 @@
    "first_seen": "2026-10-01",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "location": "Karlsruhe (~45 min ÖPNV / ~45 min Auto ab Walldorf)",
    "region": "Deutschland",
    "category": "Karriere",
@@ -2755,7 +2759,7 @@
    "person": "oliver",
    "id": "8a072995bff1",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "id": "e1d5149f98cf",
@@ -2782,7 +2786,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Working-Student-Stellen am Standort Walldorf",
@@ -2809,7 +2813,7 @@
    "is_new": false,
    "id": "e8acf27cea60",
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://jobs.sap.com/en/jobs/"
   },
   {
@@ -2836,7 +2840,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "484c338f41d9"
   },
   {
@@ -2864,7 +2868,7 @@
    "last_seen": "2026-10-27",
    "id": "6d82a53a16ac",
    "link_code": "403",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Working Student / Werkstudent Stellen Walldorf",
@@ -2892,7 +2896,7 @@
    "is_new": false,
    "id": "2c567a6650f2",
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://jobs.sap.com/en/jobs/"
   },
   {
@@ -2918,7 +2922,7 @@
    "id": "b51fe0e4386f",
    "deadline": "2027-04-15",
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://www.samordnaopptak.no/english/"
   },
   {
@@ -2943,8 +2947,9 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
-   "id": "65f09136e43f"
+   "link_checked": "2026-10-29",
+   "id": "65f09136e43f",
+   "posted": "2026-09-14"
   },
   {
    "title": "Werkstudierende und Praktika für Studierende (Softwareentwicklung, Data Science)",
@@ -2970,7 +2975,7 @@
    "person": "oliver",
    "id": "063be75bd0a4",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Code/Astro – Workshop für Open-Source-Softwareentwicklung in der Astronomie",
@@ -2995,7 +3000,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "4aab73b52f71"
   },
   {
@@ -3024,7 +3029,7 @@
    "person": "oliver",
    "id": "fbba49dca3b5",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Sammelseite: Sommerjobb 2027 auf FINN Jobb",
@@ -3050,7 +3055,7 @@
    "is_new": false,
    "id": "c5a5d3eafe8e",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Werkstudent*in im Bereich emulator-basiertes Fuzzing",
@@ -3075,7 +3080,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "fehler",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "6fd4a4c70e21"
   },
   {
@@ -3100,7 +3105,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "127a82f0557e"
   },
   {
@@ -3112,7 +3117,7 @@
    "first_seen": "2026-10-01",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "location": "Karlsruhe (~45 min ÖPNV / ~45 min Auto ab Walldorf)",
    "region": "Deutschland",
    "category": "Karriere",
@@ -3138,7 +3143,7 @@
    "first_seen": "2026-10-01",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "location": "Karlsruhe (~45 min ÖPNV / ~45 min Auto ab Walldorf)",
    "region": "Deutschland",
    "category": "Karriere",
@@ -3180,7 +3185,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "fe6e7a719f06"
   },
   {
@@ -3204,10 +3209,11 @@
    "person": "oliver",
    "id": "80eec98c44f2",
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "last_seen": "2026-10-27",
    "first_seen": "2026-10-08",
-   "is_new": false
+   "is_new": false,
+   "posted": "2026-10-01"
   },
   {
    "title": "Internship Data Engineer (laufend, Remote möglich)",
@@ -3216,9 +3222,9 @@
    "region": "Norwegen",
    "category": "Karriere",
    "type": "Praktikum",
-   "status": "verified",
+   "status": "dead",
    "score": 44,
-   "tier": "interesting",
+   "tier": "backup",
    "person": "oliver",
    "why": "Ein Startup im StartupLab Oslo mit ESA-Bezug, das laufend und ohne festen Sommerzyklus Praktikanten nimmt — und laut Anzeige ist Remote-Arbeit für passende Kandidaten möglich, was bei norwegischen Stellen die Ausnahme ist. Aufgaben sind Datenpipelines und ETL bauen und pflegen, Cloud-Storage optimieren und AI-Modelle zur Analyse von Ladeinfrastruktur für Elektroautos unterstützen. Firmensprache ist Englisch, Norwegisch wird nicht verlangt. Ehrliche Einschränkung: Der Schwerpunkt liegt auf BigQuery, SQL, dbt und Terraform, nicht auf NumPy und Astropy, und „strong Google Cloud proficiency“ ist eine echte Lücke bei dir; außerdem nennt die Anzeige kein Gehalt. Konkreter nächster Schritt: ein Wochenende in ein BigQuery-Tutorial stecken, dann mit deinem Pipeline-Projekt bewerben. Stunden/Tage: Die Anzeige nennt keinen Stundenumfang – kläre vor der Bewerbung, ob 10 bis 16 Stunden pro Woche an maximal zwei Tagen gehen (in den Semesterferien gerne mehr).",
    "pay": "keine Angabe",
@@ -3231,9 +3237,10 @@
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_code": "200",
+   "link_code": "veraltet",
    "link_checked": "2026-10-28",
-   "id": "524d25563615"
+   "id": "524d25563615",
+   "posted": "2024-10-10"
   },
   {
    "title": "UiO International Summer School – Sommerkurse und Norwegischkurse in Oslo",
@@ -3254,7 +3261,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "6c8105ec9d87",
    "link_final": "https://www.uio.no/english/studies/summerschool/"
   },
@@ -3281,7 +3288,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "5e133fe85a60"
   },
   {
@@ -3307,7 +3314,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "fehler",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "79af5ee2c4f5"
   },
   {
@@ -3331,7 +3338,7 @@
    "person": "oliver",
    "id": "ed07aa6e88c3",
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "last_seen": "2026-10-27",
    "first_seen": "2026-10-08",
    "is_new": false,
@@ -3360,7 +3367,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "f4013b469a34"
   },
   {
@@ -3386,7 +3393,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "4d5b9fc453db"
   },
   {
@@ -3435,7 +3442,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "d17a03aea66f",
    "link_final": "https://www.ntnu.edu/web/nox"
   },
@@ -3463,7 +3470,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Online-Jobbörse des Studierendenwerks",
@@ -3490,7 +3497,7 @@
    "person": "oliver",
    "id": "01eb47c2118b",
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/"
   },
   {
@@ -3516,7 +3523,7 @@
    "person": "oliver",
    "id": "99ddabec0f69",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Werkstudentenstellen IT in Heidelberg (u. a. HMS Analytical Software, usd AG)",
@@ -3541,7 +3548,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "a90c10d7620d"
   },
   {
@@ -3567,7 +3574,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "b97926405fa0"
   },
   {
@@ -3592,7 +3599,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "872a633d105d",
    "link_final": "https://developers.google.com/open-source/gsoc/timeline?hl=de"
   },
@@ -3620,7 +3627,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Initiativbewerbung Forschung – ML, Bildanalyse und Erdbeobachtung",
@@ -3667,7 +3674,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "c7584e16e258"
   },
   {
@@ -3693,7 +3700,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "ae11d1e19001"
   },
   {
@@ -3721,7 +3728,8 @@
    "is_new": false,
    "id": "4fac4ff287d1",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-14"
   },
   {
    "title": "Karriereportal Roche – Suche nach Werkstudenten- und Praktikantenstellen Mannheim",
@@ -3745,7 +3753,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "ddcc13ba8d56"
   },
   {
@@ -3755,11 +3763,11 @@
    "region": "Deutschland",
    "category": "Karriere",
    "type": "HiWi",
-   "status": "verified",
+   "status": "dead",
    "score": 26,
    "tier": "backup",
    "person": "oliver",
-   "why": "Bildsegmentierung an CT-Daten plus Sichtung von Patientenakten und Datenextraktion, bis 20 Stunden pro Woche und zeitlich flexibel, ab sofort, Kontakt farroch.vahidi@umm.de. Thematisch ist das medizinische Bildverarbeitung, also ein brauchbarer Einstieg in Datenarbeit mit Bezug zu ML. Ehrliche Einschränkung, und sie drückt die Bewertung klar nach unten: Nach der Beschreibung ist das überwiegend manuelle Annotations- und Datenarbeit, Programmierung ist nicht ausgeschrieben — für dein Portfolio bringt das wenig, für die Kasse etwas. Konkreter nächster Schritt: nur nehmen, wenn die Fraunhofer- und MPIK-Wege nicht klappen, dann aber nachfragen, ob du die Segmentierung mit eigenen Python-Skripten automatisieren darfst. Stundenhinweis aus diesem Lauf: die Anzeige nennt 20 Stunden pro Woche. Das liegt über deinen 10-16 Stunden an maximal zwei Tagen in der Vorlesungszeit, deshalb Punktabzug - frag vor der Bewerbung, ob 12-16 Stunden an zwei Tagen möglich sind, sonst nur für die Semesterferien sinnvoll.",
+   "why": "Bildsegmentierung an CT-Daten plus Sichtung von Patientenakten und Datenextraktion, bis 20 Stunden pro Woche und zeitlich flexibel, ab sofort, Kontakt farroch.vahidi@umm.de. Thematisch ist das medizinische Bildverarbeitung, also ein brauchbarer Einstieg in Datenarbeit mit Bezug zu ML. Ehrliche Einschränkung, und sie drückt die Bewertung klar nach unten: Nach der Beschreibung ist das überwiegend manuelle Annotations- und Datenarbeit, Programmierung ist nicht ausgeschrieben — für dein Portfolio bringt das wenig, für die Kasse etwas. Konkreter nächster Schritt: nur nehmen, wenn die Fraunhofer- und MPIK-Wege nicht klappen, dann aber nachfragen, ob du die Segmentierung mit eigenen Python-Skripten automatisieren darfst. Stundenhinweis aus diesem Lauf: die Anzeige nennt 20 Stunden pro Woche. Das liegt über deinen 10-16 Stunden an maximal zwei Tagen in der Vorlesungszeit, deshalb Punktabzug - frag vor der Bewerbung, ob 12-16 Stunden an zwei Tagen möglich sind, sonst nur für die Semesterferien sinnvoll. (Stand 28.10.2026: Die Ausschreibung steht nicht mehr in der HiWi-Börse der UMM.)",
    "pay": "bis 20 h/Woche, flexibel, kein Betrag genannt",
    "skills": [
     "Datenanalyse"
@@ -3768,7 +3776,7 @@
    "first_seen": "2026-10-05",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_code": "timeout",
+   "link_code": "entfernt",
    "link_checked": "2026-10-28",
    "id": "7ed4c7ed9a34"
   },
@@ -3795,7 +3803,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "98dc56d3a9a0",
    "link_final": "https://jobs.dkfz.de/en/jobs/iframe"
   },
@@ -3822,7 +3830,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "6b334827290f"
   },
   {
@@ -3845,7 +3853,7 @@
    "is_new": false,
    "id": "5ca07f0b63b9",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "stellenwerk Heidelberg – Hochschul-Jobportal (Werkstudent, Praktikum, Minijob)",
@@ -3866,7 +3874,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "id": "d1e9d6466486"
   },
   {
@@ -3894,7 +3902,7 @@
    "is_new": false,
    "id": "376219777fb9",
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Summer Internship 2027: Resilient Navigation",
@@ -3916,15 +3924,15 @@
     "Signalverarbeitung"
    ],
    "url": "https://arbeidsplassen.nav.no/stillinger/stilling/c9550c1a-4c64-4675-8acc-94cae009da78",
-   "why": "Du arbeitest hier neun Wochen (Juni bis August 2027) an robuster Navigation, Sensorfusion und datengetriebener Lageerkennung, also genau an der Schnittstelle von Physik, Mathematik und Software, die dein Profil beschreibt. Die Anzeige nennt ausdrücklich Englisch als Arbeitssprache und listet Physik und Mathematik, Simulation und Machine Learning als gewünschte Interessen, du brauchst also kein Norwegisch. Trondheim ist zugleich der NTNU-Standort, das heißt du baust dort genau das Netzwerk auf, das dir ein Jahr später bei Masterbewerbung und Betreuersuche hilft. Ehrliche Einschränkung: die Stelle kann eine Sicherheitsfreigabe durch die norwegische NSM oder die Luftfahrtbehörde voraussetzen, und solche Verfahren sind für Nicht-Norweger langsamer, frag das im Erstkontakt direkt ab. Nächster Schritt: bewirb dich früh, denn die Bewerbungen werden laufend bearbeitet, und schreib die in der Anzeige genannten Kontakte aus Product Management und R&D kurz an.",
+   "why": "Du arbeitest hier neun Wochen (Juni bis August 2027) an robuster Navigation, Sensorfusion und datengetriebener Lageerkennung, also genau an der Schnittstelle von Physik, Mathematik und Software, die dein Profil beschreibt. Die Anzeige nennt ausdrücklich Englisch als Arbeitssprache und listet Physik und Mathematik, Simulation und Machine Learning als gewünschte Interessen, du brauchst also kein Norwegisch. Trondheim ist zugleich der NTNU-Standort, das heißt du baust dort genau das Netzwerk auf, das dir ein Jahr später bei Masterbewerbung und Betreuersuche hilft. Ehrliche Einschränkung: die Stelle kann eine Sicherheitsfreigabe durch die norwegische NSM oder die Luftfahrtbehörde voraussetzen, und solche Verfahren sind für Nicht-Norweger langsamer, frag das im Erstkontakt direkt ab. Nächster Schritt: bewirb dich früh, denn die Bewerbungen werden laufend bearbeitet, und schreib die in der Anzeige genannten Kontakte aus Product Management und R&D kurz an. Am 29.10.2026 erneut geöffnet: lebt, „søk senest mandag 30. november\", Trondheim, Anzeige auf Englisch; Bewerbungen werden laufend bearbeitet.",
    "person": "oliver",
    "id": "05e359269f34",
    "tier": "must_apply",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Sommerjobb IFE Halden 2027 - divisjon Kjernekraft (Applied Data Science)",
@@ -3945,15 +3953,16 @@
     "Risikoanalyse"
    ],
    "url": "https://www.finn.no/job/ad/478074499",
-   "why": "Drei Plätze für sechs bis acht Wochen in den Forschungsabteilungen von IFE, unter anderem in Applied Data Science, Risk & Security, Digital Sovereignty und VR/AR, betreut von erfahrenen Forschenden und mit teils eigenständigen Aufgaben. Besonders relevant für dich: wer später eine Masterarbeit bei IFE schreiben will, wird laut Anzeige bei der Auswahl priorisiert, und das ist genau die Brücke von Sommerjob zu Masterarbeit, die du suchst. Als Arbeitssprachen sind Norwegisch und Englisch genannt, Norwegisch wird nicht ausdrücklich verlangt, die Anzeige selbst ist aber norwegisch, du musst sie also übersetzen. Harte Einschränkung: du musst sicherheitsmäßig freigegeben werden, es gibt eine Hintergrundprüfung und Fragen zu Bindungen an Hochrisikoländer, als Deutscher machbar, kostet aber Zeit. Nächster Schritt: bis 15.11.2026 CV, Zeugnisse, Notenauszug und ein Anschreiben einreichen, in dem du Applied Data Science als Wunschabteilung nennst und deine Masterarbeits-Absicht in Norwegen erwähnst.",
+   "why": "Drei Plätze für sechs bis acht Wochen in den Forschungsabteilungen von IFE, unter anderem in Applied Data Science, Risk & Security, Digital Sovereignty und VR/AR, betreut von erfahrenen Forschenden und mit teils eigenständigen Aufgaben. Besonders relevant für dich: wer später eine Masterarbeit bei IFE schreiben will, wird laut Anzeige bei der Auswahl priorisiert, und das ist genau die Brücke von Sommerjob zu Masterarbeit, die du suchst. Als Arbeitssprachen sind Norwegisch und Englisch genannt, Norwegisch wird nicht ausdrücklich verlangt, die Anzeige selbst ist aber norwegisch, du musst sie also übersetzen. Harte Einschränkung: du musst sicherheitsmäßig freigegeben werden, es gibt eine Hintergrundprüfung und Fragen zu Bindungen an Hochrisikoländer, als Deutscher machbar, kostet aber Zeit. Nächster Schritt: bis 15.11.2026 CV, Zeugnisse, Notenauszug und ein Anschreiben einreichen, in dem du Applied Data Science als Wunschabteilung nennst und deine Masterarbeits-Absicht in Norwegen erwähnst. Am 29.10.2026 erneut geöffnet: lebt, Frist 15.11.2026, Halden; Arbeitssprachen Norsk und Engelsk.",
    "person": "oliver",
    "id": "d9efbf610f12",
    "tier": "must_apply",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-06"
   },
   {
    "title": "Summer Internship 2027 - Digital Operations & Industrial AI Engineer",
@@ -3973,15 +3982,15 @@
     "Linux"
    ],
    "url": "https://arbeidsplassen.nav.no/stillinger/stilling/cdfe667d-4a51-44b2-95d7-56966ea2b95e",
-   "why": "Golar vergibt 13 Sommerplätze über sechs bis acht Wochen, und drei davon sind für dich interessant: Digital Operations & Industrial AI Engineer, IT Infrastructure und IT Security. Die Anzeige verlangt ausdrücklich exzellentes Englisch in Wort und Schrift und nennt Norwegisch nur als mögliche, nicht erforderliche Arbeitssprache, das ist eine der wenigen klar englischsprachigen Stellen in dieser Runde. Einschränkung: gesucht sind Studierende im 3. oder 4. Studienjahr mit Interesse an Energie und Offshore, du musst deine Motivation für die Branche also glaubhaft machen, und du musst zwingend dein Wunschprojekt angeben, sonst wirst du nicht berücksichtigt. Zweite Einschränkung: zwei der Projekte sitzen in London, nicht in Norwegen, achte beim Ausfüllen darauf. Nächster Schritt: bis 08.11.2026 CV und Notenauszug über das Portal einreichen, mit Digital Operations & Industrial AI Engineer als erster Wahl, und bewirb dich früh, da laufend ausgewertet wird. Stunden/Tage: Die Anzeige nennt keinen Stundenumfang – kläre vor der Bewerbung, ob 10 bis 16 Stunden pro Woche an maximal zwei Tagen gehen (in den Semesterferien gerne mehr).",
+   "why": "Golar vergibt 13 Sommerplätze über sechs bis acht Wochen, und drei davon sind für dich interessant: Digital Operations & Industrial AI Engineer, IT Infrastructure und IT Security. Die Anzeige verlangt ausdrücklich exzellentes Englisch in Wort und Schrift und nennt Norwegisch nur als mögliche, nicht erforderliche Arbeitssprache, das ist eine der wenigen klar englischsprachigen Stellen in dieser Runde. Einschränkung: gesucht sind Studierende im 3. oder 4. Studienjahr mit Interesse an Energie und Offshore, du musst deine Motivation für die Branche also glaubhaft machen, und du musst zwingend dein Wunschprojekt angeben, sonst wirst du nicht berücksichtigt. Zweite Einschränkung: zwei der Projekte sitzen in London, nicht in Norwegen, achte beim Ausfüllen darauf. Nächster Schritt: bis 08.11.2026 CV und Notenauszug über das Portal einreichen, mit Digital Operations & Industrial AI Engineer als erster Wahl, und bewirb dich früh, da laufend ausgewertet wird. Stunden/Tage: Die Anzeige nennt keinen Stundenumfang – kläre vor der Bewerbung, ob 10 bis 16 Stunden pro Woche an maximal zwei Tagen gehen (in den Semesterferien gerne mehr). Am 29.10.2026 erneut geöffnet: lebt, Frist 8.11.2026, Oslo; die Anzeige bittet ausdrücklich „søk snarest mulig\", weil laufend ausgewertet wird – früh einreichen lohnt.",
    "person": "oliver",
    "id": "e5a6f5ff4df4",
    "tier": "must_apply",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Summer Interns 2027 - Software im Dreierteam",
@@ -4002,15 +4011,16 @@
     "Frontend"
    ],
    "url": "https://www.finn.no/job/ad/478573123",
-   "why": "Drei Studierende bilden ein Team und bauen über den Sommer wie ein Mini-Startup neue Software für echte Probleme in der Energielogistik, begleitet von einem Frontend-Mentor, einem Backend-Mentor und einer Projektleitung. Die Anzeige ist komplett auf Englisch geschrieben und erwähnt Norwegisch an keiner Stelle, für dich ohne Norwegischkenntnisse also ein realistischer Einstieg. Gesucht sind Studierende der Informatik im letzten oder vorletzten Bachelor- oder Masterjahr, das passt auf dich, und Projekt- oder Vereinserfahrung ist ein Plus, aber keine Bedingung. Einschränkung: kein Homeoffice, du musst für den Sommer nach Stavanger ziehen, und die Anzeige nennt widersprüchliche Fristangaben, Kabal interviewt laufend. Nächster Schritt: bewirb dich in den nächsten Tagen und nicht erst zur Frist, und nenne im Anschreiben deine Docker- und Git-Praxis sowie dein Ziel, in Norwegen zu studieren und zu bleiben. Stunden/Tage: Die Anzeige nennt keinen Stundenumfang – kläre vor der Bewerbung, ob 10 bis 16 Stunden pro Woche an maximal zwei Tagen gehen (in den Semesterferien gerne mehr).",
+   "why": "Drei Studierende bilden ein Team und bauen über den Sommer wie ein Mini-Startup neue Software für echte Probleme in der Energielogistik, begleitet von einem Frontend-Mentor, einem Backend-Mentor und einer Projektleitung. Die Anzeige ist komplett auf Englisch geschrieben und erwähnt Norwegisch an keiner Stelle, für dich ohne Norwegischkenntnisse also ein realistischer Einstieg. Gesucht sind Studierende der Informatik im letzten oder vorletzten Bachelor- oder Masterjahr, das passt auf dich, und Projekt- oder Vereinserfahrung ist ein Plus, aber keine Bedingung. Einschränkung: kein Homeoffice, du musst für den Sommer nach Stavanger ziehen, und die Anzeige nennt widersprüchliche Fristangaben, Kabal interviewt laufend. Nächster Schritt: bewirb dich in den nächsten Tagen und nicht erst zur Frist, und nenne im Anschreiben deine Docker- und Git-Praxis sowie dein Ziel, in Norwegen zu studieren und zu bleiben. Stunden/Tage: Die Anzeige nennt keinen Stundenumfang – kläre vor der Bewerbung, ob 10 bis 16 Stunden pro Woche an maximal zwei Tagen gehen (in den Semesterferien gerne mehr). Am 29.10.2026 erneut geöffnet: lebt, zuletzt am 26.10.2026 geändert, Frist 12.11.2026 – das Feld „Søknadsfrist\" sagt allerdings „Snarest\", also sofort bewerben. Anzeige auf Englisch, keine Norwegisch-Anforderung.",
    "person": "oliver",
    "id": "94d361c96c22",
    "tier": "must_apply",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-12"
   },
   {
    "title": "Yara Summer Internship 2027 (u. a. Computational Fluid Dynamics)",
@@ -4031,15 +4041,16 @@
     "Linux"
    ],
    "url": "https://www.finn.no/job/ad/478219336",
-   "why": "Fünf Plätze über sechs bis acht Wochen im Yara Technology Center, und eines der fünf Themen ist ausdrücklich Computational Fluid Dynamics. Numerische Strömungssimulation ist physiknah und lebt von Python, Linux und Cluster-Arbeit, also von deinem Werkzeugkasten. Arbeitssprache ist Englisch, fließendes Englisch in Wort und Schrift wird verlangt, Norwegisch steht nicht in den Anforderungen, und die Bewerbung läuft komplett auf Englisch mit CV, Zeugnissen und Anschreiben. Einschränkung: Yara sucht Masterstudierende im 3. oder 4. Jahr, du bist als Bachelor-Student formal darunter, bewirb dich trotzdem auf das CFD-Thema und erkläre dein Physik- und Numerik-Vorwissen konkret. Zweite Einschränkung: du brauchst eine gültige Studien- oder Arbeitserlaubnis für Norwegen, und es gibt kein Homeoffice. Nächster Schritt: bis 19.11.2026 bewerben und im Anschreiben ein eigenes NumPy- oder Simulationsprojekt verlinken, das Modellierung zeigt. Stunden/Tage: Die Anzeige nennt keinen Stundenumfang – kläre vor der Bewerbung, ob 10 bis 16 Stunden pro Woche an maximal zwei Tagen gehen (in den Semesterferien gerne mehr).",
+   "why": "Fünf Plätze über sechs bis acht Wochen im Yara Technology Center, und eines der fünf Themen ist ausdrücklich Computational Fluid Dynamics. Numerische Strömungssimulation ist physiknah und lebt von Python, Linux und Cluster-Arbeit, also von deinem Werkzeugkasten. Arbeitssprache ist Englisch, fließendes Englisch in Wort und Schrift wird verlangt, Norwegisch steht nicht in den Anforderungen, und die Bewerbung läuft komplett auf Englisch mit CV, Zeugnissen und Anschreiben. Einschränkung: Yara sucht Masterstudierende im 3. oder 4. Jahr, du bist als Bachelor-Student formal darunter, bewirb dich trotzdem auf das CFD-Thema und erkläre dein Physik- und Numerik-Vorwissen konkret. Zweite Einschränkung: du brauchst eine gültige Studien- oder Arbeitserlaubnis für Norwegen, und es gibt kein Homeoffice. Nächster Schritt: bis 19.11.2026 bewerben und im Anschreiben ein eigenes NumPy- oder Simulationsprojekt verlinken, das Modellierung zeigt. Stunden/Tage: Die Anzeige nennt keinen Stundenumfang – kläre vor der Bewerbung, ob 10 bis 16 Stunden pro Woche an maximal zwei Tagen gehen (in den Semesterferien gerne mehr). Am 29.10.2026 erneut geöffnet: lebt, Frist 19.11.2026, Yara Technology Center Porsgrunn; Arbeitssprache ausdrücklich Englisch – keine Norwegisch-Hürde.",
    "person": "oliver",
    "id": "5bc879630bb1",
    "tier": "must_apply",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-09"
   },
   {
    "title": "Summer Internship 2027 - Data Engineering und Betriebsdatenanalyse",
@@ -4059,15 +4070,16 @@
     "Simulation"
    ],
    "url": "https://www.finn.no/job/ad/478569573",
-   "why": "Fred. Olsen Windcarrier betreibt drei Errichterschiffe für Offshore-Wind, und eine der ausgeschriebenen Disziplinen ist ausdrücklich Data Engineering: Sammeln und Auswerten von Auslastungs- und Betriebsdaten, Fahrplanentwicklung und Wetter-Ausfallzeitanalyse, also saubere Zeitreihenarbeit mit Python. Englisch ist die gemeinsame Unternehmenssprache und wird als Anforderung genannt, Norwegisch steht nicht in der Anzeige. Ausdrücklich erwünscht sind Bachelor- und Masterstudierende mit mindestens drei abgeschlossenen Studienjahren, du musst also kein Master-Student sein. Einschränkung: der größere Teil der Aufgaben ist klassischer Schiffbau mit CAD und Stabilitätsrechnung, die reine Datenrolle ist nur ein Teil. Nächster Schritt: bis 31.10.2026 bewerben und im Anschreiben eindeutig Data Engineering als Disziplin benennen, sonst landest du im Schiffbau-Pool. Stunden/Tage: Die Anzeige nennt keinen Stundenumfang – kläre vor der Bewerbung, ob 10 bis 16 Stunden pro Woche an maximal zwei Tagen gehen (in den Semesterferien gerne mehr).",
+   "why": "Fred. Olsen Windcarrier betreibt drei Errichterschiffe für Offshore-Wind, und eine der ausgeschriebenen Disziplinen ist ausdrücklich Data Engineering: Sammeln und Auswerten von Auslastungs- und Betriebsdaten, Fahrplanentwicklung und Wetter-Ausfallzeitanalyse, also saubere Zeitreihenarbeit mit Python. Englisch ist die gemeinsame Unternehmenssprache und wird als Anforderung genannt, Norwegisch steht nicht in der Anzeige. Ausdrücklich erwünscht sind Bachelor- und Masterstudierende mit mindestens drei abgeschlossenen Studienjahren, du musst also kein Master-Student sein. Einschränkung: der größere Teil der Aufgaben ist klassischer Schiffbau mit CAD und Stabilitätsrechnung, die reine Datenrolle ist nur ein Teil. Nächster Schritt: bis 31.10.2026 bewerben und im Anschreiben eindeutig Data Engineering als Disziplin benennen, sonst landest du im Schiffbau-Pool. Stunden/Tage: Die Anzeige nennt keinen Stundenumfang – kläre vor der Bewerbung, ob 10 bis 16 Stunden pro Woche an maximal zwei Tagen gehen (in den Semesterferien gerne mehr). Am 29.10.2026 erneut geöffnet: lebt, FINN zeigt „3 dager igjen\", Frist 31.10.2026 – also dieses Wochenende abschicken.",
    "person": "oliver",
    "id": "84df1ebb34d6",
    "tier": "interesting",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-12"
   },
   {
    "title": "Arctic Geophysics - Bachelorkurse u. a. AGF-216 The Stormy Sun and the Northern Lights",
@@ -4095,7 +4107,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Austauschsemester an der NTNU - Nominierungs- und Bewerbungsfristen",
@@ -4122,7 +4134,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Austausch an der Universität Bergen - Fristen und Unterlagen",
@@ -4149,7 +4161,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Zulassung als Erasmus+-Austauschstudent an der Universität Oslo",
@@ -4177,7 +4189,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "IAESTE Fachpraktikum - Vorbewerbung für die Praktika 2027",
@@ -4196,15 +4208,15 @@
     "Englisch"
    ],
    "url": "https://www.tu-chemnitz.de/international/outgoing/iaeste/bewerbung.php",
-   "why": "Das IAESTE-Hauptverfahren läuft über eine Vorbewerbung, die im Oktober öffnet und am 31. Dezember schließt, die Praktika finden dann im Folgejahr überwiegend im Sommer statt. Für dich heißt das konkret: wenn du Sommer 2027 in Norwegen arbeiten willst, musst du bis zum 31. Dezember 2026 im Bewerberpool sein und dort Norwegen als Länderwunsch angeben. Voraussetzung ist nur die Einschreibung an einer deutschen Hochschule zum Praktikumsbeginn plus Englischkenntnisse, weitere Anforderungen setzt der jeweilige Arbeitgeber. Wichtige Einschränkung: diese Seite ist die der TU Chemnitz und gilt formal nur für deren Studierende, das Verfahren und die Dezember-Frist sind aber der deutschlandweite IAESTE-Standard; außerdem wohnst du für die Dauer des Praktikums im Zielland, arbeitest also nicht von Walldorf aus. Nächster Schritt: diese Woche herausfinden, ob deine Hochschule ein IAESTE-Local-Committee hat, und dort die Vorbewerbung anfordern. Stunden/Tage: Die Anzeige nennt keinen Stundenumfang – kläre vor der Bewerbung, ob 10 bis 16 Stunden pro Woche an maximal zwei Tagen gehen (in den Semesterferien gerne mehr).",
+   "why": "Das IAESTE-Hauptverfahren läuft über eine Vorbewerbung, die im Oktober öffnet und am 31. Dezember schließt, die Praktika finden dann im Folgejahr überwiegend im Sommer statt. Für dich heißt das konkret: wenn du Sommer 2027 in Norwegen arbeiten willst, musst du bis zum 31. Dezember 2026 im Bewerberpool sein und dort Norwegen als Länderwunsch angeben. Voraussetzung ist nur die Einschreibung an einer deutschen Hochschule zum Praktikumsbeginn plus Englischkenntnisse, weitere Anforderungen setzt der jeweilige Arbeitgeber. Wichtige Einschränkung: diese Seite ist die der TU Chemnitz und gilt formal nur für deren Studierende, das Verfahren und die Dezember-Frist sind aber der deutschlandweite IAESTE-Standard; außerdem wohnst du für die Dauer des Praktikums im Zielland, arbeitest also nicht von Walldorf aus. Nächster Schritt: diese Woche herausfinden, ob deine Hochschule ein IAESTE-Local-Committee hat, und dort die Vorbewerbung anfordern. Stunden/Tage: Die Anzeige nennt keinen Stundenumfang – kläre vor der Bewerbung, ob 10 bis 16 Stunden pro Woche an maximal zwei Tagen gehen (in den Semesterferien gerne mehr). Am 29.10.2026 erneut geöffnet: Die Vorbewerbung kann ab Oktober eingereicht werden, Stichtag ist der 31. Dezember; danach gibt es nur noch Restplätze („global offers\") über die Exchange Platform. Das Jahr steht nicht auf der Seite – frag beim Lokalkomitee nach, bevor du dich auf 31.12.2026 verlässt.",
    "person": "oliver",
    "id": "050eacf84bd6",
    "tier": "interesting",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Space Physics mit EISCAT-Radardaten und Aurolab - Thesis-Kooperation",
@@ -4232,7 +4244,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://en.uit.no/education/program/area?p_document_id=270600"
   },
   {
@@ -4260,7 +4272,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://www.mn.uio.no/fysikk/english/research/projects/4dspace/education/001_bachelor.html"
   },
   {
@@ -4285,7 +4297,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "403",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Bachelorarbeit: Machine-learning-gestützte Detektion am Cryogenic Storage Ring",
@@ -4312,7 +4324,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Bachelorarbeiten in Datenanalyse, Software und Computing (CMS, Belle II)",
@@ -4341,7 +4353,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Bachelorprojekte in LHC-Phänomenologie und Machine Learning",
@@ -4368,8 +4380,8 @@
    "first_seen": "2026-10-15",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_code": "fehler",
-   "link_checked": "2026-10-28"
+   "link_code": "403",
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Bachelor- und Masterarbeiten im KATRIN-Neutrinoexperiment (Analyse und Simulation)",
@@ -4397,7 +4409,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Bachelor- und Masterarbeiten sowie Physikpraktika ab Herbst 2026",
@@ -4424,7 +4436,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Bezahltes Praktikum oder HiWi-Stelle in der Electronic Visions Group (BrainScaleS)",
@@ -4453,7 +4465,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Projektpraktika und kleine Forschungsprojekte für Bachelorstudierende",
@@ -4482,7 +4494,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "fehler",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Bachelorarbeit in neuromorphem Rechnen (BrainScaleS)",
@@ -4510,7 +4522,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "EUMETSAT Internship Programme (Satellitenmeteorologie, Weltraumsysteme)",
@@ -4537,7 +4549,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Werkstudierende im Bereich NLP (Autorschaftsanalyse, KI-Textdetektion)",
@@ -4563,7 +4575,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "fehler",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Praktikum am 72-cm-Waltz-Teleskop (Spektroskopie, Exoplanetensuche)",
@@ -4589,7 +4601,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Praktikum Informatik / Softwaretechnik in der Automatisierungstechnik",
@@ -4670,7 +4682,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "403",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Abschlussarbeit oder Praktikum: Modellbasierte Regelungstechnik",
@@ -4697,7 +4709,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "403",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "SAP iXp Intern (f/m/d) - Software Developer",
@@ -4778,7 +4790,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "403",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Werkstudent:in im Bereich Data & AI",
@@ -4832,7 +4844,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "403",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Praktikum Fabrikdatenanalyst (m/w/d)",
@@ -4857,7 +4869,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "403",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Bachelor- oder Masterthesis Battery Component Development (FEM und KI-Surrogatmodelle)",
@@ -4884,7 +4896,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "403",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Werkstudent Embedded Software Developer (hardwarenahe Software)",
@@ -4909,7 +4921,8 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-05-19"
   },
   {
    "title": "Werkstudenten-, Praktikums- und Thesis-Stellen mit Python, GenAI und Data & Analytics",
@@ -4936,7 +4949,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://jobs.sap.com/en/jobs/"
   },
   {
@@ -4991,7 +5004,8 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "link_final": "https://docs.astropy.org/projects/specutils/en/stable/contributing.html"
   },
   {
    "title": "NumPy - Sprintable-Issues als Einstieg für neue Contributor",
@@ -5018,7 +5032,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "2027 Summer Interns – Open-Source-Entwicklung an Vespa (Suchmaschine und Vektordatenbank)",
@@ -5031,7 +5045,7 @@
    "score": 74,
    "tier": "must_apply",
    "link_code": "200",
-   "why": "Vespa.ai sucht für Sommer 2027 Praktikanten, die echten Code an Vespa schreiben – einer quelloffenen Suchmaschine und Vektordatenbank, die weltweit in Produktion läuft. Die Ausschreibung nennt als Themen Machine Learning, Performance-Tuning, LLM-Anbindung, Beispielanwendungen und den Betrieb großer Systeme auf AWS und GCP, verlangt Informatik oder ein verwandtes Fach und Erfahrung in einer von fünf Sprachen, darunter ausdrücklich Python und C++. Das ist für dich der stärkste Treffer dieser Woche: Norwegen-Bezug, Englisch als Arbeitssprache (die komplette Anzeige ist englisch, kein Norwegisch gefordert), und weil Vespa Open Source ist, landet dein Code öffentlich sichtbar auf GitHub – fast so wertvoll wie eine Publikationsbeteiligung. Ehrliche Einschränkung: Vespa ist ein hartes Systems-Projekt in Java und C++, die Hürde liegt höher als bei einem Werkstudentenjob, und ein Transcript ist Pflichtanlage. Konkreter nächster Schritt: bis 13.12.2026 über das in der Anzeige verlinkte BambooHR-Formular bewerben und im Anschreiben einen deiner NumPy-/Astropy-Beiträge als Beleg für Arbeit an fremdem Code verlinken.",
+   "why": "Vespa.ai sucht für Sommer 2027 Praktikanten, die echten Code an Vespa schreiben – einer quelloffenen Suchmaschine und Vektordatenbank, die weltweit in Produktion läuft. Die Ausschreibung nennt als Themen Machine Learning, Performance-Tuning, LLM-Anbindung, Beispielanwendungen und den Betrieb großer Systeme auf AWS und GCP, verlangt Informatik oder ein verwandtes Fach und Erfahrung in einer von fünf Sprachen, darunter ausdrücklich Python und C++. Das ist für dich der stärkste Treffer dieser Woche: Norwegen-Bezug, Englisch als Arbeitssprache (die komplette Anzeige ist englisch, kein Norwegisch gefordert), und weil Vespa Open Source ist, landet dein Code öffentlich sichtbar auf GitHub – fast so wertvoll wie eine Publikationsbeteiligung. Ehrliche Einschränkung: Vespa ist ein hartes Systems-Projekt in Java und C++, die Hürde liegt höher als bei einem Werkstudentenjob, und ein Transcript ist Pflichtanlage. Konkreter nächster Schritt: bis 13.12.2026 über das in der Anzeige verlinkte BambooHR-Formular bewerben und im Anschreiben einen deiner NumPy-/Astropy-Beiträge als Beleg für Arbeit an fremdem Code verlinken. Am 29.10.2026 erneut geöffnet: lebt, kein Ablauf-Hinweis, „Apply before December 13th, 2026\", Trondheim.",
    "pay": "",
    "skills": [
     "Python",
@@ -5045,9 +5059,9 @@
    "person": "oliver",
    "id": "ec9104348c3c",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Summer Internship 2027 – Prototypen und Softwareprojekte im Dreierteam",
@@ -5074,7 +5088,7 @@
    "first_seen": "2026-10-15",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Masterarbeit und Initiativbewerbung am norwegischen Klima- und Umweltforschungsinstitut",
@@ -5100,7 +5114,7 @@
    "first_seen": "2026-10-15",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Praktikum, Werkstudententätigkeit und Abschlussarbeiten am Stammsitz Bruchsal",
@@ -5126,7 +5140,7 @@
    "first_seen": "2026-10-15",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Werkstudentenstellen im Stellenportal (aktuell nichts Technisches offen)",
@@ -5151,7 +5165,7 @@
    "first_seen": "2026-10-15",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "id": "5d6b41a6974e",
@@ -5159,9 +5173,9 @@
    "employer": "M. + R. Schädel GmbH",
    "person": "oliver",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "location": "Wiesloch (~5 min Bahn / ~10 min Auto ab Walldorf)",
    "region": "Deutschland",
    "category": "Ferienjob",
@@ -5175,8 +5189,9 @@
     "Schichtbereitschaft"
    ],
    "link_code": "200",
-   "why": "Die Aufgabe: Du unterstützt die Maschinenbediener beim Einrichten, Anfahren und Reinigen der Produktionsanlagen, hilfst beim Koordinieren der Abläufe, achtest auf Qualität und Hygiene und dokumentierst die Ergebnisse der Fertigungsprozesse. Kundenkontakt: keiner – reine Produktion in der Halle, Betrieb in Wiesloch, Großer Stadtacker 6, also eine Bahnstation beziehungsweise zehn Autominuten von dir. Arbeitszeiten: Teilzeitschichten vormittags, nachmittags oder abends, Produktion läuft Sonntag bis Freitag, Schicht-, Nacht- und Wochenendarbeit sind ausdrücklich möglich – damit kannst du die Stunden um Vorlesungen herum legen, das ist der eigentliche Vorteil hier. Bezahlung: ausgeschrieben auf 603-€-Minijob-Basis, einen Stundenlohn nennt die Anzeige nicht, erfrag ihn also direkt. Nächster Schritt: Auf der Anzeige die Sicherheitsabfrage lösen, um die Kontaktdaten zu sehen, und mit drei Sätzen plus Verfügbarkeit anrufen – bei einem 50-Personen-Betrieb zählt der Anruf mehr als eine ausführliche Mappe.",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003146996-S"
+   "why": "Die Aufgabe: Du unterstützt die Maschinenbediener beim Einrichten, Anfahren und Reinigen der Produktionsanlagen, hilfst beim Koordinieren der Abläufe, achtest auf Qualität und Hygiene und dokumentierst die Ergebnisse der Fertigungsprozesse. Kundenkontakt: keiner – reine Produktion in der Halle, Betrieb in Wiesloch, Großer Stadtacker 6, also eine Bahnstation beziehungsweise zehn Autominuten von dir. Arbeitszeiten: Teilzeitschichten vormittags, nachmittags oder abends, Produktion läuft Sonntag bis Freitag, Schicht-, Nacht- und Wochenendarbeit sind ausdrücklich möglich – damit kannst du die Stunden um Vorlesungen herum legen, das ist der eigentliche Vorteil hier. Bezahlung: ausgeschrieben auf 603-€-Minijob-Basis, einen Stundenlohn nennt die Anzeige nicht, erfrag ihn also direkt. Nächster Schritt: Auf der Anzeige die Sicherheitsabfrage lösen, um die Kontaktdaten zu sehen, und mit drei Sätzen plus Verfügbarkeit anrufen – bei einem 50-Personen-Betrieb zählt der Anruf mehr als eine ausführliche Mappe. Am 29.10.2026 erneut geöffnet: lebt, Großer Stadtacker 6 in Wiesloch, Minijob auf 603-€-Basis mit Früh-, Spät- oder Abendschicht. Stundenzahl und Stundenlohn nennt die Anzeige nicht (603 € durch Mindestlohn 13,90 € ergibt rund 43 Std./Monat, also ca. 10 Std./Woche – passt genau in deinen Rahmen). Veröffentlicht laut Seite vor über 30 Tagen, also vor dem Absenden anrufen.",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003146996-S",
+   "posted": "2026-05-29"
   },
   {
    "id": "eb2e45d7cc2e",
@@ -5191,15 +5206,15 @@
    "region": "Deutschland",
    "category": "Ferienjob",
    "type": "Nebenjob",
-   "status": "verified",
+   "status": "dead",
    "score": 44,
-   "tier": "interesting",
+   "tier": "backup",
    "pay": "15,33 €/h",
    "skills": [
     "Sorgfalt",
     "Teilzeit"
    ],
-   "link_code": "200",
+   "link_code": "410",
    "why": "Die Aufgabe: Verpacken, Qualitätskontrolle, Konfektionieren und Versandvorbereitung bei Kundenbetrieben in Hockenheim, Speyer und Schifferstadt. Kundenkontakt: keiner, du arbeitest im Lager- und Versandbereich. Arbeitszeiten: Teilzeit vormittags, nachmittags oder abends, Schichtarbeit auf Wunsch – also gut mit Vorlesungen kombinierbar. Bezahlung: 15,33 €/h, deutlich über dem Mindestlohn von 13,90 € und der beste belegte Stundenlohn unter den Nebenjobs in dieser Liste. Ehrliche Einschränkung: Es ist Arbeitnehmerüberlassung, du bist also bei spp direkt angestellt und arbeitest beim Kunden – und von den drei Orten ist nur Hockenheim wirklich nah, Schifferstadt liegt bereits am Rand deines Radius; kläre vor der Zusage, welcher Einsatzort es konkret wird. Nächster Schritt: kurze Mail an bewerbung-wo@spp-direkt.de mit deiner Verfügbarkeit und dem Wunschort Hockenheim, Telefon 06241/977386-0.",
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/14040-5V65CBBG1Z6N7B9M-S"
   },
@@ -5209,23 +5224,24 @@
    "employer": "Teamwork Instore Services GmbH",
    "person": "oliver",
    "first_seen": "2026-10-18",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "location": "Heidelberg, Im Breitspiel (~25 min Bahn und Bus / ~15 min Auto ab Walldorf)",
    "region": "Deutschland",
    "category": "Ferienjob",
    "type": "Nebenjob",
    "status": "verified",
-   "score": 32,
+   "score": 30,
    "tier": "backup",
    "pay": "13,90 €/h",
    "skills": [
     "Zuverlässigkeit"
    ],
    "link_code": "200",
-   "why": "Die Aufgabe: Waren verräumen, Regale und Warenträger auffüllen, Arbeitsplatz sauber hinterlassen – in einem Supermarkt im Gewerbegebiet Im Breitspiel, also am nächstgelegenen Heidelberger Zipfel, nur zehn Autominuten von Walldorf. Kundenkontakt: gering, du räumst ein, berätst nicht; ganz ohne Publikum ist es aber nicht, weil vormittags der Laden geöffnet ist. Arbeitszeiten: montags, dienstags, freitags und samstags von 8:00 bis etwa 12:00, Einsatztage werden in der Schichtplanung festgelegt. Bezahlung: 13,90 €/h, das ist exakt der gesetzliche Mindestlohn 2026, mehr nicht. Ehrliche Einschränkung: Die Vormittage unter der Woche kollidieren mit Vorlesungen – der Job passt nur, wenn du Montag, Dienstag und Freitag vormittags frei hast, sonst bleibt der Samstag. Nächster Schritt: Sicherheitsabfrage auf der Anzeige lösen und mit der Angabe bewerben, welche der vier Tage du zuverlässig abdecken kannst.",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003856457-S"
+   "why": "Die Aufgabe: Waren verräumen, Regale und Warenträger auffüllen, Arbeitsplatz sauber hinterlassen – in einem Supermarkt im Gewerbegebiet Im Breitspiel, also am nächstgelegenen Heidelberger Zipfel, nur zehn Autominuten von Walldorf. Kundenkontakt: gering, du räumst ein, berätst nicht; ganz ohne Publikum ist es aber nicht, weil vormittags der Laden geöffnet ist. Arbeitszeiten: montags, dienstags, freitags und samstags von 8:00 bis etwa 12:00, Einsatztage werden in der Schichtplanung festgelegt. Bezahlung: 13,90 €/h, das ist exakt der gesetzliche Mindestlohn 2026, mehr nicht. Ehrliche Einschränkung: Die Vormittage unter der Woche kollidieren mit Vorlesungen – der Job passt nur, wenn du Montag, Dienstag und Freitag vormittags frei hast, sonst bleibt der Samstag. Nächster Schritt: Sicherheitsabfrage auf der Anzeige lösen und mit der Angabe bewerben, welche der vier Tage du zuverlässig abdecken kannst. Am 29.10.2026 erneut geöffnet: lebt, laut Seite gestern veröffentlicht, 13,90 €/h – genau der aktuelle Mindestlohn. Wichtig für deinen Stundenrahmen: Die Anzeige nennt Einsätze Montag, Dienstag, Freitag und Samstag von 8 bis etwa 12 Uhr, also bis zu vier kurze Tage und rund 16 Std./Woche. Vier Vormittage sind zwei zu viel; die Tage werden laut Anzeige aber eingeteilt, also nur bewerben, wenn du zwei Tage fest vereinbaren kannst. Deshalb 30 statt 32 Punkte.",
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003856457-S",
+   "posted": "2026-10-14"
   },
   {
    "id": "c33b310cd952",
@@ -5240,7 +5256,7 @@
    "region": "Deutschland",
    "category": "Ferienjob",
    "type": "Nebenjob",
-   "status": "verified",
+   "status": "dead",
    "score": 24,
    "tier": "backup",
    "pay": "nach Tarif Metall- und Elektroindustrie plus Spät-, Nacht-, Sonn- und Feiertagszuschläge (kein Betrag in der Anzeige)",
@@ -5248,9 +5264,10 @@
     "Sorgfalt",
     "Schichtbereitschaft"
    ],
-   "link_code": "200",
+   "link_code": "veraltet",
    "why": "Die Aufgabe: Sorgfältige Verpackungsarbeiten, Kontrolle und Dokumentation sowie Bedienen und Überwachen von Maschinen bei einem Hersteller von Aluminium- und Kunststofftuben. Kundenkontakt: keiner. Arbeitszeiten: Vollzeit oder Teilzeit, früh, spät oder nachts, mit Wechselschicht oder Dauernachtschicht – unbefristet. Bezahlung: nach M+E-Tarif mit Zuschlägen, einen Betrag nennt die Anzeige nicht, frag ihn also vor der Bewerbung ab. Ehrliche Einschränkung: Hambrücken liegt bei Bruchsal, mit dem Auto gerade noch im Rahmen, mit der Bahn deutlich über einer Stunde – und ein fester Wechselschichtplan passt schlecht zum Semester. Interessant wird die Stelle vor allem als Ferienjob in den Semesterferien, wenn du Vollzeit arbeiten kannst. Nächster Schritt: Ramona Krämer unter 07255/715-480 anrufen und fragen, ob Einsätze nur in den Semesterferien gehen.",
-   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1202746107-S"
+   "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1202746107-S",
+   "posted": "2025-06-10"
   },
   {
    "id": "9fde7631b21a",
@@ -5260,7 +5277,7 @@
    "first_seen": "2026-10-18",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "location": "Remote von Walldorf aus (keine Fahrzeit)",
    "region": "Remote",
    "category": "Ferienjob",
@@ -5285,7 +5302,7 @@
    "first_seen": "2026-10-18",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "location": "Karlsruhe (~45 min Bahn / ~40 min Auto ab Walldorf), Teile remote möglich",
    "region": "Deutschland",
    "category": "Karriere",
@@ -5310,7 +5327,7 @@
    "first_seen": "2026-10-18",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "location": "Weinheim (~50 min Bahn mit Umstieg / ~35 min Auto ab Walldorf)",
    "region": "Deutschland",
    "category": "Karriere",
@@ -5335,7 +5352,7 @@
    "first_seen": "2026-10-18",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "location": "Oslo (~1 Flugstunde ab FRA)",
    "region": "Norwegen",
    "category": "Karriere",
@@ -5361,11 +5378,11 @@
    "region": "Norwegen",
    "category": "Karriere",
    "type": "Sommerjob",
-   "status": "verified",
-   "score": 70,
+   "status": "source",
+   "score": 58,
    "tier": "must_apply",
    "person": "oliver",
-   "why": "Die Ausschreibung habe ich heute selbst geöffnet: SINTEF Digital sucht für den Sommer 2027 Sommerforscher in der Abteilung Smart Sensors and Microsystems in Oslo, über 80 Forschende, Themen von Mikro-Chips bis Weltraumsystemen - ausdrücklich auch \"diving into real-world sensor data, modelling and analytics\". Das ist genau dein Profil: Python, NumPy, Messdaten, Linux, und die Anzeige ist komplett auf Englisch, Norwegisch wird nirgends verlangt. Bezahlt wird (\"Paid summer position\"), Dauer typisch Juni bis August mit zwei Wochen Urlaub im Juli, und SINTEF nennt explizit Masterarbeit, PhD und Festanstellung als Anschlusswege - also ein echter Türöffner nach Norwegen. Ehrliche Einschränkung: gesucht werden \"preferably in their 3rd or 4th year of study\", als Bachelor-Student im früheren Semester bist du am unteren Rand, und die Frist ist der 29. Oktober 2026, also in zehn Tagen. Nächster Schritt: bis Donnerstag englischen CV plus Transcript als PDF fertig machen, Motivationstext auf Sensordaten und Python-Analyse zuschneiden und über \"Apply for position\" einreichen; bei Fragen ist Marion O'Farrell (marion.ofarrell@sintef.no) als Research Manager angegeben. Lässt sich später gut mit einem Erasmus+-Auslandspraktikum kombinieren, wenn daraus ein längerer Aufenthalt wird.",
+   "why": "Die Ausschreibung habe ich heute selbst geöffnet: SINTEF Digital sucht für den Sommer 2027 Sommerforscher in der Abteilung Smart Sensors and Microsystems in Oslo, über 80 Forschende, Themen von Mikro-Chips bis Weltraumsystemen - ausdrücklich auch \"diving into real-world sensor data, modelling and analytics\". Das ist genau dein Profil: Python, NumPy, Messdaten, Linux, und die Anzeige ist komplett auf Englisch, Norwegisch wird nirgends verlangt. Bezahlt wird (\"Paid summer position\"), Dauer typisch Juni bis August mit zwei Wochen Urlaub im Juli, und SINTEF nennt explizit Masterarbeit, PhD und Festanstellung als Anschlusswege - also ein echter Türöffner nach Norwegen. Ehrliche Einschränkung: gesucht werden \"preferably in their 3rd or 4th year of study\", als Bachelor-Student im früheren Semester bist du am unteren Rand, und die Frist ist der 29. Oktober 2026, also in zehn Tagen. Nächster Schritt: bis Donnerstag englischen CV plus Transcript als PDF fertig machen, Motivationstext auf Sensordaten und Python-Analyse zuschneiden und über \"Apply for position\" einreichen; bei Fragen ist Marion O'Farrell (marion.ofarrell@sintef.no) als Research Manager angegeben. Lässt sich später gut mit einem Erasmus+-Auslandspraktikum kombinieren, wenn daraus ein längerer Aufenthalt wird. Am 29.10.2026 lieferte die Positionsseite von SINTEF einen Client-Fehler (4xx) und die englische Übersichtsseite der offenen Stellen lädt ihre Liste per JavaScript nachträglich, also war nichts prüfbar – deshalb nur noch „source\": sieh selbst auf der norwegischen Stellenseite von SINTEF nach, ob die Sensortechnik-Stelle noch steht. Frist war mit 29.10.2026 angegeben und ist damit so oder so abgelaufen.",
    "pay": "bezahlte Sommerstelle (Betrag nicht genannt)",
    "skills": [
     "Python",
@@ -5375,11 +5392,11 @@
    ],
    "url": "https://www.sintef.no/en/sintef-group/career/vacant-positions/position/145821/",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
-   "deadline": "2026-10-29"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-08"
   },
   {
    "id": "8bfe7976c3ac",
@@ -5393,7 +5410,7 @@
    "score": 58,
    "tier": "must_apply",
    "person": "oliver",
-   "why": "Heute selbst in SAPs neuem Karriereportal geöffnet und offen: Werkstudentenstelle im SAP Enterprise AI Center of Excellence, Referenz REF2567T, Teilzeit, hybrid, Standort Walldorf - für dich null Fahrzeit. Du arbeitest mit Data Scientists und MLOps-Engineers an ML-Modellen und AI-Agents über alle Stufen: Datenexploration, Training, Fine-Tuning, Deployment, Testing, Monitoring, Stack SAP BTP plus Hyperscaler. Verlangt werden Python und eine zweite Sprache, Erfahrung mit mindestens einem ML- oder Agentic-AI-Framework, Statistikverständnis und Englisch - Deutsch wird hier nicht gefordert, das passt zu deinem Weg nach Norwegen. Ehrliche Einschränkung: die Anzeige nennt \"Bachelor's Degree in Data Science or related fields\", du bist noch im Bachelor - bewirb dich trotzdem, aber begründe im Anschreiben die Projekte, die das ausgleichen (NumPy/Astropy, eigene ML-Projekte, Docker). Eine Bewerbungsfrist nennt SAP nicht, die Stelle ist seit einer Woche online. Nächster Schritt: Motivationsschreiben in das Freitextfeld, Immatrikulationsbescheinigung und Transcript bereithalten und diese Woche abschicken.",
+   "why": "Heute selbst in SAPs neuem Karriereportal geöffnet und offen: Werkstudentenstelle im SAP Enterprise AI Center of Excellence, Referenz REF2567T, Teilzeit, hybrid, Standort Walldorf - für dich null Fahrzeit. Du arbeitest mit Data Scientists und MLOps-Engineers an ML-Modellen und AI-Agents über alle Stufen: Datenexploration, Training, Fine-Tuning, Deployment, Testing, Monitoring, Stack SAP BTP plus Hyperscaler. Verlangt werden Python und eine zweite Sprache, Erfahrung mit mindestens einem ML- oder Agentic-AI-Framework, Statistikverständnis und Englisch - Deutsch wird hier nicht gefordert, das passt zu deinem Weg nach Norwegen. Ehrliche Einschränkung: die Anzeige nennt \"Bachelor's Degree in Data Science or related fields\", du bist noch im Bachelor - bewirb dich trotzdem, aber begründe im Anschreiben die Projekte, die das ausgleichen (NumPy/Astropy, eigene ML-Projekte, Docker). Eine Bewerbungsfrist nennt SAP nicht, die Stelle ist seit einer Woche online. Nächster Schritt: Motivationsschreiben in das Freitextfeld, Immatrikulationsbescheinigung und Transcript bereithalten und diese Woche abschicken. Am 29.10.2026 erneut geöffnet: lebt, „Apply Now\" aktiv, veröffentlicht laut Metadaten am 9.10.2026. Standort Walldorf, regelmäßige Präsenz in Walldorf oder München gefordert; Stundenzahl steht nicht in der Anzeige, nur „Part-time\" – frag im Erstkontakt nach 10–16 Std. an zwei Tagen, Walldorf liegt bei dir vor der Haustür.",
    "pay": "bezahlte Werkstudentenstelle (Betrag nicht genannt)",
    "skills": [
     "Python",
@@ -5404,10 +5421,11 @@
    ],
    "url": "https://jobs.sap.com/en/jobs/744000154634459/working-student-fmd-ai-engineering-data-science/",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-09"
   },
   {
    "id": "41271e2eb174",
@@ -5432,10 +5450,11 @@
    ],
    "url": "https://jobs.sap.com/en/jobs/744000156243208/working-student-fmd-developer-infrastructure-cicd-for-abap-kernel-development/",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-19"
   },
   {
    "id": "e750c9ef7a86",
@@ -5457,7 +5476,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://www.arbeitsagentur.de/jobsuche/suche?was=Lager&wo=Walldorf%20(Baden)&umkreis=20&arbeitszeit=mj&suchbereich=jobs"
   },
   {
@@ -5480,7 +5499,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "403",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "id": "d140f72b4a49",
@@ -5502,7 +5521,8 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-17"
   },
   {
    "employer": "HMS Analytical Software GmbH",
@@ -5538,7 +5558,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "location": "Mannheim (~30 min Bahn / ~30 min Auto ab Walldorf)",
    "region": "Deutschland",
    "category": "Karriere",
@@ -5564,7 +5584,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "location": "Nußloch, Massengasse 48 (~8 min Bahn / ~8 min Auto ab Walldorf)",
    "region": "Deutschland",
    "category": "Ferienjob",
@@ -5576,7 +5596,8 @@
    "skills": [],
    "why": "Die Arbeit: den Markt regelmäßig reinigen und die Personalräume in Ordnung halten – also klassische Gebäudereinigung in einem Supermarkt, keine Kasse, keine Beratung. Kundenkontakt: gering, du putzt im Markt, sprichst aber mit keinem Kunden. Arbeitszeiten: Teilzeit in Früh-, Mittel- und Spätschicht, Flexibilität von Montag bis Samstag gefordert, der Plan steht etwa zwei Wochen vorher – das ist mit Vorlesungen machbar, aber nicht völlig frei wählbar. Ort und Weg: Nußloch liegt nur acht Minuten von Walldorf entfernt, das ist nach Wiesloch der kürzeste Weg im ganzen Bestand. Bezahlung: unbefristeter Minijob, die Anzeige nennt keinen Stundenlohn, dazu 5 % Personalrabatt, ein vergünstigtes Deutschlandticket und sechs Wochen Urlaub. Nächster Schritt: über karriere.penny.de online bewerben (Job-ID 978127) und in der ersten Mail nach Stundenlohn und Wochenstunden fragen.",
    "id": "c2cf603ed525",
-   "link_code": "200"
+   "link_code": "200",
+   "posted": "2026-08-31"
   },
   {
    "employer": "Penny-Markt GmbH (REWE Group)",
@@ -5586,7 +5607,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "location": "Wiesloch, Schlossstr. 55 (~5 min Bahn / ~7 min Auto ab Walldorf)",
    "region": "Deutschland",
    "category": "Ferienjob",
@@ -5598,7 +5619,8 @@
    "skills": [],
    "why": "Dieselbe Stelle wie in Nußloch, nur im PENNY in Wiesloch in der Schlossstraße – und damit der kürzeste Arbeitsweg, den du überhaupt bekommen kannst: fünf Minuten mit der Bahn ab Wiesloch-Walldorf. Die Arbeit: den Markt sauber halten, Ordnung machen, Personalräume reinigen. Kundenkontakt: gering, reine Reinigung ohne Verkauf oder Kasse. Arbeitszeiten: Teilzeit-Minijob, Früh-, Mittel- und Spätschicht, Verfügbarkeit Montag bis Samstag, Dienstplan zwei Wochen im Voraus. Bezahlung: unbefristet, kein Stundenlohn in der Anzeige, dafür Personalrabatt und vergünstigtes Deutschlandticket. Nächster Schritt: online bewerben (Job-ID 978137) – bewirb dich auf Wiesloch und Nußloch gleichzeitig, das kostet dich zwei Klicks und verdoppelt die Chance.",
    "id": "20d913cb86b7",
-   "link_code": "200"
+   "link_code": "200",
+   "posted": "2026-08-31"
   },
   {
    "employer": "Netto Marken-Discount Stiftung & Co. KG",
@@ -5608,7 +5630,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "location": "Leimen, Bahnhofstraße 63 (~20 min Bahn mit Umstieg / ~12 min Auto ab Walldorf)",
    "region": "Deutschland",
    "category": "Ferienjob",
@@ -5620,7 +5642,8 @@
    "skills": [],
    "why": "Die Arbeit: Verkaufsraum, Lagerbereich sowie Sanitär- und Pausenräume der Filiale reinigen – reine Reinigungstätigkeit, kein Verkauf. Kundenkontakt: gering. Arbeitszeiten: Minijob ab sofort, die Anzeige nennt weder Wochenstunden noch Uhrzeiten, das musst du erfragen – das ist die größte Unsicherheit hier. Ort und Weg: Leimen ist rund zwölf Autominuten von Walldorf entfernt, mit der Bahn etwa 20 Minuten mit Umstieg. Bezahlung: kein Betrag in der Anzeige; Netto bittet dich stattdessen, in der Bewerbung eine Gehaltsvorstellung zu nennen – setz dort 14,50 bis 15 €/h an, das ist in der Region für Reinigung üblich. Nächster Schritt: vollständige Bewerbung mit frühestem Eintrittstermin und Gehaltsvorstellung schicken (Referenznummer 18279-137-8148-93623-S).",
    "id": "5dbf12beb811",
-   "link_code": "200"
+   "link_code": "200",
+   "posted": "2026-09-14"
   },
   {
    "employer": "Heless GmbH",
@@ -5635,14 +5658,15 @@
    "region": "Deutschland",
    "category": "Ferienjob",
    "type": "Nebenjob",
-   "status": "verified",
+   "status": "dead",
    "score": 40,
-   "tier": "interesting",
+   "tier": "backup",
    "pay": "in der Anzeige nicht genannt – mindestens Mindestlohn 13,90 €/h (2026), Minijob-Grenze 603 €/Monat",
    "skills": [],
    "why": "Heless ist ein 15-Mann-Familienbetrieb in Schwetzingen, der seit 1949 Puppenkleidung herstellt – die Arbeit ist Kommissionieren, Wareneingang sortieren und einlagern, einfache Eigenproduktion und einmal pro Woche putzen. Kundenkontakt: so gut wie keiner; nur das Ausliefern und Abholen von Ware mit dem Transporter im Nahbereich bringt dich nach draußen, ein Verkaufsgespräch gibt es nicht. Wichtige Voraussetzung: Führerschein Klasse B und Erfahrung mit dem Transporter – ohne Führerschein fällt die Stelle weg. Arbeitszeiten: Minijob in Teilzeit, Vormittag und Nachmittag, Wochenstunden stehen nicht in der Anzeige. Bezahlung: kein Betrag genannt. Nächster Schritt: vollständige Bewerbung mit Anschreiben, Lebenslauf und Zeugnissen schicken – die Kontaktdaten musst du auf der Seite der Bundesagentur über die Sicherheitsfrage freischalten (Referenznummer 10000-1205064877-S).",
    "id": "d25762a0885c",
-   "link_code": "200"
+   "link_code": "veraltet",
+   "posted": "2026-01-09"
   },
   {
    "employer": "Joh. Mader Lager GmbH",
@@ -5652,7 +5676,7 @@
    "first_seen": "2026-10-19",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "location": "Heidelberg-Wieblingen, Hatschekstraße 8 (~30 min Bahn mit Umstieg / ~20 min Auto ab Walldorf)",
    "region": "Deutschland",
    "category": "Ferienjob",
@@ -5664,7 +5688,8 @@
    "skills": [],
    "why": "Die Arbeit: Kisten, Boxen und Deckel nach Kundenvorgabe trocken und nass reinigen, dabei sicher mit Reinigungsmitteln und Geräten umgehen – also Reinigung im Logistikbetrieb, nicht beim Kunden. Kundenkontakt: keiner. Ort und Weg: Heidelberg-Wieblingen, rund 20 Autominuten ab Walldorf. Ehrliche Einschränkung und deshalb nur Score 36: Die Anzeige widerspricht sich – im Text steht eine Vollzeitstelle, als Beschäftigungsart ist Minijob eingetragen. Das musst du vor der Bewerbung klären, sonst bewirbst du dich auf eine 40-Stunden-Stelle. Bezahlung: kein Betrag genannt. Nächster Schritt: über das Kontaktformular auf mader-logistik.de/jobs/offene-jobs#kontakt-jobs anfragen, wie viele Wochenstunden tatsächlich gemeint sind und was der Stundenlohn ist.",
    "id": "bf38d30ed78b",
-   "link_code": "200"
+   "link_code": "200",
+   "posted": "2026-09-23"
   },
   {
    "id": "fb0607d72f54",
@@ -5675,10 +5700,10 @@
    "category": "Ferienjob",
    "type": "Nebenjob",
    "status": "verified",
-   "score": 46,
-   "tier": "interesting",
+   "score": 38,
+   "tier": "backup",
    "person": "oliver",
-   "why": "Die Aufgabe: Du bereitest Betriebsakten des Präventionszentrums für die Digitalisierung vor, scannst sie und legst die Dateien strukturiert ab – genau die Art Bildschirm- und Archivarbeit, die du gesucht hast. Kundenkontakt: keiner, du arbeitest im Büro am Scanner; die Anzeige nennt zwar \"Serviceorientierung\", die Tätigkeit selbst hat kein Publikum. Stunden und Tage: 16 Wochenstunden befristet bis 31.12.2027, Arbeitszeit zwischen 14:00 und 19:00 Uhr – die 16 Stunden treffen genau deine Obergrenze, aber in einem Fünf-Stunden-Fenster am Nachmittag heißt das rechnerisch drei bis vier Nachmittage pro Woche, und die Anzeige sagt nicht, ob zwei längere Tage gehen. Das ist der Punkt, den du im ersten Telefonat klären musst. Dafür spricht der Rest klar: nachmittags kollidiert nichts mit Vormittagsvorlesungen, der Ort liegt an der Kurfürsten-Anlage fünf Gehminuten vom Heidelberger Hauptbahnhof, und die Bezahlung nach Entgeltgruppe 4 BG-AT plus 13. Monatsgehalt liegt deutlich über allem anderen in deiner Nebenjob-Liste. Nächster Schritt: bis zum 29.10. über karriere.bgrci.de bewerben und Herrn Gerd Richter (06221 5108-24716) vorher anrufen und fragen, ob 16 Stunden auf zwei Tage gelegt werden können.",
+   "why": "Die Aufgabe: Du bereitest Betriebsakten des Präventionszentrums für die Digitalisierung vor, scannst sie und legst die Dateien strukturiert ab – genau die Art Bildschirm- und Archivarbeit, die du gesucht hast. Kundenkontakt: keiner, du arbeitest im Büro am Scanner; die Anzeige nennt zwar \"Serviceorientierung\", die Tätigkeit selbst hat kein Publikum. Stunden und Tage: 16 Wochenstunden befristet bis 31.12.2027, Arbeitszeit zwischen 14:00 und 19:00 Uhr – die 16 Stunden treffen genau deine Obergrenze, aber in einem Fünf-Stunden-Fenster am Nachmittag heißt das rechnerisch drei bis vier Nachmittage pro Woche, und die Anzeige sagt nicht, ob zwei längere Tage gehen. Das ist der Punkt, den du im ersten Telefonat klären musst. Dafür spricht der Rest klar: nachmittags kollidiert nichts mit Vormittagsvorlesungen, der Ort liegt an der Kurfürsten-Anlage fünf Gehminuten vom Heidelberger Hauptbahnhof, und die Bezahlung nach Entgeltgruppe 4 BG-AT plus 13. Monatsgehalt liegt deutlich über allem anderen in deiner Nebenjob-Liste. Nächster Schritt: bis zum 29.10. über karriere.bgrci.de bewerben und Herrn Gerd Richter (06221 5108-24716) vorher anrufen und fragen, ob 16 Stunden auf zwei Tage gelegt werden können. Am 29.10.2026 erneut geöffnet: Anzeige lebt, aber „Die Bewerbungsfrist endet am 29.10.2026\" – heute. Wenn du willst, muss die Bewerbung heute raus. Ehrlicher Haken, den ich beim Stundenumfang nachtragen muss: 16 Std./Woche in der Nachmittagsschicht von 14 bis 19 Uhr heißt rechnerisch drei bis vier Nachmittage pro Woche, nicht zwei – das sprengt deine Vorlesungszeit, solange die Dienststelle nicht zwei lange Tage zulässt. Deshalb runter von 46 auf 38 Punkte: frag zuerst, ob 2 × 8 Std. gehen.",
    "pay": "Entgeltgruppe 4 BG-AT plus Jahressonderzahlung in Höhe eines 13. Monatsgehalts; bei 16 Std./Woche grob 1.100 bis 1.250 € brutto im Monat – die Anzeige nennt keinen Stundenlohn, EG 4 liegt aber klar über dem Mindestlohn von 13,90 €/h",
    "skills": [
     "Dateneingabe",
@@ -5687,11 +5712,12 @@
    ],
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003864264-S",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
-   "deadline": "2026-10-29"
+   "link_checked": "2026-10-29",
+   "deadline": "2026-10-29",
+   "posted": "2026-10-15"
   },
   {
    "id": "26983ba8a6c3",
@@ -5705,7 +5731,7 @@
    "score": 42,
    "tier": "interesting",
    "person": "oliver",
-   "why": "Die Aufgabe: Warenein- und -ausgang kontrollieren, kommissionieren und verwalten, angelieferte Teile prüfen und fachgerecht einlagern, den Warentransport mitorganisieren – Ersatzteillager einer Nutzfahrzeug-Werkstatt mit über 100 Mitarbeitenden. Kundenkontakt: keiner, du bist im Lager und nicht an der Theke. Stunden und Tage: ausgeschrieben als \"Minijob oder Teilzeit\", Vormittag oder Nachmittag, unbefristet, ab sofort – eine Stundenzahl nennt die Anzeige nicht, aber die Minijob-Variante bedeutet faktisch rund 10 Stunden pro Woche und passt damit auf zwei Tage. Ehrliche Einschränkung: Unter \"Das bringst du mit\" steht Erfahrung in Kommissionierung und im Warenein- und -ausgang – ohne Lagererfahrung bist du nicht der Wunschkandidat, bei einem Familienbetrieb entscheidet aber oft Verfügbarkeit. Die Anzeige ist heute, am 22.10.2026, veröffentlicht worden, du bist also früh dran. Nächster Schritt: Isabell Götz unter 06232-1304-30 anrufen, Minijob und zwei feste Tage vorschlagen und nach dem Stundenlohn fragen – der steht nicht in der Anzeige.",
+   "why": "Die Aufgabe: Warenein- und -ausgang kontrollieren, kommissionieren und verwalten, angelieferte Teile prüfen und fachgerecht einlagern, den Warentransport mitorganisieren – Ersatzteillager einer Nutzfahrzeug-Werkstatt mit über 100 Mitarbeitenden. Kundenkontakt: keiner, du bist im Lager und nicht an der Theke. Stunden und Tage: ausgeschrieben als \"Minijob oder Teilzeit\", Vormittag oder Nachmittag, unbefristet, ab sofort – eine Stundenzahl nennt die Anzeige nicht, aber die Minijob-Variante bedeutet faktisch rund 10 Stunden pro Woche und passt damit auf zwei Tage. Ehrliche Einschränkung: Unter \"Das bringst du mit\" steht Erfahrung in Kommissionierung und im Warenein- und -ausgang – ohne Lagererfahrung bist du nicht der Wunschkandidat, bei einem Familienbetrieb entscheidet aber oft Verfügbarkeit. Die Anzeige ist heute, am 22.10.2026, veröffentlicht worden, du bist also früh dran. Nächster Schritt: Isabell Götz unter 06232-1304-30 anrufen, Minijob und zwei feste Tage vorschlagen und nach dem Stundenlohn fragen – der steht nicht in der Anzeige. Am 29.10.2026 erneut geöffnet: lebt, vor vier Tagen veröffentlicht und heute geändert. Brühl bei Mannheim, Minijob oder Teilzeit mit Früh- oder Spätschicht; Stundenzahl und Lohn stehen nicht in der Anzeige – beides erfragen und auf zwei Tage festlegen.",
    "pay": "kein Betrag in der Anzeige – Minijob-Grenze 603 €/Monat, Mindestlohn 2026: 13,90 €/h; Lohn im Telefonat erfragen",
    "skills": [
     "Logistik",
@@ -5713,10 +5739,11 @@
    ],
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003900259-S",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-22"
   },
   {
    "id": "2cb80d8ec24b",
@@ -5741,7 +5768,8 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-08-14"
   },
   {
    "id": "170c82e82a9c",
@@ -5765,7 +5793,8 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-09-03"
   },
   {
    "id": "2a88e5f6bf34",
@@ -5779,7 +5808,7 @@
    "score": 62,
    "tier": "must_apply",
    "person": "oliver",
-   "why": "Laerdal entwickelt Simulations- und Trainingstechnik für die Notfallmedizin und schreibt für Sommer 2027 gleich 21 Praktikumsplätze in Stavanger aus. Zwei Bereiche sind für dich gemacht: \"Software Development\" (Web-, Mobile- und KI-Entwicklung in den Teams QCPR Apps oder Laerdal Global Health, ausdrücklich für Studierende der Informatik und Softwaretechnik) und \"Data Insights and Analysis\" (Analytics-Umgebung auf Databricks und Fabric, klassische Analytik plus KI-gestützte Auswertung). Als Skills nennt die Anzeige Python, C#, Power BI – das deckt sich direkt mit deinem Profil. Sprache: Arbeitssprache ist Englisch und Norwegisch, die Anzeige selbst ist komplett englisch und verlangt kein Norwegisch – damit gehört sie zu der Minderheit norwegischer Ausschreibungen, bei der du überhaupt antreten kannst. Dauer: acht Wochen von Juni bis August, also voll in deinen Semesterferien, Wochenstunden spielen hier keine Rolle; du brauchst 6 bis 8 Wochen Verfügbarkeit. Ehrliche Einschränkung: Stavanger liegt weit von deinen Wunschorten Oslo, Trondheim und Tromsø, die Ausschreibung nennt keine Vergütung und keine Unterkunft, und die Auswahl läuft laufend ab Veröffentlichung – wer früh schickt, hat mehr Chancen. Nächster Schritt: bis zum 15.11.2026 über die Laerdal-Karriereseite bewerben, dort den Bereich \"Software Development\" und als Zweitwunsch \"Data Insights and Analysis\" wählen und im Anschreiben konkret Python plus ein eigenes Datenprojekt nennen. Das Praktikum lässt sich grundsätzlich auch mit Erasmus+ Praktikumsförderung kombinieren, wenn du es als Pflicht- oder Freiwilligenpraktikum anrechnest.",
+   "why": "Laerdal entwickelt Simulations- und Trainingstechnik für die Notfallmedizin und schreibt für Sommer 2027 gleich 21 Praktikumsplätze in Stavanger aus. Zwei Bereiche sind für dich gemacht: \"Software Development\" (Web-, Mobile- und KI-Entwicklung in den Teams QCPR Apps oder Laerdal Global Health, ausdrücklich für Studierende der Informatik und Softwaretechnik) und \"Data Insights and Analysis\" (Analytics-Umgebung auf Databricks und Fabric, klassische Analytik plus KI-gestützte Auswertung). Als Skills nennt die Anzeige Python, C#, Power BI – das deckt sich direkt mit deinem Profil. Sprache: Arbeitssprache ist Englisch und Norwegisch, die Anzeige selbst ist komplett englisch und verlangt kein Norwegisch – damit gehört sie zu der Minderheit norwegischer Ausschreibungen, bei der du überhaupt antreten kannst. Dauer: acht Wochen von Juni bis August, also voll in deinen Semesterferien, Wochenstunden spielen hier keine Rolle; du brauchst 6 bis 8 Wochen Verfügbarkeit. Ehrliche Einschränkung: Stavanger liegt weit von deinen Wunschorten Oslo, Trondheim und Tromsø, die Ausschreibung nennt keine Vergütung und keine Unterkunft, und die Auswahl läuft laufend ab Veröffentlichung – wer früh schickt, hat mehr Chancen. Nächster Schritt: bis zum 15.11.2026 über die Laerdal-Karriereseite bewerben, dort den Bereich \"Software Development\" und als Zweitwunsch \"Data Insights and Analysis\" wählen und im Anschreiben konkret Python plus ein eigenes Datenprojekt nennen. Das Praktikum lässt sich grundsätzlich auch mit Erasmus+ Praktikumsförderung kombinieren, wenn du es als Pflicht- oder Freiwilligenpraktikum anrechnest. Am 29.10.2026 erneut geöffnet: lebt, Frist 15.11.2026, Stavanger; Arbeitssprachen Engelsk und Norsk.",
    "pay": "in der Anzeige nicht genannt – norwegische Sommerpraktika werden üblicherweise bezahlt, Betrag erfragen",
    "skills": [
     "Python",
@@ -5789,11 +5818,12 @@
    ],
    "url": "https://www.finn.no/job/ad/479239653",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
-   "deadline": "2026-11-15"
+   "link_checked": "2026-10-29",
+   "deadline": "2026-11-15",
+   "posted": "2026-10-21"
   },
   {
    "id": "de1bd9ab26bd",
@@ -5807,7 +5837,7 @@
    "score": 56,
    "tier": "must_apply",
    "person": "oliver",
-   "why": "Die beste neue Fachstelle in der Pendelregion in diesem Lauf, gestern veröffentlicht: Du baust und verfeinerst Caching-Mechanismen für Small Language Models, trainierst Modelle für Cache-Vorhersagen mit, richtest Machine-Learning-Umgebungen in der Cloud ein und analysierst neue Caching-Strategien explorativ – ausdrücklich im Rahmen von Forschungsprojekten und in einem agilen Entwicklungsteam. Gefordert sind Python-Erfahrung, Deep-Learning-Kenntnisse und Verständnis von Transformer-Modellen; das ist ziemlich genau der ML-Teil deines Profils, nur eine Stufe tiefer als Hobby. Für Norwegen ist das wertvoll, weil Forschungsnähe und ein echtes ML-Projekt in der Bewerbungsmappe mehr zählen als ein weiterer IT-Support-Job. Stunden und Tage: Anstellungsart Teilzeit mit Vormittag, Nachmittag und Abend, \"flexible Arbeitszeit möglich\" und \"hybrides Arbeiten möglich\" – eine konkrete Wochenstundenzahl nennt die Anzeige nicht, die Flexibilität sollte 10 bis 16 Stunden an zwei Tagen aber zulassen; das ist die erste Frage im Gespräch. Ehrliche Einschränkung: Start ist 01.12.2026, verlangt werden nachweislich hervorragende Deutsch- UND Englischkenntnisse, und die Anzeige sagt unmissverständlich, dass unvollständige Unterlagen aussortiert werden – Anschreiben, Lebenslauf, Notenübersicht und Immatrikulationsbescheinigung müssen alle dabei sein. Nächster Schritt: Unterlagen komplett zusammenstellen und über die Stellennummer V000080204 bewerben; keine Frist genannt, also diese Woche noch.",
+   "why": "Die beste neue Fachstelle in der Pendelregion in diesem Lauf, gestern veröffentlicht: Du baust und verfeinerst Caching-Mechanismen für Small Language Models, trainierst Modelle für Cache-Vorhersagen mit, richtest Machine-Learning-Umgebungen in der Cloud ein und analysierst neue Caching-Strategien explorativ – ausdrücklich im Rahmen von Forschungsprojekten und in einem agilen Entwicklungsteam. Gefordert sind Python-Erfahrung, Deep-Learning-Kenntnisse und Verständnis von Transformer-Modellen; das ist ziemlich genau der ML-Teil deines Profils, nur eine Stufe tiefer als Hobby. Für Norwegen ist das wertvoll, weil Forschungsnähe und ein echtes ML-Projekt in der Bewerbungsmappe mehr zählen als ein weiterer IT-Support-Job. Stunden und Tage: Anstellungsart Teilzeit mit Vormittag, Nachmittag und Abend, \"flexible Arbeitszeit möglich\" und \"hybrides Arbeiten möglich\" – eine konkrete Wochenstundenzahl nennt die Anzeige nicht, die Flexibilität sollte 10 bis 16 Stunden an zwei Tagen aber zulassen; das ist die erste Frage im Gespräch. Ehrliche Einschränkung: Start ist 01.12.2026, verlangt werden nachweislich hervorragende Deutsch- UND Englischkenntnisse, und die Anzeige sagt unmissverständlich, dass unvollständige Unterlagen aussortiert werden – Anschreiben, Lebenslauf, Notenübersicht und Immatrikulationsbescheinigung müssen alle dabei sein. Nächster Schritt: Unterlagen komplett zusammenstellen und über die Stellennummer V000080204 bewerben; keine Frist genannt, also diese Woche noch. Am 29.10.2026 erneut geöffnet: lebt, Karlsruhe, Teilzeit mit Vormittag, Nachmittag oder Abend – Stundenzahl nennt die Anzeige nicht, das Datum ist widersprüchlich („gestern veröffentlicht\" gegen Veröffentlichungsdatum 2026-12-01). Also vor der Bewerbung kurz nachfragen, ob die Stelle noch offen ist und ob zwei Tage pro Woche reichen.",
    "pay": "",
    "skills": [
     "Python",
@@ -5818,10 +5848,11 @@
    ],
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1645814-1-S",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-21"
   },
   {
    "id": "e6e1b43e7801",
@@ -5848,7 +5879,8 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-08"
   },
   {
    "id": "8d33ce17a480",
@@ -5873,7 +5905,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://www.arbeitsagentur.de/jobsuche/suche?angebotsart=34&was=Python&wo=Walldorf%20(Baden)&umkreis=50&veroeffentlichtseit=28&suchbereich=jobs"
   },
   {
@@ -5899,7 +5931,7 @@
    "last_seen": "2026-10-27",
    "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://jobs.siemens.com/de_DE/externaljobs"
   },
   {
@@ -5926,7 +5958,7 @@
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Studentische Aushilfe Lager – Nacht, Wochenende, Feiertage (m/w/d)",
@@ -5947,13 +5979,13 @@
     "Nacht- und Wochenendbereitschaft"
    ],
    "url": "https://www.stepstone.de/stellenangebote--Studentische-Aushilfe-Lager-Nacht-Wochenende-Feiertage-m-w-d-Mannheim-DRK-Blutspendedienst-Baden-Wuerttemberg-Hessen-gGmbH--14594755-inline.html",
-   "link_code": "fehler",
+   "link_code": "timeout",
    "person": "oliver",
    "id": "6c71a853b77e",
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Warenverräumer (w/m/d), Minijob mit 3 Std./Woche am Freitag",
@@ -5979,7 +6011,8 @@
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-23"
   },
   {
    "title": "Mitarbeiter (m/w/d) für Abfüllung – Minijob, ca. 9,5 Std./Woche",
@@ -6005,7 +6038,8 @@
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-09-28"
   },
   {
    "title": "Ferienjob / kurzfristige Beschäftigung: Helfer Elektro (Kabelverlege- und Prüfarbeiten)",
@@ -6031,7 +6065,8 @@
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-08-23"
   },
   {
    "title": "Minijobber (m/w/d) für Winterdienst",
@@ -6043,7 +6078,7 @@
    "status": "verified",
    "score": 38,
    "tier": "backup",
-   "why": "Du räumst und streust bei Schnee und Glätte die vereinbarten Wege und Flächen an zwei Objekten in Mannheim – reine Außen- und Hausmeisterhilfe, Geräte und Streumittel werden gestellt. Kundenkontakt: keiner, du arbeitest allein am Objekt. Wochenstunden und Tage nennt die Anzeige nicht, der Umfang wird nur als überschaubar beschrieben und die Einsätze sind witterungsabhängig, oft sehr früh morgens; das passt formal zu 10–16 Stunden an wenigen Tagen, ist aber nicht planbar und verlangt kurzfristige Verfügbarkeit bei Schneelage. Bezahlt werden 15,00 bis 18,75 Euro pro Stunde auf Minijob-Basis, plus 25 Prozent Nachtzuschlag in den entsprechenden Zeiten. Einschränkung: ohne Auto kommst du morgens um fünf nicht nach Feudenheim, und in einem schneearmen Winter verdienst du fast nichts. Nächster Schritt: über die Anzeige die Kontaktdaten freischalten und eine kurze Nachricht mit deiner Verfügbarkeit schicken.",
+   "why": "Du räumst und streust bei Schnee und Glätte die vereinbarten Wege und Flächen an zwei Objekten in Mannheim – reine Außen- und Hausmeisterhilfe, Geräte und Streumittel werden gestellt. Kundenkontakt: keiner, du arbeitest allein am Objekt. Wochenstunden und Tage nennt die Anzeige nicht, der Umfang wird nur als überschaubar beschrieben und die Einsätze sind witterungsabhängig, oft sehr früh morgens; das passt formal zu 10–16 Stunden an wenigen Tagen, ist aber nicht planbar und verlangt kurzfristige Verfügbarkeit bei Schneelage. Bezahlt werden 15,00 bis 18,75 Euro pro Stunde auf Minijob-Basis, plus 25 Prozent Nachtzuschlag in den entsprechenden Zeiten. Einschränkung: ohne Auto kommst du morgens um fünf nicht nach Feudenheim, und in einem schneearmen Winter verdienst du fast nichts. Nächster Schritt: über die Anzeige die Kontaktdaten freischalten und eine kurze Nachricht mit deiner Verfügbarkeit schicken. Am 29.10.2026 erneut geöffnet: lebt, laut Seite gestern veröffentlicht und heute geändert. 15,00 bis 18,75 €/h (15 € Basis plus 25 % Nachtzuschlag), Einsatzorte Mohnäckerstraße 1 und Frühlingstr. 35 in Mannheim. Stundenzahl nennt die Anzeige nicht, nur „überschaubarer\" Umfang – Winterdienst heißt früh morgens und witterungsabhängig, das lässt sich mit zwei Tagen aber meist regeln.",
    "pay": "15,00 – 18,75 €/h plus 25 % Nachtzuschlag",
    "skills": [
     "Zuverlässigkeit",
@@ -6056,9 +6091,10 @@
    "person": "oliver",
    "id": "ea23cb41e172",
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-29",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-25"
   },
   {
    "title": "Student Assistant (m/w/d) Machine Learning Operations – 8 bis 10 Std./Woche",
@@ -6097,9 +6133,9 @@
    "region": "Deutschland",
    "category": "Karriere",
    "type": "HiWi",
-   "status": "verified",
+   "status": "dead",
    "score": 55,
-   "tier": "must_apply",
+   "tier": "backup",
    "why": "Du entwickelst gemeinsam mit einem SSC-Entwickler wissenschaftliche Software für den Bio-Structure Hub, schreibst und automatisierst Tests und dokumentierst Forschungs-Tools. Verlangt werden eine wissenschaftliche Programmiersprache wie Python, gute Software-Praxis mit Versionskontrolle, Dokumentation und CI/CD sowie gutes Englisch – die Stelle läuft komplett auf Englisch und verspricht ausdrücklich Beiträge zu Open-Source-Projekten, und zitierbare Software plus öffentliche Commits zählen in einer Masterbewerbung fast wie ein Paper. Stunden und Tage nennt die Ausschreibung nicht, nur flexible Arbeitszeiten und bis zu 520 Euro im Monat; das entspricht rechnerisch etwa 8 bis 12 Stunden pro Woche und lässt sich auf zwei Tage legen, du solltest es aber vorher bestätigen lassen. Einschränkung: Einschreibung an der Uni Heidelberg ist Voraussetzung, der Vertrag läuft nur bis 31.12.2026 mit möglicher Verlängerung, und thematisch geht es um Strukturvorhersage und nicht um Physik. Nächster Schritt: kurze Mail mit Lebenslauf und GitHub-Profil an ssc-biostructurehub@uni-heidelberg.de und dabei direkt nach Stundenumfang und Verlängerung fragen.",
    "pay": "bis zu 520 €/Monat",
    "skills": [
@@ -6111,13 +6147,14 @@
     "Englisch"
    ],
    "url": "https://backend.ssc.uni-heidelberg.de/en/documents/student-assistant-for-the-bio-structure-hub/download",
-   "link_code": "200",
+   "link_code": "veraltet",
    "person": "oliver",
    "id": "ebdec504e3dc",
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-28",
+   "posted": "2025-10-20"
   },
   {
    "title": "Offene Bachelorarbeits-Themen in der Belle-II-Gruppe (GNN-Tracking, ML-Reconstruction-Performance)",
@@ -6147,7 +6184,7 @@
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Bewerbungsformular für Bachelorarbeit, Mini-Forschungsprojekt oder Praktikum am MPIA",
@@ -6177,7 +6214,7 @@
    "first_seen": "2026-09-08",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Student Assistant (HiWi) – Software und Linux-Administration, Molecular and Cellular Modeling",
@@ -6245,9 +6282,9 @@
    "region": "Deutschland",
    "category": "Karriere",
    "type": "HiWi",
-   "status": "verified",
+   "status": "dead",
    "score": 45,
-   "tier": "interesting",
+   "tier": "backup",
    "why": "Die Ausschreibung bündelt fünf Aufgabenpakete, von denen zwei direkt zu dir passen: Monitoring und Automatisierung von Systemen mit Linux und Bash oder Python sowie neue Anwendungen für bwVisu, den Webdienst zur Visualisierung und Bearbeitung wissenschaftlicher Daten, mit Linux und Docker oder Singularity; dazu kommen heiARCHIVE mit Python und Django und WebDAV-Entwicklung in C und C++. Gewünscht sind außerdem GitLab, CI/CD, Datenbanken und Grafana – du könntest deinen Linux-, Docker- und Git-Stack also an echter Forschungsdateninfrastruktur ausbauen, und Erfahrung mit HPC- und Visualisierungsdiensten ist in einer Masterbewerbung für Computational Science ein gutes Argument. Angegeben sind bis zu 40 Stunden pro Monat je nach Aufgabe, also rund 10 Stunden pro Woche; Tage sind nicht genannt, lassen sich im Rechenzentrumsbetrieb aber üblicherweise auf zwei bündeln. Einschränkung: das ist IT-Dienstbetrieb und keine Forschungsgruppe, Publikationsnähe gibt es praktisch nicht, es werden sehr gute Deutschkenntnisse verlangt und weder Bezahlung noch Frist genannt. Nächster Schritt: CV und Anschreiben per Mail an Martin Baumann, martin.baumann@urz.uni-heidelberg.de, mit dem vorgegebenen Betreff FIRE HiWis.",
    "pay": "",
    "skills": [
@@ -6261,13 +6298,14 @@
     "C++"
    ],
    "url": "https://backend.urz.uni-heidelberg.de/de/dokumente/wissenschaftliche-hilfskraefte-mwd-fuer-den-bereich-fire/download",
-   "link_code": "200",
+   "link_code": "veraltet",
    "person": "oliver",
    "id": "4d65d0a1c194",
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-28",
+   "posted": "2025-07-17"
   },
   {
    "title": "Student / Research Programming Assistant (HiWi) – Python-Code für Forschungsanwendungen",
@@ -6355,7 +6393,7 @@
    "first_seen": "2026-09-08",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Placement Students – Praktikum, Projekt- oder Abschlussarbeit an der NTNU (ganzjährig)",
@@ -6384,7 +6422,7 @@
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://www.ntnu.edu/studies/placement"
   },
   {
@@ -6414,7 +6452,7 @@
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://www.uio.no/studier/emner/matnat/astro/AST3220/v24/beskjeder/sommerjobber-pa-ita!-.html"
   },
   {
@@ -6444,7 +6482,7 @@
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "AGF-223 Remote Sensing and Space Instrumentation (15 ECTS) – Bachelorkurs für Gaststudierende",
@@ -6472,7 +6510,7 @@
    "first_seen": "2026-10-12",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://www.unis.no/courses/agf-223-upper-atmospheric-and-space-physics-observational-techniques-and-instrumentation/"
   },
   {
@@ -6501,7 +6539,7 @@
    "first_seen": "2026-10-12",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Project work for exchange bachelor students (IDIG3001, 22,5 ECTS)",
@@ -6530,7 +6568,7 @@
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "International Summer School 2027 – Bewerbung und Stipendium",
@@ -6558,7 +6596,7 @@
    "first_seen": "2026-10-12",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "IAESTE Fachpraktikum im Ausland – Vorbewerbung für die Vermittlungsrunde 2027",
@@ -6587,7 +6625,7 @@
    "first_seen": "2026-10-15",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://www.uni-heidelberg.de/en/study/international-studies/study-abroad/internship-abroad/iaeste"
   },
   {
@@ -6617,7 +6655,7 @@
    "first_seen": "2026-08-28",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Norwegisch I – Sprachkurs im Studium Generale (online, abends)",
@@ -6642,7 +6680,7 @@
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-27",
    "is_new": false,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_final": "https://www.studiumgenerale.uni-mannheim.de/en/index.php/sprachkurse/"
   },
   {
@@ -8158,7 +8196,8 @@
    "last_seen": "2026-10-27",
    "is_new": true,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-09-04"
   },
   {
    "title": "Werkstudent (w/m/d) im Test Engineering Umfeld",
@@ -8184,7 +8223,8 @@
    "last_seen": "2026-10-27",
    "is_new": true,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-12"
   },
   {
    "title": "Praktikum, Praxissemester oder Abschlussarbeit Softwareentwicklung 2027",
@@ -8210,7 +8250,8 @@
    "last_seen": "2026-10-27",
    "is_new": true,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-06"
   },
   {
    "title": "Software Engineering Intern Summer 2027 (Forma Industry Cloud)",
@@ -8237,7 +8278,7 @@
    "last_seen": "2026-10-27",
    "is_new": true,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "itdagene Jobbdatabase – norwegische Studenten- und Sommerstellen in der IT",
@@ -8263,7 +8304,7 @@
    "last_seen": "2026-10-27",
    "is_new": true,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29"
   },
   {
    "title": "Tchibo Regalbetreuung / Warenpräsentation (m/w/d) – Minijob, Mo + Do",
@@ -8275,17 +8316,18 @@
    "status": "verified",
    "score": 48,
    "tier": "interesting",
-   "why": "Die Arbeit ist reine Regalpflege: Du bestückst die wöchentlich wechselnde Tchibo-Non-Food-Fläche in einem Lebensmittelmarkt, füllst Kaffee nach, kontrollierst Haltbarkeiten und dokumentierst alles in einer App. Kundenkontakt entsteht dabei praktisch keiner – du arbeitest allein am Regal, nicht an der Kasse oder in der Beratung. Stunden und Tage passen exakt: Die Anzeige nennt als Arbeitstage Montag und Donnerstag, also zwei Tage pro Woche, die Zeiten sind innerhalb der Marktöffnungszeiten frei wählbar (nur montags Anwesenheit bis spätestens 10 Uhr), Wochenendarbeit gibt es ausdrücklich nicht. Dazu der kürzeste Weg in der ganzen Liste nach Wiesloch: Reilingen liegt zehn Autominuten von Walldorf. Ehrliche Einschränkung: Die Anzeige nennt keinen Stundenlohn und keine Wochenstundenzahl, es gilt also mindestens der Mindestlohn von 13,90 €/h (Stand 2026) und du musst den Umfang beim Telefonat klären – bei Minijob-Grenze von 603 € wären das rund 10 Stunden pro Woche. Nächster Schritt: online bewerben und direkt fragen, wie viele Stunden pro Einsatztag eingeplant sind.",
+   "why": "Die Arbeit ist reine Regalpflege: Du bestückst die wöchentlich wechselnde Tchibo-Non-Food-Fläche in einem Lebensmittelmarkt, füllst Kaffee nach, kontrollierst Haltbarkeiten und dokumentierst alles in einer App. Kundenkontakt entsteht dabei praktisch keiner – du arbeitest allein am Regal, nicht an der Kasse oder in der Beratung. Stunden und Tage passen exakt: Die Anzeige nennt als Arbeitstage Montag und Donnerstag, also zwei Tage pro Woche, die Zeiten sind innerhalb der Marktöffnungszeiten frei wählbar (nur montags Anwesenheit bis spätestens 10 Uhr), Wochenendarbeit gibt es ausdrücklich nicht. Dazu der kürzeste Weg in der ganzen Liste nach Wiesloch: Reilingen liegt zehn Autominuten von Walldorf. Ehrliche Einschränkung: Die Anzeige nennt keinen Stundenlohn und keine Wochenstundenzahl, es gilt also mindestens der Mindestlohn von 13,90 €/h (Stand 2026) und du musst den Umfang beim Telefonat klären – bei Minijob-Grenze von 603 € wären das rund 10 Stunden pro Woche. Nächster Schritt: online bewerben und direkt fragen, wie viele Stunden pro Einsatztag eingeplant sind. Am 29.10.2026 erneut geöffnet: lebt, vor fünf Tagen veröffentlicht. Reilingen, Arbeitstage Montag und Donnerstag mit freier Zeitwahl innerhalb der Öffnungszeiten, montags Präsenz bis 10 Uhr – genau zwei Tage, also perfekt für die Vorlesungszeit. Lohn nennt die Anzeige nicht.",
    "pay": "kein Betrag in der Anzeige – Minijob, mindestens Mindestlohn 13,90 €/h (Stand 2026)",
    "skills": [],
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16287-tmstr696599_76-S",
    "person": "oliver",
    "id": "d55e91296b98",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "is_new": true,
+   "last_seen": "2026-10-29",
+   "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-24"
   },
   {
    "title": "Reinigungskraft (m/w/d) Minijob – Treppenhausreinigung Wiesloch",
@@ -8297,17 +8339,18 @@
    "status": "verified",
    "score": 44,
    "tier": "interesting",
-   "why": "Treppenhausreinigung in einem Wieslocher Objekt, ein Einsatz pro Woche, Wochentag und Uhrzeit laut Anzeige frei wählbar. Kundenkontakt: keiner – du arbeitest allein im Gebäude, es gibt keinen Verkauf, keine Theke, keine Beratung. Für dich ist das der unkomplizierteste Geldjob im Umkreis: Wiesloch ist fünf Bahnminuten von Walldorf, der Einsatz liegt auf einem einzigen Tag, du bleibst damit klar unter 10–16 Stunden an zwei Tagen und kannst ihn mit einem zweiten Minijob kombinieren. Ehrliche Einschränkung: Die Anzeige nennt weder Stundenlohn noch Stundenzahl, es gilt also mindestens der Mindestlohn von 13,90 €/h (Stand 2026); ein Treppenhaus pro Woche bringt entsprechend nur einen kleinen Betrag, und die Bewerbung läuft über WhatsApp an eine Mobilnummer, der Arbeitgeber sitzt in Stuttgart. Deutschkenntnisse werden ausdrücklich verlangt. Nächster Schritt: per WhatsApp an 06223 9542472 schreiben und nach Stundenzahl, Stundenlohn und Objektgröße fragen, bevor du zusagst.",
+   "why": "Treppenhausreinigung in einem Wieslocher Objekt, ein Einsatz pro Woche, Wochentag und Uhrzeit laut Anzeige frei wählbar. Kundenkontakt: keiner – du arbeitest allein im Gebäude, es gibt keinen Verkauf, keine Theke, keine Beratung. Für dich ist das der unkomplizierteste Geldjob im Umkreis: Wiesloch ist fünf Bahnminuten von Walldorf, der Einsatz liegt auf einem einzigen Tag, du bleibst damit klar unter 10–16 Stunden an zwei Tagen und kannst ihn mit einem zweiten Minijob kombinieren. Ehrliche Einschränkung: Die Anzeige nennt weder Stundenlohn noch Stundenzahl, es gilt also mindestens der Mindestlohn von 13,90 €/h (Stand 2026); ein Treppenhaus pro Woche bringt entsprechend nur einen kleinen Betrag, und die Bewerbung läuft über WhatsApp an eine Mobilnummer, der Arbeitgeber sitzt in Stuttgart. Deutschkenntnisse werden ausdrücklich verlangt. Nächster Schritt: per WhatsApp an 06223 9542472 schreiben und nach Stundenzahl, Stundenlohn und Objektgröße fragen, bevor du zusagst. Am 29.10.2026 erneut geöffnet: lebt, laut Seite erst vor drei Tagen veröffentlicht. Treppenhausreinigung in Wiesloch, laut Anzeige einmal pro Woche und mit flexiblen Zeiten – das ist der ideale Ein-Tag-Job. Stundenzahl und Lohn stehen nicht in der Anzeige, also beides im Erstgespräch klären.",
    "pay": "kein Betrag in der Anzeige – mindestens Mindestlohn 13,90 €/h (Stand 2026)",
    "skills": [],
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003910878-S",
    "person": "oliver",
    "id": "1531b55b8a08",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "is_new": true,
+   "last_seen": "2026-10-29",
+   "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-26"
   },
   {
    "title": "Warenverräumer (w/m/d) 4 Std./Woche, Minijob – Rauenberg",
@@ -8319,17 +8362,18 @@
    "status": "verified",
    "score": 42,
    "tier": "interesting",
-   "why": "Waren aus der Lieferung ins Regal einsortieren und Regale nachfüllen, 4 Stunden pro Woche ab 01.11.2026. Der entscheidende Punkt für dich: Die Einsatzzeiten liegen laut Anzeige Montag, Mittwoch oder Freitag zwischen 6 und 8 Uhr, also vor Ladenöffnung – Kundenkontakt gibt es damit so gut wie keinen, und der Einsatz blockiert keine Vorlesung. Ein Tag pro Woche, 4 Stunden, damit bleibst du deutlich unter deinen 10–16 Stunden an zwei Tagen und kannst das als Sockel mit einem zweiten Minijob kombinieren. Rauenberg ist zehn Autominuten von Walldorf entfernt. Ehrliche Einschränkung: Diese Anzeige nennt keinen Stundenlohn; die vergleichbare dm-Anzeige in Wiesloch weist 15,00 €/h aus, bei 4 Stunden pro Woche sind das aber nur rund 240 € im Monat. Gefordert werden gute Deutschkenntnisse und Umgang mit dem Smartphone. Nächster Schritt: über das dm-Bewerbungsportal bewerben und gleich fragen, ob die Filiale auch mehr Stunden oder einen zweiten Frühdienst anbieten kann.",
+   "why": "Waren aus der Lieferung ins Regal einsortieren und Regale nachfüllen, 4 Stunden pro Woche ab 01.11.2026. Der entscheidende Punkt für dich: Die Einsatzzeiten liegen laut Anzeige Montag, Mittwoch oder Freitag zwischen 6 und 8 Uhr, also vor Ladenöffnung – Kundenkontakt gibt es damit so gut wie keinen, und der Einsatz blockiert keine Vorlesung. Ein Tag pro Woche, 4 Stunden, damit bleibst du deutlich unter deinen 10–16 Stunden an zwei Tagen und kannst das als Sockel mit einem zweiten Minijob kombinieren. Rauenberg ist zehn Autominuten von Walldorf entfernt. Ehrliche Einschränkung: Diese Anzeige nennt keinen Stundenlohn; die vergleichbare dm-Anzeige in Wiesloch weist 15,00 €/h aus, bei 4 Stunden pro Woche sind das aber nur rund 240 € im Monat. Gefordert werden gute Deutschkenntnisse und Umgang mit dem Smartphone. Nächster Schritt: über das dm-Bewerbungsportal bewerben und gleich fragen, ob die Filiale auch mehr Stunden oder einen zweiten Frühdienst anbieten kann. Am 29.10.2026 erneut geöffnet: lebt, vor 5 Tagen veröffentlicht, Frankenäcker 2 in Rauenberg, Start ab 1.11.2026. 4 Std./Woche an Montag, Mittwoch oder Freitag zwischen 6 und 8 Uhr, Tag wird mit dem Markt abgesprochen – ein einziger Frühtermin pro Woche, stört keine Vorlesung. dm nennt für den Konzern freiwillig 15 €/h als Einstiegslohn, für diese Stelle steht kein Betrag.",
    "pay": "in der Anzeige nicht genannt – dm zahlt bei der vergleichbaren Stelle in Wiesloch 15,00 €/h",
    "skills": [],
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-272177211026-S",
    "person": "oliver",
    "id": "c95044e82dae",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "is_new": true,
+   "last_seen": "2026-10-29",
+   "is_new": false,
    "link_code": "200",
-   "link_checked": "2026-10-28"
+   "link_checked": "2026-10-29",
+   "posted": "2026-10-21"
   },
   {
    "title": "HiWi-Stellen im ICOS Central Radiocarbon Laboratory (drei Positionen)",
@@ -8338,9 +8382,9 @@
    "region": "Deutschland",
    "category": "Karriere",
    "type": "HiWi",
-   "status": "verified",
+   "status": "dead",
    "score": 44,
-   "tier": "interesting",
+   "tier": "backup",
    "why": "Das ICOS Central Radiocarbon Laboratory am Institut für Umweltphysik sucht laut ausgeschriebenem PDF drei studentische Hilfskräfte, die bei den 14CO2-Messungen an atmosphärischen CO2-Proben aus 21 europäischen Messstationen mitarbeiten. Die Stundenangabe passt gut: 20 bis 30 Stunden pro Monat, also etwa 5 bis 7 Stunden pro Woche, ohne festgelegte Arbeitstage – damit bleibst du locker unter 10 bis 16 Stunden an zwei Tagen und kannst in den Semesterferien aufstocken. Für dich ist das vor allem ein Fuß in einem universitären Messlabor mit europäischem Forschungsnetzwerk, also eine Referenz von einem Institutsleiter statt von einem Discounter. Ehrliche Einschränkung: Die Ausschreibung verlangt eine Bindung von mindestens einem Jahr, was mit deinem Norwegen-Fahrplan kollidieren kann, nennt keinen Stundenlohn und keine Programmierkenntnisse – es ist Laborarbeit, nicht Datenanalyse, Python kommt hier nicht vor. Nächster Schritt: kurze Mail an Julian Della Coletta (jdella@iup.uni-heidelberg.de) mit der Frage, ob eine Zusage auch über zwei Semester statt zwölf Monate möglich ist, und mit einem Satz zu deiner Linux- und Messdaten-Erfahrung.",
    "pay": "im PDF nicht genannt – HiWi-Sätze der Universität Heidelberg erfragen",
    "skills": [
@@ -8353,9 +8397,10 @@
    "id": "bb9d4fec5772",
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
-   "is_new": true,
+   "is_new": false,
    "link_checked": "2026-10-28",
-   "link_code": "200"
+   "link_code": "veraltet",
+   "posted": "2025-09-02"
   },
   {
    "title": "Bachelorarbeit in einer Forschungsgruppe des Instituts für Umweltphysik",
@@ -8381,7 +8426,7 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "is_new": true,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
    "link_code": "200"
   },
   {
@@ -8394,17 +8439,18 @@
    "status": "verified",
    "score": 46,
    "tier": "interesting",
-   "why": "Reinigungsarbeiten in der Lidl-Filiale Leimen als unbefristeter Minijob, laut Anzeige mit 15,00 €/h – das liegt gut über dem Mindestlohn von 13,90 €/h (Stand 2026) und ist einer der besten Stundenlöhne unter den kurzen Wegen. Die Anzeige nennt Vormittag, Nachmittag und Abend als möglich, also freie Zeiteinteilung; bei der Minijob-Grenze von 603 € sind das rund 40 Stunden im Monat, also etwa 10 Stunden pro Woche, die du auf einen oder zwei Tage legen kannst. Leimen ist zehn Autominuten von Walldorf entfernt. Kundenkontakt: gering, aber nicht null – gereinigt wird teils während der Öffnungszeiten im Verkaufsraum, du berätst aber niemanden und stehst nicht an der Kasse. Ehrliche Einschränkung: Die Anzeige nennt keine konkrete Wochenstundenzahl und keine festen Einsatztage, das musst du im Erstgespräch festnageln, und eine Originalanzeige auf jobs.lidl.de war über die Anzeige nicht erreichbar, deshalb steht hier der Link der Bundesagentur. Nächster Schritt: über den Bewerbungslink bewerben und im ersten Telefonat zwei feste Tage plus Stundenzahl vereinbaren.",
+   "why": "Reinigungsarbeiten in der Lidl-Filiale Leimen als unbefristeter Minijob, laut Anzeige mit 15,00 €/h – das liegt gut über dem Mindestlohn von 13,90 €/h (Stand 2026) und ist einer der besten Stundenlöhne unter den kurzen Wegen. Die Anzeige nennt Vormittag, Nachmittag und Abend als möglich, also freie Zeiteinteilung; bei der Minijob-Grenze von 603 € sind das rund 40 Stunden im Monat, also etwa 10 Stunden pro Woche, die du auf einen oder zwei Tage legen kannst. Leimen ist zehn Autominuten von Walldorf entfernt. Kundenkontakt: gering, aber nicht null – gereinigt wird teils während der Öffnungszeiten im Verkaufsraum, du berätst aber niemanden und stehst nicht an der Kasse. Ehrliche Einschränkung: Die Anzeige nennt keine konkrete Wochenstundenzahl und keine festen Einsatztage, das musst du im Erstgespräch festnageln, und eine Originalanzeige auf jobs.lidl.de war über die Anzeige nicht erreichbar, deshalb steht hier der Link der Bundesagentur. Nächster Schritt: über den Bewerbungslink bewerben und im ersten Telefonat zwei feste Tage plus Stundenzahl vereinbaren. Am 29.10.2026 erneut geöffnet: lebt, vor 8 Tagen veröffentlicht, Stralsunder Ring 29 in Leimen, 15,00 €/h – über Mindestlohn. Minijob/Teilzeit mit Vormittag, Nachmittag oder Abend; eine Wochenstundenzahl nennt die Anzeige nicht, du kannst also auf zwei Schichten drängen.",
    "pay": "15,00 €/h (in der Anzeige ausgewiesen), Minijob bis 603 €/Monat",
    "skills": [],
    "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19220-acb453f6a0d2e695-S",
    "person": "oliver",
    "id": "0ca0c16cc51e",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-10-27",
-   "is_new": true,
-   "link_checked": "2026-10-28",
-   "link_code": "200"
+   "last_seen": "2026-10-29",
+   "is_new": false,
+   "link_checked": "2026-10-29",
+   "link_code": "200",
+   "posted": "2026-10-21"
   },
   {
    "title": "Initiativbewerbung und Stellenwarte über das HeiGIT-Bewerbungsportal",
@@ -8430,7 +8476,109 @@
    "first_seen": "2026-10-27",
    "last_seen": "2026-10-27",
    "is_new": true,
-   "link_checked": "2026-10-28",
+   "link_checked": "2026-10-29",
+   "link_code": "200"
+  },
+  {
+   "title": "Werkstudent* Data Science (Python, Pandas, LLM/RAG)",
+   "employer": "sovanta AG",
+   "location": "Heidelberg, Mittermaierstraße 31 (~20 min ÖPNV / ~25 min Auto ab Walldorf)",
+   "region": "Deutschland",
+   "category": "Karriere",
+   "type": "Werkstudent",
+   "status": "verified",
+   "score": 57,
+   "tier": "must_apply",
+   "person": "oliver",
+   "why": "Du arbeitest bei einem Heidelberger SAP-Partner an echten Data-Science-Aufgaben: große Datensätze und Datenbanken, Python mit Pandas oder Polars, Scikit-Learn und Matplotlib, dazu erste Erfahrung mit LLMs, Retrieval-Augmented Generation und Agenten – genau die Kombination, die dir für einen Master in Computational Science fehlt und die sich gut im CV erzählt. Die Anzeige nennt „mind. 14 Std./Woche\" und ein individuell vereinbartes Hybridmodell, Start ab sofort: 14 Stunden liegen in deinem Rahmen von 10–16 Std., und mit Hybrid bekommst du sie realistisch auf zwei Tage, einer davon von zu Hause. Ehrliche Einschränkungen: Deutsch auf C1 und Englisch ab B2 sind Pflicht, es werden „sehr gute Noten\" verlangt, und ein Stundenlohn steht nicht in der Anzeige – ebenso kein Veröffentlichungsdatum, die Seite wurde laut Metadaten am 20.10.2026 zuletzt geändert. Nächster Schritt: CV, aktueller Notenauszug und Immatrikulationsbescheinigung als PDF an career@sovanta.com oder über das Formular, und im Anschreiben direkt sagen, dass du 14–16 Stunden an zwei festen Tagen anbietest.",
+   "pay": "",
+   "skills": [
+    "Python",
+    "Pandas",
+    "Scikit-Learn",
+    "Matplotlib",
+    "SQL",
+    "Machine Learning"
+   ],
+   "url": "https://sovanta.com/job/werkstudent-data-science/",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "is_new": true,
+   "link_checked": "2026-10-29",
+   "id": "20eac37c03d0",
+   "link_code": "200",
+   "posted": "2026-06-11"
+  },
+  {
+   "title": "Warenverräumer für Walldorf (m/w/d) – Minijob, 16,00 €/h",
+   "employer": "CALUMA GmbH",
+   "location": "Walldorf (~0 min – Arbeitsort am Wohnort / ~0 min Auto ab Walldorf)",
+   "region": "Deutschland",
+   "category": "Ferienjob",
+   "type": "Nebenjob",
+   "status": "verified",
+   "score": 46,
+   "tier": "interesting",
+   "person": "oliver",
+   "why": "Die Arbeit: Lieferungen auf Vollständigkeit und Schäden prüfen, auspacken, sortieren, Regale nach Planogramm auffüllen, Preise und Aktionsschilder anbringen, Mindesthaltbarkeitsdaten kontrollieren, Ware aus dem Lager auf die Fläche bringen und bei der Inventur helfen – keine Vorerfahrung nötig. Mit 16,00 €/h liegt das klar über dem Mindestlohn von 13,90 €, und der Arbeitsort ist Walldorf selbst, also null Fahrzeit und null Fahrtkosten: das ist der kürzeste Weg in deiner ganzen Liste. Stunden und Tage nennt die Anzeige nicht, sie bietet aber ausdrücklich Minijob, Nebenjob und Vollzeit an – damit kannst du im Semester 10–16 Std. an zwei Tagen vereinbaren und in den Semesterferien aufstocken. Ehrlich beim Kundenkontakt: überwiegend Regalarbeit, die Anzeige erwähnt aber auch, Kundenfragen zu beantworten und Leute zu Produkten zu führen – also geringer, nicht gar kein Kontakt. Veröffentlicht am 23.10.2026, Bewerbungsschluss laut Seite 25.12.2026; nächster Schritt: über „Jetzt bewerben\" melden und bei der Rückmeldung sofort zwei feste Tage und die Marktadresse klären.",
+   "pay": "16,00 €/h",
+   "skills": [],
+   "url": "https://studentknight.de/job/warenverraeumer-fuer-walldorf-m-w-d-1600-e-stunde-minijob-nebenjob-vollzeit/",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "is_new": true,
+   "link_checked": "2026-10-29",
+   "deadline": "2026-12-25",
+   "id": "26ac066b4ed2",
+   "link_code": "200",
+   "posted": "2026-10-23"
+  },
+  {
+   "title": "Pharmalagerhelfer (m/w/d) Wiesloch – 17,00 €/h",
+   "employer": "CALUMA GmbH",
+   "location": "Wiesloch (~5 min Bahn / ~10 min Auto ab Walldorf)",
+   "region": "Deutschland",
+   "category": "Ferienjob",
+   "type": "Nebenjob",
+   "status": "verified",
+   "score": 42,
+   "tier": "interesting",
+   "person": "oliver",
+   "why": "Die Arbeit: Wareneingang und Prüfung von Pharmaprodukten, temperaturgerechte Einlagerung, Kommissionierung, Bedienung der Lagersysteme, Buchung aller Warenbewegungen, Chargen- und Verfallskontrolle, Bereitstellung für die Produktion, dazu Probenahme für die Qualitätskontrolle und GMP-Reinigung – reine Lagerarbeit im Reinraumumfeld, praktisch kein Kundenkontakt. Mit 17,00 €/h plus GMP- und Schichtzuschlägen ist das der höchste Stundenlohn unter deinen Nebenjobs, und Wiesloch ist fünf Bahnminuten entfernt; die Labor- und Chargen-Logistik ist außerdem ein kleiner fachlicher Bonus fürs CV. Der ehrliche Haken ist der Stundenumfang: Die Anzeige trägt „Minijob\" im Titel, nennt im Arbeitszeitteil aber „Vollzeit im Zwei-Schicht-System\" mit 6–14 Uhr und 14–22 Uhr und widerspricht sich damit selbst; feste Schichtmuster sind laut Anzeige nach der Einarbeitung möglich. Vollzeit passt nur in die Semesterferien, in der Vorlesungszeit brauchst du zwei Schichten pro Woche. Veröffentlicht am 25.10.2026, Angebotsende 26.12.2026; nächster Schritt: bewerben und in der ersten Mail klar fragen, ob zwei feste Schichten pro Woche (bzw. Vollzeit nur in den Semesterferien) möglich sind – sonst lass es.",
+   "pay": "17,00 €/h plus GMP-Zulagen und Schichtzuschläge",
+   "skills": [],
+   "url": "https://miniknight.de/job/pharmalagerhelfer-m-w-d-in-wiesloch-1700-e-stunde-minijob/",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "is_new": true,
+   "link_checked": "2026-10-29",
+   "deadline": "2026-12-26",
+   "id": "761a059a2c24",
+   "link_code": "200",
+   "posted": "2026-10-25"
+  },
+  {
+   "title": "AI-Trainer / Datenannotation remote (Prompts, Rubrics, Bewertung)",
+   "employer": "Outlier (Scale AI)",
+   "location": "Remote von Walldorf aus (keine Fahrzeit)",
+   "region": "Remote",
+   "category": "Ferienjob",
+   "type": "Nebenjob",
+   "status": "program",
+   "score": 34,
+   "tier": "backup",
+   "person": "oliver",
+   "why": "Die Arbeit: schwierige Prompts mit korrekter Lösung schreiben, Bewertungsrubriken bauen und KI-Antworten bewerten und ranken – für dich besonders bei Coding- und MINT-Aufgaben interessant, weil du dein Python dabei tatsächlich benutzt. Kundenkontakt gibt es keinen. Für deinen Stundenrahmen ist das der bequemste Eintrag der Liste: die Seite verspricht „work flexibly from anywhere, anytime – no minimum hours\" und wöchentliche Auszahlung, du kannst also in der Vorlesungszeit ein paar Stunden nehmen und in den Semesterferien deutlich mehr. Ehrliche Einschränkungen: Die Startseite nennt keinen konkreten Stundensatz (nur „competitive\" und qualitätsabhängig, insgesamt über 500 Mio. $ ausgezahlt), und sie sagt nicht, ob Deutschland freigeschaltet ist – verlangt werden Ausweis und Handynummer aus dem Wohnsitzland, CV und LinkedIn-Profil, Bachelor-Niveau als Minimum (Master oder PhD bevorzugt), Onboarding 30 bis 90 Minuten. Deshalb „program\" und nicht „verified\". Nächster Schritt: über app.outlier.ai registrieren und vor dem Onboarding prüfen, welcher Satz dir für deine Fachbereiche angezeigt wird – nur weitermachen, wenn er über dem Mindestlohn liegt.",
+   "pay": "",
+   "skills": [
+    "Python"
+   ],
+   "url": "https://outlier.ai/",
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-10-29",
+   "is_new": true,
+   "link_checked": "2026-10-29",
+   "id": "f1804761280f",
    "link_code": "200"
   }
  ]
