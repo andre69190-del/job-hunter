@@ -250,6 +250,7 @@ function resetFilters(){
   typeLabel();regionLabel();render();
 }
 function render(){
+  {const nb=$('njbtn');if(nb)nb.classList.toggle('on',cat.value==='Ferienjob');}
  let x=ALL.filter(d=>(d.person||'oliver')===person);
  const w=work.value;
  if(w==='open')x=x.filter(d=>jstate(d)!=='done');
@@ -367,6 +368,19 @@ $('regionclear').addEventListener('click',()=>{
 regionLabel();
 typeLabel();
 $('resetall').addEventListener('click',resetFilters);
+$('meta').addEventListener('click',e=>{
+  if(!e.target.closest('#njbtn'))return;
+  if(cat.value==='Ferienjob'){cat.value='all';}
+  else{
+    cat.value='Ferienjob';tier.value='all';ms.value=0;onlynew.checked=false;
+    typeSel=[];regionSel=[];
+    typeMenu.querySelectorAll('input[type=checkbox]').forEach(c=>c.checked=false);
+    regionMenu.querySelectorAll('input[type=checkbox]').forEach(c=>c.checked=false);
+    SV('tier','all');SV('minscore',0);SV('onlynew',false);SV('types',[]);SV('regions',[]);
+    typeLabel();regionLabel();
+  }
+  SV('cat',cat.value);render();
+});
 $('list').addEventListener('click',e=>{
   const jb=e.target.closest('.jb'); if(jb){setState(jb.dataset.k,jb.dataset.set);return;}
   const mo=e.target.closest('.more');
@@ -375,7 +389,7 @@ $('list').addEventListener('click',e=>{
     if(w){const open=w.classList.toggle('clamp')===false;mo.textContent=open?'weniger anzeigen':'mehr anzeigen';}
   }
 });
-const CATLAB={'Karriere':'\ud83d\udcbc Karriere','Ferienjob':'\ud83d\udcb6 Ferienjob (gut bezahlt)','Beratung':'\ud83e\udd1d Beratung / Consulting'};
+const CATLAB={'Karriere':'\ud83d\udcbc Karriere','Ferienjob':'\ud83d\udcb6 Nebenjob / Minijob','Beratung':'\ud83e\udd1d Beratung / Consulting'};
 const REGLAB={'Norwegen':'\ud83c\uddf3\ud83c\uddf4 Norwegen','Deutschland':'\ud83c\udde9\ud83c\uddea Deutschland','Remote':'\ud83c\udf10 Remote','Europa':'\ud83c\uddea\ud83c\uddfa Europa','Weitere':'Weitere'};
 function fillSel(sel,vals,lab,key){
   const keep=sel.value;
@@ -444,10 +458,12 @@ function meta(){
   const app=mine.filter(d=>jstate(d)==='applied').length;
   const dn=mine.filter(d=>jstate(d)==='done').length;
   const sv=mine.filter(d=>jstate(d)==='saved').length;
+  const nj=mine.filter(d=>d.category==='Ferienjob').length;
   $('meta').innerHTML=`${mine.length} Chancen${must?` · <b style="color:#22c55e">${must} 🟢 Must-Apply</b>`:''}`
     +`${nw?` · <b style="color:#43d17a">${nw} neu</b>`:''}`
     +`${sv?` · ★ ${sv} gemerkt`:''}${app?` · ✔ ${app} beworben`:''}${dn?` · ✖ ${dn} erledigt`:''}`
-    +` · Stand ${esc(stand(DATA.updated))}`;
+    +` · Stand ${esc(stand(DATA.updated))}`
+    +(nj?` <button type=button id=njbtn class="briefbtn${cat.value==='Ferienjob'?' on':''}" style="margin-left:6px">💶 Nebenjobs (${nj})</button>`:'');
   document.title=((DATA.people&&DATA.people[person]&&DATA.people[person].label)||'Career Scout').replace(/^[^A-Za-zÄÖÜ]+/,'')+' · Career Scout';
   $('summary').innerHTML=(m.phase?`<b>${esc(m.phase)}</b><br>`:'')+(m.summary?`💡 ${esc(m.summary)}`:'');
   panels(m);
